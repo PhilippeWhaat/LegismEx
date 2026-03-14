@@ -624,72 +624,66 @@ class FederalParser(HTMLParser):
 def scrape_federal() -> list[dict]:
     entidad = "federal"
     base_url = "https://www.diputados.gob.mx"
-    url = f"{base_url}/LeyesBiblio/"
 
-    # Intentar con headers más completos para evitar el 403
-    headers_extra = {
-        **HEADERS,
-        "Referer": "https://www.google.com/",
-        "Accept-Encoding": "gzip, deflate, br",
-    }
-    req = urllib.request.Request(url, headers=headers_extra)
-    html = None
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            charset = resp.headers.get_content_charset() or "utf-8"
-            html = resp.read().decode(charset, errors="replace")
-    except Exception as e:
-        log.warning(f"  Federal: acceso directo falló ({e}). Intentando SCJN como alternativa...")
+    # La página principal /LeyesBiblio/ da 403 (anti-bot),
+    # pero /LeyesBiblio/index.htm funciona y lista todas las leyes
+    # con links a ref/*.htm (cada uno tiene link al PDF).
+    url = f"{base_url}/LeyesBiblio/index.htm"
+    log.info(f"  Federal: {url}")
 
+    html = fetch(url)
+    if not html:
+        log.warning("  Federal: no se pudo obtener index.htm")
+        return []
+
+    # Extraer links ref/*.htm con el nombre de la ley como texto
+    entries = re.findall(
+        r'<a[^>]+href=["\'](?:ref/([^"\']+\.htm))["\'][^>]*>(.*?)</a>',
+        html, re.DOTALL | re.IGNORECASE
+    )
+
+    # Deduplicar y filtrar (excluir _crono, _art, _per variantes)
     leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+    refs_vistos: set[str] = set()
 
-    if html:
-        # Extraer todos los links .pdf y .htm de la página
-        pattern_pdf = re.compile(
-            r'href=["\']([^"\']*\.pdf)["\']',
-            re.IGNORECASE
-        )
-        pattern_nombre = re.compile(
-            r'<(?:td|li|p)[^>]*>\s*<a[^>]+href=["\'][^"\']*\.pdf["\'][^>]*>([^<]+)</a>',
-            re.IGNORECASE
-        )
+    for ref_page, text in entries:
+        # Skip variant pages
+        if any(s in ref_page for s in ["_crono", "_art.", "_per.", "_fe.", "_eo."]):
+            continue
+        if ref_page in refs_vistos:
+            continue
+        refs_vistos.add(ref_page)
 
-        pdfs = pattern_pdf.findall(html)
-        nombres_raw = pattern_nombre.findall(html)
+        nombre = re.sub(r'<[^>]+>', '', text).strip()
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 5:
+            continue
+        # Skip "Más de la Constitución" or navigation text
+        if nombre.startswith("Más de") or nombre.startswith("Artículo"):
+            continue
 
-        # Método alternativo: parsear toda la tabla
-        parser = FederalParser()
-        parser.feed(html)
+        # Construct PDF URL: ref/xxx.htm → pdf/XXX.pdf
+        # The PDF name is usually the ref name in uppercase without .htm
+        ref_base = ref_page.replace(".htm", "")
+        url_pdf = f"{base_url}/LeyesBiblio/pdf/{ref_base.upper()}.pdf"
 
-        ids_vistos: set[str] = set()
-        for item in parser.leyes:
-            nombre = item.get("nombre", "").strip()
-            if not nombre or len(nombre) < 5:
-                continue
-            tipo = inferir_tipo(nombre)
-            ley_id = generar_id(entidad, nombre)
-            if ley_id in ids_vistos:
-                continue
-            ids_vistos.add(ley_id)
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
 
-            url_pdf = item.get("url_pdf", "")
-            if url_pdf and not url_pdf.startswith("http"):
-                url_pdf = base_url + url_pdf
-
-            leyes.append({
-                "id": ley_id,
-                "nombre": nombre,
-                "tipo": tipo,
-                "entidad": entidad,
-                "url_pdf": url_pdf,
-                "url_word": "",
-                "ultima_reforma": "",
-                "estado_vigencia": "vigente",
-                "fuente": "diputados.gob.mx",
-            })
-    else:
-        log.warning("  Federal: no se pudo obtener el catálogo. Requiere revisión manual.")
-        log.warning("  Sugerencia: ejecutar con un navegador real o usar SCJN como fuente.")
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "ultima_reforma": "",
+            "estado_vigencia": "vigente",
+            "fuente": "diputados.gob.mx",
+        })
 
     log.info(f"  Federal total: {len(leyes)} documentos")
     return leyes
@@ -1909,6 +1903,77 @@ def scrape_bajacaliforniasur() -> list[dict]:
 
 
 # ──────────────────────────────────────────────
+# MICHOACÁN — congresomich.gob.mx/leyes/ (HTTP)
+# Headings h2-h5 con nombres de leyes + PDF links debajo.
+# ~100 leyes. Usar HTTP (no HTTPS).
+# ──────────────────────────────────────────────
+
+def scrape_michoacan() -> list[dict]:
+    entidad = "michoacan"
+    base_url = "http://congresomich.gob.mx"
+    url = f"{base_url}/leyes/"
+
+    log.info(f"  Michoacán: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Michoacán: no se pudo acceder al portal")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    # Split by headings to associate each law name with its PDF links
+    # Pattern: <h2-h5>LAW NAME</h2-h5> ... <a href="...pdf">PDF</a>
+    blocks = re.split(r'(?=<h[2-5][^>]*>)', html)
+
+    for block in blocks:
+        # Extract heading (law name)
+        heading_match = re.search(r'<h[2-5][^>]*>(.*?)</h[2-5]>', block, re.DOTALL)
+        if not heading_match:
+            continue
+
+        nombre = re.sub(r'<[^>]+>', '', heading_match.group(1)).strip()
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10:
+            continue
+        # Skip navigation headings
+        if any(skip in nombre.lower() for skip in ["menú", "menu", "buscar", "compartir",
+                "redes", "contacto", "dirección", "teléfono"]):
+            continue
+
+        # Find first PDF link in this block (the main law PDF, not reforms)
+        pdf_match = re.search(
+            r'<a[^>]+href=["\']([^"\']+\.pdf)["\'][^>]*>\s*PDF',
+            block, re.IGNORECASE
+        )
+        url_pdf = ""
+        if pdf_match:
+            url_pdf = pdf_match.group(1)
+            if not url_pdf.startswith("http"):
+                url_pdf = f"{base_url}{url_pdf}" if url_pdf.startswith("/") else f"{base_url}/{url_pdf}"
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "ultima_reforma": "",
+            "estado_vigencia": "vigente",
+            "fuente": "congresomich.gob.mx",
+        })
+
+    log.info(f"  Michoacán total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
 # NAYARIT — congresonayarit.gob.mx (WP API)
 # PDFs extraídos via WordPress REST API.
 # ~119 leyes en wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/
@@ -2215,6 +2280,7 @@ SCRAPERS: dict[str, callable] = {
     "queretaro":         scrape_queretaro,
     "puebla":            scrape_puebla,
     "nayarit":           scrape_nayarit,
+    "michoacan":         scrape_michoacan,
 }
 
 

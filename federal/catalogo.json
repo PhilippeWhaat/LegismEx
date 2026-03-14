@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "federal_cpeum",
+    "nombre": "CPEUM",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_codigo_civil_federal",
+    "nombre": "CÓDIGO Civil Federal",
+    "tipo": "Código",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_codigo_comercio",
+    "nombre": "CÓDIGO de Comercio",
+    "tipo": "Código",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCOM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_codigo_justicia_militar",
+    "nombre": "CÓDIGO de Justicia Militar",
+    "tipo": "Código",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_codigo_federal_procedimientos_civiles",
+    "nombre": "CÓDIGO Federal de Procedimientos Civiles",
+    "tipo": "Código",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_codigo_fiscal_federacion",
+    "nombre": "CÓDIGO Fiscal de la Federación",
+    "tipo": "Código",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_codigo_militar_procedimientos_penales",
+    "nombre": "CÓDIGO Militar de Procedimientos Penales",
+    "tipo": "Código",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_codigo_nacional_procedimientos_civiles_familiares",
+    "nombre": "CÓDIGO Nacional de Procedimientos Civiles y Familiares",
+    "tipo": "Código",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_codigo_nacional_procedimientos_penales",
+    "nombre": "CÓDIGO Nacional de Procedimientos Penales",
+    "tipo": "Código",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_codigo_penal_federal",
+    "nombre": "CÓDIGO Penal Federal",
+    "tipo": "Código",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_estatuto_gobierno_distrito_federal",
+    "nombre": "ESTATUTO de Gobierno del Distrito Federal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/EGDF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_impuesto_sobre_servicios_expresamente_declarados_interes",
+    "nombre": "IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISIPL.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_aduanera",
+    "nombre": "LEY Aduanera",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LADUA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_agraria",
+    "nombre": "LEY Agraria",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAGRA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_adquisiciones_arrendamientos_servicios_sector_publico",
+    "nombre": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_aeropuertos",
+    "nombre": "LEY de Aeropuertos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAERO.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_aguas_nacionales",
+    "nombre": "LEY de Aguas Nacionales",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_ahorro_credito_popular",
+    "nombre": "LEY de Ahorro y Crédito Popular",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_amnistia",
+    "nombre": "LEY de Amnistía",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAMN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_amparo_reglamentaria_articulos_103_107",
+    "nombre": "LEY de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAMP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_ascensos_armada_mexico",
+    "nombre": "LEY de Ascensos de la Armada de México",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_ascensos_recompensas_ejercito_fuerza_aerea",
+    "nombre": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_asistencia_social",
+    "nombre": "LEY de Asistencia Social",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASOC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_asociaciones_publico_privadas",
+    "nombre": "LEY de Asociaciones Público Privadas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_asociaciones_religiosas_culto_publico",
+    "nombre": "LEY de Asociaciones Religiosas y Culto Público",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LARCP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_aviacion_civil",
+    "nombre": "LEY de Aviación Civil",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_ayuda_alimentaria_trabajadores",
+    "nombre": "LEY de Ayuda Alimentaria para los Trabajadores",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_biocombustibles",
+    "nombre": "LEY de Biocombustibles",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBIO.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_bioseguridad_organismos_geneticamente_modificados",
+    "nombre": "LEY de Bioseguridad de Organismos Genéticamente Modificados",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBOGM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_camaras_empresariales_confederaciones",
+    "nombre": "LEY de Cámaras Empresariales y sus Confederaciones",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_caminos_puentes_autotransporte_federal",
+    "nombre": "LEY de Caminos, Puentes y Autotransporte Federal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPAF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_capitalizacion_procampo",
+    "nombre": "LEY de Capitalización del Procampo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPRO.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_carrera_judicial_poder_judicial_federacion",
+    "nombre": "LEY de Carrera Judicial del Poder Judicial de la Federación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_comercio_exterior",
+    "nombre": "LEY de Comercio Exterior",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_concursos_mercantiles",
+    "nombre": "LEY de Concursos Mercantiles",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_contribucion_mejoras_obras_publicas_federales",
+    "nombre": "LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMOPFIH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_cooperacion_internacional_desarrollo",
+    "nombre": "LEY de Cooperación Internacional para el Desarrollo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_coordinacion_fiscal",
+    "nombre": "LEY de Coordinación Fiscal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_desarrollo_rural_sustentable",
+    "nombre": "LEY de Desarrollo Rural Sustentable",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_desarrollo_sustentable_cafeticultura",
+    "nombre": "LEY de Desarrollo Sustentable de la Cafeticultura",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_desarrollo_sustentable_cana_azucar",
+    "nombre": "LEY de Desarrollo Sustentable de la Caña de Azúcar",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_disciplina_ejercito_fuerza_aerea_guardia",
+    "nombre": "LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_disciplina_financiera_entidades_federativas",
+    "nombre": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_disciplina_personal_armada_mexico",
+    "nombre": "LEY de Disciplina para el Personal de la Armada de México",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPARM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_educacion_militar_ejercito_fuerza_aerea",
+    "nombre": "LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_educacion_naval",
+    "nombre": "LEY de Educación Naval",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_energia_campo",
+    "nombre": "LEY de Energía para el Campo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_expropiacion",
+    "nombre": "LEY de Expropiación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEXP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_extradicion_internacional",
+    "nombre": "LEY de Extradición Internacional",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEI.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_firma_electronica_avanzada",
+    "nombre": "LEY de Firma Electrónica Avanzada",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_fiscalizacion_rendicion_cuentas_federacion",
+    "nombre": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_fomento_a_confianza_ciudadana",
+    "nombre": "LEY de Fomento a la Confianza Ciudadana",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_fomento_a_industria_vitivinicola",
+    "nombre": "LEY de Fomento a la Industria Vitivinícola",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_fomento_lectura_libro",
+    "nombre": "LEY de Fomento para la Lectura y el Libro",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_fondos_aseguramiento_agropecuario_rural",
+    "nombre": "LEY de Fondos de Aseguramiento Agropecuario y Rural",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_fondos_inversion",
+    "nombre": "LEY de Fondos de Inversión",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_geotermia",
+    "nombre": "LEY de Geotermia",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEO.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_infraestructura_calidad",
+    "nombre": "LEY de Infraestructura de la Calidad",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICAL.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_ingresos_federacion_ejercicio_fiscal_2026",
+    "nombre": "LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2026",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_ingresos_sobre_hidrocarburos",
+    "nombre": "LEY de Ingresos sobre Hidrocarburos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_instituciones_credito",
+    "nombre": "LEY de Instituciones de Crédito",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_instituciones_seguros_fianzas",
+    "nombre": "LEY de Instituciones de Seguros y de Fianzas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_inversion_extranjera",
+    "nombre": "LEY de Inversión Extranjera",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_agencia_nacional_seguridad_industrial_proteccion",
+    "nombre": "LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_casa_moneda_mexico",
+    "nombre": "LEY de la Casa de Moneda de México",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_comision_nacional_bancaria_valores",
+    "nombre": "LEY de la Comisión Nacional Bancaria y de Valores",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_comision_nacional_energia",
+    "nombre": "LEY de la Comisión Nacional de Energía",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_comision_nacional_derechos_humanos",
+    "nombre": "LEY de la Comisión Nacional de los Derechos Humanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_economia_social_solidaria",
+    "nombre": "LEY de la Economía Social y Solidaria",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_empresa_publica_comision_federal_electricidad",
+    "nombre": "LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_empresa_publica_petroleos_mexicanos",
+    "nombre": "LEY de la Empresa Pública del Estado, Petróleos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_fiscalia_general_republica",
+    "nombre": "LEY de la Fiscalía General de la República",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_guardia_nacional",
+    "nombre": "LEY de la Guardia Nacional",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_policia_federal",
+    "nombre": "LEY de la Policía Federal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_derechos_personas_adultas_mayores",
+    "nombre": "LEY de los Derechos de las Personas Adultas Mayores",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_husos_horarios_estados_unidos_mexicanos",
+    "nombre": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_impuestos_generales_importacion_exportacion",
+    "nombre": "LEY de los Impuestos Generales de Importación y de Exportación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_institutos_nacionales_salud",
+    "nombre": "LEY de los Institutos Nacionales de Salud",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sistemas_ahorro_retiro",
+    "nombre": "LEY de los Sistemas de Ahorro para el Retiro",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_migracion",
+    "nombre": "LEY de Migración",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMIGRA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_mineria",
+    "nombre": "LEY de Minería",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMIN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_nacionalidad",
+    "nombre": "LEY de Nacionalidad",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNAC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_navegacion_comercio_maritimos",
+    "nombre": "LEY de Navegación y Comercio Marítimos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_obras_publicas_servicios_relacionados_mismas",
+    "nombre": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organizaciones_ganaderas",
+    "nombre": "LEY de Organizaciones Ganaderas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOG.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_planeacion",
+    "nombre": "LEY de Planeación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPLAN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_planeacion_transicion_energetica",
+    "nombre": "LEY de Planeación y Transición Energética",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_premios_estimulos_recompensas_civiles",
+    "nombre": "LEY de Premios, Estímulos y Recompensas Civiles",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_productos_organicos",
+    "nombre": "LEY de Productos Orgánicos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_proteccion_ahorro_bancario",
+    "nombre": "LEY de Protección al Ahorro Bancario",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPAB.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_proteccion_comercio_inversion_normas_extranjeras",
+    "nombre": "LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPCINECDI.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_proteccion_espacio_aereo_mexicano",
+    "nombre": "LEY de Protección del Espacio Aéreo Mexicano",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_proteccion_defensa_usuario_servicios_financieros",
+    "nombre": "LEY de Protección y Defensa al Usuario de Servicios Financieros",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPDUSF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_puertos",
+    "nombre": "LEY de Puertos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPUE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_recompensas_armada_mexico",
+    "nombre": "LEY de Recompensas de la Armada de México",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_responsabilidad_civil_danos_nucleares",
+    "nombre": "LEY de Responsabilidad Civil por Daños Nucleares",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRCDN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_seguridad_interior",
+    "nombre": "LEY de Seguridad Interior",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSINT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_seguridad_nacional",
+    "nombre": "LEY de Seguridad Nacional",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sistemas_pagos",
+    "nombre": "LEY de Sistemas de Pagos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sociedades_responsabilidad_limitada_interes_publico",
+    "nombre": "LEY de Sociedades de Responsabilidad Limitada de Interés Público",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSRLIP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sociedades_solidaridad_social",
+    "nombre": "LEY de Sociedades de Solidaridad Social",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSSS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_tesoreria_federacion",
+    "nombre": "LEY de Tesorería de la Federación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_transparencia_fomento_a_competencia_credito",
+    "nombre": "LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTFCCG.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_uniones_credito",
+    "nombre": "LEY de Uniones de Crédito",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_vertimientos_zonas_marinas_mexicanas",
+    "nombre": "LEY de Vertimientos en las Zonas Marinas Mexicanas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_vias_generales_comunicacion",
+    "nombre": "LEY de Vías Generales de Comunicación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_vivienda",
+    "nombre": "LEY de Vivienda",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVIV.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_banco_mexico",
+    "nombre": "LEY del Banco de México",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_diario_oficial_federacion_gacetas_gubernamentales",
+    "nombre": "LEY del Diario Oficial de la Federación y Gacetas Gubernamentales",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDOFGG.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_fondo_mexicano_petroleo_estabilizacion_desarrollo",
+    "nombre": "LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_impuesto_valor_agregado",
+    "nombre": "LEY del Impuesto al Valor Agregado",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_impuesto_especial_sobre_produccion_servicios",
+    "nombre": "LEY del Impuesto Especial sobre Producción y Servicios",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_impuesto_sobre_renta",
+    "nombre": "LEY del Impuesto sobre la Renta",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_instituto_seguridad_social_fuerzas_armadas",
+    "nombre": "LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_instituto_seguridad_servicios_sociales_trabajadores",
+    "nombre": "LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_instituto_fondo_nacional_vivienda_trabajadores",
+    "nombre": "LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_instituto_fondo_nacional_consumo_trabajadores",
+    "nombre": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_instituto_mexicano_juventud",
+    "nombre": "LEY del Instituto Mexicano de la Juventud",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIMJ.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_instituto_nacional_mujeres",
+    "nombre": "LEY del Instituto Nacional de las Mujeres",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_instituto_nacional_pueblos_indigenas",
+    "nombre": "LEY del Instituto Nacional de los Pueblos Indígenas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_mercado_valores",
+    "nombre": "LEY del Mercado de Valores",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_registro_publico_vehicular",
+    "nombre": "LEY del Registro Público Vehicular",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPV.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sector_electrico",
+    "nombre": "LEY del Sector Eléctrico",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sector_hidrocarburos",
+    "nombre": "LEY del Sector Hidrocarburos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_seguro_social",
+    "nombre": "LEY del Seguro Social",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_servicio_administracion_tributaria",
+    "nombre": "LEY del Servicio de Administración Tributaria",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_servicio_exterior_mexicano",
+    "nombre": "LEY del Servicio Exterior Mexicano",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSEM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_servicio_militar",
+    "nombre": "LEY del Servicio Militar",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_servicio_postal_mexicano",
+    "nombre": "LEY del Servicio Postal Mexicano",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_servicio_profesional_carrera_administracion_publica",
+    "nombre": "LEY del Servicio Profesional de Carrera en la Administración Pública Federal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPCAPF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sistema_nacional_informacion_estadistica_geografica",
+    "nombre": "LEY del Sistema Nacional de Información Estadística y Geográfica",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sistema_nacional_investigacion_e_inteligencia",
+    "nombre": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sistema_publico_radiodifusion_mexicano",
+    "nombre": "LEY del Sistema Público de Radiodifusión del Estado Mexicano",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_materia_telecomunicaciones_radiodifusion",
+    "nombre": "LEY en Materia de Telecomunicaciones y Radiodifusión",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_contra_delincuencia_organizada",
+    "nombre": "LEY Federal contra la Delincuencia Organizada",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_armas_fuego_explosivos",
+    "nombre": "LEY Federal de Armas de Fuego y Explosivos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_austeridad_republicana",
+    "nombre": "LEY Federal de Austeridad Republicana",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_cinematografia",
+    "nombre": "LEY Federal de Cinematografía",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_competencia_economica",
+    "nombre": "LEY Federal de Competencia Económica",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_consulta_popular",
+    "nombre": "LEY Federal de Consulta Popular",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPO.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_correduria_publica",
+    "nombre": "LEY Federal de Correduría Pública",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_declaracion_especial_ausencia_personas",
+    "nombre": "LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_defensoria_publica",
+    "nombre": "LEY Federal de Defensoría Pública",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEFP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_derechos",
+    "nombre": "LEY Federal de Derechos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_deuda_publica",
+    "nombre": "LEY Federal de Deuda Pública",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_fomento_a_actividades_realizadas",
+    "nombre": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_juegos_sorteos",
+    "nombre": "LEY Federal de Juegos y Sorteos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFJS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_entidades_paraestatales",
+    "nombre": "LEY Federal de las Entidades Paraestatales",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_derechos_contribuyente",
+    "nombre": "LEY Federal de los Derechos del Contribuyente",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_trabajadores_servicio_reglamentaria_apartado",
+    "nombre": "LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_presupuesto_responsabilidad_hacendaria",
+    "nombre": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_procedimiento_administrativo",
+    "nombre": "LEY Federal de Procedimiento Administrativo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_procedimiento_contencioso_administrativo",
+    "nombre": "LEY Federal de Procedimiento Contencioso Administrativo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_produccion_certificacion_comercio_semillas",
+    "nombre": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_proteccion_a_propiedad_industrial",
+    "nombre": "LEY Federal de Protección a la Propiedad Industrial",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_proteccion_consumidor",
+    "nombre": "LEY Federal de Protección al Consumidor",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_proteccion_datos_personales_posesion",
+    "nombre": "LEY Federal de Protección de Datos Personales en Posesión de los Particulares",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_proteccion_patrimonio_cultural_pueblos",
+    "nombre": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_remuneraciones_servidores_publicos",
+    "nombre": "LEY Federal de Remuneraciones de los Servidores Públicos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFREMSP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_responsabilidad_ambiental",
+    "nombre": "LEY Federal de Responsabilidad Ambiental",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_responsabilidad_patrimonial",
+    "nombre": "LEY Federal de Responsabilidad Patrimonial del Estado",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_responsabilidades_servidores_publicos",
+    "nombre": "LEY Federal de Responsabilidades de los Servidores Públicos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_revocacion_mandato",
+    "nombre": "LEY Federal de Revocación de Mandato",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_sanidad_animal",
+    "nombre": "LEY Federal de Sanidad Animal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_sanidad_vegetal",
+    "nombre": "LEY Federal de Sanidad Vegetal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_seguridad_privada",
+    "nombre": "LEY Federal de Seguridad Privada",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_variedades_vegetales",
+    "nombre": "LEY Federal de Variedades Vegetales",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_zonas_economicas_especiales",
+    "nombre": "LEY Federal de Zonas Económicas Especiales",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_derecho_autor",
+    "nombre": "LEY Federal del Derecho de Autor",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_impuesto_sobre_automoviles_nuevos",
+    "nombre": "LEY Federal del Impuesto sobre Automóviles Nuevos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_mar",
+    "nombre": "LEY Federal del Mar",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_trabajo",
+    "nombre": "LEY Federal del Trabajo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_control_precursores_quimicos_productos",
+    "nombre": "LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_control_sustancias_quimicas_susceptibles",
+    "nombre": "LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_fomento_microindustria_actividad_artesanal",
+    "nombre": "LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_fomento_proteccion_maiz_nativo",
+    "nombre": "LEY Federal para el Fomento y Protección del Maíz Nativo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFPMN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_administracion_enajenacion_bienes_sector",
+    "nombre": "LEY Federal para la Administración y Enajenación de Bienes del Sector Público",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_prevencion_e_identificacion_operaciones",
+    "nombre": "LEY Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_proteccion_a_personas_intervienen",
+    "nombre": "LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_prevenir_eliminar_discriminacion",
+    "nombre": "LEY Federal para Prevenir y Eliminar la Discriminación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_prevenir_sancionar_delitos_cometidos",
+    "nombre": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_federal_sobre_monumentos_zonas_arqueologicos",
+    "nombre": "LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMZAAH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_acceso_mujeres_a_vida",
+    "nombre": "LEY General de Acceso de las Mujeres a una Vida Libre de Violencias",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_aguas",
+    "nombre": "LEY General de Aguas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAG.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_archivos",
+    "nombre": "LEY General de Archivos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_asentamientos_humanos_ordenamiento_territorial",
+    "nombre": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_bibliotecas",
+    "nombre": "LEY General de Bibliotecas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_bienes_nacionales",
+    "nombre": "LEY General de Bienes Nacionales",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_cambio_climatico",
+    "nombre": "LEY General de Cambio Climático",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_comunicacion_social",
+    "nombre": "LEY General de Comunicación Social",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_contabilidad_gubernamental",
+    "nombre": "LEY General de Contabilidad Gubernamental",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_cultura_fisica_deporte",
+    "nombre": "LEY General de Cultura Física y Deporte",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCFD.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_cultura_derechos_culturales",
+    "nombre": "LEY General de Cultura y Derechos Culturales",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_derechos_linguisticos_pueblos_indigenas",
+    "nombre": "LEY General de Derechos Lingüísticos de los Pueblos Indígenas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_desarrollo_forestal_sustentable",
+    "nombre": "LEY General de Desarrollo Forestal Sustentable",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_desarrollo_social",
+    "nombre": "LEY General de Desarrollo Social",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_economia_circular",
+    "nombre": "LEY General de Economía Circular",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_educacion",
+    "nombre": "LEY General de Educación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_educacion_superior",
+    "nombre": "LEY General de Educación Superior",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_instituciones_procedimientos_electorales",
+    "nombre": "LEY General de Instituciones y Procedimientos Electorales",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_alimentacion_adecuada_sostenible",
+    "nombre": "LEY General de la Alimentación Adecuada y Sostenible",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_derechos_ninas_ninos_adolescentes",
+    "nombre": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_medios_impugnacion_materia_electoral",
+    "nombre": "LEY General de los Medios de Impugnación en Materia Electoral",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_mecanismos_alternativos_solucion_controversias",
+    "nombre": "LEY General de Mecanismos Alternativos de Solución de Controversias",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_movilidad_seguridad_vial",
+    "nombre": "LEY General de Movilidad y Seguridad Vial",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_organizaciones_actividades_auxiliares_credito",
+    "nombre": "LEY General de Organizaciones y Actividades Auxiliares del Crédito",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_partidos_politicos",
+    "nombre": "LEY General de Partidos Políticos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_pesca_acuacultura_sustentables",
+    "nombre": "LEY General de Pesca y Acuacultura Sustentables",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_poblacion",
+    "nombre": "LEY General de Población",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_prestacion_servicios_atencion_cuidado",
+    "nombre": "LEY General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_proteccion_civil",
+    "nombre": "LEY General de Protección Civil",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_proteccion_datos_personales_posesion",
+    "nombre": "LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_responsabilidades_administrativas",
+    "nombre": "LEY General de Responsabilidades Administrativas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_salud",
+    "nombre": "LEY General de Salud",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_sociedades_cooperativas",
+    "nombre": "LEY General de Sociedades Cooperativas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_sociedades_mercantiles",
+    "nombre": "LEY General de Sociedades Mercantiles",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_titulos_operaciones_credito",
+    "nombre": "LEY General de Títulos y Operaciones de Crédito",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_transparencia_acceso_a_informacion",
+    "nombre": "LEY General de Transparencia y Acceso a la Información Pública",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_turismo",
+    "nombre": "LEY General de Turismo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_victimas",
+    "nombre": "LEY General de Víctimas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_vida_silvestre",
+    "nombre": "LEY General de Vida Silvestre",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_equilibrio_ecologico_proteccion_ambiente",
+    "nombre": "LEY General del Equilibrio Ecológico y la Protección al Ambiente",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_sistema_medios_impugnacion_materia",
+    "nombre": "LEY General del Sistema de Medios de Impugnación en Materia Electoral",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_sistema_nacional_anticorrupcion",
+    "nombre": "LEY General del Sistema Nacional Anticorrupción",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_sistema_nacional_seguridad_publica",
+    "nombre": "LEY General del Sistema Nacional de Seguridad Pública",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_sistema_carrera_maestras_maestros",
+    "nombre": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_materia_delitos_electorales",
+    "nombre": "LEY General en Materia de Delitos Electorales",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_materia_desaparicion_forzada_personas",
+    "nombre": "LEY General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_materia_humanidades_ciencias_tecnologias",
+    "nombre": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_control_tabaco",
+    "nombre": "LEY General para el Control del Tabaco",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_atencion_proteccion_a_personas",
+    "nombre": "LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_deteccion_oportuna_cancer_infancia",
+    "nombre": "LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_igualdad_sustantiva_entre_mujeres",
+    "nombre": "LEY General para la Igualdad Sustantiva entre Mujeres y Hombres",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIMH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_inclusion_personas_discapacidad",
+    "nombre": "LEY General para la Inclusión de las Personas con Discapacidad",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_prevencion_social_violencia_delincuencia",
+    "nombre": "LEY General para la Prevención Social de la Violencia y la Delincuencia",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_prevencion_gestion_integral_residuos",
+    "nombre": "LEY General para la Prevención y Gestión Integral de los Residuos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_prevenir_investigar_sancionar_tortura",
+    "nombre": "LEY General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_prevenir_investigar_sancionar_delitos",
+    "nombre": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_prevenir_sancionar_erradicar_delitos",
+    "nombre": "LEY General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_general_prevenir_sancionar_delitos_materia",
+    "nombre": "LEY General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_monetaria_estados_unidos_mexicanos",
+    "nombre": "LEY Monetaria de los Estados Unidos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_nacional_ejecucion_penal",
+    "nombre": "LEY Nacional de Ejecución Penal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_nacional_extincion_dominio",
+    "nombre": "LEY Nacional de Extinción de Dominio",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_nacional_mecanismos_alternativos_solucion_controversias",
+    "nombre": "LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_nacional_registro_detenciones",
+    "nombre": "LEY Nacional del Registro de Detenciones",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_nacional_sistema_integral_justicia_penal",
+    "nombre": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_nacional_eliminar_tramites_burocraticos",
+    "nombre": "LEY Nacional para Eliminar Trámites Burocráticos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_nacional_sobre_uso_fuerza",
+    "nombre": "LEY Nacional sobre el Uso de la Fuerza",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_administracion_publica_federal",
+    "nombre": "LEY Orgánica de la Administración Pública Federal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_armada_mexico",
+    "nombre": "LEY Orgánica de la Armada de México",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_procuraduria_defensa_contribuyente",
+    "nombre": "LEY Orgánica de la Procuraduría de la Defensa del Contribuyente",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_procuraduria_general_justicia_distrito",
+    "nombre": "LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_universidad_autonoma_agraria_antonio",
+    "nombre": "LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_universidad_autonoma_metropolitana",
+    "nombre": "LEY Orgánica de la Universidad Autónoma Metropolitana",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_universidad_nacional_autonoma_mexico",
+    "nombre": "LEY Orgánica de la Universidad Nacional Autónoma de México",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUNAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_tribunales_agrarios",
+    "nombre": "LEY Orgánica de los Tribunales Agrarios",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_nacional_financiera",
+    "nombre": "LEY Orgánica de Nacional Financiera",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LONF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_sociedad_hipotecaria_federal",
+    "nombre": "LEY Orgánica de Sociedad Hipotecaria Federal",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_banco_bienestar",
+    "nombre": "LEY Orgánica del Banco del Bienestar",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBB.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_banco_nacional_comercio_exterior",
+    "nombre": "LEY Orgánica del Banco Nacional de Comercio Exterior",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNCE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_banco_nacional_obras_servicios",
+    "nombre": "LEY Orgánica del Banco Nacional de Obras y Servicios Públicos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_banco_nacional_ejercito_fuerza",
+    "nombre": "LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNEFAA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_centro_federal_conciliacion_registro",
+    "nombre": "LEY Orgánica del Centro Federal de Conciliación y Registro Laboral",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_congreso_general_estados_unidos",
+    "nombre": "LEY Orgánica del Congreso General de los Estados Unidos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCG.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_ejercito_fuerza_aerea_mexicanos",
+    "nombre": "LEY Orgánica del Ejército y Fuerza Aérea Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_instituto_nacional_antropologia_e",
+    "nombre": "LEY Orgánica del Instituto Nacional de Antropología e Historia",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOINAH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_instituto_politecnico_nacional",
+    "nombre": "LEY Orgánica del Instituto Politécnico Nacional",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOIPN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_poder_judicial_federacion",
+    "nombre": "LEY Orgánica del Poder Judicial de la Federación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_seminario_cultura_mexicana",
+    "nombre": "LEY Orgánica del Seminario de Cultura Mexicana",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSCM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_organica_tribunal_federal_justicia_administrativa",
+    "nombre": "LEY Orgánica del Tribunal Federal de Justicia Administrativa",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_conservar_neutralidad_pais",
+    "nombre": "LEY para Conservar la Neutralidad del País",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_determinar_valor_unidad_medida_actualizacion",
+    "nombre": "LEY para Determinar el Valor de la Unidad de Medida y Actualización",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_desarrollo_competitividad_micro_pequena_mediana",
+    "nombre": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_dialogo_conciliacion_paz_digna_chiapas",
+    "nombre": "LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCPDCH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_uso_proteccion_denominacion_emblema_cruz",
+    "nombre": "LEY para el uso y protección de la denominación y del emblema de la Cruz Roja",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_impulsar_incremento_sostenido_productividad_competitividad",
+    "nombre": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_comprobacion_ajuste_computo_servicios_armada",
+    "nombre": "LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_comprobacion_ajuste_computo_servicios_ejercito",
+    "nombre": "LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_proteccion_personas_defensoras_derechos_humanos",
+    "nombre": "LEY para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_transparencia_prevencion_combate_practicas_indebidas",
+    "nombre": "LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_transparencia_ordenamiento_servicios_financieros",
+    "nombre": "LEY para la Transparencia y Ordenamiento de los Servicios Financieros",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_regular_actividades_sociedades_cooperativas_ahorro",
+    "nombre": "LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_regular_agrupaciones_financieras",
+    "nombre": "LEY para Regular las Agrupaciones Financieras",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_regular_instituciones_tecnologia_financiera",
+    "nombre": "LEY para Regular las Instituciones de Tecnología Financiera",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_regular_sociedades_informacion_crediticia",
+    "nombre": "LEY para Regular las Sociedades de Información Crediticia",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_aprueba_adhesion_mexico_convenio_constitutivo",
+    "nombre": "LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMCCBDC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_crea_fondo_garantia_fomento_agricultura",
+    "nombre": "LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGFAGA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_crea_instituto_nacional_bellas_artes",
+    "nombre": "LEY que crea el Instituto Nacional de Bellas Artes y Literatura",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINBAL.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_crea_agencia_espacial_mexicana",
+    "nombre": "LEY que crea la Agencia Espacial Mexicana",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_crea_universidad_autonoma_chapingo",
+    "nombre": "LEY que crea la Universidad Autónoma Chapingo",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUACH.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_crea_universidad_ejercito_fuerza_aerea",
+    "nombre": "LEY que Crea la Universidad del Ejército y Fuerza Aérea",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUEFA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_declara_reservas_mineras_nacionales_yacimientos",
+    "nombre": "LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRMNYUT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_establece_bases_ejecucion_mexico_poder",
+    "nombre": "LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_reglamentaria_fraccion_v_articulo_76",
+    "nombre": "LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFV_ART76.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_reglamentaria_fraccion_vi_articulo_76",
+    "nombre": "LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRART76_FRACVI.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_reglamentaria_fraccion_xiii_bis_apartado",
+    "nombre": "LEY Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_ART123.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_reglamentaria_fraccion_xviii_articulo_73",
+    "nombre": "LEY Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXVIII_ART73.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_reglamentaria_fracciones_i_ii_articulo",
+    "nombre": "LEY Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIYII_ART105.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_reglamentaria_articulo_27_constitucional_materia",
+    "nombre": "LEY Reglamentaria del Artículo 27 Constitucional en Materia Nuclear",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRART27_MN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_reglamentaria_articulo_3o_constitucion_politica",
+    "nombre": "LEY Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRART3_MMCE.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_reglamentaria_articulo_5o_constitucional_relativo",
+    "nombre": "LEY Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRART5_PROF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_reglamentaria_articulo_6o_parrafo_primero",
+    "nombre": "LEY Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRART6_MDR.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_reglamentaria_servicio_ferroviario",
+    "nombre": "LEY Reglamentaria del Servicio Ferroviario",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sobre_camaras_agricolas_lo_sucesivo",
+    "nombre": "LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCAAA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sobre_contrato_seguro",
+    "nombre": "LEY Sobre el Contrato de Seguro",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sobre_escudo_bandera_himno_nacionales",
+    "nombre": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sobre_elaboracion_venta_cafe_tostado",
+    "nombre": "LEY sobre Elaboración y Venta de Café Tostado",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEVCT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sobre_aprobacion_tratados_internacionales_materia",
+    "nombre": "LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LATIME.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sobre_celebracion_tratados",
+    "nombre": "LEY sobre la Celebración de Tratados",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSCT.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ley_sobre_refugiados_proteccion_complementaria_asilo",
+    "nombre": "LEY sobre Refugiados, Protección Complementaria y Asilo Político",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_ordenanza_general_armada",
+    "nombre": "ORDENANZA General de la Armada",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/OGA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_presupuesto_egresos_federacion_ejercicio_fiscal_2026",
+    "nombre": "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026",
+    "tipo": "Ley",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_reglamento_camara_diputados",
+    "nombre": "REGLAMENTO de la Cámara de Diputados",
+    "tipo": "Reglamento",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/REG_DIPUTADOS.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_reglamento_senado_republica",
+    "nombre": "REGLAMENTO del Senado de la República",
+    "tipo": "Reglamento",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/REG_SENADO.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  },
+  {
+    "id": "federal_reglamento_gobierno_interior_congreso_general_estados",
+    "nombre": "REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
+    "tipo": "Reglamento",
+    "entidad": "federal",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/RGIC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "diputados.gob.mx"
+  }
+]

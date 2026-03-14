@@ -1,0 +1,972 @@
+[
+  {
+    "id": "michoacan_ley_organica_procedimientos_congreso_michoacan_ocampo",
+    "nombre": "Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_general_transparencia_acceso_a_informacion",
+    "nombre": "Ley General de Transparencia y Acceso a la Información Pública.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_coordinacion_fiscal_michoacan_ocampo",
+    "nombre": "Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_presupuesto_egresos_gobierno_michoacan_ocampo_ejercicio",
+    "nombre": "Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del Año 2025",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_hacienda_michoacan_ocampo",
+    "nombre": "Ley de Hacienda del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_servicio_administracion_tributaria_michoacan_ocampo",
+    "nombre": "Ley del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_codigo_fiscal_michoacan_ocampo",
+    "nombre": "Código Fiscal del Estado de Michoacán de Ocampo.",
+    "tipo": "Código",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_constitucion_politica_libre_soberano_michoacan_ocampo",
+    "nombre": "Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_organica_poder_judicial_michoacan",
+    "nombre": "Ley Orgánica del Poder Judicial del Estado de Michoacán",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_codigo_penal_michoacan_ocampo",
+    "nombre": "Código Penal para el Estado de Michoacán de Ocampo",
+    "tipo": "Código",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_codigo_familiar_michoacan_ocampo",
+    "nombre": "Código Familiar para el Estado de Michoacán de Ocampo.",
+    "tipo": "Código",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_inclusion_personas_discapacidad_michoacan_ocampo",
+    "nombre": "Ley para la Inclusión de las Personas con Discapacidad en el Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_asistencia_social_michoacan_ocampo",
+    "nombre": "Ley de Asistencia Social del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_codigo_electoral_michoacan_ocampo",
+    "nombre": "Código Electoral del Estado de Michoacán de Ocampo.",
+    "tipo": "Código",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_derechos_ninas_ninos_adolescentes_michoacan",
+    "nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_organica_administracion_publica_michoacan_ocampo",
+    "nombre": "Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_educacion_michoacan_ocampo",
+    "nombre": "Ley de Educación para el Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_codigo_desarrollo_urbano_michoacan_ocampo",
+    "nombre": "Código de Desarrollo Urbano del Estado de Michoacán de Ocampo",
+    "tipo": "Código",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_comision_estatal_derechos_humanos_michoacan",
+    "nombre": "Ley de la Comisión Estatal de los Derechos Humanos de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_vida_libre_violencia_mujeres_michoacan",
+    "nombre": "Ley por una Vida Libre de Violencia para las Mujeres en el Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_trabajadores_servicio_michoacan_ocampo",
+    "nombre": "Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y de sus Municipios.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_prevenir_eliminar_discriminacion_violencia_michoacan",
+    "nombre": "Ley para Prevenir y Eliminar la Discriminación y la Violencia en el Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_atencion_violencia_escolar_michoacan",
+    "nombre": "Ley para la Atención de la Violencia Escolar en el Estado de Michoacán",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_trasplantes_donacion_organos_tejidos_celulas",
+    "nombre": "Ley de Trasplantes y Donación de Órganos, Tejidos y Células en el Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_atencion_a_victimas_michoacan_ocampo",
+    "nombre": "Ley de Atención a Víctimas para el Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_salud_michoacan_ocampo",
+    "nombre": "Ley de Salud del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_organica_municipal_michoacan_ocampo",
+    "nombre": "Ley Orgánica Municipal del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_salud_mental_michoacan_ocampo",
+    "nombre": "Ley de Salud Mental del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_atencion_proteccion_migrantes_familias_michoacan",
+    "nombre": "Ley para la Atención y Protección de los Migrantes y sus Familias del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_ganaderia_michoacan_ocampo",
+    "nombre": "Ley de Ganadería del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_derechos_bienestar_proteccion_animales_michoacan",
+    "nombre": "Ley de Derechos, el Bienestar y Protección de los Animales en el Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_fomento_desarrollo_artesanal_michoacan_ocampo",
+    "nombre": "Ley de Fomento y Desarrollo Artesanal del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_agua_gestion_cuencas_michoacan",
+    "nombre": "Ley del Agua y Gestión de Cuencas para el Estado de Michoacán",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_justicia_civica_michoacan_ocampo",
+    "nombre": "Ley de Justicia Cívica del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_proteccion_personas_defensoras_derechos_humanos",
+    "nombre": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas del Estado de Michoacán.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_transparencia_acceso_a_informacion_publica",
+    "nombre": "Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_ingresos_michoacan_ocampo_ejercicio_fiscal",
+    "nombre": "Ley de Ingresos del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del año 2024.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_planeacion_hacendaria_presupuesto_gasto_publico",
+    "nombre": "Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_agricultura_urbana_periurbana_michoacan_ocampo",
+    "nombre": "Ley de Agricultura Urbana y Periurbana del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_codigo_civil_michoacan_ocampo",
+    "nombre": "Código Civil para el Estado de Michoacán de Ocampo",
+    "tipo": "Código",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_organica_fiscalia_general_michoacan",
+    "nombre": "Ley Orgánica de la Fiscalía General del Estado de Michoacán.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_organica_registro_civil_michoacan_ocampo",
+    "nombre": "Ley Orgánica del Registro Civil del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_fiscalizacion_superior_rendicion_cuentas_michoacan",
+    "nombre": "Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_jovenes_michoacan_ocampo",
+    "nombre": "Ley de los Jóvenes del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_sistema_estatal_seguridad_publica_michoacan",
+    "nombre": "Ley del Sistema Estatal de Seguridad Pública de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_ciencia_tecnologia_e_innovacion_michoacan",
+    "nombre": "Ley de Ciencia, Tecnología e Innovación del Estado de Michoacán",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_organica_division_territorial_michoacan",
+    "nombre": "Ley Orgánica de División Territorial de Michoacán",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_mejora_regulatoria_michoacan_ocampo",
+    "nombre": "Ley de Mejora Regulatoria del Estado de Michoacán de Ocampo y sus Municipios.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_turismo_michoacan_ocampo",
+    "nombre": "Ley de Turismo del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_desarrollo_rural_integral_sustentable_michoacan",
+    "nombre": "Ley de Desarrollo Rural Integral Sustentable del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_codigo_justicia_administrativa_michoacan_ocampo",
+    "nombre": "Código de Justicia Administrativa del Estado de Michoacán de Ocampo.",
+    "tipo": "Código",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_conservacion_sustentabilidad_ambiental_michoacan_ocampo",
+    "nombre": "Ley para la Conservación y Sustentabilidad Ambiental del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_financiamiento_rural_michoacan_ocampo",
+    "nombre": "Ley de Financiamiento Rural para el Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_proteccion_civil_michoacan_ocampo",
+    "nombre": "Ley de Protección Civil del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_movilidad_seguridad_vial_michoacan_ocampo",
+    "nombre": "Ley de Movilidad y Seguridad Vial del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_mecanismos_participacion_ciudadana_michoacan_ocampo",
+    "nombre": "Ley de Mecanismos de Participación Ciudadana del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_justicia_materia_electoral_participacion_ciudadana",
+    "nombre": "Ley de Justicia en materia Electoral y de Participación Ciudadana del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_proteccion_integral_a_personas_adultas",
+    "nombre": "Ley de Protección Integral a las Personas Adultas Mayores del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_comision_estatal_proteccion_contra_riesgos",
+    "nombre": "Ley de la Comisión Estatal para la Protección contra Riesgos Sanitarios de Michoacán",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_adopcion_acogimiento_familiar_michoacan_ocampo",
+    "nombre": "Ley de Adopción y Acogimiento Familiar del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_hacienda_municipal_michoacan_ocampo",
+    "nombre": "Ley de Hacienda Municipal del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_obra_publica_servicios_relacionados_misma",
+    "nombre": "Ley de Obra Pública y Servicios Relacionados con la misma para el Estado de Michoacán de Ocampo y sus Municipios",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_desarrollo_forestal_sustentable_michoacan_ocampo",
+    "nombre": "Ley de Desarrollo Forestal Sustentable del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_fomento_apicola_michoacan_ocampo",
+    "nombre": "Ley de Fomento Apícola del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_prevenir_erradicar_feminicidio_michoacan_ocampo",
+    "nombre": "Ley para Prevenir y Erradicar el Feminicidio del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_consejo_economico_social_michoacan_ocampo",
+    "nombre": "Ley del Consejo Económico y Social del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_contra_adicciones_michoacan",
+    "nombre": "Ley Contra las Adicciones en el Estado de Michoacán.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_organica_centro_conciliacion_laboral_michoacan",
+    "nombre": "Ley Orgánica del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_desarrollo_social_michoacan",
+    "nombre": "Ley de Desarrollo Social del Estado de Michoacán",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_notariado_michoacan",
+    "nombre": "Ley del Notariado del Estado de Michoacán",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_prevencion_gestion_integral_residuos_michoacan",
+    "nombre": "Ley para la Prevención y Gestión Integral de Residuos en el Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_responsabilidad_ambiental_michoacan_ocampo",
+    "nombre": "Ley de Responsabilidad Ambiental para el Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_desarrollo_cultural_michoacan_ocampo",
+    "nombre": "Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_cambio_climatico_michoacan_ocampo",
+    "nombre": "Ley de Cambio Climático del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_gobierno_digital_michoacan_ocampo",
+    "nombre": "Ley de Gobierno Digital del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_estatal_educacion_nivel_medio_superior",
+    "nombre": "Ley Estatal de Educación en el Nivel Medio Superior y la Formación para el Trabajo del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_responsabilidades_administrativas_michoacan_ocampo",
+    "nombre": "Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_atencion_prevencion_violencia_familiar_michoacan",
+    "nombre": "Ley para la Atención y Prevención de la Violencia Familiar en el Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_funcion_registral_catastral_michoacan_ocampo",
+    "nombre": "Ley de la Función Registral y Catastral del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_prestacion_servicios_atencion_cuidado_desarrollo",
+    "nombre": "Ley para la Prestación de servicios de Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Michoacán",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_prevencion_atencion_tratamiento_integral_sobrepeso",
+    "nombre": "Ley para la Prevención, Atención y Tratamiento Integral del Sobrepeso, Obesidad y Trastornos de la Conducta Alimentaria para el Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_desarrollo_proteccion_madres_jefas_familia",
+    "nombre": "Ley para el Desarrollo y Protección de las Madres Jefas de Familia del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_fomento_fortalecimiento_a_actividades_realizadas",
+    "nombre": "Ley de Fomento y Fortalecimiento a las Actividades Realizadas por Organizaciones de la Sociedad Civil en el Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_atencion_proteccion_a_personas_condicion",
+    "nombre": "Ley de la Atención y Protección a Personas con la Condición del Espectro Autista para el Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_adquisiciones_arrendamientos_prestacion_servicios_relacionados",
+    "nombre": "Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles e Inmueble (Sic) del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_codigo_fiscal_municipal_michoacan_ocampo",
+    "nombre": "Código Fiscal Municipal del Estado de Michoacán de Ocampo.",
+    "tipo": "Código",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_codigo_procedimientos_civiles_michoacan_ocampo",
+    "nombre": "Código de Procedimientos Civiles para el Estado de Michoacán de Ocampo.",
+    "tipo": "Código",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_justicia_alternativa_restaurativa_michoacan_ocampo",
+    "nombre": "Ley de Justicia Alternativa y Restaurativa del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_profesiones_michoacan_ocampo",
+    "nombre": "Ley de Profesiones del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_sistema_estatal_anticorrupcion_michoacan_ocampo",
+    "nombre": "Ley del Sistema Estatal Anticorrupción para el Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_cultura_fisica_deporte_michoacan_ocampo",
+    "nombre": "Ley de Cultura Física y Deporte del Estado de Michoacán de Ocampo.",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_seguridad_privada_michoacan_ocampo",
+    "nombre": "Ley de Seguridad Privada del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_ejecucion_sanciones_penales_michoacan_ocampo",
+    "nombre": "Ley de Ejecución de Sanciones Penales del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_justicia_comunal_michoacan_ocampo",
+    "nombre": "Ley de Justicia Comunal del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_codigo_justicia_especializada_adolescentes_michoacan",
+    "nombre": "Código de Justicia Especializada para Adolescentes del Estado de Michoacán",
+    "tipo": "Código",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_extincion_dominio_michoacan_ocampo",
+    "nombre": "Ley de Extinción de Dominio del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  },
+  {
+    "id": "michoacan_ley_amnistia_michoacan_ocampo",
+    "nombre": "Ley de Amnistía del Estado de Michoacán de Ocampo",
+    "tipo": "Ley",
+    "entidad": "michoacan",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresomich.gob.mx"
+  }
+]
