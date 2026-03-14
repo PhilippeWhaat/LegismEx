@@ -2,6 +2,7 @@
 CLAUDE.md
 .env
 .env.*
+.claude/
 
 # Archivos descargados (pesados, no versionados aquí)
 *.pdf
