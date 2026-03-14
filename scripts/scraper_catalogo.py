@@ -695,15 +695,780 @@ def scrape_federal() -> list[dict]:
     return leyes
 
 
+# ──────────────────────────────────────────────
+# TAMAULIPAS — congresotamaulipas.gob.mx
+# Lista numerada con PDF/Word links. 129 leyes en una sola página.
+# URL: /LegislacionEstatal/LegislacionVigente/Vigente.asp?idtipoArchivo=1
+# ──────────────────────────────────────────────
+
+class TamaulipasParser(HTMLParser):
+    """Extrae leyes de la página de legislación vigente de Tamaulipas."""
+
+    def __init__(self):
+        super().__init__()
+        self.leyes: list[dict] = []
+        self._current_text: list[str] = []
+        self._current_links: list[dict] = []
+        self._in_bold = False
+        self._bold_text: list[str] = []
+        self._depth = 0
+
+    def handle_starttag(self, tag, attrs):
+        attrs_d = dict(attrs)
+        if tag == "b" or tag == "strong":
+            self._in_bold = True
+            self._bold_text = []
+        if tag == "a" and "href" in attrs_d:
+            href = attrs_d["href"]
+            text = ""
+            if "VerLey" in href or ".pdf" in href.lower():
+                self._current_links.append({"href": href, "type": "pdf"})
+            elif ".doc" in href.lower():
+                self._current_links.append({"href": href, "type": "word"})
+
+    def handle_data(self, data):
+        stripped = data.strip()
+        if stripped:
+            self._current_text.append(stripped)
+            if self._in_bold:
+                self._bold_text.append(stripped)
+
+    def handle_endtag(self, tag):
+        if tag in ("b", "strong"):
+            self._in_bold = False
+        if tag == "hr" or tag == "img":
+            # Each law entry is separated by hr/img dividers
+            self._flush_entry()
+
+    def _flush_entry(self):
+        text = " ".join(self._current_text)
+        if not text or len(text) < 10:
+            self._current_text = []
+            self._current_links = []
+            return
+
+        # Extract law name and reform date from text
+        # Format: "NNN. Name, Ley de... Última Reforma: DD de Month de YYYY"
+        nombre_match = re.search(
+            r'\d{3}\.\s*(.+?)(?:\s*Última\s+Reforma|\s*Publicación|\s*$)',
+            text, re.IGNORECASE | re.DOTALL
+        )
+        nombre = nombre_match.group(1).strip() if nombre_match else ""
+        if not nombre:
+            # Try bold text as fallback
+            nombre = " ".join(self._bold_text).strip()
+
+        reforma_match = re.search(
+            r'(?:Última\s+Reforma|Publicación)[:\s]+(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})',
+            text, re.IGNORECASE
+        )
+        ultima_reforma = ""
+        if reforma_match:
+            dia, mes_str, anio = reforma_match.groups()
+            meses = {
+                "enero": "01", "febrero": "02", "marzo": "03", "abril": "04",
+                "mayo": "05", "junio": "06", "julio": "07", "agosto": "08",
+                "septiembre": "09", "octubre": "10", "noviembre": "11", "diciembre": "12",
+            }
+            mes = meses.get(mes_str.lower(), "01")
+            ultima_reforma = f"{anio}-{mes}-{int(dia):02d}"
+
+        pdf_link = ""
+        word_link = ""
+        for link in self._current_links:
+            if link["type"] == "pdf" and not pdf_link:
+                pdf_link = link["href"]
+            elif link["type"] == "word" and not word_link:
+                word_link = link["href"]
+
+        if nombre and len(nombre) > 5:
+            self.leyes.append({
+                "nombre": limpiar_texto(nombre),
+                "url_pdf": pdf_link,
+                "url_word": word_link,
+                "ultima_reforma": ultima_reforma,
+            })
+
+        self._current_text = []
+        self._current_links = []
+        self._bold_text = []
+
+
+def scrape_tamaulipas() -> list[dict]:
+    entidad = "tamaulipas"
+    base_url = "https://www.congresotamaulipas.gob.mx"
+    url = f"{base_url}/LegislacionEstatal/LegislacionVigente/Vigente.asp?idtipoArchivo=1"
+
+    log.info(f"  Tamaulipas: {url}")
+    # Fetch with latin-1 encoding (ASP page)
+    req = urllib.request.Request(url, headers=HEADERS)
+    try:
+        with urllib.request.urlopen(req, timeout=30, context=SSL_CTX) as resp:
+            html = resp.read().decode("latin-1", errors="replace")
+    except Exception as e:
+        log.warning(f"  Tamaulipas: no se pudo acceder ({e})")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    # Split by VerLey links to isolate each entry
+    # Pattern: number + bold name + reform date + VerLey link
+    # Each block: <b>NNN</b> ... <b>Name</b> ... reforma ... VerLey.asp?IdLey=NNN
+    blocks = re.split(r'(?=<td[^>]*>\s*<span[^>]*>\s*<b>\s*\d{3}\s*</b>)', html)
+
+    meses = {
+        "enero": "01", "febrero": "02", "marzo": "03", "abril": "04",
+        "mayo": "05", "junio": "06", "julio": "07", "agosto": "08",
+        "septiembre": "09", "octubre": "10", "noviembre": "11", "diciembre": "12",
+    }
+
+    for block in blocks:
+        # Extract VerLey ID
+        id_match = re.search(r'VerLey\.asp\?IdLey=(\d+)', block)
+        if not id_match:
+            continue
+        id_ley = id_match.group(1)
+
+        # Extract law name from second <b> tag (first is the number)
+        bold_texts = re.findall(r'<b>([^<]+)</b>', block)
+        nombre = ""
+        for bt in bold_texts:
+            bt = bt.strip()
+            if bt and not bt.isdigit() and len(bt) > 5:
+                nombre = limpiar_texto(bt)
+                break
+
+        if not nombre:
+            continue
+
+        # Extract reform date
+        reform_match = re.search(
+            r'(?:ltima\s+reforma|Publicaci).*?(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})',
+            block, re.IGNORECASE
+        )
+        ultima_reforma = ""
+        if reform_match:
+            dia, mes_str, anio = reform_match.groups()
+            mes = meses.get(mes_str.lower(), "01")
+            ultima_reforma = f"{anio}-{mes}-{int(dia):02d}"
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        url_pdf = f"{base_url}/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey={id_ley}"
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "ultima_reforma": ultima_reforma,
+            "estado_vigencia": "vigente",
+            "fuente": "congresotamaulipas.gob.mx",
+        })
+
+    log.info(f"  Tamaulipas total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# CHIHUAHUA — congresochihuahua.gob.mx
+# Biblioteca legislativa paginada (5 leyes/página).
+# CSV export disponible en generarCSV.php.
+# PDF: congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/{id}.pdf
+# ──────────────────────────────────────────────
+
+def scrape_chihuahua() -> list[dict]:
+    entidad = "chihuahua"
+    csv_url = "https://www.congresochihuahua.gob.mx/biblioteca/leyes/generarCSV.php"
+    page_url = "https://www.congresochihuahua.gob.mx/biblioteca/leyes/"
+
+    # Step 1: Get full list from CSV export (names + publication dates)
+    log.info(f"  Chihuahua CSV: {csv_url}")
+    csv_text = fetch(csv_url)
+    if not csv_text:
+        log.warning("  Chihuahua: no se pudo obtener CSV")
+        return []
+
+    import csv as csv_mod
+    import io
+    reader = csv_mod.reader(io.StringIO(csv_text))
+    header = next(reader, None)
+    csv_rows = list(reader)
+    log.info(f"  Chihuahua CSV: {len(csv_rows)} leyes en CSV")
+
+    # Step 2: Scrape paginated pages to map law names to PDF IDs
+    # The page uses GET with ?pagina=N parameter
+    # Max pages = ceil(CSV rows / 5) + buffer (server wraps around infinitely)
+    max_pages = (len(csv_rows) // 5) + 5
+    name_to_pdf: dict[str, dict] = {}
+    pagina = 1
+    while pagina <= max_pages:
+        url = f"{page_url}?pagina={pagina}"
+        html = fetch(url)
+        if not html:
+            break
+
+        # Each law card: name in text, then archivosLeyes/{id}.pdf
+        # Split by "table-bordered" class which wraps each law
+        cards = re.split(r'class="table\s+table-bordered"', html)
+        found = 0
+
+        for card in cards[1:]:
+            name_match = re.search(
+                r'>\s*((?:LEY|CÓDIGO|CODIGO|REGLAMENTO|CONSTITUCIÓN|CONSTITUCION|'
+                r'DECRETO)[^<]{10,})',
+                card, re.IGNORECASE
+            )
+            if not name_match:
+                # Try any substantial uppercase text
+                name_match = re.search(
+                    r'>\s*([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ\s,.\-()]{15,}[A-ZÁÉÍÓÚÑÜ)])\s*<',
+                    card
+                )
+            if not name_match:
+                continue
+
+            nombre = limpiar_texto(name_match.group(1))
+            pdf_match = re.search(r'(https?://[^"\'>\s]*archivosLeyes/\d+\.pdf)', card)
+            word_match = re.search(r'(https?://[^"\'>\s]*archivosLeyesWord/\d+\.doc)', card)
+
+            name_to_pdf[nombre.upper()] = {
+                "url_pdf": pdf_match.group(1) if pdf_match else "",
+                "url_word": word_match.group(1) if word_match else "",
+            }
+            found += 1
+
+        log.info(f"  Chihuahua página {pagina}: {found} leyes con PDF")
+        if found == 0:
+            break
+        pagina += 1
+        time.sleep(0.3)
+
+    log.info(f"  Chihuahua: {len(name_to_pdf)} leyes mapeadas a PDF")
+
+    # Step 3: Build catalog from CSV, enriched with PDF URLs
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    for row in csv_rows:
+        if not row or not row[0].strip():
+            continue
+        nombre = limpiar_texto(row[0])
+        fecha_pub = row[1].strip() if len(row) > 1 else ""
+
+        # Look up PDF URL
+        urls = name_to_pdf.get(nombre.upper(), {})
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": urls.get("url_pdf", ""),
+            "url_word": urls.get("url_word", ""),
+            "ultima_reforma": fecha_pub,
+            "estado_vigencia": "vigente",
+            "fuente": "congresochihuahua.gob.mx",
+        })
+
+    log.info(f"  Chihuahua total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# DURANGO — congresodurango.gob.mx/Archivos/legislacion/
+# Directory listing Apache con archivos PDF directos.
+# Nombres de ley extraídos del nombre de archivo.
+# ──────────────────────────────────────────────
+
+def scrape_durango() -> list[dict]:
+    entidad = "durango"
+    base_url = "https://congresodurango.gob.mx/Archivos/legislacion"
+    url = f"{base_url}/"
+
+    log.info(f"  Durango: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Durango: no se pudo acceder al directorio")
+        return []
+
+    # Parse Apache directory listing in table format
+    # Format: <a href="FILE.pdf">...</a></td><td>2026-02-12 09:10</td><td>2.8M</td>
+    entries = re.findall(
+        r'<a\s+href="([^"]+\.pdf)">.*?</a>\s*</td>\s*<td[^>]*>\s*'
+        r'(\d{4}-\d{2}-\d{2})\s+\d{2}:\d{2}\s*</td>\s*<td[^>]*>\s*'
+        r'([0-9.]+[KMG]?)',
+        html, re.DOTALL
+    )
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    for filename, fecha, size in entries:
+        # Skip duplicates and copies
+        if "copy" in filename.lower() or "copia" in filename.lower():
+            continue
+        if "(ABROGADA)" in filename.upper() or "(ANTERIOR)" in filename.upper():
+            continue
+
+        # Decode URL-encoded filename to get law name
+        nombre_raw = urllib.parse.unquote(filename).replace(".pdf", "")
+        # Clean up: remove (NUEVA), (N), trailing spaces
+        nombre = re.sub(r'\s*\(NUEV[AO]\)\s*', ' ', nombre_raw).strip()
+        nombre = re.sub(r'\s*\(N\)\s*', ' ', nombre).strip()
+        nombre = re.sub(r'\s+', ' ', nombre)
+
+        # Title case
+        nombre_title = nombre.title()
+        # Fix common title case issues
+        for word in ["Del", "De", "La", "Las", "Los", "El", "Para", "En",
+                      "Al", "Con", "Por", "Y", "O", "Sus", "Que"]:
+            nombre_title = nombre_title.replace(f" {word} ", f" {word.lower()} ")
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        url_pdf = f"{base_url}/{urllib.parse.quote(filename)}"
+
+        # Check for matching .docx
+        docx_name = filename.replace(".pdf", ".docx")
+        url_word = ""
+        if docx_name in html:
+            url_word = f"{base_url}/{urllib.parse.quote(docx_name)}"
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre_title,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "url_word": url_word,
+            "ultima_reforma": fecha,
+            "estado_vigencia": "vigente",
+            "fuente": "congresodurango.gob.mx",
+        })
+
+    log.info(f"  Durango total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# TABASCO — congresotabasco.gob.mx/leyes/
+# WordPress con links PDF directos en wp-content/uploads.
+# ──────────────────────────────────────────────
+
+def scrape_tabasco() -> list[dict]:
+    entidad = "tabasco"
+    base_url = "https://congresotabasco.gob.mx"
+    url = f"{base_url}/leyes/"
+
+    log.info(f"  Tabasco: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Tabasco: no se pudo acceder al portal")
+        return []
+
+    # Extract all PDF links from wp-content/uploads
+    pdf_links = re.findall(
+        r'href="(https://congresotabasco\.gob\.mx/wp-content/uploads/[^"]+\.pdf)"',
+        html
+    )
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    for url_pdf in pdf_links:
+        # Extract law name from URL
+        # Pattern: .../2026/02/Ley-de-Something-del-Estado-de-Tabasco.pdf
+        filename = url_pdf.split("/")[-1]
+        nombre_raw = filename.replace(".pdf", "").replace("-", " ")
+
+        # Skip non-law files (Leyes de Ingresos municipales, etc.)
+        if re.search(r'Ley de Ingresos de (?!Tabasco)', nombre_raw, re.IGNORECASE):
+            continue
+
+        nombre = limpiar_texto(nombre_raw)
+        if len(nombre) < 10:
+            continue
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        # Try to extract date from URL path (e.g., /2026/02/)
+        date_match = re.search(r'/(\d{4})/(\d{2})/', url_pdf)
+        ultima_reforma = ""
+        if date_match:
+            ultima_reforma = f"{date_match.group(1)}-{date_match.group(2)}"
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "ultima_reforma": ultima_reforma,
+            "estado_vigencia": "vigente",
+            "fuente": "congresotabasco.gob.mx",
+        })
+
+    log.info(f"  Tabasco total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# OAXACA — congresooaxaca.gob.mx
+# Tabla HTML simple en una sola página. 225 leyes.
+# Columnas: No, Nombre, Publicación, Última Reforma, Descarga (PDF)
+# ──────────────────────────────────────────────
+
+def scrape_oaxaca() -> list[dict]:
+    entidad = "oaxaca"
+    url = "https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html"
+
+    log.info(f"  Oaxaca: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Oaxaca: no se pudo acceder al portal")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    # Parse table rows
+    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+
+    for row in rows[1:]:  # Skip header
+        cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+        if len(cells) < 8:
+            continue
+
+        # Cell 3: nombre, Cell 5: publicación, Cell 7: última reforma
+        # Cell 9 (or last): PDF link
+        nombre = re.sub(r'<[^>]+>', '', cells[3]).strip()
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10:
+            continue
+
+        # Clean trailing reform description from name
+        nombre = re.sub(r'\s*\(Reformad[ao].*$', '', nombre).strip()
+        nombre = re.sub(r'\s*\(Abrogad[ao].*$', '', nombre).strip()
+
+        fecha_pub = re.sub(r'<[^>]+>', '', cells[5]).strip() if len(cells) > 5 else ""
+        ultima_reforma = re.sub(r'<[^>]+>', '', cells[7]).strip() if len(cells) > 7 else ""
+
+        # Find PDF link in last cells
+        url_pdf = ""
+        for cell in cells[8:]:
+            pdf_match = re.search(r'href=["\']([^"\']+\.pdf)["\']', cell, re.IGNORECASE)
+            if pdf_match:
+                url_pdf = pdf_match.group(1)
+                break
+
+        # Normalize PDF URL
+        if url_pdf and not url_pdf.startswith("http"):
+            # Relative path like ../../docs66.congresooaxaca.gob.mx/...
+            if "congresooaxaca" in url_pdf:
+                # Extract the domain-relative part
+                match = re.search(r'(docs\d*\.congresooaxaca\.gob\.mx/.*)', url_pdf)
+                if match:
+                    url_pdf = f"https://{match.group(1)}"
+                else:
+                    url_pdf = f"https://www.congresooaxaca.gob.mx/{url_pdf.lstrip('./')}"
+            else:
+                url_pdf = f"https://www.congresooaxaca.gob.mx/{url_pdf.lstrip('./')}"
+
+        # Normalize dates from DD-MM-YYYY to YYYY-MM-DD
+        for date_str in [ultima_reforma, fecha_pub]:
+            m = re.match(r'(\d{2})-(\d{2})-(\d{4})', date_str)
+            if m:
+                if date_str == ultima_reforma:
+                    ultima_reforma = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+                else:
+                    fecha_pub = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "ultima_reforma": ultima_reforma,
+            "estado_vigencia": "vigente",
+            "fuente": "congresooaxaca.gob.mx",
+        })
+
+    log.info(f"  Oaxaca total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# BAJA CALIFORNIA — congresobc.gob.mx
+# DataTables HTML con PDF+WORD links. ~165 leyes vigentes.
+# Columnas: Nombre, PDF, WORD, Fecha, Estado, Tomo, Historial
+# ──────────────────────────────────────────────
+
+def scrape_bajacalifornia() -> list[dict]:
+    entidad = "bajacalifornia"
+    base_url = "https://www.congresobc.gob.mx"
+    url = f"{base_url}/TrabajoLegislativo/Leyes"
+
+    log.info(f"  Baja California: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  BC: no se pudo acceder al portal")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+
+    for row in rows:
+        cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+        if len(cells) < 5:
+            continue
+
+        # Cell 0: nombre, Cell 1: PDF link, Cell 2: WORD link, Cell 3: fecha, Cell 4: estado
+        nombre = re.sub(r'<[^>]+>', '', cells[0]).strip()
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10:
+            continue
+
+        # PDF link
+        pdf_match = re.search(r'href=["\']([^"\']+\.PDF)["\']', cells[1], re.IGNORECASE)
+        url_pdf = pdf_match.group(1) if pdf_match else ""
+        if url_pdf and not url_pdf.startswith("http"):
+            url_pdf = f"{base_url}/TrabajoLegislativo/{url_pdf.lstrip('./')}"
+
+        # Word link
+        word_match = re.search(r'href=["\']([^"\']+\.DOC)["\']', cells[2], re.IGNORECASE)
+        url_word = word_match.group(1) if word_match else ""
+        if url_word and not url_word.startswith("http"):
+            url_word = f"{base_url}/TrabajoLegislativo/{url_word.lstrip('./')}"
+
+        # Date (YYYY/MM/DD format)
+        fecha = re.sub(r'<[^>]+>', '', cells[3]).strip()
+        ultima_reforma = fecha.replace("/", "-") if fecha else ""
+
+        # Vigencia
+        estado = re.sub(r'<[^>]+>', '', cells[4]).strip().lower()
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "url_word": url_word,
+            "ultima_reforma": ultima_reforma,
+            "estado_vigencia": "vigente" if "vigente" in estado else estado,
+            "fuente": "congresobc.gob.mx",
+        })
+
+    log.info(f"  Baja California total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# YUCATÁN — congresoyucatan.gob.mx
+# Tabla HTML con 1091 leyes (vigentes + abrogadas).
+# Incluye leyes, códigos, reglamentos en múltiples categorías.
+# URLs: /legislacion/leyes, /legislacion/codigos, /legislacion/reglamentos
+# ──────────────────────────────────────────────
+
+def scrape_yucatan() -> list[dict]:
+    entidad = "yucatan"
+    base_url = "https://www.congresoyucatan.gob.mx"
+
+    categorias = {
+        "leyes":       f"{base_url}/legislacion/leyes",
+        "codigos":     f"{base_url}/legislacion/codigos",
+        "reglamentos": f"{base_url}/legislacion/reglamentos",
+    }
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    for cat, url in categorias.items():
+        log.info(f"  Yucatán/{cat}: {url}")
+        html = fetch(url)
+        if not html:
+            continue
+
+        rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+
+        for row in rows:
+            cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+            if len(cells) < 5:
+                continue
+
+            nombre = re.sub(r'<[^>]+>', '', cells[1]).strip()
+            nombre = limpiar_texto(nombre)
+            if not nombre or len(nombre) < 8:
+                continue
+
+            fecha_pub = re.sub(r'<[^>]+>', '', cells[2]).strip()
+            ultima_reforma = ""
+            if len(cells) > 3:
+                ultima_reforma = re.sub(r'<[^>]+>', '', cells[3]).strip()
+                if ultima_reforma == "0000-00-00":
+                    ultima_reforma = ""
+
+            estado = re.sub(r'<[^>]+>', '', cells[4]).strip().lower() if len(cells) > 4 else ""
+
+            # Skip abrogated laws
+            if "abrogada" in estado:
+                continue
+
+            # PDF and Word links (in last cell)
+            url_pdf = ""
+            url_word = ""
+            link_cell = cells[-1] if len(cells) > 5 else ""
+            pdf_match = re.search(r'href=["\']([^"\']+\.pdf)["\']', link_cell, re.IGNORECASE)
+            if pdf_match:
+                url_pdf = pdf_match.group(1)
+                if not url_pdf.startswith("http"):
+                    url_pdf = f"{base_url}{url_pdf}"
+            word_match = re.search(r'href=["\']([^"\']+\.(?:doc|docx))["\']', link_cell, re.IGNORECASE)
+            if word_match:
+                url_word = word_match.group(1)
+                if not url_word.startswith("http"):
+                    url_word = f"{base_url}{url_word}"
+
+            tipo = inferir_tipo(nombre)
+            if cat == "codigos":
+                tipo = "Código"
+            elif cat == "reglamentos":
+                tipo = "Reglamento"
+
+            ley_id = generar_id(entidad, nombre)
+            if ley_id in ids_vistos:
+                continue
+            ids_vistos.add(ley_id)
+
+            leyes.append({
+                "id": ley_id,
+                "nombre": nombre,
+                "tipo": tipo,
+                "entidad": entidad,
+                "url_pdf": url_pdf,
+                "url_word": url_word,
+                "ultima_reforma": ultima_reforma if ultima_reforma else fecha_pub,
+                "estado_vigencia": "vigente",
+                "fuente": "congresoyucatan.gob.mx",
+            })
+        time.sleep(0.5)
+
+    log.info(f"  Yucatán total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# QUINTANA ROO — congresoqroo.gob.mx/leyes/
+# WordPress con PDF links directos en documentos.congresoqroo.gob.mx.
+# ──────────────────────────────────────────────
+
+def scrape_quintanaroo() -> list[dict]:
+    entidad = "quintanaroo"
+    url = "https://www.congresoqroo.gob.mx/leyes/"
+
+    log.info(f"  Quintana Roo: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Quintana Roo: no se pudo acceder al portal")
+        return []
+
+    # Extract PDF links with their anchor text (law names)
+    entries = re.findall(
+        r'<a[^>]+href=["\']'
+        r'(https://documentos\.congresoqroo\.gob\.mx/leyes/[^"\']+\.pdf)'
+        r'["\'][^>]*>(.*?)</a>',
+        html, re.DOTALL | re.IGNORECASE
+    )
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    for url_pdf, text in entries:
+        nombre = re.sub(r'<[^>]+>', '', text).strip()
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10:
+            continue
+        # Remove trailing period
+        nombre = nombre.rstrip(".")
+
+        # Skip "Tablas de Valores" (not laws)
+        if "Tablas de Valores" in nombre:
+            continue
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "ultima_reforma": "",
+            "estado_vigencia": "vigente",
+            "fuente": "congresoqroo.gob.mx",
+        })
+
+    log.info(f"  Quintana Roo total: {len(leyes)} documentos")
+    return leyes
+
+
 # ══════════════════════════════════════════════
 # REGISTRO DE SCRAPERS DISPONIBLES
 # ══════════════════════════════════════════════
 
 SCRAPERS: dict[str, callable] = {
-    "guanajuato": scrape_guanajuato,
-    "nuevoleon":  scrape_nuevoleon,
-    "edomex":     scrape_edomex,
-    "federal":    scrape_federal,
+    "guanajuato":     scrape_guanajuato,
+    "nuevoleon":      scrape_nuevoleon,
+    "edomex":         scrape_edomex,
+    "federal":        scrape_federal,
+    "tamaulipas":     scrape_tamaulipas,
+    "chihuahua":      scrape_chihuahua,
+    "durango":        scrape_durango,
+    "tabasco":        scrape_tabasco,
+    "oaxaca":         scrape_oaxaca,
+    "bajacalifornia": scrape_bajacalifornia,
+    "yucatan":        scrape_yucatan,
+    "quintanaroo":    scrape_quintanaroo,
 }
 
 

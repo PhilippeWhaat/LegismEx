@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "tamaulipas_administracin_bienes_asegurados_decomisados_abandonados_tamaulipas",
+    "nombre": "AdministraciÃ³n de Bienes Asegurados, Decomisados o Abandonados del Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=259",
+    "ultima_reforma": "2021-07-14",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_adopciones_tamaulipas_ley",
+    "nombre": "Adopciones para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=278",
+    "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_adquisiciones_administracin_pblica_tamaulipas_ley",
+    "nombre": "Adquisiciones para la AdministraciÃ³n PÃºblica del Estado de Tamaulipas y sus Municipios, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=203",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_aguas_tamaulipas_ley",
+    "nombre": "Aguas del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=4",
+    "ultima_reforma": "2026-02-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_amnista_tamaulipas_ley",
+    "nombre": "AmnistÃ­a del Estado de Tamaulipas, Ley",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=309",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_archivos_tamaulipas_ley",
+    "nombre": "Archivos para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=319",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_aseguramiento_administracin_enajenacin_disposicin_final_vehculos",
+    "nombre": "Aseguramiento, AdministraciÃ³n, EnajenaciÃ³n y DisposiciÃ³n Final de VehÃ­culos Automotores, Accesorios o Componentes Abandonados para el Estado de Tamaulipas, Ley que regula el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=238",
+    "ultima_reforma": "2024-12-21",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_asentamientos_humanos_ordenamiento_territorial_desarrollo_urbano",
+    "nombre": "Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=298",
+    "ultima_reforma": "2026-03-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_asociaciones_pblico_privadas_tamaulipas_ley",
+    "nombre": "Asociaciones PÃºblico Privadas para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=288",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_atencin_a_vctimas_tamaulipas_ley",
+    "nombre": "AtenciÃ³n a VÃ­ctimas para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=277",
+    "ultima_reforma": "2026-03-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_atencinproteccin_e_inclusin_personas_condicin_espectro",
+    "nombre": "AtenciÃ³n,ProtecciÃ³n e InclusiÃ³n de las Personas con la CondiciÃ³n del Espectro Autista y Trastornos del Neurodesarrollo para el Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=268",
+    "ultima_reforma": "2026-02-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_bandos_polica_buen_gobierno_tamaulipas_ley",
+    "nombre": "Bandos de PolicÃ­a y Buen Gobierno para el Estado de Tamaulipas, Ley que Establece las bases Normativas en materia de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=33",
+    "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_bibliotecas_pblicas_tamaulipas_ley",
+    "nombre": "Bibliotecas PÃºblicas del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=261",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_bienes_tamaulipas_ley",
+    "nombre": "Bienes del Estado y Municipios de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=7",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_cambio_climtico_tamaulipas_ley",
+    "nombre": "Cambio ClimÃ¡tico para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=285",
+    "ultima_reforma": "2024-10-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_caminos_tamaulipas_ley",
+    "nombre": "Caminos del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=180",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_catastro_tamaulipas_ley",
+    "nombre": "Catastro para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=9",
+    "ultima_reforma": "2025-12-18",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_centros_atencin_infantil_tamaulipas_ley",
+    "nombre": "Centros de AtenciÃ³n Infantil del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=239",
+    "ultima_reforma": "2021-09-08",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_colegio_tamaulipas_ley",
+    "nombre": "Colegio de Tamaulipas, Ley de el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=27",
+    "ultima_reforma": "2019-08-20",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_comisin_derechos_humanos_tamaulipas_ley",
+    "nombre": "ComisiÃ³n de Derechos Humanos del Estado de Tamaulipas, Ley de la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=10",
+    "ultima_reforma": "2025-06-03",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_conciliacin_arbitraje_mdico_tamaulipas_ley",
+    "nombre": "ConciliaciÃ³n y Arbitraje MÃ©dico para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=205",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_coordinacin_fiscal_tamaulipas_ley",
+    "nombre": "CoordinaciÃ³n Fiscal del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=12",
+    "ultima_reforma": "2026-02-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_cultura_fsica_deporte_tamaulipas_ley",
+    "nombre": "Cultura FÃ­sica y Deporte para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=237",
+    "ultima_reforma": "2024-08-21",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_defensora_pblica_tamaulipas_ley",
+    "nombre": "DefensorÃ­a PÃºblica para el Estado de Tamaulipas, Ley de la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=223",
+    "ultima_reforma": "2023-11-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_derechos_personas_adultas_mayores_tamaulipas_ley",
+    "nombre": "Derechos de las Personas Adultas Mayores en el Estado de Tamaulipas, Ley de Los",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=16",
+    "ultima_reforma": "2025-10-08",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_derechos_personas_discapacidad_tamaulipas_ley",
+    "nombre": "Derechos de las Personas con Discapacidad del Estado de Tamaulipas, Ley de los",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=275",
+    "ultima_reforma": "2023-09-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_derechos_personas_jvenes_tamaulipas_ley",
+    "nombre": "Derechos de las Personas JÃ³venes del Estado de Tamaulipas, Ley de los",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=315",
+    "ultima_reforma": "2026-03-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_derechos_nias_nios_adolescentes_tamaulipas_ley",
+    "nombre": "Derechos de NiÃ±as, NiÃ±os y Adolescentes del Estado de Tamaulipas, Ley de los",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=263",
+    "ultima_reforma": "2026-02-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_derechos_contribuyente_tamaulipas_ley",
+    "nombre": "Derechos del Contribuyente del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=17",
+    "ultima_reforma": "2011-12-20",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_desarrollo_econmico_competitividad_tamaulipas_ley",
+    "nombre": "Desarrollo EconÃ³mico y la Competitividad del Estado de Tamaulipas, Ley para el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=18",
+    "ultima_reforma": "2025-04-08",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_desarrollo_familiar_tamaulipas_ley",
+    "nombre": "Desarrollo Familiar del Estado de Tamaulipas, Ley para el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=19",
+    "ultima_reforma": "2025-07-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_desarrollo_forestal_sustentable_tamaulipas_ley",
+    "nombre": "Desarrollo Forestal Sustentable para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=20",
+    "ultima_reforma": "2021-09-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_desarrollo_rural_sustentable_tamaulipas_ley",
+    "nombre": "Desarrollo Rural Sustentable del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=217",
+    "ultima_reforma": "2025-06-18",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_desarrollo_social_tamaulipas_ley",
+    "nombre": "Desarrollo Social para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=21",
+    "ultima_reforma": "2025-11-26",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_deteccin_oportuna_cncer_infancia_adolescencia_tamaulipas",
+    "nombre": "DetecciÃ³n Oportuna del CÃ¡ncer en la Infancia y la Adolescencia en el Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=310",
+    "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_deuda_pblica_estatal_municipal_tamaulipas_ley",
+    "nombre": "Deuda PÃºblica Estatal y Municipal de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=23",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_educacin_tamaulipas_ley",
+    "nombre": "EducaciÃ³n para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=314",
+    "ultima_reforma": "2025-11-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_ejercicio_profesional_tamaulipas_ley",
+    "nombre": "Ejercicio Profesional en el Estado de Tamaulipas, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=26",
+    "ultima_reforma": "2022-04-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_electoral_tamaulipas_ley",
+    "nombre": "Electoral del Estado de Tamaulipas, Ley",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=262",
+    "ultima_reforma": "2025-04-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_entidades_paraestatales_tamaulipas_ley",
+    "nombre": "Entidades Paraestatales del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=221",
+    "ultima_reforma": "2025-09-25",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_entregarecepcin_recursos_asignados_a_poderes_rganos",
+    "nombre": "Entrega-RecepciÃ³n de los Recursos Asignados a los Poderes, Ãrganos y Ayuntamientos del Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=28",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_escudo_himno_tamaulipas_ley_sobre",
+    "nombre": "Escudo y el Himno de Tamaulipas, Ley sobre el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=31",
+    "ultima_reforma": "2024-12-11",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_espectculos_taurinos_tamaulipas_ley_regula_celebracin",
+    "nombre": "EspectÃ¡culos Taurinos en el Estado de Tamaulipas, Ley que regula la CelebraciÃ³n de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=91",
+    "ultima_reforma": "2016-12-21",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_expediente_clnico_electrnico_tamaulipas_ley",
+    "nombre": "Expediente ClÃ­nico ElectrÃ³nico en Tamaulipas, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=226",
+    "ultima_reforma": "2016-12-21",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_expropiacin_ocupacin_temporal_limitacin_dominio_tamaulipas",
+    "nombre": "ExpropiaciÃ³n, OcupaciÃ³n Temporal o LimitaciÃ³n de Dominio para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=37",
+    "ultima_reforma": "2023-07-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_firma_electrnica_avanzada_tamaulipas_ley",
+    "nombre": "Firma ElectrÃ³nica Avanzada para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=225",
+    "ultima_reforma": "2025-05-22",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fiscalizacin_rendicin_cuentas_tamaulipas_ley",
+    "nombre": "FiscalizaciÃ³n y RendiciÃ³n de Cuentas del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=282",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fomentar_donacin_altruista_artculos_primera_necesidad",
+    "nombre": "Fomentar la DonaciÃ³n Altruista de ArtÃ­culos de Primera Necesidad del Estado de Tamaulipas, Ley para",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=39",
+    "ultima_reforma": "2017-08-17",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fomento_a_cultura_tamaulipas_ley",
+    "nombre": "Fomento a la Cultura para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=210",
+    "ultima_reforma": "2025-06-19",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fomento_a_investigacin_cientfica_tecnolgica_tamaulipas",
+    "nombre": "Fomento a la InvestigaciÃ³n CientÃ­fica y TecnolÃ³gica en el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=40",
+    "ultima_reforma": "2025-03-13",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fomento_a_actividades_organizaciones_sociedad_civil",
+    "nombre": "Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=41",
+    "ultima_reforma": "2021-07-14",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fomento_apicultura_tamaulipas_ley",
+    "nombre": "Fomento de la Apicultura en el Estado de Tamaulipas, Ley para el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=42",
+    "ultima_reforma": "2016-12-21",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fomento_desarrollo_artesanal_tamaulipas_ley",
+    "nombre": "Fomento y Desarrollo Artesanal del Estado de Tamaulipas, Ley para el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=43",
+    "ultima_reforma": "2025-11-26",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fomento_desarrollo_fruticultura_tamaulipas_ley",
+    "nombre": "Fomento y Desarrollo de la Fruticultura en el Estado de Tamaulipas, Ley para el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=44",
+    "ultima_reforma": "2016-12-21",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fomento_aprovechamiento_sustentable_energa_tamaulipas_ley",
+    "nombre": "Fomento y el Aprovechamiento Sustentable de la EnergÃ­a en el Estado de Tamaulipas, Ley para el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=307",
+    "ultima_reforma": "2021-09-23",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fomento_uso_bicicleta_tamaulipas_ley",
+    "nombre": "Fomento y Uso de la Bicicleta en el Estado de Tamaulipas, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=274",
+    "ultima_reforma": "2018-10-30",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_fraccionamiento_latifundios_ley",
+    "nombre": "Fraccionamiento de Latifundios, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=45",
+    "ultima_reforma": "2004-04-20",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_ganadera_tamaulipas_ley",
+    "nombre": "GanaderÃ­a para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=316",
+    "ultima_reforma": "2026-02-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_gasto_pblico_ley",
+    "nombre": "Gasto PÃºblico, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=47",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_hacienda_tamaulipas_ley",
+    "nombre": "Hacienda para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=48",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_igualdad_gnero_tamaulipas_ley",
+    "nombre": "Igualdad de GÃ©nero en Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=293",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_informacin_geogrfica_estadstica_tamaulipas_ley",
+    "nombre": "InformaciÃ³n GeogrÃ¡fica y EstadÃ­stica del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=50",
+    "ultima_reforma": "2016-12-21",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_infraestructura_fsica_educativa_tamaulipas_ley",
+    "nombre": "Infraestructura FÃ­sica Educativa para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=187",
+    "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_instituciones_asistencia_social_tamaulipas_ley",
+    "nombre": "Instituciones de Asistencia Social para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=51",
+    "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_instituto_previsin_seguridad_social_tamaulipas_ley",
+    "nombre": "Instituto de PrevisiÃ³n y Seguridad Social del Estado de Tamaulipas, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=240",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_integracin_operatividad_sociedades_mutualistas_tamaulipas_ley",
+    "nombre": "IntegraciÃ³n y Operatividad de las Sociedades Mutualistas para el Estado de Tamaulipas, Ley que regula la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=53",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_materia_desaparicin_bsqueda_personas_tamaulipas_ley",
+    "nombre": "Materia de DesapariciÃ³n y BÃºsqueda de Personas del Estado de Tamaulipas, Ley en",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=327",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_mediacin_tamaulipas_ley",
+    "nombre": "MediaciÃ³n para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=58",
+    "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_medios_impugnacin_electorales_tamaulipas_ley",
+    "nombre": "Medios de ImpugnaciÃ³n Electorales de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=182",
+    "ultima_reforma": "2025-11-14",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_movilidad_tamaulipas_ley",
+    "nombre": "Movilidad del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=311",
+    "ultima_reforma": "2026-03-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_notariado_tamaulipas_ley",
+    "nombre": "Notariado para el Estado de Tamaulipas, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=61",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_obras_pblicas_servicios_relacionados_mismas_tamaulipas",
+    "nombre": "Obras PÃºblicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=62",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_operacin_funcionamiento_establecimientos_bebidas_alcohlicas_tamaulipas",
+    "nombre": "OperaciÃ³n y Funcionamiento de Establecimientos de Bebidas AlcohÃ³licas para el Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=318",
+    "ultima_reforma": "2025-12-16",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_orgnica_administracin_pblica_tamaulipas_ley",
+    "nombre": "OrgÃ¡nica de la AdministraciÃ³n PÃºblica del Estado de Tamaulipas, Ley",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=312",
+    "ultima_reforma": "2025-11-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_orgnica_fiscala_general_justicia_tamaulipas_ley",
+    "nombre": "OrgÃ¡nica de la FiscalÃ­a General de Justicia del Estado de Tamaulipas, Ley",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=302",
+    "ultima_reforma": "2025-12-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_orgnica_centro_conciliacin_laboral_tamaulipas_ley",
+    "nombre": "OrgÃ¡nica del Centro de ConciliaciÃ³n Laboral del Estado de Tamaulipas, Ley",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=308",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_orgnica_poder_judicial_tamaulipas_ley",
+    "nombre": "OrgÃ¡nica del Poder Judicial del Estado de Tamaulipas, Ley",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=321",
+    "ultima_reforma": "2026-03-03",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_orgnica_tribunal_justicia_administrativa_tamaulipas_ley",
+    "nombre": "OrgÃ¡nica del Tribunal de Justicia Administrativa del Estado de Tamaulipas, Ley",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=280",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_organizacin_funcionamiento_internos_congreso_libre_soberano",
+    "nombre": "OrganizaciÃ³n y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, Ley sobre la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=64",
+    "ultima_reforma": "2026-03-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_participacin_ciudadana_ley",
+    "nombre": "ParticipaciÃ³n Ciudadana del Estado, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=65",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_paternidad_maternidad_responsable_tamaulipas_ley",
+    "nombre": "Paternidad y Maternidad Responsable del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=66",
+    "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_patrimonio_histrico_cultural_ley",
+    "nombre": "Patrimonio HistÃ³rico y Cultural del Estado, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=67",
+    "ultima_reforma": "2023-07-19",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_peridico_oficial_tamaulipas_ley",
+    "nombre": "PeriÃ³dico Oficial del Estado de Tamaulipas, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=68",
+    "ultima_reforma": "2023-12-20",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_pesca_acuacultura_sustentables_tamaulipas_ley",
+    "nombre": "Pesca y Acuacultura Sustentables del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=209",
+    "ultima_reforma": "2026-02-17",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_planeacin_ley_estatal",
+    "nombre": "PlaneaciÃ³n, Ley Estatal de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=35",
+    "ultima_reforma": "2023-12-07",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_premios_estmulos_recompensas_tamaulipas_ley",
+    "nombre": "Premios, EstÃ­mulos y Recompensas del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=70",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_prestacin_servicio_pblico_panteones_tamaulipas_ley",
+    "nombre": "PrestaciÃ³n del Servicio PÃºblico de Panteones en el Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=89",
+    "ultima_reforma": "2025-10-23",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_prevencin_violencia_entorno_escolar_tamaulipas_ley",
+    "nombre": "PrevenciÃ³n de la Violencia en el entorno Escolar del Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=231",
+    "ultima_reforma": "2025-11-25",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_prevencin_violencia_familiar_tamaulipas_ley",
+    "nombre": "PrevenciÃ³n de la Violencia Familiar del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=174",
+    "ultima_reforma": "2023-10-25",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_prevencin_atencin_socioeconmica_violencias_tamaulipas_ley",
+    "nombre": "PrevenciÃ³n y AtenciÃ³n SocioeconÃ³mica de las Violencias del Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=287",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_prevencin_mitigacin_e_identificacin_riesgos_responsabilidades",
+    "nombre": "PrevenciÃ³n, MitigaciÃ³n e IdentificaciÃ³n de Riesgos y Responsabilidades referente a Infraestructura EnergÃ©tica existente, para prever la Seguridad y ProtecciÃ³n de la PoblaciÃ³n que habita en el Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=324",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_prevenir_tortura_otros_tratos_penas_crueles",
+    "nombre": "Prevenir la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes en el Estado de Tamaulipas, Ley para",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=317",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_prevenir_erradicar_discriminacin_tamaulipas_ley",
+    "nombre": "Prevenir y Erradicar la DiscriminaciÃ³n en el Estado de Tamaulipas, Ley para",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=74",
+    "ultima_reforma": "2026-01-16",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_prevenir_atender_sancionar_erradicar_violencia_contra",
+    "nombre": "Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, Ley para",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=73",
+    "ultima_reforma": "2026-02-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_prevenir_investigar_sancionar_delitos_materia_extorsin",
+    "nombre": "Prevenir, Investigar y Sancionar los Delitos en Materia de ExtorsiÃ³n del Estado de Tamaulipas, Ley para",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=325",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_procedimiento_administrativo_tamaulipas_vigente_a_partir",
+    "nombre": "Procedimiento Administrativo para el Estado de Tamaulipas (vigente a partir del 6 de julio de 2017), Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=283",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_procedimiento_contencioso_administrativo_tamaulipas_ley",
+    "nombre": "Procedimiento Contencioso Administrativo del Estado de Tamaulipas, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=284",
+    "ultima_reforma": "2023-10-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_promocin_a_lectura_creacin_libros_tamaulipas",
+    "nombre": "PromociÃ³n a la Lectura y CreaciÃ³n de Libros para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=233",
+    "ultima_reforma": "2017-12-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_promocin_humanismo_valores_cultura_legalidad_tamaulipas",
+    "nombre": "PromociÃ³n del Humanismo, los Valores y la Cultura de la Legalidad del Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=232",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_proteccin_a_animales_tamaulipas_ley",
+    "nombre": "ProtecciÃ³n a los Animales para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=204",
+    "ultima_reforma": "2026-02-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_proteccin_civil_tamaulipas_ley",
+    "nombre": "ProtecciÃ³n Civil para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=1328",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_proteccin_datos_personales_posesin_sujetos_obligados",
+    "nombre": "ProtecciÃ³n de Datos Personales en PosesiÃ³n de los Sujetos Obligados del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=322",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_proteccin_personas_defensoras_derechos_humanos_periodistas",
+    "nombre": "ProtecciÃ³n de Personas Defensoras de Derechos Humanos y Periodistas para el Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=289",
+    "ultima_reforma": "2021-07-14",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_proteccin_personas_intervienen_procedimiento_penal_tamaulipas",
+    "nombre": "ProtecciÃ³n de Personas que Intervienen en el Procedimiento Penal del Estado de Tamaulipas, Ley para la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=260",
+    "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_proteccin_no_fumadores_tamaulipas_ley",
+    "nombre": "ProtecciÃ³n para los No Fumadores del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=79",
+    "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_rgimen_propiedad_condominio_bienes_inmuebles_tamaulipas",
+    "nombre": "RÃ©gimen de Propiedad en Condominio de Bienes Inmuebles para el Estado de Tamaulipas, Ley sobre el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=80",
+    "ultima_reforma": "2021-12-21",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_registro_pblico_propiedad_inmueble_comercio_ley",
+    "nombre": "Registro PÃºblico de la Propiedad Inmueble y del Comercio, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=166",
+    "ultima_reforma": "2024-02-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_registro_acreditacin_agentes_profesionales_inmobiliarios_tamaulipas",
+    "nombre": "Registro y AcreditaciÃ³n de los Agentes y Profesionales Inmobiliarios del Estado de Tamaulipas, Ley para el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=271",
+    "ultima_reforma": "2016-12-21",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_reglamentaria_oficinas_registro_civil_tamaulipas_ley",
+    "nombre": "Reglamentaria de las Oficinas del Registro Civil del Estado de Tamaulipas, Ley",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=63",
+    "ultima_reforma": "2023-09-22",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_regular_apertura_instalacin_funcionamiento_casas_empeo",
+    "nombre": "Regular la Apertura, InstalaciÃ³n y Funcionamiento de las Casas de EmpeÃ±o en el Estado de Tamaulipas, Ley para",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=297",
+    "ultima_reforma": "2024-12-20",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_responsabilidad_patrimonial_tamaulipas_ley",
+    "nombre": "Responsabilidad Patrimonial del Estado de Tamaulipas y sus Municipios, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=83",
+    "ultima_reforma": "2025-09-29",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_responsabilidades_administrativas_tamaulipas_ley",
+    "nombre": "Responsabilidades Administrativas del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=281",
+    "ultima_reforma": "2026-02-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_responsabilidades_servidores_pblicos_tamaulipas_ley",
+    "nombre": "Responsabilidades de los Servidores PÃºblicos del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=84",
+    "ultima_reforma": "2023-08-23",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_salud_tamaulipas_ley",
+    "nombre": "Salud para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=85",
+    "ultima_reforma": "2026-03-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_seguridad_escolar_tamaulipas_ley",
+    "nombre": "Seguridad Escolar para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=177",
+    "ultima_reforma": "2024-10-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_seguridad_pblica_tamaulipas_ley",
+    "nombre": "Seguridad PÃºblica para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=306",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_servicios_privados_seguridad_tamaulipas_ley_regular",
+    "nombre": "Servicios Privados de Seguridad en el Estado de Tamaulipas, Ley para regular los",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=88",
+    "ultima_reforma": "2024-09-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_sistema_seguridad_pblica_tamaulipas_ley",
+    "nombre": "Sistema de Seguridad PÃºblica del Estado de Tamaulipas, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=326",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_sistema_estatal_anticorrupcin_tamaulipas_ley",
+    "nombre": "Sistema Estatal AnticorrupciÃ³n de Tamaulipas, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=279",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_sistema_estatal_asistencia_social_ley_sobre",
+    "nombre": "Sistema Estatal de Asistencia Social, Ley Sobre el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=90",
+    "ultima_reforma": "2026-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_trabajo_servidores_pblicos_tamaulipas_ley",
+    "nombre": "Trabajo de los Servidores PÃºblicos del Estado de Tamaulipas, Ley del",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=92",
+    "ultima_reforma": "2026-03-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_trnsito_ley",
+    "nombre": "TrÃ¡nsito, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=93",
+    "ultima_reforma": "2026-02-17",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_transparencia_acceso_a_informacin_pblica_tamaulipas",
+    "nombre": "Transparencia y Acceso a la InformaciÃ³n PÃºblica del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=323",
+    "ultima_reforma": "2026-01-16",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_transporte_tamaulipas_ley",
+    "nombre": "Transporte del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=95",
+    "ultima_reforma": "2023-11-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_trata_personas_tamaulipas_ley_prevenir_combatir",
+    "nombre": "Trata de Personas en el Estado de Tamaulipas, Ley para Prevenir, Combatir y Sancionar la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=201",
+    "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_turismo_tamaulipas_ley",
+    "nombre": "Turismo del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=236",
+    "ultima_reforma": "2025-11-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_universidad_autnoma_tamaulipas_ley_constitutiva",
+    "nombre": "Universidad AutÃ³noma de Tamaulipas, Ley Constitutiva de la",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=11",
+    "ultima_reforma": "2023-02-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_valuacin_tamaulipas_ley",
+    "nombre": "ValuaciÃ³n del Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=202",
+    "ultima_reforma": "2018-07-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_vivienda_tamaulipas_ley",
+    "nombre": "Vivienda para el Estado de Tamaulipas, Ley de",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=228",
+    "ultima_reforma": "2025-06-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  }
+]

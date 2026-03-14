@@ -1,0 +1,2152 @@
+[
+  {
+    "id": "oaxaca_constitucion_politica_libre_soberano_oaxaca",
+    "nombre": "Constitución Política del Estado Libre y Soberano de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Constitucion_Politica_del_Estado_Libre_y_Soberano_de_Oaxaca_(Dto_ref_774_aprob_LXVI_legis_23_sep_2025_PO_40_IX_secc_4_oc_2025).pdf",
+    "ultima_reforma": "2025-10-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_codigo_civil_oaxaca",
+    "nombre": "Código Civil para el Estado de Oaxaca.",
+    "tipo": "Código",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Civil_del_Estado_de_Oaxaca_(Ref_dto_874_aprob_LXVI_Legis_2_dic_2025_PO_50_16a_secc_13_dic_2025).pdf",
+    "ultima_reforma": "2026-12-13",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_codigo_procedimientos_civiles_oaxaca",
+    "nombre": "Código de Procedimientos Civiles para el Estado de Oaxaca.",
+    "tipo": "Código",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_de_Procedimientos_Civiles_para_el_Edo_Oax_(Ref_Dto_2125_aprob_LXIV_Legis_20_ene_2021_PO_11_8a_secc_13_mzo_2021).pdf",
+    "ultima_reforma": "2021-03-13",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_codigo_procedimientos_penales_libre_soberano_oaxaca",
+    "nombre": "Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca.",
+    "tipo": "Código",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/C%c3%b3digo_de_Procedimientos_Penales_(Dto_ref_1372_aprob_10_dic_2015_PO_No_5_30_ene_2016).pdf",
+    "ultima_reforma": "2016-01-30",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_codigo_familiar_oaxaca",
+    "nombre": "Código Familiar para el Estado de Oaxaca",
+    "tipo": "Código",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Familiar_para_el_Estado_de_Oaxaca_(ref_dto_874_aprob_LXVI_Legis_2_dic_2025_PO_50_XVI_seccion_13_diciembre_2025).pdf",
+    "ultima_reforma": "2025-12-13",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_codigo_fiscal_municipal_oaxaca",
+    "nombre": "Código Fiscal Municipal del Estado de Oaxaca",
+    "tipo": "Código",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Fiscal_Municipal_(ref_dto_2756_aprob_LXIV_Legis_22_sep_2021_PO_42_4a_secc_16_oct_2021).pdf",
+    "ultima_reforma": "2021-10-16",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_codigo_fiscal_oaxaca",
+    "nombre": "Código Fiscal para el Estado de Oaxaca.",
+    "tipo": "Código",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Fiscal_para_el_Estado_de_Oaxaca_(Dto_ref_887_aprob_LXVI_Legis_8_dic_2025_PO_Extra_10_dic_2025).pdf",
+    "ultima_reforma": "2025-12-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_codigo_penal_libre_soberano_oaxaca",
+    "nombre": "Código Penal para el Estado Libre y Soberano de Oaxaca.",
+    "tipo": "Código",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Codigo_Penal_para_el_Edo_de_Oax_(_Ref_dto_769_aprob_LXVI_Legis_18_sep_2025_PO_41_8a_secc_11_oct_2025).pdf",
+    "ultima_reforma": "2025-10-11",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_codigo_procesal_penal_oaxaca",
+    "nombre": "Código Procesal Penal para el Estado de Oaxaca.",
+    "tipo": "Código",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/procesal%2bpenal.pdf",
+    "ultima_reforma": "2015-08-31",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_decreto_establece_bases_factores_distribucion_montos",
+    "nombre": "Decreto que establece las bases, factores de distribución, montos estimados y plazos para el pago de participaciones fiscales federales a los municipios del Estado de Oaxaca, para el ejercicio fiscal 2015.",
+    "tipo": "Decreto",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Decreto_que_establece_las_bases__factores_de_distribuci%c3%b3n__montos_estimados_y_plazos_para_el_pago_de_participaciones_fiscales_federales_.pdf",
+    "ultima_reforma": "2005-03-22",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_adopciones_oaxaca",
+    "nombre": "Ley de Adopciones del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Adopciones_del_Estado_de_Oaxaca_(dto_ref_620_LXV_Legis_aprob_6_jul_2022_PO_31_9a_secc_30_jul_2022).pdf",
+    "ultima_reforma": "2022-07-30",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_adquisiciones_enajenaciones_arrendamientos_prestacion_servicios",
+    "nombre": "Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Adq_enaj_arrend_prest_serv_admon_bienes_muebles_e_inmuebles_(Ref_dto_1865_LXV_Legis_28_febrero_2024_PO_11_10a_secc_16_marzo_2024).pdf",
+    "ultima_reforma": "2024-03-16",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_agua_potable_alcantarillado_oaxaca",
+    "nombre": "Ley de Agua Potable y Alcantarillado para Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Agua_Potable_y_Alcantarillado_para_el_Estado_de_Oaxaca_(Ref_dto_2289_LXV_legis_13_junio_2024_PO_27_11a_secc_6_julio_2024).pdf",
+    "ultima_reforma": "2024-07-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_amnistia_oaxaca_1978",
+    "nombre": "Ley de Amnistía para el Estado de Oaxaca (1978).",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Amnist%c3%ada_para_el_Estado_de_Oaxaca_(1978)..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_amnistia_oaxaca_2001",
+    "nombre": "Ley de Amnistía para el Estado de Oaxaca (2001).",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Amnist%c3%ada_para_el_Estado_de_Oaxaca_(2001)..pdf",
+    "ultima_reforma": "2001-03-31",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_archivos_oaxaca",
+    "nombre": "Ley de Archivos para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Archivos_para_el_Estado_de_Oaxaca_(Ref_dto_1718_aprob_LXV_Legis_31_enero_2024_PO_6_7a_secc_10_feb_2024).pdf",
+    "ultima_reforma": "2024-02-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_asistencia_prevencion_violencia_familiar",
+    "nombre": "Ley de Asistencia y Prevención de la Violencia Familiar.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Asistencia_y_Prevencion_de_la_Violencia_Familiar_(ref_dto_1926_aprob_6_marzo_2024_PO_Extra_8_marzo_2024).pdf",
+    "ultima_reforma": "2024-03-08",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_bienes_pertenecientes_oaxaca",
+    "nombre": "Ley de Bienes Pertenecientes al Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Bienes_Pertenecientes_al_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "2017-12-11",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_cambio_climatico_oaxaca",
+    "nombre": "Ley de Cambio Climático para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Cambio_Climatico_para_el_Estado_de_Oaxaca_(Ref_Dto_721_aprob_LXVI_Legis_23_julio_2025_PO_35_9a_Secc_30_agosto_2025).pdf",
+    "ultima_reforma": "2025-08-30",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_caminos_aeropistas_oaxaca",
+    "nombre": "Ley de Caminos y Aeropistas de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Caminos_y_Aeropistas_de_Oaxaca_(Ref_Dto_2326_aprob_LXV_Legis_3_julio_2024_PO_Extra_3_julio_2024).pdf",
+    "ultima_reforma": "2024-07-03",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_caminos_carreteras_puentes_oaxaca",
+    "nombre": "Ley de Caminos, Carreteras y Puentes para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Caminos_Carreteras_y_Puentes_para_el_Estado_de_Oaxaca_(Dto_ref_682_aprob_LXVI_legis_10_junio_2025_PO_28_15a_secc_12_julio_2025).pdf",
+    "ultima_reforma": "2025-07-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_catastro_oaxaca",
+    "nombre": "Ley de Catastro para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Catastro_para_el_Estado_de_Oaxaca_(Ref_Dto_708_Aprob_LXVI_Legis_15_julio_2025_PO_Extra_29_julio_2025).pdf",
+    "ultima_reforma": "2025-07-29",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ciencia_tecnologia_e_innovacion_oaxaca",
+    "nombre": "Ley de Ciencia, Tecnología e Innovación para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ciencia_Tecnologia_e_Innovacion_para_el_Estado_de_Oaxaca_(Ref_dto_645_aprob_LXV_Legis_20_jul_2022_PO_34_4a_secc_20_ago_2022).pdf",
+    "ultima_reforma": "2022-08-20",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_consulta_previa_libre_e_informada",
+    "nombre": "Ley de Consulta Previa, Libre e Informada de los Pueblos y Comunidades Indígenas y Afromexicano para el Estado de Oaxaca. (Anotaciones de la Sentencia Resolutiva de la Acción de Inconstitucionalidad 200/2020, promovida por la Comisión Nacional de los Derechos Humanos, de fecha 5 de agosto del 2024)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Consulta_previa_libre_informada_pueblos_y_comunidades_indigenas_y_afromexicanas_para_el_edo_Oax_(Anotaciones_sentencia_resolutiva_SCJN_Accion_Inconstitucionalidad_200_2020_5_ago_2024).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_coordinacion_estatal_zonas_economicas_especiales",
+    "nombre": "Ley de Coordinación Estatal de las Zonas Económicas Especiales.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/234.pdf",
+    "ultima_reforma": "2017-10-07",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_coordinacion_fiscal_oaxaca",
+    "nombre": "Ley de Coordinación Fiscal para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Coordinacion_Fiscal_Para_el_Estado_de_Oaxaca_(Ref_Dto_883_aprob_LXVI_Legis_8_dic_2025_PO_Extra_10_dic_2025).pdf",
+    "ultima_reforma": "2025-12-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_coordinacion_desarrollo_metropolitano_sustentable_oaxaca",
+    "nombre": "Ley de Coordinación para el Desarrollo Metropolitano Sustentable del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Coordinaci%c3%b3n_para_el_Desarrollo_Metropolitano_Sustentable_del_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "2013-11-28",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_coordinacion_fomento_aprovechamiento_sustentable_fuentes",
+    "nombre": "Ley de Coordinación para el Fomento del Aprovechamiento Sustentable de las Fuentes de Energía Renovable en el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Coordinaci%c3%b3n_para_el_Fomento_del_aprovechamiento_sustentable_de_las_fuentes_de_energ%c3%ada_renovable_(ref_dto_1636_aprob_LXIII_Legis_.pdf",
+    "ultima_reforma": "2018-11-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_cultura_fisica_deporte_oaxaca",
+    "nombre": "Ley de Cultura Física y el Deporte para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Cultura_Fisica_y_Deporte_para_el_Estado_de_Oaxaca_(ref_dto_664_aprob_LXVI_Legis_15_abr_2025_PO_24_8a_secc_14_jun_2025.pdf",
+    "ultima_reforma": "2025-06-14",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_derechos_pueblos_comunidades_indigenas_afromexicano",
+    "nombre": "Ley de Derechos de los Pueblos y Comunidades Indígenas y Afromexicano del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Derechos_de_los_Pueblos_y_Comunidades_Indigenas_y_Afromexicano_del_Estado_de_Oaxaca_(Dto_ref_648_aprob_LXVI_Legis_9_abril_2025_PO_17_8a_secc_26_abril_2025).pdf",
+    "ultima_reforma": "2025-04-26",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_desarrollo_cultural_oaxaca",
+    "nombre": "Ley de Desarrollo Cultural para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Desarrollo_Cultural_del_Estado_(Ref_dto_747_aprob_LXVI_Legis_26_agosto_2025_PO_38_8a_secc_20_septiembre_2025).pdf",
+    "ultima_reforma": "2025-09-20",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_desarrollo_forestal_sustentable_oaxaca",
+    "nombre": "Ley de Desarrollo Forestal Sustentable del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Desarrollo_Forestal_Sustentable_del_Estado_de_Oaxaca_(Ref_Dto_734_aprob_LXVI_Legis_5_agosto_2025_PO_36_11a_seccion_6_septiembre_2025).pdf",
+    "ultima_reforma": "2025-09-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_desarrollo_rural_sustentable_oaxaca",
+    "nombre": "Ley de Desarrollo Rural Sustentable del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Desarrollo_Rural_Sustentable_del_Estado_de_Oaxaca_(Ref_dto_141_aprob_LXVI_Legis_28_enero_2025_PO_8_35a_secc_22_febrero_2025).pdf",
+    "ultima_reforma": "2025-02-22",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_deuda_publica_oaxaca",
+    "nombre": "Ley de Deuda Pública para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_deuda_publica_para_el_Estado_de_Oaxaca_(Ref_dto_1610_aprob_LXV_Legis_6_dic_2023_PO_50_6a_secc_16_dic_2023).pdf",
+    "ultima_reforma": "2023-12-16",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_educacion_libre_soberano_oaxaca",
+    "nombre": "Ley de Educación para el Estado Libre y Soberano de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Educacion_para_el_Estado_Libre_y_Soberano_de_Oaxaca_(Dto_ref_454_aprob_LXV_16_feb_2022_PO_14_8a_secc_del_2_abr_2022).pdf",
+    "ultima_reforma": "2018-11-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ejecucion_sanciones_privativas_medidas_restrictivas",
+    "nombre": "Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ejecucion_de_Sanciones_Privativas_y_Medidas_Restrictivas_de_Libertad_para_el_Edo_Oax_(Ref_dto_1467_LXIII_Legis_15_abr_2018_PO_45_.pdf",
+    "ultima_reforma": "2018-11-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_encierros_depositos_vehiculos_oaxaca",
+    "nombre": "Ley de Encierros y Depósitos de Vehículos para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Encierros_y_Depositos_de_Vehiculos_para_el_Edo_de_Oax_(Dto_ref_749_aprob_LXVI_Legis_26_ago_2025_PO_38_8a_secc_20_sep_2025).pdf",
+    "ultima_reforma": "2025-09-20",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_entidades_paraestatales_oaxaca",
+    "nombre": "Ley de Entidades Paraestatales del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Entidades_Paraestatales_del_Estado_de_Oaxaca_(Ref_Dto_1513_aprob_LXV_Legis_16_agosto_2023_PO_Extra_17_agosto_2023).pdf",
+    "ultima_reforma": "2023-08-17",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_entrega_recepcion_recursos_bienes",
+    "nombre": "Ley de Entrega y Recepción de los Recursos y Bienes del Estado",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Entrega_y_Recepcion_de_los_Recursos_y_Bienes_del_Estado_(dto_ref_1451_aprob_LXV_Legis_12_julio_2023_PO_30_8a_Secc_29_julio_2023).pdf",
+    "ultima_reforma": "2023-07-29",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estimulos_recompensas_a_funcionarios_empleados",
+    "nombre": "Ley de Estímulos y Recompensas a los Funcionarios y Empleados del Gobierno del Estado y Maestros Federalizados.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Est%c3%admulos_y_Recompensas_a_los_Funcionarios_y_Empleados_del_Gobierno_del_Estado_y_Maestros_Federalizados..pdf",
+    "ultima_reforma": "1984-11-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_expropiacion_oaxaca",
+    "nombre": "Ley de Expropiación del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Expropiaci%c3%b3n_del_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_firma_electronica_avanzada_oaxaca",
+    "nombre": "Ley de Firma Electrónica Avanzada del Estado de Oaxaca",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Firma_Electronica_Avanzada_del_Estado_de_Oaxaca_(ref_dto_2517_aprob_LXV_Legis_11_nov_2024_PO_Extra_15_nov_2024).pdf",
+    "ultima_reforma": "2024-11-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_fiscalizacion_superior_rendicion_cuentas_oaxaca",
+    "nombre": "Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Fiscalizacion_Superior_y_Rendicion_de_Cuentas_del_Estado_de_Oaxaca_(Ref_dto_707_aprob_LXVI_Legis_8_julio_2025_PO_Extra_9_julio_2025).pdf",
+    "ultima_reforma": "2025-07-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_fomento_a_lactancia_materna_oaxaca",
+    "nombre": "Ley de Fomento a la Lactancia Materna en el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Fomento_a_la_Lactancia_Materna_en_el_Estado_de_Oaxaca_(Ref_dto_709_aprob_LXVI_Legis_15_Julio_2025_PO_32_XI_secc_9_agosto_2025).pdf",
+    "ultima_reforma": "2025-08-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_fomento_a_actividades_artesanales_oaxaca",
+    "nombre": "Ley de Fomento a las Actividades Artesanales del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Fomento_a_las_Actividades_Artesanales_del_Estado_de_Oaxaca_(Ref_dto_1444_LXV_Legis_5_julio_2023_PO_30_8a_secc_29_julio_2023).pdf",
+    "ultima_reforma": "2023-07-29",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_fomento_primer_empleo",
+    "nombre": "Ley de Fomento al Primer Empleo.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Fomento_al_Primer_Empleo_(dto_ref_1561_aprob_LXV_Legis_27_sep_2023_PO_41_8a_secc_14_oct_2023).pdf",
+    "ultima_reforma": "2023-10-14",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_fomento_lectura_escritura_acceso_libro",
+    "nombre": "Ley de Fomento para la lectura, la escritura, el acceso al libro y las bibliotecas (Texto Original mediante el Decreto Num. 2366 aprobado por la LXV Legislatura el 14 agosto del 2024).",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Fomento_para_la_lectura,_la_escritura,_el_acceso_al_libro_y_las_bibliotecas_(Ref_dto_2366_LXV_Legis_14_ago_2024_PO_34_14a_secc_24_ago_2024).pdf",
+    "ultima_reforma": "2024-08-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_fomento_promocion_uso_bicicleta_zonas",
+    "nombre": "Ley de Fomento y Promoción del Uso de la Bicicleta en las Zonas Metropolitanas del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Fomento_y_Promoci%c3%b3n_del_Uso_de_la_Bicicleta_en_las_Zonas_Metropolitanas_del_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_hacienda_municipal_oaxaca",
+    "nombre": "Ley de Hacienda Municipal del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Hacienda_Municipal_del_Estado_de_Oaxaca_(Ref_dto_1449_LXV_Legis_5_julio_2023_PO_28_7a_secc_15_jul_2023).pdf",
+    "ultima_reforma": "2023-07-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_igualdad_entre_mujeres_hombres_oaxaca",
+    "nombre": "Ley de Igualdad entre Mujeres y Hombres para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Igualdad_entre_Mujeres_y_Hombres_para_el_Estado_de_Oaxaca_(Ref_dto_2439_aprob_LXV_Legis_25_sep_2024_PO_41_14a_secc_12_oct_2024).pdf",
+    "ultima_reforma": "2024-10-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_2016",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2016.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ingresos_del_Estado_de_Oaxaca_para_el_Ejercicio_Fiscal_2016..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_2017",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2017.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ingresos_del_Estado_de_Oaxaca_para_el_Ejercicio_Fiscal_2017..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_2018",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2018.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/245.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_2019",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2019.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ingresos_del_Edo_de_Oax_para_el_ejercicio_fiscal_2019_(txt_orig_dto_6_aprob_LXIV_Legis_28_dic_2018_PO_52_2a_secc_29_dic_2018).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_2020",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2020.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley%2bde%2bIngresos%2bdel%2bEstado%2bde%2bOaxaca%2bpara%2bel%2bEjercicio%2bFiscal%2b2020%2b(Txt%2borig%2bdto%2b877%2baprob%2bLXIV%2bLegis%2b10%2bdic%2b2019%2bPO%2bExtra%2b24%2bdic%2b2019).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_2021",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2021.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley%2bde%2bIngresos%2bdel%2bEstado%2bde%2bOaxaca%2bpara%2bel%2bEjercicio%2bFiscal%2b2021%2b(txt%2borig%2bdto%2b1803%2baprob%2bLXIV%2b10%2bdic%2b2020%2bPO%2b52%2b3a%2bsecc%2b26%2bdic%2b2020).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_2022",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2022.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ingresos_del_Estado_de_Oaxaca_(Txt_orig_dto_6_aprob_LXV_legis_9_dic_2021_PO_51_16a_secc_18_dic_2021).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_2023",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2023.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ingresos_del_Estado_de_Oaxaca_para_el_ejercicio_fiscal_2023_(txt_orig_dto_751_LXV_Legis_14_dic_2022_PO_Extra_15_dic_2022).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_2024",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2024.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ingresos_del_Estado_de_Oaxaca_para_el_ejercicio_fiscal_2024_(Dto_ref_1934_aprob_LXV_Legis_6_marzo_2024_PO_Extra_26_marzo_2024).pdf",
+    "ultima_reforma": "2024-03-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_2025texto",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 2025.(Texto original mediante el Decreto Num. 21 aprobado por la LXVI Legislatura el 10 de diciembre del 2024.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ingresos_del_Estado_de_Oaxaca_para_el_Ejercicio_Fiscal_2025_(txt_orig_dto_14_aprob_LXVI_Legis_10_dic_2024_PO_51_5a_secc_21_dic_2024).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ingresos_oaxaca_ejercicio_fiscal_20256texto",
+    "nombre": "Ley de Ingresos del Estado de Oaxaca para el Ejercicio Fiscal 20256.(Texto original mediante el Decreto Num. 880 aprobado por la LXVI Legislatura el 08 de diciembre del 2025.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ingresos_del_Estado_de_Oaxaca_para_el_ejercicio_fiscal_2025_(Txt_orig_dto_880_aprob_LXVI_Legis_8_dic_2025_PO_Extra_10_dic_2025).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_instituciones_procedimientos_electorales_oaxaca",
+    "nombre": "Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Instituciones_y_Procedimientos_Electorales_de_Oaxaca_(Dto_Ref_1226_aprob_LXV_Legis_4_abril_2023_PO_16_28a_secc_22_abr_2023).pdf",
+    "ultima_reforma": "2023-04-22",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_juicio_politico_oaxaca",
+    "nombre": "Ley de Juicio Político del Estado de Oaxaca",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/241.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_justicia_fiscalizacion_rendicion_cuentas_oaxaca",
+    "nombre": "Ley de Justicia de Fiscalización y Rendición de Cuentas para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Justicia_de_Fiscalizaci%c3%b3n_y_Rendici%c3%b3n_de_Cuentas_para_el_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "2015-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_justicia_adolescentes_oaxaca",
+    "nombre": "Ley de Justicia para Adolescentes del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Justicia_para_Adolescentes_(Reforma_decreto_2532_aprob_LXIV_Legis_21_jul_2021_PO_35_8a_secc_28_ago_2021).pdf",
+    "ultima_reforma": "2021-08-28",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_casa_cultura_oaxaquena",
+    "nombre": "Ley de la Casa de la Cultura Oaxaqueña.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_la_Casa_de_la_Cultura_Oaxaqueña_(Ref_dto_733_aprob_LXVI_Legis_5_ago_2025_PO_Extra_1_sep_2025).pdf",
+    "ultima_reforma": "2005-09-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_corporacion_oaxaquena_radio_television",
+    "nombre": "Ley de la Corporación Oaxaqueña de Radio y Televisión.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_deLey_de_la_Corporacion_Oaxaqueña_de_Radio_y_Television_(Dto_Ref_735_Aprob_LXVI_Legis_5_agosto_2025_PO_36_11a_secc_6_septiembre_2025).pdf",
+    "ultima_reforma": "2025-09-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_defensoria_derechos_humanos_pueblo_oaxaca",
+    "nombre": "Ley de la Defensoria de los Derechos Humanos del Pueblo de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_la_Defensoria_Derechos_Humanos_del_Pueblo_de_Oaxaca_(Ref_dto_636_aprob_LXVI_Legis_9_abril_2025_PO_17_8a_Secc_26_abril_2025).pdf",
+    "ultima_reforma": "2025-04-26",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_defensoria_publica_oaxaca",
+    "nombre": "Ley de la Defensoría Pública del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_la_Defensoria_Publica_del_Estado_de_Oaxaca_(Ref_dto_2889_aprob_LXIV_Legis_22_oct_2021_PO_49_6a_secc_4_dic_2021).pdf",
+    "ultima_reforma": "2021-12-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_prevencion_social_violencia_delincuencia_oaxaca",
+    "nombre": "Ley de la Prevención Social de la Violencia y la Delincuencia en el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_la_Prevencion_Social_de_la_Violencia_y_la_Delincuencia_en_el_Estado_de_Oaxaca_(Dto_ref_1592_LXV_Legis_27_septiembre_2023_PO_43_6a_secc_28_oct_2023).pdf",
+    "ultima_reforma": "2023-10-28",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_unidad_medida_actualizacion_oaxaca",
+    "nombre": "Ley de la Unidad de Medida y Actualización del Estado de Oaxaca",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/260.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_personas_jovenes_oaxaca",
+    "nombre": "Ley de las Personas Jóvenes del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_las_Personas_Jovenes_del_Estado_de_Oaxaca_(Ref_Dto_2314_aprob_LXV_Legis_13_junio_2024_PO_27_11a_Secc_del_6_julio_2024).pdf",
+    "ultima_reforma": "2024-07-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_cuidados_paliativos_enfermos_no_curables",
+    "nombre": "Ley de los Cuidados Paliativos para los Enfermos No Curables o en Situación Terminal del Estado Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_los_Cuidados_Paliativos_para_los_enfermos_no_curables_o_en_situacion_terminal_del_Estado_de_Oaxaca_(Ref_Dto_614_aprob_LXV_Legis_13_abr_2022_PO_20_Cuarta_Seccion_14_may_2022).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_derechos_ninas_ninos_adolescentes_oaxacatexto",
+    "nombre": "Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Oaxaca.(Texto Original mediante Decreto Num. 1545 aprobado por la LXV Legislatura el 20 de septiembre del 2023.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_los_Derechos_de_Ninias_Ninios_y_Adolescentes_para_el_Estado_de_Oaxaca_(txt_orig_dto_1545_aprob_LXV_20_sep_2023_PO_40_14a_secc_7_oct_2023).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_derechos_personas_discapacidad_oaxaca",
+    "nombre": "Ley de los Derechos de las Personas con Discapacidad en el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/LEY_DE_LOS_DERECHOS_DE_LAS_PERSONAS_CON_DISCAPACIDAD_EN_EL_ESTADO_DE_OAXACA_(Dto_ref_1695_aprob_LXV_Legis_31_enero_2024_PO_8_11a_secc_24_febrero_2024).pdf",
+    "ultima_reforma": "2024-02-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_mediacion_oaxaca",
+    "nombre": "Ley de Mediación para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Mediacion_para_el_Estado_de_Oaxaca_(Dto_ref_2422_aprob_LXIV_Legis_17_mzo_2021_PO_num_23_4a_secc_5_jun_2021).pdf",
+    "ultima_reforma": "2021-06-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_mejora_regulatoria_oaxaca",
+    "nombre": "Ley de Mejora Regulatoria para el Estado de Oaxaca y sus Municipios",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Mejora_Regulatoria_para_el_Edo_de_Oax_y_sus_Mcpos_(Dto_ref_2515_aprob_LXV_Legis_11_nov_2024_PO_Extra_22_nov_2024)).pdf",
+    "ultima_reforma": "2024-11-22",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_movilidad_oaxaca",
+    "nombre": "Ley de Movilidad para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Movilidad_para_el_Estado_de_Oaxaca_(dto_ref_781_aprob_LXVI_Legis_23_septiembre_2025_PO_Extra_24_septiembre_2025).pdf",
+    "ultima_reforma": "2025-09-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_obras_publicas_servicios_relacionados_oaxaca",
+    "nombre": "Ley de Obras Públicas y Servicios Relacionados del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Obras_Publicas_y_Servicios_Relacionados_del_Estado_del_Estado_de_Oaxaca_(Dto_Ref_873_aprob_por_LXVI_Legis_26_nov_2025_PO_Extra_8_dic_2025).pdf",
+    "ultima_reforma": "2025-12-08",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ordenamiento_territorial_desarrollo_urbano_oaxaca",
+    "nombre": "Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Ordenamiento_Territorial_y_Desarrollo_Urbano_para_el_Estado_de_Oaxaca_(Ref_dto_689_aprob_LXV_Legis_21_sep_2022_PO_42_3a_secc_15_oct_2022).pdf",
+    "ultima_reforma": "2022-10-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organizaciones_asistencia_social_oaxaca",
+    "nombre": "Ley de Organizaciones de Asistencia Social en el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Organizaciones_de_Asistencia_Social_en_el_Estado_de_Oaxaca_(Ref_dto_685_Aprob_LXVI_Legis_20_junio_2025_PO_28_15a_secc_12_julio_2025).pdf",
+    "ultima_reforma": "2025-07-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_participacion_ciudadana_oaxaca",
+    "nombre": "Ley de Participación Ciudadana para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Participacion_Ciudadana_para_el_Estado_de_Oaxaca_(Ref_Dto_782_aprob_LXV_Legis_18_ene_2023_PO_Extra_30_ene_2023).pdf",
+    "ultima_reforma": "2023-01-30",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_pavimentacion_ciudad_oaxaca",
+    "nombre": "Ley de Pavimentación de la Ciudad de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Pavimentaci%c3%b3n_de_la_Ciudad_de_Oaxaca..pdf",
+    "ultima_reforma": "1957-08-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_pensiones_integrantes_instituciones_policiales_secretaria",
+    "nombre": "Ley de Pensiones para los Integrantes de las Instituciones Policiales de la Secretaría de Seguridad y Protección Ciudadana del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Pensiones_para_los_Integrantes_de_las_Instituciones_Policiales_de_la_Secretaria_de_Seguridad_y_Proteccion_Ciudadana_del_Estado_de_Oaxaca_(Ref_dto_771_PO_40_7a_secc_4_oct_2025).pdf",
+    "ultima_reforma": "2026-10-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_pensiones_trabajadores_servicio_ayuntamiento_municipio",
+    "nombre": "Ley de Pensiones para los Trabajadores al Servicio del Ayuntamiento del Municipio de Oaxaca de Juárez.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley%2bde%2bPensiones%2bpara%2blos%2bTrabajadores%2bal%2bServicio%2bdel%2bAyuntamiento%2bdel%2bMunicipio%2bde%2bOaxaca%2bde%2bJu%c3%a1rez%2b(Dto%2bref%2bLXIV%2bLegis%2b15%2bjul%2b2020%2bPO.pdf",
+    "ultima_reforma": "2020-09-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_pensiones_trabajadores_gobierno_oaxaca",
+    "nombre": "Ley de Pensiones para los Trabajadores del Gobierno del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Pensiones_para_los_Trabajadores_del_Gobierno_del_Estado_de_Oaxaca_(Dto_Ref_2773_aprob_LXIV_Legis_22_sep_2021_PO_43_10a_Secc_23_oct_2021).pdf",
+    "ultima_reforma": "2021-10-23",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_pesca_acuacultura_sustentables_oaxaca",
+    "nombre": "Ley de Pesca y Acuacultura Sustentables para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/LEY_DE_PESCA_Y_ACUACULTURA_SUSTENTABLES_PARA_EL_ESTADO_DE_OAXACA_(Dto_Ref_616_LXVI_Legis_25_marzo_2025_PO_16_10a_Secc_19_abril_2025).pdf",
+    "ultima_reforma": "2025-04-19",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_planeacion_desarrollo_administrativo_servicios_publicos",
+    "nombre": "Ley de Planeación, Desarrollo Administrativo y Servicios Públicos Municipales.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Planeacion_Desarrollo_Administrativo_y_Servicios_Publicos_Municipales__(Dto_ref_2689_Aprob_LXIV_Legis_8_sep_2021_PO_Extra_5_oct_2.pdf",
+    "ultima_reforma": "2021-10-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_planificacion_urbanizacion_oaxaca",
+    "nombre": "Ley de Planificación y Urbanización del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Planificaci%c3%b3n_y_Urbanizaci%c3%b3n_del_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_prestacion_servicios_atencion_cuidado_desarrollo",
+    "nombre": "Ley de Prestación de Servicios para la atención, cuidado y desarrollo integral infantil del Estado de Oaxaca. (Texto Original mediante Decreto Num. 1588 aprobado por la LXIV Legislatura el 22 de julio de 2020.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley%2bde%2bPrestacion%2bde%2bServicios%2bpara%2bla%2batencion%2c%2bcuidado%2by%2bdesarrollo%2bintegral%2binfantil%2bdel%2bEdo%2bde%2bOax%2b(Txt%2borig%2bdto%2b1588%2bLXIV%2blegis%2b22.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_prevencion_atencion_vih_sida_e",
+    "nombre": "Ley de Prevención y Atención de VIH Sida e Infecciones de Transmisión Sexual para el Estado de Oaxaca. (Texto Original mediante Decreto Num. 2572 aprobado por la LXIV Legislatura el 28 de julio de 2021.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Prev_y_Atn_VIH%2c_Sida_e_infecc_Trans_Sex_edo_de_oax_(Txc_orig_dto_2572_aprob_LXIV_Legis_28_jul_2021_PO_35_9a_secc_28_ago_2021).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_prevencion_tratamiento_control_adicciones_oaxaca",
+    "nombre": "Ley de Prevención, tratamiento y Control de las Adicciones para el Estado de Oaxaca. (Texto Original mediante Decreto Num. 1543 aprobado por la LXV Legislatura el 20 de septiembre de 2023.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_prevencion_tratamiento_y_control_de_las_adicciones_para_el_Estado_de_Oaxaca_(txt_orig_dto_1543_aprob_LXV_Legis_20_sep_2023_PO_40_14a_secc_7_oct_2023).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_procedimientos_justicia_administrativa_oaxaca",
+    "nombre": "Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Procedimientos_y_Justicia_Administrativa_para_el_Estado_de_Oaxaca_(Ref_dto_732_aprobado_LXVI_Legis_5_agosto_2025_PO_36_11a_secc_6_sep_2025).pdf",
+    "ultima_reforma": "2025-09-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_promocion_e_impulso_a_juventud",
+    "nombre": "Ley de Promoción e Impulso a la Juventud Emprendedora del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Promoci%c3%b3n_e_Impulso_a_la_Juventud_Emprendedora_del_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "2013-04-08",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_proteccion_acceso_difusion_festividad_guelaguetza",
+    "nombre": "Ley de Protección, acceso y difusión para la festividad de la Guelaguetza del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Proteccion%2C_acceso_y_difusion_para_la_festividad_de_la_Guelaguetza_del_Edo_de_Oax_%28dto_ref_1419_LXV_Legis_11_may_2023_PO_Extra_12_may_2023%29.pdf",
+    "ultima_reforma": "2023-05-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_proteccion_civil_gestion_integral_riesgos",
+    "nombre": "Ley de Protección Civil y Gestión Integral de Riesgos de Desastres para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Proteccion_Civil_y_Gestion_Integral_de_Riesgos_de_Desastres_pare_el_Edo_de_Oaxaca_(Ref_dto_659_aprob_LXVI_Legis_15_abril_2025_PO_24_8a_secc_14_junio_2025).pdf",
+    "ultima_reforma": "2025-06-14",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_proteccion_contra_exposicion_humo_tabaco",
+    "nombre": "Ley de protección contra la exposición del humo de tabaco del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_proteccion_contra_la_exposicion_del_humo_de_tabaco_del_estado_de_Oaxaca_(Dto_ref_2291_aprob_LXV_Legis_13_junio_2024_PO_27_11a_secc_6_julio_2024).pdf",
+    "ultima_reforma": "2024-07-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_proteccion_datos_personales_posesion_sujetos",
+    "nombre": "Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca. (Texto original mediante Decreto Num. 868 aprobado por la LXVI Legislatura el 26 de noviembre de 2025.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Proteccion_de_Datos_Personales_en_posesion_de_sujetos_obligados_del_Estado_en_el_Estado_de_Oaxaca_(Txt_orig_dto_868_aprob_LXVI_Legis_26_nov_2025_PO_Extra_31_dic_2025).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_responsabilidad_patrimonial_oaxaca",
+    "nombre": "Ley de Responsabilidad Patrimonial del Estado y Municipios de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Responsabilidad_Patrimonial_del_Estado_y_Municipios_de_Oaxaca_(Dto_ref_1451_aprob_LXV_Legis_12_julio_2023_PO_30_8a_secc_29_julio_2023).pdf",
+    "ultima_reforma": "2023-07-29",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_responsabilidades_administrativas_oaxaca",
+    "nombre": "Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Responsabilidades_Administrativas_del_Estado_y_Municipios_de_Oaxaca_(Dto_ref_1926_aprob_LXV_Legis_6_marzo_2024_PO_Extra_8_marzo_2024).pdf",
+    "ultima_reforma": "2024-03-08",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_revocacion_mandato_oaxaca",
+    "nombre": "Ley de Revocación de Mandato para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/LEY_DE_REVOCACION_DE_MANDATO_PARA_EL_ESTADO_DE_OAXACA(Resolucion_SCJN_25_noviembre_2025_accion_inconstitucionalidad_116_2025_118_2025_c).pdf",
+    "ultima_reforma": "2025-11-25",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_seguimiento_evaluacion_medidas_cautelares_materia",
+    "nombre": "Ley de Seguimiento y Evaluación de Medidas Cautelares en Materia Penal para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Seguimiento_y_Evaluaci%c3%b3n_de_Medidas_Cautelares_en_Materia_Penal_para_el_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_software_libre_codigo_abierto_oaxaca",
+    "nombre": "Ley de Software libre y Código Abierto del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Software_libre_y_C%c3%b3digo_Abierto_del_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_transito_vialidad_oaxaca",
+    "nombre": "Ley de Tránsito y Vialidad del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Transito_y_vialidad_(Ref_dto_752_aprob_LXVI_Legis_2_sep_2025_PO_38_8a_secc_20_sep_2025).pdf",
+    "ultima_reforma": "2025-09-20",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_transparencia_acceso_a_informacion_publica",
+    "nombre": "Ley de Transparencia, Acceso a la Información Pública con sentido social y Buen Gobierno del Estado de Oaxaca(Texto original mediante Decreto número 867 aprobado por la LXVI Legislatura el 26 de noviembre del 2025.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Transparencia_y_acceso_a_la_Informacion_Publica_con_sentido_social_y_buen_gobierno_del_estado_de_Oaxaca_(txt_orig_dto_867_aprob_LXVI_Legis_26_nov_2025_PO_Extra_31_dic_2025).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_turismo_oaxaca",
+    "nombre": "Ley de Turismo del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Turismo_del_Estado_de_Oaxaca_(Ref_dto_2514_aprob_LXV_Legis_11_nov_2024_PO_14_XXII_secc_5_abr_2025).pdf",
+    "ultima_reforma": "2025-04-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_victimas_oaxaca",
+    "nombre": "Ley de Victimas del Estado de Oaxaca",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Victimas_del_Estado_de_Oaxaca_(Ref_Dto_770_aprob_LXVI_Legis_17_sep_2025_PO_41_8a_secc_11_oct_2025).pdf",
+    "ultima_reforma": "2025-10-11",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_vivienda_oaxaca",
+    "nombre": "Ley de Vivienda para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Vivienda_para_el_Estado_de_Oaxaca_(Dto_ref_2410_aprob_LXV_legis_4_sep_2024_PO_38_10a_secc_21_sep_2024).pdf",
+    "ultima_reforma": "2024-09-21",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_voluntad_anticipada_oaxaca",
+    "nombre": "Ley de Voluntad anticipada para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Voluntad_anticipada_para_el_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_centro_conciliacion_laboral",
+    "nombre": "Ley del Centro de Conciliación Laboral.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Centro_de_Conciliacion_Laboral_(Dto_ref_760_aprob_LXVI_Legis_9_sep_2025_PO_38_XI_secc_20_sep_2025).pdf",
+    "ultima_reforma": "2025-09-20",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_consejo_consultivo",
+    "nombre": "Ley del Consejo Consultivo del Estado.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Consejo_Consultivo_del_Estado..pdf",
+    "ultima_reforma": "2012-04-02",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_ejercicio_profesional_oaxaca",
+    "nombre": "Ley del Ejercicio Profesional en el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Ejercicio_Profesional_en_el_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "2010-10-29",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_equilibrio_ecologico_proteccion_ambiente_oaxaca",
+    "nombre": "Ley del Equilibrio Ecologico y Proteccion al Ambiente para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Equilibrio_Ecologico_y_Proteccion_al_Ambiente_(ref_dto_730_aprob_LXVI_Legis_30_julio_2025_PO_36_12a_secc_6_sep_2025).pdf",
+    "ultima_reforma": "2025-09-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_instituto_estudios_bachillerato_oaxaca",
+    "nombre": "Ley del Instituto de Estudios de Bachillerato del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Instituto_de_Estudios_de_Bachillerato_del_Estado_de_Oaxaca_(Dto_ref_619_LXIV_legis_10_abr_2019_PO_24_13a_Secc_15_jun_2019).pdf",
+    "ultima_reforma": "2019-06-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_instituto_investigacion_integracion_social_oaxaca",
+    "nombre": "Ley del Instituto de Investigación para la Integración Social del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Instituto_de_Investigaci%c3%b3n_para_la_Integraci%c3%b3n_Social_del_Estado_de_Oaxaca..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_instituto_investigaciones_sobre_benito_juarez",
+    "nombre": "Ley del Instituto de Investigaciones sobre de Benito Juárez y la Reforma.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Instituto_de_Investigaciones_sobre_de_Benito_Ju%c3%a1rez_y_la_Reforma..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_monte_piedad_oaxacatexto_original_mediante",
+    "nombre": "Ley del Monte de Piedad del Estado de Oaxaca.(Texto Original mediante Decreto Num. 1460 aprobado por la LXII Legislatura el 15 de abril del 2018.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Monte_de_Piedad_del_Estado_de_Oaxaca_(txt%2borig%2bdto%2b1460%2bLXIII%2bLegis%2baprob%2b15%2babri%2b2018%2bPO%2bExtra%2b19%2babr%2b2018).pdf",
+    "ultima_reforma": "-",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_museo_oaxaca",
+    "nombre": "Ley del Museo de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Museo_de_Oaxaca..pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_notariado_oaxaca",
+    "nombre": "Ley del Notariado para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley%2bdel%2bNotariado%2bpara%2bel%2bEstado%2bde%2bOaxaca%2b(Dto%2bRef%2b1682%2baprob%2bLXIV%2bLegis%2b9%2bsep%2b2020%2bPO%2b41%2b5a%2bsecc%2b10%2boct%2b2020).pdf",
+    "ultima_reforma": "2020-10-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_observatorio_turistico_oaxaca_texto_original",
+    "nombre": "Ley del Observatorio Turístico del Estado de Oaxaca. (Texto original mediante Decreto Num. 1534 aprobado por la LXV Legislatura el 06 de septiembre del 2023.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Observatorio_Turistico_del_Estado_de_Oaxaca_(txt_orig_dto_1534_aprob_LXV_Legis_6_sep_2023_PO_38_6a_secc_23_sep_2023).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organismo_operador_publico_denominado_servicios",
+    "nombre": "Ley del Organismo Operador Público Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Organismo_Operador_Publico_denominado_Sistema_Operador_de_los_Servicios_de_Agua_Potable_y_Alcantarillado_de_Oaxaca_(FE_DE_ERRATAS_al_dto_ref_769_LXV_Legis_4_ene_2023_PO_Extra_5_ene_2023_del_Extra_del_19_en.pdf",
+    "ultima_reforma": "2023-01-19",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_patronato_promotores_voluntarios_oaxaca",
+    "nombre": "Ley del Patronato de Promotores Voluntarios del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/135.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_servicio_civil_empleados_h_ayuntamiento",
+    "nombre": "Ley del Servicio Civil para los Empleados del H. Ayuntamiento del Municipio de Oaxaca de Juárez.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Servicio_Civil_para_los_Empleados_del_H._Ayuntamiento_del_Municipio_de_Oaxaca_de_Juarez_(Ref_dto_384_LXVI_Legis_11_feb_2025_PO_Extra_11_feb_2025).pdf",
+    "ultima_reforma": "2025-02-11",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_servicio_civil_empleados_gobierno",
+    "nombre": "Ley del Servicio Civil para los Empleados del Gobierno del Estado.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Servicio_Civil_para_los_Empleados_de_Gobierno_del_Estado_(Ref_dto_601_aprob_LXVI_Legis_4_marzo_2025_PO_15_25a_secc_12_abril_2025).pdf",
+    "ultima_reforma": "2025-04-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_sistema_medios_impugnacion_materia_electoral",
+    "nombre": "Ley del Sistema de Medios de Impugnación en Materia Electoral y de Participación Ciudadana para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Sistema_de_Medios_de_Impugnacion_en_materia_electoral_y_de_participacion_ciudadana_(Dto_Ref_686_aprob_LXV_Legis_21_sep_2022_PO_42_3a._Secc_15_oct_2022).pdf",
+    "ultima_reforma": "2022-10-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_sistema_estatal_combate_a_corrupcion",
+    "nombre": "Ley del Sistema Estatal de Combate a la Corrupción.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Sistema_Estatal_de_Combate_a_la_Corrupcion_(Ref_dto_1475_aprob_LXV_Legis_12_julio_2023_PO_30_10a_secc_29_julio_2023).pdf",
+    "ultima_reforma": "2023-07-23",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_sistema_estatal_seguridad_publica_oaxaca",
+    "nombre": "Ley del Sistema Estatal de Seguridad Pública de Oaxaca",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Sistema_Estatal_Seguridad_Publica_Oaxaca_(Ref_Dto_2399_aprob_LXV_Legis_28_ago_2024_PO_35_8a_secc_31_ago_2024).pdf",
+    "ultima_reforma": "2024-09-14",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_sistema_desarrollo_integral_familia_oaxaca",
+    "nombre": "Ley del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Sistema_para_el_Desarrollo_Integral_de_la_Familia_del_Estado_de_Oaxaca_Decreto_(Dto_ref_610_aprob_LXV_Legis_13_abr_2022_PO_20_4a_secc_14_may_2022).pdf",
+    "ultima_reforma": "2021-12-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_materia_desaparicion_personas_oaxaca",
+    "nombre": "Ley en Materia de Desaparición de Personas para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_en_Materia_de_Desaparicion_de_Personas_para_el_Estado_de_Oaxaca_(dto_ref_2341_aprob_LXV_Legis_17_julio_2024_PO_Extra_28_agosto_2024).pdf",
+    "ultima_reforma": "2024-08-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_acceso_mujeres_a_vida",
+    "nombre": "Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_de_Acceso_de_las_Mujeres_a_una_vida_libre_de_violencia_de_genero_(Ref_Dto_2513_aprob_LXV_Legis_11_nov_2024_PO_14_23a_secc_5_abr_2025).pdf",
+    "ultima_reforma": "2025-04-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_asociaciones_publico_privadas",
+    "nombre": "Ley Estatal de Asociaciones Público Privadas.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/145.pdf",
+    "ultima_reforma": "2017-04-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_austeridad_republicana",
+    "nombre": "Ley Estatal de Austeridad Republicana.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_de_Austeridad_Republicana_(ref_dto_2361_aprob_LXV_Legis_14_agosto_2024_PO_34_10a_secc_24_agosto_2024).pdf",
+    "ultima_reforma": "2024-08-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_derechos_oaxaca",
+    "nombre": "Ley Estatal de Derechos del Estado de Oaxaca",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_de_Derechos_del_Estado_de_Oaxaca_(Dto_ref_668_aprob_LXVI_Legis_10_junio_2025_PO_Extra_10_junio_2025).pdf",
+    "ultima_reforma": "2025-06-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_economia_circular_oaxaca_texto",
+    "nombre": "Ley Estatal de Economía Circular del Estado de Oaxaca (Texto Original mediante el Decreto Num. 1567 aprobado por la LXV Legislatura el 27 de septiembre del 2023.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_de_Economia_Circular_(Txt_original_dto_1567_aprob_LXV_Legislatura_27_sept_2023_PO_52_2a_secc_30_diciembre_2023).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_hacienda",
+    "nombre": "Ley Estatal de Hacienda.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_de_Hacienda_(Ref_dto_884_aprob_LXVI_Legis_8_dic_2025_PO_Extra_10_dic_2025).pdf",
+    "ultima_reforma": "2025-12-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_planeacion",
+    "nombre": "Ley Estatal de Planeación.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_de_Planeacion_(Ref_dto_1079_aprob_LXV_Legis_22_marzo_2023_PO_14_7a_secc_8_abr_2023).pdf",
+    "ultima_reforma": "2023-04-08",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_premios",
+    "nombre": "Ley Estatal de Premios.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_de_Premios_(Ref_dto_1476_aprob_LXV_Legis_12_julio_2023_PO_30_10a_secc_29_julio_2023).pdf",
+    "ultima_reforma": "2023-07-29",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_presupuesto_responsabilidad_hacendaria",
+    "nombre": "Ley Estatal de Presupuesto y Responsabilidad Hacendaria.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_de_Presupuesto_y_Responsabilidad_Hacendaria_(Ref_Dto_886_aprob_LXVI_Legis_8_dic_2025_PO_Extra_10_diciembre_2025).pdf",
+    "ultima_reforma": "2025-12-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_salud",
+    "nombre": "Ley Estatal de Salud.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_de_Salud_(Dto_ref_711_aprob_LXVI_Legis_15_julio_2025_PO_32_XIa_secc_9_agosto_2025).pdf",
+    "ultima_reforma": "2025-08-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_fomento_cultura_legalidad",
+    "nombre": "Ley Estatal para el Fomento de la Cultura de la Legalidad.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_para_el_Fomento_de_la_Cultura_de_la_Legalidad_(dto_ref_1528_aprob_LXIV_Legis_15_jul_2020_PO_35_5a_secc_29_ago_2020).pdf",
+    "ultima_reforma": "2020-08-29",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_estatal_fomento_derecho_ninas_ninos",
+    "nombre": "Ley Estatal para el Fomento del Derecho de Niñas, Niños y Adolescentes a una Paternidad Responsable. (Texto Original mediante el Decreto Num. 2850 aprobado por la LXIV Legislatura el 22 de octubre del 2021.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_de_Fomento_del_Derecho_de_Ninias_Ninios_y_adolescentes_a_una_Paternidad_Responsable_(Txt_Orig_dto_2850_LXIV_Legis_22_oct_2021_PO_EXTRA_1_dic_2021.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_general_ingresos_municipales_oaxaca_ejercicio",
+    "nombre": "Ley General de Ingresos Municipales del Estado de Oaxaca para el Ejercicio Fiscal 2016.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/160.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_general_viajes_cargo_erario_publico",
+    "nombre": "Ley General de Viajes con Cargo al Erario Público para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/162.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_fiscalia_general_oaxaca",
+    "nombre": "Ley Orgánica de la Fiscalía General del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Organica_de_la_Fiscalia_General_del_Estado_de_Oaxaca_(Ref_dto_2324_aprob_LXV_Legis_3_jul_2024_PO_Extra_3_julio_2024).pdf",
+    "ultima_reforma": "2024-07-03",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_junta_conciliacion_agraria",
+    "nombre": "Ley Orgánica de la Junta de Conciliación Agraria.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/166.pdf",
+    "ultima_reforma": "2018-03-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_policia_oaxaca",
+    "nombre": "Ley Orgánica de la Policía del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Organica_de_la_Policia_del_Estado_de_Oaxaca_(Ref_dto_1323_aprob_29_sept_2015_PO_Extra_22_octubre_2015).pdf",
+    "ultima_reforma": "2015-09-29",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_universidad_autonoma_benito_juarez",
+    "nombre": "Ley Orgánica de la Universidad Autónoma \"Benito Juárez\" de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/171.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_universidad_autonoma_comunal_oaxaca",
+    "nombre": "Ley Orgánica de la Universidad Autónoma Comunal de Oaxaca. (Texto Original mediante Decreto Num. 1201 aprobado por la LXIV Legislatura el 15 de enero del 2020.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley%2bOrganica%2bde%2bla%2bUniversidad%2bAutonoma%2bComunal%2bde%2bOaxaca%2b(Txt%2borig%2bdto%2b1201%2baprob%2bLXIV%2bLegis%2b15%2bene%2b2020%2bPO%2bExtra%2b20%2babr%2b2020).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_consejo_forestal_fauna_silvestre",
+    "nombre": "Ley Orgánica del Consejo Forestal y de la Fauna Silvestre del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/172.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_instituto_innovacion_calidad_gubernamental",
+    "nombre": "Ley Orgánica del Instituto de Innovación y Calidad Gubernamental.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/173.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_poder_ejecutivo_oaxaca",
+    "nombre": "Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Organica_del_Poder_Ejecutivo_(Ref_dto_870_aprob_LXVI_Legis_26_nov_2025_PO_Extra_31_diciembre_2025).pdf",
+    "ultima_reforma": "2025-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_poder_judicial_oaxaca",
+    "nombre": "Ley Orgánica del Poder Judicial del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Organica_del_Poder_Judicial_del_Estado_de_Oaxaca_(Ref_dto_1074_aprob_LXV_Legis_22_mzo_2023_PO_13_26a_secc_1_abr_2023).pdf",
+    "ultima_reforma": "2023-04-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_poder_legislativo_libre_soberano",
+    "nombre": "Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Organica_del_Poder_Legislativo_(Dto_ref_842_aprob_LXVI_Legis_18_noviembre_2025).pdf",
+    "ultima_reforma": "2025-11-18",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_tribunal_justicia_administrativay_combate",
+    "nombre": "Ley Orgánica del Tribunal de Justicia Administrativay Combate a la Corrupción del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Organica_del_Tribunal_de_Justicia_Administrativa_y_Combate_a_la_Corrupcion_del_Estado_de_Oaxaca_(ref_dto_2516_aprob_LXV_Legis_11_nov_2024_PO_Extra_12_nov_2024).pdf",
+    "ultima_reforma": "2024-11-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_tribunal_estatal_electoral_oaxaca",
+    "nombre": "Ley Orgánica del Tribunal Estatal Electoral del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Organica_del_Tribunal_Estatal_Electoral_del_Estado_de_Oaxaca_(dto_ref_1495_aprob_LXV_Legis_2_agosto_2023_PO_Extra_15_agosto_2023).pdf",
+    "ultima_reforma": "2023-08-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_organica_municipal_oaxaca",
+    "nombre": "Ley Orgánica Municipal del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Organica_Municipal_(Ref_dto_872_aprob_LXVI_Legis_26_noviembre_2025_PO_Extra_31_diciembre_2025).pdf",
+    "ultima_reforma": "2025-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_atender_prevenir_eliminar_discriminacion_oaxaca",
+    "nombre": "Ley para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_atender_prevenir_y_eliminar_la_discriminacion_en_el_Estado_de_Oaxaca_(Dto_ref_2384__aprob_LXV_Legis_21_ago_2024_PO_37_9a_secc_14_sep_2024).pdf",
+    "ultima_reforma": "2024-09-14",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_bienestar_desarrollo_social_oaxaca",
+    "nombre": "Ley para el Bienestar y Desarrollo Social del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_el_Bienestar_y_Desarrollo_Social_del_Estado_de_Oaxaca_(Ref_Dto_608_aprob_LXVI_Legis_11_marzo_2025_PO_15_26a_secc_12_abril_2025).pdf",
+    "ultima_reforma": "2025-04-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_desarrollo_economico_oaxaca_texto_original",
+    "nombre": "Ley para el Desarrollo Económico del Estado de Oaxaca. (Texto original mediante Decreto Num. 2416 aprobado por la LXV Legislatura el 18 de septiembre de 2024.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_el_Desarrollo_Economico_del_Estado_de_Oaxaca_(txt_orig_dto_2415_aprob_LXV_Legis_18_sep_2024_ PO_41_XVI_secc_12_oct_2024).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_reconocimiento_atencion_derechos_migrantes_familias",
+    "nombre": "Ley para el Reconocimiento y Atención de los Derechos de los Migrantes y sus Familias para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_el_reconocimiento_y_atencion_de_los_derechos_de_los_migrantes_y_sus_familias_para_el_Edo_de_Oaxaca_(Dto_Ref_665_aprob_LXV_Legis_15_abr_2025_PO_24_8a_Secc_14_junio_2025).pdf",
+    "ultima_reforma": "2025-06-14",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_uso_manejo_fuego_actividades_agropecuarias",
+    "nombre": "Ley para el Uso y Manejo del Fuego en las Actividades Agropecuarias y Silviculturales en el Estado de Oaxaca.(Texto Original mediante Decreto Num. 2585 aprobado por la LXIV Legislatura el 04 de agosto del 2021.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_el_uso_y_manejo_del_fuego_en_las_activid_agropecuarias_y_silviculturales_(txt_orig_dto_2585_aprob_LXIV_Legis_4_ago_2021_PO_35_9.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_administracion_bienes_asegurados_decomisados_abandonados",
+    "nombre": "Ley para la Administración de Bienes Asegurados, Decomisados y Abandonados para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley%2bpara%2bla%2bAdministracion%2bde%2bbienes%2basegurados%2c%2bdecomisados%2by%2babandonados%2bpara%2bel%2bEstado%2bde%2bOaxaca%2b(Dto%2bref%2b1531%2baprob%2bLXIV%2bLegis%2b15%2bju.pdf",
+    "ultima_reforma": "2020-09-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_atencion_proteccion_a_personas_condicion",
+    "nombre": "Ley para la Atención y Protección a Personas con la Condición del Espectro Autista del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_la_Atencion_y_Proteccion_a_Personas_con_la_Condicion_del_Espectro_Autista_del_Estado_de_Oaxaca_(ref_dto_2500_Aprob_LXV_Legis_30_oct_2024_PO_Extra_10_feb_2025).pdf",
+    "ultima_reforma": "2025-02-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_beneficencia_publica",
+    "nombre": "Ley para la Beneficencia Pública.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_la_Beneficiencia_Publica_(Dto_Ref_1982_aprob_LXII_Legis_14_abr_2016_PO_Extra_10_jun_2016).pdf",
+    "ultima_reforma": "2016-06-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_declaracion_especial_ausencia_desaparecion_personas",
+    "nombre": "Ley para la Declaración Especial de Ausencia por Desapareción de Personas del Estado de Oaxaca (Texto Original mediante el Decreto Num. 2342 aprobado por la LXV Legislatura el 17 julio del 2024).",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_la_Declaracion_Especial_de_Ausencia_por_Desaparicion_de_Personas_del_Estado_de_Oaxaca_(txt_orig_dto_2342_aprob_LXV_Legis_17_julio_2024_PO_Extra_28_ago_2024).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_donacion_aprovechamiento_integral_alimentos_oaxaca",
+    "nombre": "Ley para la Donación y el Aprovechamiento Integral de Alimentos del Estado de Oaxaca",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/257.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_donacion_trasplantes_organos_tejidos_celulas",
+    "nombre": "Ley para la Donación y Trasplantes de Órganos, Tejidos y Células Humanas para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_la_Donacion_y_Trasplante_de_organos,_tejidos_y_celulas_humanas_para_el_Estado_de_Oaxaca_(Ref_dto_1591_aprob_LXV_Legis_27_sep_2023_PO_43_6a_secc_28_oct_2023).pdf",
+    "ultima_reforma": "2023-10-28",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_localizacion_recuperacion_e_identificacion_forense",
+    "nombre": "Ley para la Localización, Recuperación e Identificación Forense de Personas del Estado de Oaxaca (Texto Original mediante el Decreto Num. 2832 aprobado por la LXIV Legislatura el 22 octubre del 2021).",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_la_localizacion_recuperacion_e_identificacion_forense_de_Personas_del_estado_de_Oaxaca_(Txt_orig_dto_2832_LXIV_legis_22_oct_2021.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_proteccion_derechos_personas_adultas_mayores",
+    "nombre": "Ley para la Protección de los Derechos de las personas Adultas Mayores en el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Proteccion_de_los_derechos_de_las_personas_Adultas_Mayores_en_el_Estado_de_Oaxaca_(Ref_dto_2441_LXV_Legis_25_septiembre_2024_PO_41_14a_secc_12_oct_2024).pdf",
+    "ultima_reforma": "2024-10-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_prevencion_gestion_integral_residuos_solidos",
+    "nombre": "Ley para la Prevención y Gestión Integral de los Residuos Sólidos.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_la_Prevencion_y_Gestion_Integral_de_los_Residuos_Solidos_(Ref_dto_825_aprob_LXVI_Legis_30_sep_2025_PO_43_11a_secc_25_octubre_2025).pdf",
+    "ultima_reforma": "2025-10-25",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_proteccion_sujetos_intervienen_procedimiento_penal",
+    "nombre": "Ley para la Protección de Sujetos que Intervienen en el Procedimiento Penal del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Estatal_para_la_Proteccion_de_Sujetos_que_intervienen_en_el_Procedimiento_Penal_para_el_Estado_de_Oaxaca(Ref_Dto._1634__Aprob_LXIV_2.pdf",
+    "ultima_reforma": "2021-05-22",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_prevenir_atender_reparar_integralmente_desplazamiento",
+    "nombre": "Ley para Prevenir, Atender y Reparar Integralmente el Desplazamiento Forzado Interno en el Estado de Oaxaca. (Texto original Decreto número 751, por la LXVI Legislatura el 02 de septiembre del 2025.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_para_prevenir_atender_y_reparar_integralmente_el_desplazamiento_forzado_interno_en_el_estado_de_Oaxaca_(Dto_751_aprob_LXVI_Legis_2_sep_2025_PO_Extra_18_sep_2025).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_prevenir_atender_violencia_acoso_entre",
+    "nombre": "Ley para Prevenir y Atender la Violencia y Acoso entre iguales del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/193.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_prevenir_investigar_sancionar_tortura_otros",
+    "nombre": "Ley para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_prevenir_investigar_sancionar_tortura_otros_tratos_o_penas_crueles_inhumanos_degrad_edo_Oax_(Txt_orig_dto_1330_aprob_LXIII_legis_20_dic_2017_PO_Extra_5_abril_2018).pdf",
+    "ultima_reforma": "2018-04-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_prevenir_sancionar_erradicar_delitos_materia",
+    "nombre": "Ley para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Prevenir_sancionar_erradicar_delitos_en_mat_Trata_Pers_Protecc_Asist_Victimas_de_estos_delitos_(dto_ref_708_LXV_Legis_28_sep_2022_PO_45_7a_secc_5_nov_2022).pdf",
+    "ultima_reforma": "2022-11-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_pecuaria_oaxaca",
+    "nombre": "Ley Pecuaria del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Pecuaria_del_Estado_de_Oaxaca_(dto_ref_1445_aprob_LXV_Legis_5_julio_2023_PO_28_7a_secc_15_julio_2023).pdf",
+    "ultima_reforma": "2023-07-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_colegio_bachilleres_oaxaca",
+    "nombre": "Ley que crea el Colegio de Bachilleres del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_que_Crea_el_Colegio_de_Bachilleres_del_Estado_De_Oaxaca_(Ref_dto_696_aprob_LXVI_Legis_8_julio_2025_PO_32_9a_secc_9_ago_2025).pdf",
+    "ultima_reforma": "2025-08-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_fideicomiso_administrara_fondo_programa",
+    "nombre": "Ley que crea el Fideicomiso que administrará el Fondo del Programa Especial Concurrente para el Desarrollo Rural Sustentable para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/197.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_instituto_funcion_registral_oaxaca",
+    "nombre": "Ley que crea el Instituto de la Función Registral del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_que_crea_el_Instituto_de_la_Funcion_Registral_del_Estado_de_Oaxaca_(Ref_dto_1503_aprob_LXV_legis_16_ago_2023_PO_34_7a_secc_26_ago_2023).pdf",
+    "ultima_reforma": "2023-08-26",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_instituto_juventud_oaxaca",
+    "nombre": "Ley que crea el Instituto de la Juventud del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_que_crea_el_Instituto_de_la_Juventud_del_Estado_de_Oaxaca_(Ref_dto_532_aprob_LXVI_Legis_25_feb_2025_PO_14_24a_secc_5_abr_2025).pdf",
+    "ultima_reforma": "2025-04-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_instituto_estatal_desarrollo_municipal",
+    "nombre": "Ley que crea el Instituto Estatal de Desarrollo Municipal.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/201.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_organismo_operador_encargado_gestion",
+    "nombre": "Ley que crea el Organismo Operador Encargado de la Gestión y Manejo Integral de los Residuos Solidos Urbanos y de Manejo Especial del Estado de Oaxaca",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/261.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_organismo_publico_descentralizado_caracter",
+    "nombre": "Ley que crea el Organismo Público Descentralizado de Carácter Estatal denominado \"Comité Estatal de Planeación para el Desarrollo de Oaxaca\" (COPLADE).",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/204.pdf",
+    "ultima_reforma": "2004-09-25",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_organismo_publico_descentralizado_denominado",
+    "nombre": "Ley que crea el Organismo Público Descentralizado denominado \"Instituto Estatal de Educación para Adultos\" (IEEA).",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_que_crea_el_Instituto_Estatal_de_Educacion_para_los_Adultos_(Dto_ref_2795_aprob_LXIV_Legis_29_sep_2021_PO_46_5a_secc_13_nov_2021).pdf",
+    "ultima_reforma": "2021-11-13",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_organo_desconcentrado_poder_ejecutivo",
+    "nombre": "Ley que crea el Órgano Desconcentrado del Poder Ejecutivo, dependiente de la Secretaria de Desarrollo Urbano, Comunicaciones y Obras Publicas, denominado \"Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de OAXACA (ADOSAPACO)\".",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/207.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_patronato_unidades_servicios_culturales",
+    "nombre": "Ley que crea el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/208.pdf",
+    "ultima_reforma": "2006-10-07",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_academia_cultura_oaxaquena",
+    "nombre": "Ley que crea la Academia de la Cultura Oaxaqueña.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/210.pdf",
+    "ultima_reforma": "1971-07-17",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_academia_oaxaquena_lengua_mixteca",
+    "nombre": "Ley que crea la Academia Oaxaqueña de la Lengua Mixteca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/211.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_academia_oaxaquena_lengua_zapoteca",
+    "nombre": "Ley que crea la Academia Oaxaqueña de la Lengua Zapoteca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/212.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_comision_estatal_arbitraje_medico",
+    "nombre": "Ley que crea la Comisión Estatal de Arbitraje Médico de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_que_Crea_la_Comision_Estatal_de_Arbitraje_Medico_(Ref_dto_782_aprob_LXVI_Legis_23_sep_2025_PO_Extra_29_sep_2025).pdf",
+    "ultima_reforma": "2025-09-29",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_crea_procuraduria_proteccion_ambiente_oaxac",
+    "nombre": "Ley que crea la Procuraduria de Protección al Ambiente del Estado de Oaxac.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_que_crea_la_Procuraduria_de_Proteccion_al_Ambiente_del_Estado_de_Oaxaca_(dto_ref_632_aprob_LXVI_Legis_1_abril_2025_PO_21_XV_seccion_24_mayo_2025).pdf",
+    "ultima_reforma": "2025-05-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_establece_archivo_general_notarias_registro",
+    "nombre": "Ley que establece el Archivo General de Notarías y del Registro Público de la Propiedad perteneciente al Estado.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/214.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_regula_regimen_propiedad_condominio_inmuebles",
+    "nombre": "Ley que Regula el Régimen de Propiedad en Condominio de Inmuebles para el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_que_regula_el_regimen_de_propiedad_en_condominio_(Dto_ref_2646_Aprob_LXIV_Legis_18_ago_2021_PO_38_11a_secc_18_sep_2021).pdf",
+    "ultima_reforma": "2021-09-18",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_regula_uso_fuerza_integrantes_instituciones",
+    "nombre": "Ley que regula el uso de la fuerza por los integrantes de las Instituciones de Seguridad Pública del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/236.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_regula_apertura_instalacion_funcionamiento_casas",
+    "nombre": "Ley que Regula la Apertura, Instalación y Funcionamiento de las Casas de Empeño en el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley%2bque%2bregula%2bla%2bapertura%2c%2binstalacion%2by%2bfuncionamiento%2bde%2blas%2bcasas%2bde%2bempe%c3%b1o%2ben%2bel%2bestado%2bde%2bOaxaca%2b(Ref%2bdto%2b815%2baprob%2bLXIV%2b14%2boct%2b20.pdf",
+    "ultima_reforma": "2019-11-23",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_regula_casas_empeno_oaxaca",
+    "nombre": "Ley que regula las Casas de Empeño en el Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/217.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_regula_instancias_municipales_mujeres_oaxaca",
+    "nombre": "Ley que Regula las Instancias Municipales de las Mujeres en el Estado de Oaxaca. (Texto Original Decreto número 1713, aprobado por la LXIV Legislatura el 30 de septiembre del 2020.)",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley%2bque%2bregula%2blas%2binstancias%2bmunicipales%2bde%2blas%2bMujeres%2ben%2bel%2bEstado%2bde%2bOaxaca%2b(txto%2borig%2bLIXV%2bLegis%2b30%2bsep%2b2020%2bPO%2b50%2b6a%2bsecc%2b12%2bdic%2b2.pdf",
+    "ultima_reforma": "2020-12-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_regula_fideicomisos_participacion_estatal",
+    "nombre": "Ley que Regula los Fideicomisos con Participación Estatal.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_que_Regula_los_Fideicomisos_con_Participacion_Estatal.pdf",
+    "ultima_reforma": "2016-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_reglamentaria_apartado_b_articulo_106",
+    "nombre": "Ley Reglamentaria del Apartado B del Artículo 106 de la Constitución Política del Estado Libre y Soberano de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_Reglamentaria_del_Apartado_B_del_Articulo_106_Constitucional_(dto_ref_2737_aprob_LXIV_Legis_22_sep_2021_PO_42_4a_secc_16_oct_2021).pdf",
+    "ultima_reforma": "2021-10-16",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_porcentajes_formulas_variables_utilizadas_distribucion_fondos",
+    "nombre": "Porcentajes, Formulas y Variables Utilizadas para la Distribución de Fondos en el Ejercicio Fiscal 2018.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/253.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2013",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2013.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/226.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2014",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2014.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/227.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2015",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2015.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/228.pdf",
+    "ultima_reforma": "2015-02-23",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2016",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2016.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/229.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2017",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2017.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/230.pdf",
+    "ultima_reforma": "2017-01-25",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2018",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2018.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/251.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2019",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2019.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Presupuesto_Egresos_Edo_Oax_Ejer_Fiscal_2019_(dto_15_LXIV_Legis_aprob_28_dic_2018_PO_52_6a_secc_29_dic_2018).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2020",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2020.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Presupuesto%2bde%2bEgresos%2bdel%2bEstado%2bde%2bOaxaca%2b(Txt%2borig%2bdto%2b884%2baprob%2bLXIV%2bLegislatura%2b10%2bdic%2b2019%2bPO%2bExtra%2b24%2bdic%2b2019).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2021",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2021.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Presupuesto%2bde%2bEgresos%2bdel%2bEstado%2bde%2bOaxaca%2b(Txt%2borig%2bdto%2b1810%2baprob%2bLXIV%2bLegis%2b10%2bdic%2b2020%2bPO%2b52%2b4a%2bsecc%2b26%2bdic%2b2020)_2.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2022",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2022.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Presupuesto_de_Egresos_del_Estado_de_Oaxaca_para_el_Ejercicio_Fiscal_2022_(Txt_orig_dto_13_LXV_Legis_9_dic_2021_PO_51_18a_secc_18_dic_2021).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2026",
+    "nombre": "Presupuesto de Egresos del Estado de Oaxaca para el Ejercicio Fiscal 2026.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Presupuesto_de_Egresos_del_Estado_de_Oaxaca_para_el_ejercicio_fiscal_2026_(Txt_orig_dto_888_aprob_LXVI_Legis_8_dic_2025_PO_Extra_10_dic_2026).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ramo_33_distribucion_recursos_fondos_aportaciones",
+    "nombre": "Ramo 33: Distribución de los recursos de los fondos de aportaciones para la infraestructura social municipal y aportaciones para el fortalecimiento de los municipios del estado de Oaxaca para el ejercicio fiscal 2017.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/231.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_reglamento_interior_congreso_libre_soberano_oaxaca",
+    "nombre": "Reglamento Interior del Congreso del Estado Libre y Soberano de Oaxaca.",
+    "tipo": "Reglamento",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Reglamento_Interior_del_Congreso_del_Edo_de_Oaxaca_(Ref_dto_842_aprob_LXVI_Legis_18_noviembre_2025).pdf",
+    "ultima_reforma": "2025-11-18",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_reglamento_interior_unidad_tecnica_fiscalizacion_control",
+    "nombre": "Reglamento Interior de la Unidad Técnica de Fiscalización y Control del Congreso del Estado.",
+    "tipo": "Reglamento",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Reglamento_Interior_de_la_Unidad_Tecnica_de_la_Comision_de_Vigilancia_de_la_Auditoria_Superior_de_Fiscalizacion_del_Estado_de_Oaxaca_(txt_orig_dto_2340_aprobado_por_la_LXV_Legis_17_julio_2024_PO_31_VI_Secc_3_agosto_2024).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_reglamento_interior_unidad_tecnica_comision_vigilancia",
+    "nombre": "Reglamento Interior de la Unidad Técnica de la Comisión de Vigilancia de la Auditoria Superior de Fiscalización del Estado de Oaxaca. (Texto Original mediante Decreto Num. 2340 aprobado por la LXV Legislatura el 17 de julio del 2024.)",
+    "tipo": "Reglamento",
+    "entidad": "oaxaca",
+    "url_pdf": "https://docs66.congresooaxaca.gob.mx/legislacion_estatal/Reglamento_Interior_de_la_Unidad_Tecnica_de_la_Comision_de_Vigilancia_de_la_Auditoria_Superior_de_Fiscalizacion_del_Estado_de_Oaxaca_(txt_orig_dto_2340_aprobado_por_la_LXV_Legis_17_julio_2024_PO_31_VI_Secc_3_agosto_2024).pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresooaxaca.gob.mx"
+  }
+]

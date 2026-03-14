@@ -1,0 +1,272 @@
+[
+  {
+    "id": "quintanaroo_ley_archivos_quintana_roo",
+    "nombre": "Ley de Archivos del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L285-XVII-20231222-L1720231222201.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_seguridad_ciudadana_quintana_roo",
+    "nombre": "Ley de Seguridad Ciudadana del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L284-XVIII-20251210-L1820251204184-Ley-de-Seguridad-Ciudadana.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_seguridad_escolar_integral_quintana_roo",
+    "nombre": "Ley de Seguridad Escolar Integral del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L262-XVIII-20251210-L1820251210184-Ley-de-Seguridad-Escolar.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_dotacion_gratuita_uniformes_mochilas_utiles",
+    "nombre": "Ley para la Dotación Gratuita de Uniformes, Mochilas y Útiles Escolares a las Alumnas y los Alumnos Inscritos en Escuelas Públicas de Educación Básica en el Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L264-XVI-20220616-L1620220616241.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_coordinacion_fiscal_quintana_roo",
+    "nombre": "Ley de Coordinación Fiscal del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L226-XVII-20240808-L1720240808261-coordinacion-fiscal.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_cuotas_tarifas_servicios_publicos_agua",
+    "nombre": "Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable y Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L16-XVI-20210415-L16202~2.PDF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_hacienda_municipio_bacalar_quintana_roo",
+    "nombre": "Ley de Hacienda del Municipio de Bacalar, del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L260-XVIII-20241209-L1820241209056.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_hacienda_municipio_jose_maria_morelos",
+    "nombre": "Ley de Hacienda del Municipio de José María Morelos del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L239-XVIII-20251211-L1820251211178-Ley-de-Hacienda-de-JMM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_hacienda_municipio_tulum_quintana_roo",
+    "nombre": "Ley de Hacienda del Municipio de Tulum del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L276-XVIII-20251210-L1820251210161-Ley-de-Hacienda-del-Mpio-de-Tulum.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_quintana_roo_ejercicio_fiscal",
+    "nombre": "Ley de Ingresos del Estado de Quintana Roo, para el ejercicio fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L228-XVI-20210615-L1620210615118.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_bacalar_quintana_roo",
+    "nombre": "Ley de Ingresos del Municipio de Bacalar, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L235-XVI-20201224-L1620201224087-Bacalar.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_benito_juarez_quintana",
+    "nombre": "Ley de Ingresos del Municipio de Benito Juárez, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L230-XVI-20201223-l1620201223082-BJ.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_cozumel_quintana_roo",
+    "nombre": "Ley de Ingresos del Municipio de Cozumel, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L224-XVI-20201222-L1620201222067-Cozumel.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_felipe_carrillo_puerto",
+    "nombre": "Ley de Ingresos del Municipio de Felipe Carrillo Puerto, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L236-XVI-20201225-l1620201225088-FCP.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_isla_mujeres_quintana",
+    "nombre": "Ley de Ingresos del Municipio de Isla Mujeres, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L232-XVI-20201224-l1620201224084-IM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_jose_maria_morelos",
+    "nombre": "Ley de Ingresos del Municipio de José María Morelos, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L231-XVI-20201223-l1620201223083-JMM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_lazaro_cardenas_quintana",
+    "nombre": "Ley de Ingresos del Municipio de Lázaro Cárdenas, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L233-XVI-20201224-l1620201224085-LC.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_othon_p_blanco",
+    "nombre": "Ley de Ingresos del Municipio de Othón P. Blanco, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L223-XVIII-20201222-L1620201222066-OPB.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_puerto_morelos_quintana",
+    "nombre": "Ley de Ingresos del Municipio de Puerto Morelos, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L234-XVIII-20201224-L1620201224086-PM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_solidaridad_quintana_roo",
+    "nombre": "Ley de Ingresos del Municipio de Solidaridad, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L225-XVIII-20201222-L1620201222068.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_ingresos_municipio_tulum_quintana_roo",
+    "nombre": "Ley de Ingresos del Municipio de Tulum, del Estado de Quintana Roo, para el Ejercicio Fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L237-XVIII-20201225-L1620201225089-Tulum.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_impuesto_adicional_fomento_empleo_quintana",
+    "nombre": "Ley del Impuesto Adicional para el Fomento al Empleo del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L227-XVI-20201221-L1620201221073.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_periodico_oficial_quintana_roo",
+    "nombre": "Ley del Periódico Oficial del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L238-XVI-20201231-L1620201231094.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_presupuesto_egresos_gobierno_quintana_roo_ejercicio",
+    "nombre": "Presupuesto de Egresos del Gobierno del Estado de Quintana Roo, para el ejercicio fiscal 2021",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L229-XVI-20201219-l1620201219078-presupueesto.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_desarrollo_forestal_sustentable_quintana_roo",
+    "nombre": "Ley de Desarrollo Forestal Sustentable para el Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L287-XVIII-20231127-L1720231127124.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_consulta_a_pueblos_comunidades_indigenas",
+    "nombre": "Ley de Consulta a los Pueblos y Comunidades Indígenas y Afromexicanas del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L268-XVIII-20220824-Ley-de-consulta-a-los-pueblos-mod.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  },
+  {
+    "id": "quintanaroo_ley_salud_mental_quintana_roo",
+    "nombre": "Ley de Salud Mental del Estado de Quintana Roo",
+    "tipo": "Ley",
+    "entidad": "quintanaroo",
+    "url_pdf": "https://documentos.congresoqroo.gob.mx/leyes/L222-XVI-20201221-L1620201221064-SM.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoqroo.gob.mx"
+  }
+]

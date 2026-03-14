@@ -1,4 +1,4 @@
-# DerMex — Derecho Positivo Mexicano
+# DerIAMex — Derecho Positivo Mexicano
 
 Base de datos estructurada de la legislación vigente en México: federal + 32 estados.
 Catálogos completos de leyes, códigos y reglamentos con URLs de descarga directa al PDF oficial, más vigilancia automatizada de cambios.
@@ -7,14 +7,22 @@ Catálogos completos de leyes, códigos y reglamentos con URLs de descarga direc
 
 ## Cobertura actual
 
-| Entidad | Leyes catalogadas | Fuente |
-|---------|:-----------------:|--------|
-| Nuevo León | 174 | hcnl.gob.mx |
-| Estado de México | 426 | legislacion.edomex.gob.mx |
-| Guanajuato | 118 | congresogto.gob.mx |
-| **Total** | **718** | |
+| Entidad | Leyes | Con PDF | Fuente |
+|---------|:-----:|:-------:|--------|
+| Estado de México | 426 | 426 | legislacion.edomex.gob.mx |
+| Yucatán | 384 | 371 | congresoyucatan.gob.mx |
+| Oaxaca | 215 | 215 | congresooaxaca.gob.mx |
+| Chihuahua | 176 | 5 | congresochihuahua.gob.mx |
+| Nuevo León | 174 | 173 | hcnl.gob.mx |
+| Baja California | 163 | 162 | congresobc.gob.mx |
+| Durango | 157 | 157 | congresodurango.gob.mx |
+| Tamaulipas | 129 | 129 | congresotamaulipas.gob.mx |
+| Guanajuato | 118 | 117 | congresogto.gob.mx |
+| Tabasco | 49 | 49 | congresotabasco.gob.mx |
+| Quintana Roo | 27 | 27 | congresoqroo.gob.mx |
+| **Total** | **2018** | **1831** | |
 
-29 entidades restantes (federal + 28 estados) en proceso.
+21 entidades restantes (federal + 20 estados) en proceso.
 
 ---
 
@@ -76,6 +84,15 @@ Tipos válidos: `Ley`, `Código`, `Reglamento`, `Decreto`, `Acuerdo`, `Norma`
 python3 scripts/scraper_catalogo.py --entidad guanajuato
 python3 scripts/scraper_catalogo.py --entidad edomex
 python3 scripts/scraper_catalogo.py --entidad nuevoleon
+python3 scripts/scraper_catalogo.py --entidad tamaulipas
+python3 scripts/scraper_catalogo.py --entidad chihuahua
+python3 scripts/scraper_catalogo.py --entidad durango
+python3 scripts/scraper_catalogo.py --entidad tabasco
+python3 scripts/scraper_catalogo.py --entidad oaxaca
+python3 scripts/scraper_catalogo.py --entidad bajacalifornia
+python3 scripts/scraper_catalogo.py --entidad yucatan
+python3 scripts/scraper_catalogo.py --entidad quintanaroo
+python3 scripts/scraper_catalogo.py --todas       # todas las entidades con scraper
 ```
 
 ### Guardar catálogo extraído desde el browser

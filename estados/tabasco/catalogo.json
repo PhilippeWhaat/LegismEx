@@ -1,0 +1,492 @@
+[
+  {
+    "id": "tabasco_ley_prevenir_investigar_sancionar_delito_extorsion",
+    "nombre": "Ley para Prevenir Investigar y Sancionar el Delito de Extorsion en el Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/02/Ley-para-Prevenir-Investigar-y-Sancionar-el-Delito-de-Extorsion-en-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-02",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_revocacion_mandato_tabasco",
+    "nombre": "Ley de Revocacion de Mandato del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/04/Ley-de-Revocacion-de-Mandato-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_ingresos_ejercicio_fiscal_2025",
+    "nombre": "Ley de Ingresos del Estado para el ejercicio fiscal 2025",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/01/Ley-de-Ingresos-del-Estado-para-el-ejercicio-fiscal-2025.pdf",
+    "ultima_reforma": "2025-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_austeridad_tabasco",
+    "nombre": "Ley de Austeridad del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2024/12/Ley-de-Austeridad-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2024-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_presupuesto_general_egresos_ejercicio_fiscal_2025",
+    "nombre": "Presupuesto General de Egresos para el ejercicio fiscal 2025",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/01/Presupuesto-General-de-Egresos-para-el-ejercicio-fiscal-2025.pdf",
+    "ultima_reforma": "2025-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_decreto_declara_a_feria_tabasco_como",
+    "nombre": "Decreto por el que se declara a la Feria Tabasco como patrimonio cultural intangible del Estado de Tabasco",
+    "tipo": "Decreto",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/01/Decreto-por-el-que-se-declara-a-la-Feria-Tabasco-como-patrimonio-cultural-intangible-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_constitucion_politica_tabasco1",
+    "nombre": "Constitucion Politica del Estado de Tabasco1",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/12/Constitucion-Politica-del-Estado-de-Tabasco1.pdf",
+    "ultima_reforma": "2025-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_proteccion_datos_personales_posesion_sujetos",
+    "nombre": "Ley de Proteccion de Datos Personales en Posesion de Sujetos Obligados del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/06/Ley-de-Proteccion-de-Datos-Personales-en-Posesion-de-Sujetos-Obligados-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_centro_conciliacion_laboral_tabasco",
+    "nombre": "Ley del Centro de Conciliacion Laboral para el Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/08/Ley-del-Centro-de-Conciliacion-Laboral-para-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-08",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_electoral_partidos_politicos_tabasco",
+    "nombre": "Ley Electoral y de Partidos Politicos del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/04/Ley-Electoral-y-de-Partidos-Politicos-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_materia_desaparicion_forzada_personas_desaparicion",
+    "nombre": "Ley en Materia de Desaparicion Forzada de Personas Desaparicion Cometida por Particulares y del Sistema de Busqueda de Personas para el Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/09/Ley-en-Materia-de-Desaparicion-Forzada-de-Personas-Desaparicion-Cometida-por-Particulares-y-del-Sistema-de-Busqueda-de-Personas-para-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_organica_tabasco",
+    "nombre": "Ley Organica de los Municipios del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2024/10/Ley-Organica-de-los-Municipios-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2024-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_organica_fiscalia_general_tabasco",
+    "nombre": "Ley Organica de la Fiscalia General del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/02/Ley-Organica-de-la-Fiscalia-General-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-02",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_sistema_anticorrupcion_tabasco",
+    "nombre": "Ley del Sistema Anticorrupcion del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/06/Ley-del-Sistema-Anticorrupcion-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_trabajadores_servicio_tabasco_1",
+    "nombre": "Ley de los Trabajadores al Servicio del Estado de Tabasco 1",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/10/Ley-de-los-Trabajadores-al-Servicio-del-Estado-de-Tabasco-1.pdf",
+    "ultima_reforma": "2025-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_desarrollo_social_tabasco",
+    "nombre": "Ley de Desarrollo Social del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/05/Ley-de-Desarrollo-Social-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_agricola_tabasco",
+    "nombre": "Ley Agricola para el Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/01/Ley-Agricola-para-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_archivos_tabasco",
+    "nombre": "Ley de Archivos para el Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/10/Ley-de-Archivos-para-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_derechos_cultura_indigena_tabasco",
+    "nombre": "Ley de Derechos y Cultura Indigena del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/05/Ley-de-Derechos-y-Cultura-Indigena-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_desarrollo_rural_sustentable_tabasco",
+    "nombre": "Ley de Desarrollo Rural Sustentable del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/01/Ley-de-Desarrollo-Rural-Sustentable-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_deuda_publica_tabasco_mpios",
+    "nombre": "Ley de Deuda Publica del Estado de Tabasco y sus Mpios",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/01/Ley-de-Deuda-Publica-del-Estado-de-Tabasco-y-sus-Mpios.pdf",
+    "ultima_reforma": "2026-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_educacion_tabasco",
+    "nombre": "Ley de Educacion del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/09/Ley-de-Educacion-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_gobierno_digital_firma_electronica_tabasco",
+    "nombre": "Ley de Gobierno Digital y Firma Electronica para el Estado de Tabasco y sus Municipios",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/12/Ley-de-Gobierno-Digital-y-Firma-Electronica-para-el-Estado-de-Tabasco-y-sus-Municipios.pdf",
+    "ultima_reforma": "2025-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_derechos_ninas_ninos_adolescentes_tabasco",
+    "nombre": "Ley de los Derechos de Ninas Ninos y Adolescentes del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/01/Ley-de-los-Derechos-de-Ninas-Ninos-y-Adolescentes-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_medios_impugnacion_materia_electoral_tabasco",
+    "nombre": "Ley de Medios de Impugnacion en Materia Electoral del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/01/Ley-de-Medios-de-Impugnacion-en-Materia-Electoral-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_proteccion_fomento_patrimonio_cultural_tabasco",
+    "nombre": "Ley de Proteccion y Fomento del Patrimonio Cultural para el Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/10/Ley-de-Proteccion-y-Fomento-del-Patrimonio-Cultural-para-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_salud_tabasco",
+    "nombre": "Ley de Salud del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/10/Ley-de-Salud-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_transparencia_acceso_a_informacion_publica",
+    "nombre": "Ley de Transparencia y Acceso a la Informacion Publica del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/11/Ley-de-Transparencia-y-Acceso-a-la-Informacion-Publica-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-11",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_valuacion_tabasco",
+    "nombre": "Ley de Valuacion para el Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/01/Ley-de-Valuacion-para-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_estatal_acceso_mujeres_a_vida",
+    "nombre": "Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/10/Ley-Estatal-de-Acceso-de-las-Mujeres-a-una-Vida-Libre-de-Violencia.pdf",
+    "ultima_reforma": "2025-10",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_forestal_tabasco",
+    "nombre": "Ley Forestal del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/05/Ley-Forestal-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_organica_poder_judicial_tabasco",
+    "nombre": "Ley Organica del Poder Judicial del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/09/Ley-Organica-del-Poder-Judicial-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_administracion_destino_bienes_asegurados_abandonados",
+    "nombre": "Ley para la Administracion y Destino de Bienes Asegurados Abandonados o Decomisados del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/06/Ley-para-la-Administracion-y-Destino-de-Bienes-Asegurados-Abandonados-o-Decomisados-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_igualdad_entre_mujeres_hombres_tabasco",
+    "nombre": "Ley para la Igualdad entre Mujeres y Hombres del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/12/Ley-para-la-Igualdad-entre-Mujeres-y-Hombres-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_prevenir_eliminar_discriminacion_tabasco",
+    "nombre": "Ley para Prevenir y Eliminar la Discriminacion en el Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/02/Ley-para-Prevenir-y-Eliminar-la-Discriminacion-en-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-02",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_crea_yumka",
+    "nombre": "Ley que crea Yumka",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/04/Ley-que-crea-Yumka.pdf",
+    "ultima_reforma": "2025-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_regula_venta_distribucion_consumo_bebidas",
+    "nombre": "Ley que Regula la Venta Distribucion y Consumo de Bebidas Alcoholicas",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/09/Ley-que-Regula-la-Venta-Distribucion-y-Consumo-de-Bebidas-Alcoholicas.pdf",
+    "ultima_reforma": "2025-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_obras_publicas_servicios_relacionados_mismas",
+    "nombre": "Ley de Obras Publicas Y Servicios Relacionados Con Las Mismas Del Estado De Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2024/12/Ley-de-Obras-Publicas-Y-Servicios-Relacionados-Con-Las-Mismas-Del-Estado-De-Tabasco.pdf",
+    "ultima_reforma": "2024-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_organica_poder_ejecutivo_tabasco_nueva",
+    "nombre": "Ley Organica del Poder Ejecutivo del Estado de Tabasco Nueva 1",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/12/Ley-Organica-del-Poder-Ejecutivo-del-Estado-de-Tabasco-Nueva-1.pdf",
+    "ultima_reforma": "2025-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_adquisiciones_arrendamientos_prestacion_servicios_edo",
+    "nombre": "Ley de Adquisiciones Arrendamientos y Prestacion de Servicios del Edo",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/02/Ley-de-Adquisiciones-Arrendamientos-y-Prestacion-de-Servicios-del-Edo.pdf",
+    "ultima_reforma": "2026-02",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_coordinacion_fiscal_financiera_tabasco",
+    "nombre": "Ley de Coordinacion Fiscal y Financiera del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/01/Ley-de-Coordinacion-Fiscal-y-Financiera-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_hacienda_tabasco_enero_2023_1",
+    "nombre": "Ley de Hacienda del Estado de Tabasco Enero 2023 1",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/01/Ley-de-Hacienda-del-Estado-de-Tabasco-Enero-2023-1.pdf",
+    "ultima_reforma": "2026-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_organica_poder_legislativo_tabasco_1",
+    "nombre": "Ley Organica del Poder Legislativo del Estado de Tabasco 1",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/09/Ley-Organica-del-Poder-Legislativo-del-Estado-de-Tabasco-1.pdf",
+    "ultima_reforma": "2025-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_fiscalizacion_superior_tabasco",
+    "nombre": "Ley de Fiscalizacion Superior del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/09/Ley-de-Fiscalizacion-Superior-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_reglamento_interior_congreso_tabasco",
+    "nombre": "Reglamento Interior del Congreso del Estado de Tabasco",
+    "tipo": "Reglamento",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/09/Reglamento-Interior-del-Congreso-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_codigo_fiscal_tabasco",
+    "nombre": "Codigo Fiscal del Estado de Tabasco",
+    "tipo": "Código",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/01/Codigo-Fiscal-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_codigo_penal_tabasco_1",
+    "nombre": "Codigo Penal para el Estado de Tabasco 1",
+    "tipo": "Código",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/02/Codigo-Penal-para-el-Estado-de-Tabasco-1.pdf",
+    "ultima_reforma": "2026-02",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_codigo_civil_tabasco",
+    "nombre": "Codigo Civil para el Estado de Tabasco",
+    "tipo": "Código",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/09/Codigo-Civil-para-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2025-09",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ceac_relacion_bienes_muebles_e_intangibles",
+    "nombre": "CEAC RELACION DE BIENES MUEBLES E INTANGIBLES AL 31 DICIEMBRE 2024",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/07/CEAC-RELACION-DE-BIENES-MUEBLES-E-INTANGIBLES-AL-31-DICIEMBRE-2024.pdf",
+    "ultima_reforma": "2025-07",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  }
+]
