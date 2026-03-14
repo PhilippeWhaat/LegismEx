@@ -13,12 +13,19 @@ import hashlib
 import json
 import logging
 import shutil
+import ssl
 import sys
 import argparse
+import time
 from datetime import datetime
 from pathlib import Path
 import urllib.request
 import urllib.error
+
+# Contexto SSL permisivo (muchos portales gubernamentales tienen certs malos)
+SSL_CTX = ssl.create_default_context()
+SSL_CTX.check_hostname = False
+SSL_CTX.verify_mode = ssl.CERT_NONE
 
 # ──────────────────────────────────────────────
 # Configuración de rutas
@@ -89,13 +96,14 @@ def ruta_changelog(ley: dict) -> Path:
 def descargar_archivo(url: str, destino: Path) -> bool:
     headers = {
         "User-Agent": (
-            "Mozilla/5.0 (compatible; LegismEx/1.0; "
-            "Sistema de Vigilancia Legislativa)"
-        )
+            "Mozilla/5.0 (X11; Linux x86_64; rv:124.0) "
+            "Gecko/20100101 Firefox/124.0"
+        ),
+        "Accept": "application/pdf,*/*",
     }
     req = urllib.request.Request(url, headers=headers)
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=60, context=SSL_CTX) as resp:
             destino.parent.mkdir(parents=True, exist_ok=True)
             with open(destino, "wb") as f:
                 shutil.copyfileobj(resp, f)
@@ -171,7 +179,10 @@ def verificar_alerta_manual(cola: list):
 # ──────────────────────────────────────────────
 def procesar_ley(ley: dict, indice: list) -> dict:
     ley_id = ley["id"]
-    url = ley["url"]
+    url = ley.get("url", "")
+    if not url or not url.startswith("http"):
+        log.debug(f"  Saltando {ley_id}: sin URL de descarga")
+        return ley
     hash_previo = ley.get("ultimo_hash")
     ruta = ruta_ley(ley)
     tmp = ruta.with_suffix(".tmp")
@@ -261,14 +272,26 @@ def main():
     actualizadas = 0
     fallidas = 0
 
+    procesadas = 0
     for i, ley in enumerate(indice):
         if ley in leyes:
+            url = ley.get("url", "")
+            if not url or not url.startswith("http"):
+                continue
             resultado = procesar_ley(ley, indice)
             indice[i] = resultado
             if resultado["estado"] == "ok":
                 actualizadas += 1
             else:
                 fallidas += 1
+            procesadas += 1
+            # Pausa entre descargas para no saturar servidores
+            if procesadas % 10 == 0:
+                time.sleep(1)
+            # Guardar índice cada 50 descargas (por si se interrumpe)
+            if procesadas % 50 == 0:
+                guardar_indice(indice)
+                log.info(f"  Progreso: {procesadas}/{len(leyes)} procesadas")
 
     guardar_indice(indice)
 
