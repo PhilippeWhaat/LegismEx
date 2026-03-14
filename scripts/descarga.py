@@ -19,6 +19,7 @@ import argparse
 import time
 from datetime import datetime
 from pathlib import Path
+import urllib.parse
 import urllib.request
 import urllib.error
 
@@ -101,7 +102,11 @@ def descargar_archivo(url: str, destino: Path) -> bool:
         ),
         "Accept": "application/pdf,*/*",
     }
-    req = urllib.request.Request(url, headers=headers)
+    # Encode non-ASCII characters in URL path
+    parsed = urllib.parse.urlparse(url)
+    encoded_path = urllib.parse.quote(parsed.path, safe='/:@!$&\'()*+,;=-._~')
+    url_safe = urllib.parse.urlunparse(parsed._replace(path=encoded_path))
+    req = urllib.request.Request(url_safe, headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=60, context=SSL_CTX) as resp:
             destino.parent.mkdir(parents=True, exist_ok=True)
