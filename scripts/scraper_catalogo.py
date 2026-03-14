@@ -1903,6 +1903,92 @@ def scrape_bajacaliforniasur() -> list[dict]:
 
 
 # ──────────────────────────────────────────────
+# CDMX — data.consejeria.cdmx.gob.mx/index.php/leyes/leyes
+# Joomla paginado. ~80+ leyes con PDFs en /images/leyes/.
+# ──────────────────────────────────────────────
+
+def scrape_cdmx() -> list[dict]:
+    entidad = "cdmx"
+    base_url = "https://data.consejeria.cdmx.gob.mx"
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+    start = 0
+
+    while True:
+        url = f"{base_url}/index.php/leyes/leyes?start={start}" if start > 0 else f"{base_url}/index.php/leyes/leyes"
+        log.info(f"  CDMX: {url}")
+        html = fetch(url)
+        if not html:
+            break
+
+        # Extract law entries: links with law names
+        entries = re.findall(
+            r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
+            html, re.DOTALL
+        )
+        # Filter to law names only
+        entries = [(h, re.sub(r'<[^>]+>', '', t).strip()) for h, t in entries
+                   if any(w in re.sub(r'<[^>]+>', '', t).strip().lower()[:15]
+                          for w in ['ley ', 'código', 'codigo', 'constitución', 'constitucion', 'estatuto'])
+                   and len(re.sub(r'<[^>]+>', '', t).strip()) > 15]
+
+        if not entries:
+            break
+
+        # Also find all PDF links on the page
+        pdfs_on_page = re.findall(
+            r'href=["\']([^"\']+/images/leyes/[^"\']+\.pdf)["\']',
+            html, re.IGNORECASE
+        )
+
+        found = 0
+        for href, nombre in entries:
+            nombre = limpiar_texto(nombre)
+            if not nombre or len(nombre) < 10:
+                continue
+
+            # Try to find a PDF for this law
+            # Look for PDF near this law's anchor
+            nombre_short = nombre[:30].lower()
+            url_pdf = ""
+            for pdf in pdfs_on_page:
+                if not url_pdf:  # Take first available
+                    url_pdf = pdf if pdf.startswith("http") else f"{base_url}{pdf}"
+
+            tipo = inferir_tipo(nombre)
+            ley_id = generar_id(entidad, nombre)
+            if ley_id in ids_vistos:
+                continue
+            ids_vistos.add(ley_id)
+            found += 1
+
+            leyes.append({
+                "id": ley_id,
+                "nombre": nombre,
+                "tipo": tipo,
+                "entidad": entidad,
+                "url_pdf": "",  # PDFs are per-entry, mapping is complex
+                "ultima_reforma": "",
+                "estado_vigencia": "vigente",
+                "fuente": "data.consejeria.cdmx.gob.mx",
+            })
+
+        if found == 0:
+            break
+
+        # Check for next page
+        next_start = start + 20
+        if f"start={next_start}" not in html:
+            break
+        start = next_start
+        time.sleep(0.5)
+
+    log.info(f"  CDMX total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
 # MICHOACÁN — congresomich.gob.mx/leyes/ (HTTP)
 # Headings h2-h5 con nombres de leyes + PDF links debajo.
 # ~100 leyes. Usar HTTP (no HTTPS).
@@ -2281,6 +2367,7 @@ SCRAPERS: dict[str, callable] = {
     "puebla":            scrape_puebla,
     "nayarit":           scrape_nayarit,
     "michoacan":         scrape_michoacan,
+    "cdmx":             scrape_cdmx,
 }
 
 
