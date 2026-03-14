@@ -1909,6 +1909,66 @@ def scrape_bajacaliforniasur() -> list[dict]:
 
 
 # ──────────────────────────────────────────────
+# QUERÉTARO — legislaturaqueretaro.gob.mx/leyes/
+# Tabla HTML con ~118 leyes. PDFs en site.legislaturaqueretaro.gob.mx.
+# ──────────────────────────────────────────────
+
+def scrape_queretaro() -> list[dict]:
+    entidad = "queretaro"
+    url = "http://legislaturaqueretaro.gob.mx/leyes/"
+
+    log.info(f"  Querétaro: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Querétaro: no se pudo acceder al portal")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+
+    for row in rows:
+        cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+        if len(cells) < 2:
+            continue
+
+        # Cell 0: num, Cell 1: nombre, Cell 2: PDF link
+        nombre = re.sub(r'<[^>]+>', '', cells[1]).strip() if len(cells) > 1 else ""
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10 or nombre.isdigit():
+            continue
+
+        # PDF link
+        url_pdf = ""
+        for cell in cells:
+            pdf_match = re.search(r'href=["\']([^"\']+\.pdf)["\']', cell, re.IGNORECASE)
+            if pdf_match:
+                url_pdf = pdf_match.group(1)
+                break
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "ultima_reforma": "",
+            "estado_vigencia": "vigente",
+            "fuente": "legislaturaqueretaro.gob.mx",
+        })
+
+    log.info(f"  Querétaro total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
 # HIDALGO — congresohidalgo.gob.mx/acervo_legislativo/leyes/
 # Tabla HTML con ~173 leyes. Nombre, publicación, última reforma, PDF.
 # ──────────────────────────────────────────────
@@ -2011,6 +2071,7 @@ SCRAPERS: dict[str, callable] = {
     "veracruz":       scrape_veracruz,
     "chiapas":        scrape_chiapas,
     "bajacaliforniasur": scrape_bajacaliforniasur,
+    "queretaro":         scrape_queretaro,
 }
 
 
