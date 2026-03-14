@@ -12,17 +12,19 @@ Catálogos completos de leyes, códigos y reglamentos con URLs de descarga direc
 | Estado de México | 426 | 426 | legislacion.edomex.gob.mx |
 | Yucatán | 384 | 371 | congresoyucatan.gob.mx |
 | Oaxaca | 215 | 215 | congresooaxaca.gob.mx |
+| Tlaxcala | 203 | 203 | congresodetlaxcala.gob.mx |
 | Chihuahua | 176 | 5 | congresochihuahua.gob.mx |
 | Nuevo León | 174 | 173 | hcnl.gob.mx |
+| Hidalgo | 168 | 168 | congresohidalgo.gob.mx |
 | Baja California | 163 | 162 | congresobc.gob.mx |
 | Durango | 157 | 157 | congresodurango.gob.mx |
 | Tamaulipas | 129 | 129 | congresotamaulipas.gob.mx |
 | Guanajuato | 118 | 117 | congresogto.gob.mx |
 | Tabasco | 49 | 49 | congresotabasco.gob.mx |
 | Quintana Roo | 27 | 27 | congresoqroo.gob.mx |
-| **Total** | **2018** | **1831** | |
+| **Total** | **2389** | **2202** | |
 
-21 entidades restantes (federal + 20 estados) en proceso.
+19 entidades restantes (federal + 18 estados) en proceso.
 
 ---
 
@@ -92,6 +94,8 @@ python3 scripts/scraper_catalogo.py --entidad oaxaca
 python3 scripts/scraper_catalogo.py --entidad bajacalifornia
 python3 scripts/scraper_catalogo.py --entidad yucatan
 python3 scripts/scraper_catalogo.py --entidad quintanaroo
+python3 scripts/scraper_catalogo.py --entidad tlaxcala
+python3 scripts/scraper_catalogo.py --entidad hidalgo
 python3 scripts/scraper_catalogo.py --todas       # todas las entidades con scraper
 ```
 

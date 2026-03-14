@@ -1452,6 +1452,166 @@ def scrape_quintanaroo() -> list[dict]:
     return leyes
 
 
+# ──────────────────────────────────────────────
+# TLAXCALA — congresodetlaxcala.gob.mx/legislacion/
+# Tabla HTML con 206 leyes. Nombre, PDF, DOC, última reforma.
+# PDFs en /archivo/leyes2020/pdf/
+# ──────────────────────────────────────────────
+
+def scrape_tlaxcala() -> list[dict]:
+    entidad = "tlaxcala"
+    url = "https://congresodetlaxcala.gob.mx/legislacion/"
+
+    log.info(f"  Tlaxcala: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Tlaxcala: no se pudo acceder al portal")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    meses = {
+        "enero": "01", "febrero": "02", "marzo": "03", "abril": "04",
+        "mayo": "05", "junio": "06", "julio": "07", "agosto": "08",
+        "septiembre": "09", "octubre": "10", "noviembre": "11", "diciembre": "12",
+    }
+
+    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+
+    for row in rows:
+        cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+        if len(cells) < 2:
+            continue
+
+        # Cell 0: nombre, Cell 1: PDF link, Cell 2: DOC link, Cell 3: última reforma
+        nombre = re.sub(r'<[^>]+>', '', cells[0]).strip()
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10 or "Ultima Reforma" in nombre:
+            continue
+
+        # PDF link
+        pdf_match = re.search(r'href=["\']([^"\']+\.pdf)["\']', cells[1] if len(cells) > 1 else "", re.IGNORECASE)
+        url_pdf = pdf_match.group(1) if pdf_match else ""
+        if url_pdf and not url_pdf.startswith("http"):
+            url_pdf = f"https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/{url_pdf}"
+
+        # DOC link
+        doc_match = re.search(r'href=["\']([^"\']+\.doc[x]?)["\']', cells[2] if len(cells) > 2 else "", re.IGNORECASE)
+        url_word = doc_match.group(1) if doc_match else ""
+        if url_word and not url_word.startswith("http"):
+            url_word = f"https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/{url_word}"
+
+        # Última reforma (format: DD/Mes/YYYY)
+        ultima_reforma = ""
+        if len(cells) > 3:
+            fecha_raw = re.sub(r'<[^>]+>', '', cells[3]).strip()
+            fecha_match = re.match(r'(\d{1,2})/(\w+)/(\d{4})', fecha_raw)
+            if fecha_match:
+                dia, mes_str, anio = fecha_match.groups()
+                mes = meses.get(mes_str.lower(), "01")
+                ultima_reforma = f"{anio}-{mes}-{int(dia):02d}"
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "url_word": url_word,
+            "ultima_reforma": ultima_reforma,
+            "estado_vigencia": "vigente",
+            "fuente": "congresodetlaxcala.gob.mx",
+        })
+
+    log.info(f"  Tlaxcala total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# HIDALGO — congresohidalgo.gob.mx/acervo_legislativo/leyes/
+# Tabla HTML con ~173 leyes. Nombre, publicación, última reforma, PDF.
+# ──────────────────────────────────────────────
+
+def scrape_hidalgo() -> list[dict]:
+    entidad = "hidalgo"
+    base_url = "https://congresohidalgo.gob.mx"
+    url = f"{base_url}/acervo_legislativo/leyes/"
+
+    log.info(f"  Hidalgo: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Hidalgo: no se pudo acceder al portal")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+
+    for row in rows:
+        cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+        if len(cells) < 5:
+            continue
+
+        # Cell 0: número, Cell 1: nombre, Cell 2: publicación, Cell 3: última reforma, Cell 4: PDF
+        nombre = re.sub(r'<[^>]+>', '', cells[1]).strip()
+        nombre = limpiar_texto(nombre).rstrip(".")
+        if not nombre or len(nombre) < 10:
+            continue
+
+        # Última reforma
+        reforma_raw = re.sub(r'<[^>]+>', ' ', cells[3]).strip()
+        reforma_raw = re.sub(r'\s+', ' ', reforma_raw)
+        ultima_reforma = ""
+        # Try to extract date (various formats)
+        fecha_match = re.search(r'(\d{1,2})\s+(?:de\s+)?(\w+)\s+(\d{4})', reforma_raw)
+        if fecha_match:
+            dia, mes_str, anio = fecha_match.groups()
+            meses = {
+                "enero": "01", "febrero": "02", "marzo": "03", "abril": "04",
+                "mayo": "05", "junio": "06", "julio": "07", "agosto": "08",
+                "septiembre": "09", "octubre": "10", "noviembre": "11", "diciembre": "12",
+            }
+            mes = meses.get(mes_str.lower(), "")
+            if mes:
+                ultima_reforma = f"{anio}-{mes}-{int(dia):02d}"
+
+        # PDF URL
+        pdf_match = re.search(r'href=["\']([^"\']+\.pdf)["\']', cells[4], re.IGNORECASE)
+        url_pdf = ""
+        if pdf_match:
+            url_pdf = pdf_match.group(1)
+            if not url_pdf.startswith("http"):
+                url_pdf = f"{base_url}/acervo_legislativo/leyes/{url_pdf}"
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "ultima_reforma": ultima_reforma,
+            "estado_vigencia": "vigente",
+            "fuente": "congresohidalgo.gob.mx",
+        })
+
+    log.info(f"  Hidalgo total: {len(leyes)} documentos")
+    return leyes
+
+
 # ══════════════════════════════════════════════
 # REGISTRO DE SCRAPERS DISPONIBLES
 # ══════════════════════════════════════════════
@@ -1469,6 +1629,8 @@ SCRAPERS: dict[str, callable] = {
     "bajacalifornia": scrape_bajacalifornia,
     "yucatan":        scrape_yucatan,
     "quintanaroo":    scrape_quintanaroo,
+    "tlaxcala":       scrape_tlaxcala,
+    "hidalgo":        scrape_hidalgo,
 }
 
 
