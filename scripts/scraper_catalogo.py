@@ -1909,6 +1909,147 @@ def scrape_bajacaliforniasur() -> list[dict]:
 
 
 # ──────────────────────────────────────────────
+# NAYARIT — congresonayarit.gob.mx (WP API)
+# PDFs extraídos via WordPress REST API.
+# ~119 leyes en wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/
+# ──────────────────────────────────────────────
+
+def scrape_nayarit() -> list[dict]:
+    entidad = "nayarit"
+    api_url = "https://congresonayarit.gob.mx/wp-json/wp/v2/pages"
+
+    log.info(f"  Nayarit: {api_url} (buscando páginas con PDFs de leyes)")
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    # Search WP API for pages containing legislation PDFs
+    for page_num in range(1, 5):
+        url = f"{api_url}?per_page=100&page={page_num}&search=legislacion"
+        req = urllib.request.Request(url, headers={**HEADERS, "Accept": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=20, context=SSL_CTX) as resp:
+                import json as json_mod
+                pages = json_mod.load(resp)
+        except Exception as e:
+            log.error(f"  Nayarit API página {page_num}: {e}")
+            break
+
+        if not pages:
+            break
+
+        for page in pages:
+            content = page.get("content", {}).get("rendered", "")
+            # Extract PDF links from /leyes/ directory
+            pdfs = re.findall(
+                r'href=["\']([^"\']*leyes/[^"\']+\.pdf)["\']',
+                content, re.IGNORECASE
+            )
+            for url_pdf in pdfs:
+                # Clean escaped slashes from JSON
+                url_pdf = url_pdf.replace("\\/", "/")
+
+                # Extract name from filename
+                filename = urllib.parse.unquote(url_pdf.split("/")[-1])
+                nombre = filename.replace(".pdf", "").replace("_", " ")
+                nombre = limpiar_texto(nombre)
+                if not nombre or len(nombre) < 10:
+                    continue
+
+                tipo = inferir_tipo(nombre)
+                ley_id = generar_id(entidad, nombre)
+                if ley_id in ids_vistos:
+                    continue
+                ids_vistos.add(ley_id)
+
+                leyes.append({
+                    "id": ley_id,
+                    "nombre": nombre,
+                    "tipo": tipo,
+                    "entidad": entidad,
+                    "url_pdf": url_pdf,
+                    "ultima_reforma": "",
+                    "estado_vigencia": "vigente",
+                    "fuente": "congresonayarit.gob.mx",
+                })
+
+    log.info(f"  Nayarit total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# PUEBLA — ojp.puebla.gob.mx (Orden Jurídico Poblano)
+# K2/Joomla paginado. PDFs en /media/k2/attachments/.
+# Paginación: ?catid=19&start=0,20,40,...
+# ──────────────────────────────────────────────
+
+def scrape_puebla() -> list[dict]:
+    entidad = "puebla"
+    base_url = "https://ojp.puebla.gob.mx"
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+    start = 0
+
+    while True:
+        url = f"{base_url}/legislaciondelestado?catid=19&start={start}"
+        log.info(f"  Puebla: {url}")
+        html = fetch(url)
+        if not html:
+            break
+
+        # Extract PDF links from /media/k2/attachments/
+        pdfs = re.findall(
+            r'href=["\']([^"\']*media/k2/attachments/[^"\']+\.pdf)["\']',
+            html, re.IGNORECASE
+        )
+
+        if not pdfs:
+            break
+
+        for pdf_path in pdfs:
+            url_pdf = pdf_path
+            if not url_pdf.startswith("http"):
+                url_pdf = f"{base_url}{url_pdf}"
+
+            # Extract name from filename
+            filename = urllib.parse.unquote(pdf_path.split("/")[-1])
+            nombre = filename.replace(".pdf", "").replace("_", " ")
+            # Remove trailing reform dates like "T7 03102024"
+            nombre = re.sub(r'\s+T\d+\s+\d{8}$', '', nombre)
+            nombre = re.sub(r'\s+\d{8}$', '', nombre)
+            nombre = limpiar_texto(nombre)
+            if not nombre or len(nombre) < 10:
+                continue
+
+            tipo = inferir_tipo(nombre)
+            ley_id = generar_id(entidad, nombre)
+            if ley_id in ids_vistos:
+                continue
+            ids_vistos.add(ley_id)
+
+            leyes.append({
+                "id": ley_id,
+                "nombre": nombre,
+                "tipo": tipo,
+                "entidad": entidad,
+                "url_pdf": url_pdf,
+                "ultima_reforma": "",
+                "estado_vigencia": "vigente",
+                "fuente": "ojp.puebla.gob.mx",
+            })
+
+        # Check for next page
+        if f"start={start + 20}" not in html:
+            break
+        start += 20
+        time.sleep(0.5)
+
+    log.info(f"  Puebla total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
 # QUERÉTARO — legislaturaqueretaro.gob.mx/leyes/
 # Tabla HTML con ~118 leyes. PDFs en site.legislaturaqueretaro.gob.mx.
 # ──────────────────────────────────────────────
@@ -2072,6 +2213,8 @@ SCRAPERS: dict[str, callable] = {
     "chiapas":        scrape_chiapas,
     "bajacaliforniasur": scrape_bajacaliforniasur,
     "queretaro":         scrape_queretaro,
+    "puebla":            scrape_puebla,
+    "nayarit":           scrape_nayarit,
 }
 
 
