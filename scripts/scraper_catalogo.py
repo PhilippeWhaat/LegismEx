@@ -636,6 +636,14 @@ def scrape_federal() -> list[dict]:
         log.warning("  Federal: no se pudo obtener index.htm")
         return []
 
+    # Construir mapa ref_basename → nombre correcto del PDF
+    # (los nombres son CamelCase variable, no siempre UPPERCASE)
+    pdf_links = re.findall(r'href=["\']pdf/([^"\']+\.pdf)["\']', html, re.IGNORECASE)
+    pdf_map: dict[str, str] = {}
+    for pdf in pdf_links:
+        base = pdf.replace(".pdf", "").lower()
+        pdf_map[base] = pdf
+
     # Extraer links ref/*.htm con el nombre de la ley como texto
     entries = re.findall(
         r'<a[^>]+href=["\'](?:ref/([^"\']+\.htm))["\'][^>]*>(.*?)</a>',
@@ -663,10 +671,11 @@ def scrape_federal() -> list[dict]:
         if nombre.startswith("Más de") or nombre.startswith("Artículo"):
             continue
 
-        # Construct PDF URL: ref/xxx.htm → pdf/XXX.pdf
-        # The PDF name is usually the ref name in uppercase without .htm
-        ref_base = ref_page.replace(".htm", "")
-        url_pdf = f"{base_url}/LeyesBiblio/pdf/{ref_base.upper()}.pdf"
+        # PDF URL: extraer del listado de PDFs en index.htm
+        # Los nombres son CamelCase variable (no siempre UPPERCASE)
+        ref_base = ref_page.replace(".htm", "").lower()
+        pdf_name = pdf_map.get(ref_base, f"{ref_base.upper()}.pdf")
+        url_pdf = f"{base_url}/LeyesBiblio/pdf/{pdf_name}"
 
         tipo = inferir_tipo(nombre)
         ley_id = generar_id(entidad, nombre)

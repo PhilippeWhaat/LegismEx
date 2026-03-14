@@ -94,6 +94,29 @@ def ruta_changelog(ley: dict) -> Path:
 # ──────────────────────────────────────────────
 # Descarga
 # ──────────────────────────────────────────────
+def descargar_con_curl(url: str, destino: Path) -> bool:
+    """Fallback con curl — evita bloqueos anti-bot que afectan a urllib."""
+    import subprocess
+    destino.parent.mkdir(parents=True, exist_ok=True)
+    result = subprocess.run(
+        [
+            "curl", "-sS", "-L", "-o", str(destino),
+            "-H", "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0",
+            "-H", "Accept: application/pdf,*/*",
+            "--max-time", "120",
+            "--retry", "2",
+            "--insecure",
+            url,
+        ],
+        capture_output=True, text=True, timeout=150,
+    )
+    if result.returncode == 0 and destino.exists() and destino.stat().st_size > 500:
+        return True
+    if destino.exists():
+        destino.unlink()
+    return False
+
+
 def descargar_archivo(url: str, destino: Path) -> bool:
     headers = {
         "User-Agent": (
@@ -113,14 +136,12 @@ def descargar_archivo(url: str, destino: Path) -> bool:
             with open(destino, "wb") as f:
                 shutil.copyfileobj(resp, f)
         return True
-    except urllib.error.HTTPError as e:
-        log.error(f"HTTP {e.code} al descargar {url}")
-        return False
-    except urllib.error.URLError as e:
-        log.error(f"Error de red al descargar {url}: {e.reason}")
-        return False
-    except Exception as e:
-        log.error(f"Error inesperado al descargar {url}: {e}")
+    except (urllib.error.HTTPError, urllib.error.URLError, Exception) as e:
+        # Fallback: intentar con curl (evita bloqueos anti-bot)
+        log.debug(f"urllib falló ({e}), intentando con curl...")
+        if descargar_con_curl(url, destino):
+            return True
+        log.error(f"Descarga fallida (urllib + curl): {url} — {e}")
         return False
 
 
