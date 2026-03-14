@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "chiapas_constitucion_politica_libre_soberano_chiapas",
+    "nombre": "CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2026-02-18",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_declaratoria_inicio_funciones_centro_conciliacion_laboral",
+    "nombre": "DECLARATORIA DE INICIO DE FUNCIONES DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CHIAPAS Y DE LOS JUZGADOS ESPECIALIZADOS EN MATERIA LABORAL DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DEL ESTADO",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-11-17",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_codigo_civil_chiapas",
+    "nombre": "CÓDIGO CIVIL PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Código",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-03",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_codigo_atencion_a_familia_grupos_vulnerables",
+    "nombre": "CÓDIGO DE ATENCIÓN A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS",
+    "tipo": "Código",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2014-11-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_codigo_ejecucion_sanciones_penales_medidas_libertad",
+    "nombre": "CÓDIGO DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Código",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-05-14",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_codigo_organizacion_poder_judicial_chiapas",
+    "nombre": "CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS",
+    "tipo": "Código",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-01-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_codigo_procedimientos_civiles_chiapas",
+    "nombre": "CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Código",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2019-01-23",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_codigo_procedimientos_penales_chiapas_09_febrero",
+    "nombre": "CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, DEL 09 DE FEBRERO DE 2012.",
+    "tipo": "Código",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2014-12-24",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_codigo_fiscal_chiapas",
+    "nombre": "CÓDIGO FISCAL DEL ESTADO DE CHIAPAS",
+    "tipo": "Código",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-10",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_codigo_fiscal_municipal",
+    "nombre": "CÓDIGO FISCAL MUNICIPAL",
+    "tipo": "Código",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2010-05-26",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_codigo_penal_chiapas",
+    "nombre": "CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Código",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2026-02-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_declaratoria_inicio_vigencia_codigo_nacional_procedimientos",
+    "nombre": "DECLARATORIA DE INICIO DE VIGENCIA DEL CODIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2015-09-21",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_abrogada_mediante_decreto_numero_018",
+    "nombre": "LEY ABROGADA MEDIANTE DECRETO NUMERO 018 DE FECHA 12 DE NOVIEMBRE DE 2019. LEY DE PREVENCIÓN INTEGRAL PARA LAS COMUNIDADES SEGURAS EN EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2015-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_ambiental_chiapas",
+    "nombre": "LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-08-06",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_victimas_chiapas",
+    "nombre": "LEY DE VÍCTIMAS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2024-05-01",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_adopcion_chiapas",
+    "nombre": "LEY DE ADOPCIÓN PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-11-26",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_adquisiciones_arrendamiento_bienes_muebles_contratacion",
+    "nombre": "LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y LA CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-30",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_aguas_chiapas",
+    "nombre": "LEY DE AGUAS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2013-12-11",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_amnistia",
+    "nombre": "LEY DE AMNISTÍA",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "1994-02-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_archivos_chiapas",
+    "nombre": "LEY DE ARCHIVOS DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-08-05",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_asentamientos_humanos_ordenamiento_territorial_desarrollo",
+    "nombre": "LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2017-12-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_asistencia_e_integracion_personas_adultas",
+    "nombre": "LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2015-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_asociaciones_publico_privadas_chiapas",
+    "nombre": "LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2016-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_bibliotecas_chiapas",
+    "nombre": "LEY DE BIBLIOTECAS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2017-06-07",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_bienes_asegurados_abandonados_decomisados_chiapas",
+    "nombre": "LEY DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-02-13",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_catastro_chiapas",
+    "nombre": "LEY DE CATASTRO PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-12-09",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_categorizacion_politicoadministrativa_nucleos_poblacion_chiapas",
+    "nombre": "LEY DE CATEGORIZACIÓN POLÍTICO-ADMINISTRATIVA DE LOS NÚCLEOS DE POBLACIÓN DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2009-10-21",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_centros_ecoturisticos_autogestion_comunitaria_chiapas",
+    "nombre": "LEY DE CENTROS ECOTURÍSTICOS DE AUTOGESTIÓN COMUNITARIA PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2011-06-29",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_ciencia_tecnologia_e_innovacion_chiapas",
+    "nombre": "LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÒN DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2021-09-29",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_ciudades_rurales_sustentables_chiapas",
+    "nombre": "LEY DE CIUDADES RURALES SUSTENTABLES PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2010-11-05",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_concesiones_servicios_e_infraestructura_publica",
+    "nombre": "LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2019-05-23",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_control_constitucional_chiapas",
+    "nombre": "LEY DE CONTROL CONSTITUCIONAL PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2002-11-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_coordinacion_establecimiento_desarrollo_zonas_economicas",
+    "nombre": "LEY DE COORDINACIÓN PARA EL ESTABLECIMIENTO Y DESARROLLO DE LAS ZONAS ECONÓMICAS ESPECIALES EN EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2016-11-09",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_derechos_chiapas",
+    "nombre": "LEY DE DERECHOS DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-10",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_derechos_ejercicio_periodismo_chiapas",
+    "nombre": "LEY DE DERECHOS PARA EL EJERCICIO DEL PERIODISMO EN EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2014-11-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_derechos_culturas_indigenas_chiapas",
+    "nombre": "LEY DE DERECHOS Y CULTURAS INDÍGENAS DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2016-12-28",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_desarrollo_constitucional_congreso_chiapas",
+    "nombre": "LEY DE DESARROLLO CONSTITUCIONAL DEL CONGRESO DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-08-06",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_desarrollo_constitucional_materia_gobierno_administracion",
+    "nombre": "LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2026-02-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_desarrollo_constitucional_igualdad_genero_acceso",
+    "nombre": "LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-04-02",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_desarrollo_economico_atraccion_inversiones_chiapas",
+    "nombre": "LEY DE DESARROLLO ECONÓMICO Y ATRACCIÓN DE INVERSIONES DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2026-02-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_desarrollo_forestal_sustentable_chiapas",
+    "nombre": "LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2027-02-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_desarrollo_rural_sustentable_chiapas",
+    "nombre": "LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2017-08-30",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_desarrollo_social_humanismo_chiapas",
+    "nombre": "LEY DE DESARROLLO SOCIAL Y DEL HUMANISMO DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-05-21",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_desarrollo_proteccion_a_actividad_artesanal",
+    "nombre": "LEY DE DESARROLLO Y PROTECCIÓN A LA ACTIVIDAD ARTESANAL DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2019-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_educacion_libre_soberano_chiapas",
+    "nombre": "LEY DE EDUCACIÓN PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-06-18",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_entidades_paraestatales_chiapas",
+    "nombre": "LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2009-10-31",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_entrega_recepcion_ayuntamientos_chiapas",
+    "nombre": "LEY DE ENTREGA RECEPCIÓN DE LOS AYUNTAMIENTOS DEL ESTADO DE CHIAPAS.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-05-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_establecimientos_mutuantes_chiapas",
+    "nombre": "LEY DE ESTABLECIMIENTOS MUTUANTES DEL ESTADO DE CHIAPAS.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-01-01",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_expropiacion_chiapas",
+    "nombre": "LEY DE EXPROPIACIÓN DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-04-15",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_extincion_dominio_chiapas",
+    "nombre": "LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2014-11-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_firma_electronica_avanzada_chiapas",
+    "nombre": "LEY DE FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2012-11-28",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_fiscalizacion_rendicion_cuentas_chiapas",
+    "nombre": "LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2024-11-21",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_fomento_a_actividades_organizaciones_sociedad",
+    "nombre": "LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2014-09-12",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_fomento_uso_bicicleta_proteccion_ciclista",
+    "nombre": "LEY DE FOMENTO PARA EL USO DE LA BICICLETA Y PROTECCIÓN AL CICLISTA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-11-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_fomento_lectura_libro_chiapas",
+    "nombre": "LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2017-05-16",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_fomento_sanidad_pecuaria_chiapas",
+    "nombre": "LEY DE FOMENTO Y SANIDAD PECUARIA PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2023-04-19",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_fomento_desarrollo_e_innovacion_estrategia",
+    "nombre": "LEY DE FOMENTO, DESARROLLO E INNOVACIÓN PARA LA ESTRATEGIA MARCA CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-04-15",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_fraccionamientos_conjuntos_habitacionales_chiapas",
+    "nombre": "LEY DE FRACCIONAMIENTOS Y CONJUNTOS HABITACIONALES PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-02-13",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_gobierno_digital_chiapas",
+    "nombre": "LEY DE GOBIERNO DIGITAL DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-11-19",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_hacienda_municipal",
+    "nombre": "LEY DE HACIENDA MUNICIPAL",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2009-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_ingresos_chiapas_ejercicio_fiscal_2026",
+    "nombre": "LEY DE INGRESOS PARA EL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2026",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-30",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_instituciones_procedimientos_electorales_chiapas",
+    "nombre": "LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-09-17",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_comision_estatal_derechos_humanos",
+    "nombre": "LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2016-11-09",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_defensoria_publica_chiapas",
+    "nombre": "LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2014-11-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_juventud_chiapas",
+    "nombre": "LEY DE LA JUVENTUD PARA EL ESTADO DE CHIAPAS.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2012-09-17",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_culturas_artes_chiapas",
+    "nombre": "LEY DE LAS CULTURAS Y LAS ARTES DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2009-01-28",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_derechos_ninas_ninos_adolescentes_chiapas",
+    "nombre": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-11-26",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_mecanismos_alternativos_solucion_controversias_chiapas",
+    "nombre": "LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-01-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_medios_impugnacion_materia_electoral_chiapas",
+    "nombre": "LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-06-29",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_mejora_regulatoria_chiapas",
+    "nombre": "LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2019-05-15",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_movilidad_transporte_chiapas",
+    "nombre": "LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2026-02-05",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_municipalizacion_chiapas",
+    "nombre": "LEY DE MUNICIPALIZACIÓN PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2017-05-10",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_obra_publica_chiapas",
+    "nombre": "LEY DE OBRA PUBLICA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-10",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_participacion_ciudadana_chiapas",
+    "nombre": "LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2023-09-22",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_pesca_acuacultura_sustentable_chiapas",
+    "nombre": "LEY DE PESCA Y ACUACULTURA SUSTENTABLE PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-10-08",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_planeacion_chiapas",
+    "nombre": "LEY DE PLANEACIÓN PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2023-07-05",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_presupuesto_contabilidad_gasto_publico_municipal",
+    "nombre": "LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO MUNICIPAL",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-05-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_procedimientos_administrativos_chiapas",
+    "nombre": "LEY DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-08-19",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_propiedad_condominio_inmuebles_chiapas",
+    "nombre": "LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2015-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_proteccion_contra_exposicion_humo_tabaco",
+    "nombre": "LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2019-06-12",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_proteccion_datos_personales_posesion_sujetos",
+    "nombre": "LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-06-18",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_proteccion_monumentos_sitios_chiapas",
+    "nombre": "LEY DE PROTECCIÓN DE MONUMENTOS Y SITIOS DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "1972-10-11",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_proteccion_fauna_chiapas",
+    "nombre": "LEY DE PROTECCIÓN PARA LA FAUNA EN EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2014-05-15",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_residuos_solidos_chiapas",
+    "nombre": "LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE CHIAPAS Y SUS MUNICIPIOS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2019-06-19",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_responsabilidad_patrimonial_chiapas",
+    "nombre": "LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE CHIAPAS Y SUS MUNICIPIOS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2023-07-05",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_responsabilidades_administrativas_chiapas",
+    "nombre": "LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2026-02-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_salud_chiapas",
+    "nombre": "LEY DE SALUD DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-05-28",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_seguridad_privada_chiapas",
+    "nombre": "LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2013-12-11",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_transparencia_acceso_a_informacion_publica",
+    "nombre": "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-06-25",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_turismo_chiapas",
+    "nombre": "LEY DE TURISMO PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-05-14",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_valuacion_chiapas",
+    "nombre": "LEY DE VALUACIÓN PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2013-12-11",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_voluntad_anticipada_chiapas",
+    "nombre": "LEY DE VOLUNTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-08-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_colegio_bachilleres_chiapas",
+    "nombre": "LEY DEL COLEGIO DE BACHILLERES DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-01-10",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_escudo_himno_chiapas",
+    "nombre": "LEY DEL ESCUDO Y EL HIMNO DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-30",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_fomento_deporte_chiapas",
+    "nombre": "LEY DEL FOMENTO AL DEPORTE DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2004-11-09",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_fomento_desarrollo_agricola_chiapas",
+    "nombre": "LEY DEL FOMENTO Y DESARROLLO AGRÍCOLA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "1998-08-12",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_instituto_seguridad_social_trabajadores_chiapas",
+    "nombre": "LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2022-10-05",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_notariado_chiapas",
+    "nombre": "LEY DEL NOTARIADO PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2012-10-03",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_patrimonio_chiapas",
+    "nombre": "LEY DEL PATRIMONIO DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2024-09-11",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_servicio_civil_chiapas",
+    "nombre": "LEY DEL SERVICIO CIVIL DEL ESTADO Y LOS MUNICIPIOS DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2026-02-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_sistema_anticorrupcion_chiapas",
+    "nombre": "LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2021-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_sistema_estatal_cultura_fisica_deporte",
+    "nombre": "LEY DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2012-12-24",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_sistema_estatal_seguridad_publica",
+    "nombre": "LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-10",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_materia_desaparicion_personas_chiapas",
+    "nombre": "LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-10",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_estatal_periodico_oficial",
+    "nombre": "LEY ESTATAL DEL PERIÓDICO OFICIAL",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2017-05-17",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_estatal_dialogo_conciliacion_paz_digna",
+    "nombre": "LEY ESTATAL PARA EL DIALOGO, LA CONCILIACIÓN Y LA PAZ DIGNA EN CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "1995-03-11",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_estatal_prevencion_social_violencia_delincuencia",
+    "nombre": "LEY ESTATAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2016-05-25",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_estatal_prevenir_sancionar_tortura",
+    "nombre": "LEY ESTATAL PARA PREVENIR Y SANCIONAR LA TORTURA",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2012-09-17",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_administracion_publica_chiapas",
+    "nombre": "LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-30",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_fiscalia_general_chiapas",
+    "nombre": "LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-02-13",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_universidad_autonoma_chiapas",
+    "nombre": "LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_universidad_autonoma_ciencias_artes",
+    "nombre": "LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CIENCIAS Y ARTES DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2026-11-26",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_centro_conciliacion_laboral_chiapas",
+    "nombre": "LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-06-29",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_consejo_estatal_culturas_artes",
+    "nombre": "LEY ORGÁNICA DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-02-12",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_instituto_casa_artesanias_chiapas",
+    "nombre": "LEY ORGÁNICA DEL INSTITUTO CASA DE LAS ARTESANÍAS DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2018-05-23",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_instituto_bomberos_chiapas",
+    "nombre": "LEY ORGANICA DEL INSTITUTO DE BOMBEROS DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2021-06-30",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_instituto_salud",
+    "nombre": "LEY ORGÁNICA DEL INSTITUTO DE SALUD",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2012-12-12",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_sistema_municipal_agua_potable",
+    "nombre": "LEY ORGÁNICA DEL SISTEMA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "1986-06-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_organica_tribunal_justicia_administrativa_chiapas",
+    "nombre": "LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-05-28",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_ejercicio_profesional_chiapas",
+    "nombre": "LEY PARA EL EJERCICIO PROFESIONAL DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2006-12-06",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_fomento_regulacion_productos_organicos_chiapas",
+    "nombre": "LEY PARA EL FOMENTO Y REGULACIÓN DE PRODUCTOS ORGÁNICOS DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2006-05-02",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_adaptacion_mitigacion_ante_cambio_climatico",
+    "nombre": "LEY PARA LA ADAPTACIÓN Y MITIGACIÓN ANTE EL CAMBIO CLIMÁTICO EN EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2024-07-03",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_atencion_personas_trastornos_espectro_autista",
+    "nombre": "LEY PARA LA ATENCIÓN DE PERSONAS CON TRASTORNOS DEL ESPECTRO AUTISTA PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2024-09-11",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_atencion_proteccion_a_derechos_personas",
+    "nombre": "LEY PARA LA ATENCIÓN Y PROTECCIÓN A LOS DERECHOS DE LAS PERSONAS EN CONTEXTO DE MOVILIDAD HUMANA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-07-02",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_gestion_integral_riesgo_desastres_proteccion",
+    "nombre": "LEY PARA LA GESTIÓN INTEGRAL DEL RIESGO DE DESASTRES Y PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-11-12",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_inclusion_personas_discapacidad_chiapas",
+    "nombre": "LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2023-06-14",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_prevencion_atencion_desplazamiento_interno_chiapas",
+    "nombre": "LEY PARA LA PREVENCIÓN Y ATENCIÓN DEL DESPLAZAMIENTO INTERNO EN EL ESTADO DE CHIAPAS.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2012-02-22",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_prevencion_tratamiento_control_diabetes_chiapas",
+    "nombre": "LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LA DIABETES EN EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2018-05-23",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_proteccion_a_personas_intervienen_procedimiento",
+    "nombre": "LEY PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL EN EL ESTADO DE CHIAPAS.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2014-11-27",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_prevenir_combatir_trata_personas_chiapas",
+    "nombre": "LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-08-05",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_crea_fondo_desarrollo_mejora_procuracion",
+    "nombre": "LEY QUE CREA EL FONDO PARA EL DESARROLLO Y MEJORA DE LA PROCURACIÓN DE JUSTICIA DEL ESTADO",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2012-10-03",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_crea_instituto_cafe_chiapas",
+    "nombre": "LEY QUE CREA EL INSTITUTO DEL CAFÉ DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-01-10",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_crea_comision_estatal_conciliacion_arbitraje",
+    "nombre": "LEY QUE CREA LA COMISIÓN ESTATAL DE CONCILIACIÓN Y ARBITRAJE MEDICO DEL ESTADO DE CHIAPAS.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2017-11-29",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_establece_proceso_entrega_recepcion_administracion",
+    "nombre": "LEY QUE ESTABLECE EL PROCESO DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2024-05-15",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_establece_bases_operacion_secretaria_seguridad",
+    "nombre": "LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARIA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-06-11",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_establece_bases_normativas_expedicion_reglamentos",
+    "nombre": "LEY QUE ESTABLECE LAS BASES NORMATIVAS PARA LA EXPEDICIÓN DE LOS REGLAMENTOS DE CONSTRUCCIÓN EN EL ESTADO DE CHIAPAS.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2010-09-22",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_establece_lineamientos_desarrollo_obra_publica",
+    "nombre": "LEY QUE ESTABLECE LOS LINEAMIENTOS EN EL DESARROLLO DE LA OBRA PUBLICA PARA EL CUMPLIMIENTO DE LOS OBJETIVOS DE DESARROLLO DE MILENIO PARA EL ESTADO Y MUNICIPIOS DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2009-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_previene_combate_discriminacion_chiapas",
+    "nombre": "LEY QUE PREVIENE Y COMBATE LA DISCRIMINACIÓN EN EL ESTADO DE CHIAPAS.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2018-01-24",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_regula_aseguramiento_administracion_enajenacion_disposicion",
+    "nombre": "LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2022-04-13",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_regula_prestacion_servicios_atencion_cuidado",
+    "nombre": "LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2019-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_reglamentaria_articulo_40_constitucion_politica",
+    "nombre": "LEY REGLAMENTARIA DEL ARTÍCULO 40 DE LA CONSTITUCIÓN POLITICA DEL ESTADO DE CHIAPAS, QUE FIJA LAS BASES PARA LA TOMA DE PROTESTA DEL GOBERNADOR ELECTO.",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2012-09-17",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_ley_sobre_instalacion_anuncios_u_obras",
+    "nombre": "LEY SOBRE INSTALACIÓN DE ANUNCIOS U OBRAS CON FINES DE PUBLICIDAD EN LAS CARRETERAS DEL ESTADO",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "1972-10-11",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_presupuesto_egresos_chiapas_ejercicio_fiscal_2026",
+    "nombre": "PRESUPUESTO DE EGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2026",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2025-12-10",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
+    "id": "chiapas_reglamento_transparencia_acceso_a_informacion_publica",
+    "nombre": "REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL HONORABLE CONGRESO DEL ESTADO DE CHIAPAS.",
+    "tipo": "Reglamento",
+    "entidad": "chiapas",
+    "url_pdf": "",
+    "ultima_reforma": "2020-05-04",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  }
+]

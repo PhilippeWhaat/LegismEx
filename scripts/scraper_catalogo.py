@@ -1729,6 +1729,186 @@ def scrape_sinaloa() -> list[dict]:
 
 
 # ──────────────────────────────────────────────
+# VERACRUZ — legisver.gob.mx/Inicio.php?p=le
+# Tabla HTML con ~206 leyes. Nombre + PDF directo + fecha.
+# ──────────────────────────────────────────────
+
+def scrape_veracruz() -> list[dict]:
+    entidad = "veracruz"
+    url = "https://www.legisver.gob.mx/Inicio.php?p=le"
+
+    log.info(f"  Veracruz: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Veracruz: no se pudo acceder al portal")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+
+    for row in rows:
+        cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+        if len(cells) < 2:
+            continue
+
+        # Cell 0: nombre + PDF link, Cell 1: fecha
+        nombre = re.sub(r'<[^>]+>', '', cells[0]).strip()
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10:
+            continue
+
+        # PDF link (may contain newlines)
+        pdf_match = re.search(r'href=["\']([^"\']*\.pdf)\s*["\']', cells[0], re.IGNORECASE | re.DOTALL)
+        url_pdf = pdf_match.group(1).strip() if pdf_match else ""
+
+        # Fecha
+        fecha_raw = re.sub(r'<[^>]+>', '', cells[1]).strip() if len(cells) > 1 else ""
+        ultima_reforma = ""
+        fecha_match = re.match(r'(\d{2})/(\d{2})/(\d{4})', fecha_raw)
+        if fecha_match:
+            ultima_reforma = f"{fecha_match.group(3)}-{fecha_match.group(2)}-{fecha_match.group(1)}"
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": url_pdf,
+            "ultima_reforma": ultima_reforma,
+            "estado_vigencia": "vigente",
+            "fuente": "legisver.gob.mx",
+        })
+
+    log.info(f"  Veracruz total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# CHIAPAS — web.congresochiapas.gob.mx/trabajo-legislativo/legislacion-vigente
+# Tabla con ~148 leyes. Nombre + fecha. Sin PDF directo.
+# ──────────────────────────────────────────────
+
+def scrape_chiapas() -> list[dict]:
+    entidad = "chiapas"
+    url = "https://web.congresochiapas.gob.mx/trabajo-legislativo/legislacion-vigente"
+
+    log.info(f"  Chiapas: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Chiapas: no se pudo acceder al portal")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+
+    for row in rows:
+        cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+        if len(cells) < 5:
+            continue
+
+        # Cell 0: num, Cell 1: nombre, Cell 4: fecha
+        nombre = re.sub(r'<[^>]+>', '', cells[1]).strip()
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10 or nombre.isdigit():
+            continue
+
+        ultima_reforma = re.sub(r'<[^>]+>', '', cells[4]).strip() if len(cells) > 4 else ""
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": "",
+            "ultima_reforma": ultima_reforma,
+            "estado_vigencia": "vigente",
+            "fuente": "web.congresochiapas.gob.mx",
+        })
+
+    log.info(f"  Chiapas total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# BAJA CALIFORNIA SUR — cbcs.gob.mx/index.php/trabajos-legislativos/leyes
+# Tabla con ~330 filas. Nombre + link DOC. Sin PDF directo.
+# ──────────────────────────────────────────────
+
+def scrape_bajacaliforniasur() -> list[dict]:
+    entidad = "bajacaliforniasur"
+    base_url = "https://www.cbcs.gob.mx"
+    url = f"{base_url}/index.php/trabajos-legislativos/leyes"
+
+    log.info(f"  BCS: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  BCS: no se pudo acceder al portal")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+
+    for row in rows:
+        cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+        if len(cells) < 2:
+            continue
+
+        # Cell 0: número, Cell 1: nombre + link, Cell 2: DOC link
+        nombre = re.sub(r'<[^>]+>', '', cells[1]).strip()
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10 or nombre.isdigit():
+            continue
+
+        # DOC/Word link (cell 2)
+        url_word = ""
+        if len(cells) > 2:
+            doc_match = re.search(r'href=["\']([^"\']+\.doc[x]?)["\']', cells[2], re.IGNORECASE)
+            if doc_match:
+                url_word = doc_match.group(1)
+                if not url_word.startswith("http"):
+                    url_word = f"{base_url}{url_word}"
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id,
+            "nombre": nombre,
+            "tipo": tipo,
+            "entidad": entidad,
+            "url_pdf": "",
+            "url_word": url_word,
+            "ultima_reforma": "",
+            "estado_vigencia": "vigente",
+            "fuente": "cbcs.gob.mx",
+        })
+
+    log.info(f"  BCS total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
 # HIDALGO — congresohidalgo.gob.mx/acervo_legislativo/leyes/
 # Tabla HTML con ~173 leyes. Nombre, publicación, última reforma, PDF.
 # ──────────────────────────────────────────────
@@ -1828,6 +2008,9 @@ SCRAPERS: dict[str, callable] = {
     "morelos":        scrape_morelos,
     "aguascalientes": scrape_aguascalientes,
     "sinaloa":        scrape_sinaloa,
+    "veracruz":       scrape_veracruz,
+    "chiapas":        scrape_chiapas,
+    "bajacaliforniasur": scrape_bajacaliforniasur,
 }
 
 
