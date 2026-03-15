@@ -1,30 +1,11 @@
 [
   {
-    "id": "guerrero_nbsp_inicio_contacto_directorio_nbsp_nbspnbspnbspnbsp",
-    "nombre": "&nbsp; INICIO / CONTACTO / DIRECTORIO &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;",
-    "tipo": "Ley",
-    "entidad": "guerrero",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
-    "id": "guerrero_existen_total_denbsp_107_ordenamientos_tiacutetulo",
-    "nombre": "Existen un total de&nbsp; 107 Ordenamientos T&iacute;tulo",
-    "tipo": "Ley",
-    "entidad": "guerrero",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
     "id": "guerrero_ley_arancelaria_cobro_honorarios_abogados_depositarios",
     "nombre": "Ley Arancelaria para el cobro de honorarios de los Abogados, Depositarios, Intérpretes, Traductores, Peritos Valuadores y Árbitros, Número 47.",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36535.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36535.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -34,7 +15,8 @@
     "nombre": "Ley de Acceso a la Información Pública del Estado de Guerrero Número 568",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36117.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36117.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -44,7 +26,8 @@
     "nombre": "Ley de Administración de Recursos Materiales",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36537.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36537.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -54,7 +37,8 @@
     "nombre": "Ley de Aguas para el Estado Libre y Soberano de Guerrero Número 574",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36538.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36538.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -64,7 +48,8 @@
     "nombre": "Ley de Amnistía para el Estado de Guerrero Número 592",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36539.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36539.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -74,7 +59,8 @@
     "nombre": "Ley de Asistencia y Prevención de la Violencia Intrafamiliar del Estado de Guerrero, Núm. 280",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36540.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36540.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -84,7 +70,8 @@
     "nombre": "Ley de Atención y Apoyo a la Victima y al Ofendido del Delito para el Estado de Guerrero, Número 368",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36541.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36541.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -94,7 +81,8 @@
     "nombre": "Ley de Catastro Municipal del Estado de Guerrero Número 676",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36542.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36542.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -104,7 +92,8 @@
     "nombre": "Ley de Desarrollo Rural Sustentable del Estado de Guerrero Número 587",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36543.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36543.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -114,7 +103,8 @@
     "nombre": "Ley de Desarrollo Urbano del Estado de Guerrero Número 211",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36544.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36544.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -124,7 +114,8 @@
     "nombre": "Ley de Divorcio del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36545.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36545.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -134,7 +125,8 @@
     "nombre": "Ley de Educación del Estado de Guerrero Núm. 158",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36546.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36546.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -144,7 +136,8 @@
     "nombre": "Ley de Entidades Paraestatales del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36547.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36547.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -154,7 +147,8 @@
     "nombre": "Ley de Expropiación del Estado de Guerrero Núm. 25",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36548.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36548.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -164,7 +158,8 @@
     "nombre": "Ley de Fiscalización Superior del Estado de Guerrero Número 564",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36549.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36549.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -174,7 +169,8 @@
     "nombre": "Ley de Fomento a la Cultura",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36550.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36550.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -184,7 +180,8 @@
     "nombre": "Ley de Fomento al Turismo (Derogado el Capítulo Quinto de Esta Ley)",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36551.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36551.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -194,7 +191,8 @@
     "nombre": "Ley de Fomento Económico, Inversión y Desarrollo del Estado de Guerrero Número 487",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36552.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36552.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -204,7 +202,8 @@
     "nombre": "Ley de Hacienda del Estado de Guerrero, Número 428",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36553.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36553.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -214,7 +213,8 @@
     "nombre": "Ley de Hacienda Municipal Número 677",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36554.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36554.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -224,7 +224,8 @@
     "nombre": "Ley de Justicia en Materia de Faltas de Policía y Buen Gobierno del Estado",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36555.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36555.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -234,7 +235,8 @@
     "nombre": "Ley de la Caja de Previsión de los Agentes del Ministerio Público, Peritos, Agentes de la Policía Judicial, Agentes de la Policía Preventiva, Custodios y Defensores de Oficio del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36556.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36556.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -244,7 +246,8 @@
     "nombre": "Ley de la Juventud del Estado de Guerrero Número 607",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36557.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36557.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -254,7 +257,8 @@
     "nombre": "Ley de la Universidad Autónoma de Guerrero Num. 343",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36118.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36118.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -264,7 +268,8 @@
     "nombre": "Ley de Obras Publicas y sus Servicios del Estado de Guerrero Número 266",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36559.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36559.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -274,7 +279,8 @@
     "nombre": "Ley de Planeación para el Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36512.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36512.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -284,7 +290,8 @@
     "nombre": "Ley de Premios Civiles del Estado de Guerrero Número 434",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36561.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36561.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -294,7 +301,8 @@
     "nombre": "Ley de Premios Nacionales Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36562.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36562.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -304,7 +312,8 @@
     "nombre": "Ley de Propiedad en Condominio para el Estado de Guerrero Número 557",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36563.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36563.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -314,7 +323,8 @@
     "nombre": "Ley de Protección a los Animales (Derogados Artículos 74 y 75 del Capitulo II del Titulo Quinto de Esta Ley)",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36564.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36564.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -324,7 +334,8 @@
     "nombre": "Ley de Protección Civil del Estado de Guerrero Número 488",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36565.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36565.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -334,7 +345,8 @@
     "nombre": "Ley de Protección y Fomento a las Artesanías",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36566.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36566.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -344,7 +356,8 @@
     "nombre": "Ley de Radio y Televisión de Guerrero, Organismo Público Descentralizado",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36567.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36567.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -354,7 +367,8 @@
     "nombre": "Ley de Reestructuración del Sector Educativo del Estado de Guerrero Núm. 243",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36568.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36568.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -364,7 +378,8 @@
     "nombre": "Ley de Regulación y Fomento de Mercados y Tianguis Populares",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36569.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36569.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -374,7 +389,8 @@
     "nombre": "Ley de Regulación y Fomento del Sistema y Tiempo Compartido del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36570.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36570.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -384,7 +400,8 @@
     "nombre": "Ley de Seguridad Pública del Estado de Guerrero, Número 443",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36571.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36571.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -394,7 +411,8 @@
     "nombre": "Ley de Seguridad Pública y Tránsito del Estado de Guerrero (Abrogada con Excepción del Artículo 19 de Esta Ley)",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36572.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36572.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -404,7 +422,8 @@
     "nombre": "Ley de Seguridad Social de los Servidores Públicos del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36573.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36573.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -414,7 +433,8 @@
     "nombre": "Ley de Servicio de Defensoría de Oficio",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36574.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36574.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -424,7 +444,8 @@
     "nombre": "Ley de Trabajo de los Servidores Públicos del Estado de Guerrero Número 248",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36575.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36575.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -434,7 +455,8 @@
     "nombre": "Ley de Transparencia y Acceso a la Información Pública del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36119.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36119.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -444,7 +466,8 @@
     "nombre": "Ley de Transporte y Vialidad del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36576.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36576.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -454,7 +477,8 @@
     "nombre": "Ley de Tutela y de Asistencia Social para Menores Infractores del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36577.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36577.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -464,7 +488,8 @@
     "nombre": "Ley de Vivienda Social del Estado de Guerrero Número 573",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36578.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36578.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -474,7 +499,8 @@
     "nombre": "Ley del Notariado para el Estado de Guerrero No. 114",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36579.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36579.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -484,7 +510,8 @@
     "nombre": "Ley del Sistema de Ejecución de Penas y Medidas de Seguridad del Estado de Guerrero Número 367",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36580.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36580.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -494,7 +521,8 @@
     "nombre": "Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Guerrero Número 144",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36120.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36120.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -504,7 +532,8 @@
     "nombre": "Ley del Sistema Estatal de Archivos del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36582.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36582.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -514,7 +543,8 @@
     "nombre": "Ley Estatal de Bibliotecas Número 565",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36583.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36583.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -524,7 +554,8 @@
     "nombre": "Ley Núm. 101, para la Protección de los No Fumadores del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36586.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36586.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -534,7 +565,8 @@
     "nombre": "Ley Núm. 102, para el Desarrollo Social del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36587.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36587.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -544,7 +576,8 @@
     "nombre": "Ley Núm. 137, de Turismo del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36588.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36588.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -554,7 +587,8 @@
     "nombre": "Ley Núm. 159, de Salud del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36589.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36589.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -564,7 +598,8 @@
     "nombre": "Ley Núm. 463, para el Bienestar Integral de los Periodistas del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36590.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36590.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -574,7 +609,8 @@
     "nombre": "Ley Número 10 de Ingresos del Estado de Guerrero, para el Ejercicio Fiscal del Año 2006",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36591.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36591.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -584,7 +620,8 @@
     "nombre": "Ley Número 1007 de Ingresos del Estado de Guerrero para el ejercicio fiscal del año 2009",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36618.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36618.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -594,7 +631,8 @@
     "nombre": "Ley Número 174 de Conservación y Vigilancia de Tasco de Alarcón, Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36592.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36592.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -604,7 +642,8 @@
     "nombre": "Ley Número 23 de Ingresos para los Municipios del Estado de Guerrero, para el Ejercicio Fiscal de 2006, a excepción de Acapulco de Juárez, Taxco de Alarcón, Iguala de la Independencia, Tixtla de Guerrero, Buenavista de Cuéllar, San Marcos, Petatlán, José",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36584.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36584.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -614,7 +653,8 @@
     "nombre": "Ley Número 251, que Crea el Sistema Estatal de Coordinación Fiscal y Establece las Bases, Montos y Plazos a los que se Sujetaran las Participaciones Federales",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36593.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36593.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -624,7 +664,8 @@
     "nombre": "Ley Número 255 del Presupuesto de Egresos, Contabilidad Gubernamental y Deuda Pública del Gobierno del Estado de Guerrero (Derogados Capítulos Sexto, Séptimo, Octavo y Noveno con sus Respectivos Artículos de Esta Ley)",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36594.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36594.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -634,7 +675,8 @@
     "nombre": "Ley Número 268 de Ingresos del Estado de Guerrero para el Ejercicio Fiscal del año 2007",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36595.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36595.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -644,7 +686,8 @@
     "nombre": "Ley Número 281 de Seguridad Pública del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36596.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36596.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -654,7 +697,8 @@
     "nombre": "Ley Número 33 de Instituciones de Asistencia Privada para el Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36597.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36597.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -664,7 +708,8 @@
     "nombre": "Ley Número 375 de los Derechos de las Personas Adultas Mayores del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36598.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36598.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -674,7 +719,8 @@
     "nombre": "Ley Número 393 de Fomento Apícola de Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36599.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36599.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -684,7 +730,8 @@
     "nombre": "Ley Número 41 que Establece el Derecho de Vía de Carreteras o Caminos Locales",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36585.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36585.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -694,7 +741,8 @@
     "nombre": "Ley Número 428 de Conservación y Vigilancia de Olinalá, Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36600.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36600.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -704,7 +752,8 @@
     "nombre": "Ley Número 451 de Fomento y Protección Pecuaria del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36601.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36601.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -714,7 +763,8 @@
     "nombre": "Ley Número 47 de Fomento Industrial del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36602.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36602.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -724,7 +774,8 @@
     "nombre": "Ley Numero 479 del Sistema para el Desarrollo Integral de la Familia del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36603.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36603.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -734,7 +785,8 @@
     "nombre": "Ley Número 495 de Cultura Física y Deporte del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36604.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36604.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -744,7 +796,8 @@
     "nombre": "Ley Numero 51, Estatuto de los Trabajadores al Servicio del Estado, de los Municipios y de los Organismos Públicos Coordinados y Descentralizados del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36605.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36605.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -754,7 +807,8 @@
     "nombre": "Ley Número 571 de Instituciones y Procedimientos Electorales del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36122.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36122.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -764,7 +818,8 @@
     "nombre": "Ley Número 59, Orgánica de División Territorial del Estado",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36606.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36606.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -774,7 +829,8 @@
     "nombre": "Ley Número 61, del Fondo Auxiliar del Tribunal de lo Contencioso Administrativo del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36121.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36121.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -784,7 +840,8 @@
     "nombre": "Ley Número 616 de Deuda Pública para el Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36609.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36609.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -794,7 +851,8 @@
     "nombre": "Ley Número 674 de Responsabilidades de los Servidores Públicos del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36610.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36610.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -804,7 +862,8 @@
     "nombre": "Ley Número 874 que regula el Uso de la Firma Electrónica Certificada del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36612.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36612.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -814,7 +873,8 @@
     "nombre": "Ley Número 875 de Archivos Generales del Estado Libre y Soberano de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36613.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36613.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -824,7 +884,8 @@
     "nombre": "Ley Número 876 de Entrega-Recepción de las Administraciones Públicas del Estado y Municipios de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36614.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36614.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -834,7 +895,8 @@
     "nombre": "Ley Número 877 de Expropiación para el Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36615.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36615.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -844,7 +906,8 @@
     "nombre": "Ley Número 878 del Equilibrio Ecológico y la Protección al Medio Ambiente del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36616.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36616.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -854,7 +917,8 @@
     "nombre": "Ley Número 971 del Notariado del Estado de Guerrero. (Entrará en Vigor el 26 de Mayo de 2009)",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36617.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36617.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -864,7 +928,8 @@
     "nombre": "Ley Orgánica de la Administración Pública del Estado de Guerrero Número 433",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36611.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36611.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -874,7 +939,8 @@
     "nombre": "Ley Orgánica de la Procuraduría General de Justicia del Estado de Guerrero Número 193",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36619.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36619.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -884,7 +950,8 @@
     "nombre": "Ley Orgánica del Fondo Auxiliar para la Administración de Justicia del Estado de Guerrero Número 55",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36514.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36514.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -894,7 +961,8 @@
     "nombre": "Ley Orgánica del Municipio Libre del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36621.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36621.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -904,7 +972,8 @@
     "nombre": "Ley Orgánica del Poder Judicial del Estado Libre y Soberano de Guerrero Número 129",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36515.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36515.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -914,7 +983,8 @@
     "nombre": "Ley Orgánica del Poder Legislativo del Estado de Guerrero Núm. 286",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36623.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36623.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -924,7 +994,8 @@
     "nombre": "Ley Orgánica del Tribunal de lo Contencioso Administrativo del Estado de Guerrero, Número 194",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36123.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36123.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -934,7 +1005,8 @@
     "nombre": "Ley Orgánica del Tribunal Electoral del Estado de Guerrero Número 145",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36124.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36124.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -944,7 +1016,8 @@
     "nombre": "Ley para el Bienestar e Incorporación Social de las Personas con Discapacidad en el Estado de Guerrero, Núm. 281",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36626.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36626.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -954,7 +1027,8 @@
     "nombre": "Ley para la Protección y Desarrollo de los Menores en el Estado de Guerrero, Numero 415",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36627.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36627.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -964,7 +1038,8 @@
     "nombre": "Ley para Prevenir y Sancionar la Desaparición Forzada de Personas en el Estado de Guerrero Número 569",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36628.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36628.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -974,7 +1049,8 @@
     "nombre": "Ley que crea el Organismo Público Descentralizado del Ayuntamiento de Acapulco de Juárez \"Servicios Municipales de Limpia de Acapulco\"",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36629.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36629.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -984,7 +1060,8 @@
     "nombre": "Ley que crea la Administración del Patrimonio de la Beneficencia Pública del Estado de Guerrero Numero 435",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36631.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36631.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -994,7 +1071,8 @@
     "nombre": "Ley que crea la Comisión de Defensa de los Derechos Humanos y establece el Procedimiento en Materia de Desaparición Involuntaria de Personas",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36125.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36125.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1004,7 +1082,8 @@
     "nombre": "Ley que Establece el Sistema Estatal de Ascensos, Estímulos y Recompensas para Agentes del Ministerio Publico, Peritos, Policía Judicial y Preventiva, Custodios y Defensores de Oficio",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36633.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36633.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1014,7 +1093,8 @@
     "nombre": "Ley que Establece las Bases para el Fomento de la Participación de la Comunidad",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36634.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36634.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1024,7 +1104,8 @@
     "nombre": "Ley que Establece las Bases para el Procedimiento al que deberá Ajustarse la Inscripción de los predios Sub-Urbanos y Rústicos en el Registro Público de la Propiedad",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36635.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36635.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1034,7 +1115,8 @@
     "nombre": "Ley que Establece las Bases para el Régimen de Permisos, Licencias y Concesiones para la Prestación de Servicios Públicos y la Explotación y Aprovechamiento de Bienes de Dominio del Estado y los Ayuntamientos",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36636.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36636.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1044,7 +1126,8 @@
     "nombre": "Ley que Instituye los Organismos Públicos de Participación Social y Fija las Bases para su Regulación",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36637.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36637.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1054,7 +1137,8 @@
     "nombre": "Ley Reglamentaria del Ejercicio Profesional para el Estado Libre y Soberano de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36638.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36638.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1064,7 +1148,8 @@
     "nombre": "Ley Reglamentaria del Registro Civil del Estado de Guerrero",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36639.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36639.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1074,17 +1159,8 @@
     "nombre": "Ley sobre el Sistema Estatal de Asistencia Social Número 33",
     "tipo": "Ley",
     "entidad": "guerrero",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
-    "id": "guerrero_existen_total_denbsp_8_ordenamientos_tiacutetulo",
-    "nombre": "Existen un total de&nbsp; 8 Ordenamientos T&iacute;tulo",
-    "tipo": "Ley",
-    "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36640.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36640.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1094,7 +1170,8 @@
     "nombre": "Código Civil del Estado Libre y Soberano de Guerrero Número 358",
     "tipo": "Código",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36112.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36112.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1104,7 +1181,8 @@
     "nombre": "Código de Procedimientos Contenciosos Administrativos del Estado de Guerrero, Número 215",
     "tipo": "Código",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36113.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36113.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1114,7 +1192,8 @@
     "nombre": "Código de Procedimientos Penales para el Estado de Guerrero, Número 357",
     "tipo": "Código",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36114.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36114.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1124,7 +1203,8 @@
     "nombre": "Código Fiscal del Estado de Guerrero, Número 429",
     "tipo": "Código",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36531.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36531.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1134,7 +1214,8 @@
     "nombre": "Código Fiscal Municipal Número 152",
     "tipo": "Código",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36532.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36532.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1144,7 +1225,8 @@
     "nombre": "Código Nacional de Procedimientos Penales. Entrará en vigor a nivel federal conforme a la Declaratoria que emita el Congreso de la Unión, sin que exceda del 18 de junio de 2016. En las Entidades federativas y el Distrito Federal, en los términos de las Declaratoria del órgano legislativo respectivo (Artículo Segundo Transitorio del Decreto de expedición).",
     "tipo": "Código",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo102658.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo102658.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1154,7 +1236,8 @@
     "nombre": "Código Penal del Estado de Guerrero",
     "tipo": "Código",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36533.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36533.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1164,17 +1247,8 @@
     "nombre": "Código Procesal Civil del Estado Libre y Soberano de Guerrero Número 364",
     "tipo": "Código",
     "entidad": "guerrero",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
-    "id": "guerrero_existen_total_denbsp_79_ordenamientos_tiacutetulo",
-    "nombre": "Existen un total de&nbsp; 79 Ordenamientos T&iacute;tulo",
-    "tipo": "Ley",
-    "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36116.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36116.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1184,7 +1258,8 @@
     "nombre": "Reglamento de Escalafón para los Trabajadores de Base al Servicio del Gobierno del Estado de Guerrero y de los Organismos Coordinados, Desconcentrados y Descentralizados del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36216.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36216.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1194,7 +1269,8 @@
     "nombre": "Reglamento de Inspección del Trabajo para el Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36217.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36217.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1204,7 +1280,8 @@
     "nombre": "Reglamento de la Coordinación General de Asuntos Periciales",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36218.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36218.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1214,7 +1291,8 @@
     "nombre": "Reglamento de la Ley de Aguas para el Estado Libre y Soberano de Guerrero Número 574",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36225.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36225.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1224,7 +1302,8 @@
     "nombre": "Reglamento de la Ley de Catastro Municipal Número 676 del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36219.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36219.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1234,7 +1313,8 @@
     "nombre": "Reglamento de la Ley de Transporte y Vialidad del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36220.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36220.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1244,7 +1324,8 @@
     "nombre": "Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente en Materia de Impacto Ambiental",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36221.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36221.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1254,7 +1335,8 @@
     "nombre": "Reglamento de la Ley Núm. 137 de Turismo del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36222.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36222.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1264,7 +1346,8 @@
     "nombre": "Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Guerrero Numero 193",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36223.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36223.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1274,7 +1357,8 @@
     "nombre": "Reglamento de la Ley para el Desarrollo Social del Estado de Guerrero Núm. 102",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36224.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36224.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1284,7 +1368,8 @@
     "nombre": "Reglamento de las Condiciones Generales de Trabajo que regirán para los Trabajadores de los Tres Poderes del Gobierno del Estado de Guerrero y de los Organismos Desconcentrados, Coordinados y Descentralizados del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36226.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36226.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1294,7 +1379,8 @@
     "nombre": "Reglamento de los Artículos 6º, 7º, 8º, 9º, 14º, y 19º para el Registro, Emisión y Colocación de los Certificados de Participación Patrimonial, de la Ley que Instituye los Organismos Públicos de Participación Social y Fija las Bases para su Regulación",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36227.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36227.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1304,7 +1390,8 @@
     "nombre": "Reglamento de los Centros de Readaptación Social en el Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36228.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36228.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1314,7 +1401,8 @@
     "nombre": "Reglamento de Precampañas Electorales para el Estado de Guerrero, en cumplimiento a la resolución emitida por la Sala Central del Tribunal del Estado",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36229.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36229.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1324,7 +1412,8 @@
     "nombre": "Reglamento de Procedimientos para la Atención de Quejas Medicas y Dictámenes Médicos Institucionales de la Comisión Estatal de Arbitraje Médico de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36230.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36230.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1334,7 +1423,8 @@
     "nombre": "Reglamento de Servicios Públicos Municipales en Fraccionamientos Integralmente Planificados",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36231.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36231.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1344,7 +1434,8 @@
     "nombre": "Reglamento de Sesiones de los Consejos Estatal, Distritales y Municipales del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36232.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36232.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1354,7 +1445,8 @@
     "nombre": "Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36233.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36233.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1364,7 +1456,8 @@
     "nombre": "Reglamento del Consejo Ciudadano de Procuración de Justicia y de sus Comités Regionales",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36234.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36234.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1374,7 +1467,8 @@
     "nombre": "Reglamento del Examen de Oposición para ocupar el cargo de Juez de Primera Instancia del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36235.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36235.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1384,7 +1478,8 @@
     "nombre": "Reglamento del Instituto de Formación Profesional de la Procuraduría General de Justicia del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36236.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36236.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1394,7 +1489,8 @@
     "nombre": "Reglamento del Procedimiento Administrativo Disciplinario de la Procuraduría General de Justicia del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36237.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36237.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1404,7 +1500,8 @@
     "nombre": "Reglamento del Registro Público de la Propiedad del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36238.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36238.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1414,7 +1511,8 @@
     "nombre": "Reglamento del Registro Único de Obligaciones y Empréstitos del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36239.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36239.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1424,7 +1522,8 @@
     "nombre": "Reglamento del Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado, Para la Aplicación de la Ley de Acceso a la Información Pública del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36240.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36240.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1434,7 +1533,8 @@
     "nombre": "Reglamento Interior de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36242.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36242.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1444,7 +1544,8 @@
     "nombre": "Reglamento Interior de la Comisión para el Acceso a la Información Pública del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36243.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36243.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1454,7 +1555,8 @@
     "nombre": "Reglamento Interior de la Consejería Jurídica del Poder Ejecutivo del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36244.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36244.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1464,7 +1566,8 @@
     "nombre": "Reglamento Interior de la Contraloría General del Estado",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36245.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36245.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1474,7 +1577,8 @@
     "nombre": "Reglamento Interior de la Contraloría Interna de la Secretaría de Educación Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36246.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36246.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1484,7 +1588,8 @@
     "nombre": "Reglamento Interior de la Coordinación del Instituto de Formación y Capacitación Policial del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36247.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36247.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1494,7 +1599,8 @@
     "nombre": "Reglamento Interior de la Coordinación General de Acceso a la Información Pública del Estado de Guerrero (2007)",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36248.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36248.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1504,7 +1610,8 @@
     "nombre": "Reglamento Interior de la Coordinación General de Fortalecimiento Municipal",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36249.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36249.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1514,7 +1621,8 @@
     "nombre": "Reglamento Interior de la Procuraduría de Defensa de los Campesinos del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36250.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36250.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1524,7 +1632,8 @@
     "nombre": "Reglamento Interior de la Promotora Turística de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36251.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36251.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1534,7 +1643,8 @@
     "nombre": "Reglamento Interior de la Secretaría de Asuntos Indígenas",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36252.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36252.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1544,7 +1654,8 @@
     "nombre": "Reglamento Interior de la Secretaría de Desarrollo Económico",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36253.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36253.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1554,7 +1665,8 @@
     "nombre": "Reglamento Interior de la Secretaría de Desarrollo Urbano y Obras Públicas",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36254.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36254.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1564,7 +1676,8 @@
     "nombre": "Reglamento Interior de la Secretaría de Educación Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36255.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36255.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1574,7 +1687,8 @@
     "nombre": "Reglamento Interior de la Secretaría de Finanzas y Administración",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36256.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36256.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1584,7 +1698,8 @@
     "nombre": "Reglamento Interior de la Secretaría de Fomento Turístico",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36257.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36257.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1594,7 +1709,8 @@
     "nombre": "Reglamento Interior de la Secretaría de la Juventud",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36258.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36258.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1604,7 +1720,8 @@
     "nombre": "Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales del Estado",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36259.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36259.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1614,7 +1731,8 @@
     "nombre": "Reglamento Interior de la Secretaría de Seguridad Pública y Protección Ciudadana",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36260.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36260.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1624,7 +1742,8 @@
     "nombre": "Reglamento Interior de la Secretaria General de Gobierno",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36261.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36261.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1634,7 +1753,8 @@
     "nombre": "Reglamento Interior de la Secretaría Particular del C. Gobernador",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36262.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36262.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1644,7 +1764,8 @@
     "nombre": "Reglamento Interior de las Juntas Locales de Conciliación y Arbitraje del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36263.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36263.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1654,7 +1775,8 @@
     "nombre": "Reglamento Interior de los Albergues Escolares Rurales de Educación Primaria",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36264.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36264.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1664,7 +1786,8 @@
     "nombre": "Reglamento Interior de los Internados de Educación Primaria",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36265.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36265.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1674,7 +1797,8 @@
     "nombre": "Reglamento Interior de los Internados de Educación Primaria Intercultural Bilingüe",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36266.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36266.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1684,7 +1808,8 @@
     "nombre": "Reglamento Interior de los Servicios de Seguridad Privada para el Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36267.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36267.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1694,7 +1819,8 @@
     "nombre": "Reglamento Interior de Trabajo del Tribunal de Conciliación y Arbitraje",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36268.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36268.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1704,7 +1830,8 @@
     "nombre": "Reglamento Interior de La Avispa Museo Interactivo",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36241.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36241.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1714,7 +1841,8 @@
     "nombre": "Reglamento Interior del \"Fondo de Apoyo a la Micro, Pequeña y Mediana Empresa del Estado de Guerrero\" (FAMPEGRO)",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36269.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36269.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1724,7 +1852,8 @@
     "nombre": "Reglamento Interior del Centro de Readaptación Social de Chilapa de Álvarez, Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36270.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36270.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1734,7 +1863,8 @@
     "nombre": "Reglamento Interior del Centro de Reclusión de la Unión de Isidoro Montes de Oca, Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36271.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36271.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1744,7 +1874,8 @@
     "nombre": "Reglamento Interior del Colegio de Bachilleres del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36272.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36272.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1754,7 +1885,8 @@
     "nombre": "Reglamento Interior del Colegio de Estudios Científicos y Tecnológicos del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36273.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36273.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1764,7 +1896,8 @@
     "nombre": "Reglamento Interior del Comité Administrador del Programa Estatal de Construcción de Escuelas (C.A.P.E.C.E.)",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36274.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36274.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1774,7 +1907,8 @@
     "nombre": "Reglamento Interior del Comité de Entrega-Recepción del Poder Ejecutivo Estatal",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36275.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36275.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1784,7 +1918,8 @@
     "nombre": "Reglamento Interior del Comité de Planeación para el Desarrollo del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36276.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36276.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1794,7 +1929,8 @@
     "nombre": "Reglamento Interior del Fideicomiso Bahía de Zihuatanejo",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36277.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36277.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1804,7 +1940,8 @@
     "nombre": "Reglamento Interior del Fideicomiso para el Desarrollo Económico y Social de Acapulco",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36278.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36278.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1814,7 +1951,8 @@
     "nombre": "Reglamento Interior del Fondo Auxiliar del Tribunal de lo Contencioso Administrativo del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36279.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36279.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1824,7 +1962,8 @@
     "nombre": "Reglamento Interior del O. P. D. Sistema para el Desarrollo Integral de la Familia del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36280.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36280.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1834,7 +1973,8 @@
     "nombre": "Reglamento Interior del Organismo Público Descentralizado Comisión de Infraestructura Carretera y Aeroportuaria del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36281.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36281.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1844,7 +1984,8 @@
     "nombre": "Reglamento Interior del Organismo Público Descentralizado Radio y Televisión de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36282.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36282.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1854,7 +1995,8 @@
     "nombre": "Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36126.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36126.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1864,7 +2006,8 @@
     "nombre": "Reglamento Interior del Tribunal Electoral del Estado",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36284.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36284.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1874,7 +2017,8 @@
     "nombre": "Reglamento Interior del Tribunal Superior de Justicia, Juzgados de Primera Instancia y de Paz del Estado",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36285.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36285.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1884,7 +2028,8 @@
     "nombre": "Reglamento Interno de la Comisión de Defensa de los Derechos Humanos del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36286.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36286.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1894,7 +2039,8 @@
     "nombre": "Reglamento Interno de la Comisión Estatal de Arbitraje Médico del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36287.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36287.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1904,7 +2050,8 @@
     "nombre": "Reglamento Interno del Albergue Tutelar para Menores Infractores del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36288.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36288.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1914,7 +2061,8 @@
     "nombre": "Reglamento Interno del Consejo Agrario Estatal",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36289.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36289.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1924,7 +2072,8 @@
     "nombre": "Reglamento para la apertura y Funcionamiento de Molinos de Nixtamal y Tortillerías, del Municipio de Tlapa de Comonfort, Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36290.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36290.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1934,7 +2083,8 @@
     "nombre": "Reglamento para la Operación del Fondo de Apoyo a los Periodistas",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36291.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36291.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1944,7 +2094,8 @@
     "nombre": "Reglamento para la Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36292.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36292.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1954,7 +2105,8 @@
     "nombre": "Reglamento sobre Fraccionamientos de Terrenos para los Municipios del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36293.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36293.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1964,27 +2116,8 @@
     "nombre": "Reglamentos de Construccion para los Municipios del Estado de Guerrero",
     "tipo": "Reglamento",
     "entidad": "guerrero",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
-    "id": "guerrero_existen_total_denbsp_0_ordenamientos_ir",
-    "nombre": "Existen un total de&nbsp; 0 Ordenamientos Ir a Página: &nbsp;",
-    "tipo": "Ley",
-    "entidad": "guerrero",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
-    "id": "guerrero_existen_total_denbsp_54_ordenamientos_tiacutetulo",
-    "nombre": "Existen un total de&nbsp; 54 Ordenamientos T&iacute;tulo",
-    "tipo": "Ley",
-    "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36294.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36294.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1994,7 +2127,8 @@
     "nombre": "Decreto mediante el cual se abroga el Decreto que crea el Centro de Convenciones de Taxco como Organismo Público Descentralizado",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36295.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36295.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2004,7 +2138,8 @@
     "nombre": "Decreto no. 490, por el que se crea el Colegio de Bachilleres del Estado de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36296.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36296.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2014,7 +2149,8 @@
     "nombre": "Decreto num. 143, por el que se crea la Universidad Tecnológica de la Costa Grande de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36297.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36297.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2024,7 +2160,8 @@
     "nombre": "Decreto núm. 172, por el que se crea el Instituto Estatal de Cancerología, \"Dr. Arturo Beltrán Ortega\", como un Organismo Público Descentralizado",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36298.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36298.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2034,7 +2171,8 @@
     "nombre": "Decreto num. 183, por el que se crea el Organismo Público Descentralizado \"Universidad Tecnológica de la Región Norte de Guerrero\"",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36299.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36299.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2044,7 +2182,8 @@
     "nombre": "Decreto num. 19, que crea el Organismo Público Descentralizado \"Agroindustrias del Sur\"",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36300.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36300.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2054,7 +2193,8 @@
     "nombre": "Decreto núm. 213, por el que se crea el Organismo Público Descentralizado denominado, Comité Administrador del Programa Estatal de Construcción de Escuelas, (C.A.P.E.C.E.)",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36301.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36301.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2064,7 +2204,8 @@
     "nombre": "Decreto num. 217, por el que se crea el Organismo Público Descentralizado Instituto Estatal para la Educación de Jóvenes y Adultos de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36302.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36302.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2074,7 +2215,8 @@
     "nombre": "Decreto num. 221, por el que se crea el Organismo Público Descentralizado Comisión de Infraestructura Carretera y Aeroportuaria del Estado de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36303.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36303.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2084,7 +2226,8 @@
     "nombre": "Decreto Núm. 306, por el que se aprueban oficialmente los nombres dados al Estadio Ambrosio Figueroa y al Lienzo Charro Ing. Rubén Figueroa Figueroa",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36304.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36304.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2094,7 +2237,8 @@
     "nombre": "Decreto num. 308, por el que se crea el Organismo Público Descentralizado, Consejo Estatal del Cocotero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36305.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36305.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2104,7 +2248,8 @@
     "nombre": "Decreto num. 323, por el que se crea el Organismo Público Descentralizado \"Fondo de Apoyo a la Micro, Pequeña y Mediana Empresa del Estado de Guerrero\"",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36306.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36306.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2114,7 +2259,8 @@
     "nombre": "Decreto num. 376, por el que se crea el Organismo Público Descentralizado Consejo de Ciencia y Tecnología del Estado de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36307.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36307.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2124,7 +2270,8 @@
     "nombre": "Decreto núm. 377, por el que se crea el Organismo Público Descentralizado Colegio de Educación Profesional Técnica del Estado de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36308.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36308.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2134,7 +2281,8 @@
     "nombre": "Decreto núm. 437, por el que se crea el Organismo Público Descentralizado \"Instituto del Deporte de Guerrero\"",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36309.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36309.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2144,7 +2292,8 @@
     "nombre": "Decreto núm. 438, por el que se crea el Organismo Público Descentralizado \"Instituto Guerrerense de la Cultura\"",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36310.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36310.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2154,7 +2303,8 @@
     "nombre": "Decreto núm. 439, por el que se crea el Organismo Público Descentralizado \"Promotora y Administradora de los Servicios de Playa de Zona Federal Marítimo Terrestre de Zihuatanejo, Guerrero\"",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36311.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36311.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2164,7 +2314,8 @@
     "nombre": "Decreto núm. 47, que crea el Consejo Estatal del Café",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36312.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36312.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2174,7 +2325,8 @@
     "nombre": "Decreto Núm. 498, por el que se instituye la Medalla al Merito Cívico IGNACIO COMONFORT",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36313.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36313.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2184,7 +2336,8 @@
     "nombre": "Decreto Núm. 71, por el que se Instituye la Presea Sentimientos de la Nación del H. Congreso del Estado",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36314.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36314.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2194,7 +2347,8 @@
     "nombre": "Decreto num. 77, que crea el Organismo Público Descentralizado \"Promotora y Administradora de los Servicios de Playa de Zona Marítimo Federal Terrestre\" (Acapulco)",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36315.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36315.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2204,7 +2358,8 @@
     "nombre": "Decreto Número 189, por el que se crea el Organismo Público Descentralizado, Universidad Intercultural del Estado de Guerrero (2007)",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36316.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36316.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2214,7 +2369,8 @@
     "nombre": "Decreto Número 615 mediante el cual se emite opinión favorable del Plan Estatal de Desarrollo 2005 - 2011 del Estado Libre y Soberano de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36317.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36317.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2224,7 +2380,8 @@
     "nombre": "Decreto por el que se abroga el diverso que crea Industrias Forestales de Guerrero, Organismo Público de Participación Social y extingue y liquida al organismo",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36318.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36318.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2234,7 +2391,8 @@
     "nombre": "Decreto por el que se abroga el diverso que creó el Establecimiento Público de Bienestar Social denominado Enciclopedia Guerrerense, y lo extingue y ordena su liquidación",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36319.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36319.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2244,7 +2402,8 @@
     "nombre": "Decreto por el que se abroga el diverso que transforma a Fertilizantes de Guerrero, Organismo Público de Participación Social, en Distribuidora de Insumos Campesinos, Organismo Público de Participación Social, aprobado el 30 de septiembre de 1988 y exting",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36320.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36320.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2254,7 +2413,8 @@
     "nombre": "Decreto por el que se crea \"el Hospital de la Madre y el Niño Guerrerense\" como Establecimiento Público de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36321.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36321.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2264,7 +2424,8 @@
     "nombre": "Decreto por el que se crea a la Unidad Deportiva de Cd. Altamirano como Establecimiento Público de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36322.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36322.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2274,7 +2435,8 @@
     "nombre": "Decreto por el que se crea a la Unidad Deportiva de Tierra Colorada \"La Pinta\" como Establecimiento Publico de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36323.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36323.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2284,7 +2446,8 @@
     "nombre": "Decreto por el que se crea el \"Hospital de la Madre y el Niño Indigena Guerrerense\" como Establecimiento Público de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36324.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36324.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2294,7 +2457,8 @@
     "nombre": "Decreto por el que se crea el Colegio de Estudios Científicos y Tecnológicos del Estado de Guerrero como Establecimiento Público de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36325.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36325.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2304,7 +2468,8 @@
     "nombre": "Decreto por el que se crea el Gimnasio de Cd. Renacimiento en Acapulco como Establecimiento Público de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36326.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36326.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2314,7 +2479,8 @@
     "nombre": "Decreto por el que se crea el Instituto de Capacitación y Desarrollo Municipal, como Órgano Administrativo Desconcentrado",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36327.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36327.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2324,7 +2490,8 @@
     "nombre": "Decreto por el que se crea el Instituto Tecnológico Superior de la Costa Chica como Establecimiento Público de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36328.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36328.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2334,7 +2501,8 @@
     "nombre": "Decreto por el que se crea el Instituto Tecnológico Superior de la Montaña como Establecimiento Público de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36329.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36329.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2344,7 +2512,8 @@
     "nombre": "Decreto por el que se crea la Comisión Estatal de Arbitraje Medico como Órgano Desconcentrado de la Secretaria de Salud",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36331.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36331.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2354,7 +2523,8 @@
     "nombre": "Decreto por el que se crea la Orquesta Filarmónica de Acapulco como Establecimiento Público de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36332.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36332.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2364,7 +2534,8 @@
     "nombre": "Decreto por el que se crea la Unidad Deportiva de Arcelia como Establecimiento Público de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36333.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36333.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2374,7 +2545,8 @@
     "nombre": "Decreto por el que se crea la Operadora de Especialidades Médicas del Estado de Guerrero como Establecimiento Público de Bienestar Social (2007)",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36330.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36330.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2384,7 +2556,8 @@
     "nombre": "Decreto por el que se establece el Salón de la Fama del Deporte del Estado de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36334.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36334.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2394,7 +2567,8 @@
     "nombre": "Decreto que crea \"La Avispa\", Museo Interactivo, como Establecimiento Publico de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36336.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36336.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2404,7 +2578,8 @@
     "nombre": "Decreto que crea al Parque Papagayo como Establecimiento Publico de Bienestar Social",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36337.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36337.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2414,7 +2589,8 @@
     "nombre": "Decreto que crea el Consejo Consultivo de Desarrollo Urbano de la Ciudad de Iguala de la Independencia, Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36338.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36338.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2424,7 +2600,8 @@
     "nombre": "Decreto que crea el Consejo Estatal de Población del Estado de Guerrero.",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36339.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36339.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2434,7 +2611,8 @@
     "nombre": "Decreto que crea el Consejo Técnico de Adopciones del Estado de Guerrero (2007)",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36340.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36340.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2444,7 +2622,8 @@
     "nombre": "Decreto que crea la Procuraduría de Defensa de los Campesinos del Estado de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36341.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36341.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2454,7 +2633,8 @@
     "nombre": "Decreto que crea las Delegaciones Generales del Gobierno del Estado en las Regiones de Acapulco, Costa Chica, Costa Grande, Montaña, Tierra Caliente, Zona Centro y Zona Norte",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36343.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36343.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2464,7 +2644,8 @@
     "nombre": "Decreto que establece los Patronatos para Promover el Acervo de los Museos del Estado de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36344.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36344.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2474,7 +2655,8 @@
     "nombre": "Decreto que instituye el Premio Estatal al Merito en Arquitectura Pedro Pellandini Cussi",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36345.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36345.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2484,7 +2666,8 @@
     "nombre": "Decreto que Instituye el Premio Jurídico Alberto Saavedra Torija",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36346.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36346.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2494,7 +2677,8 @@
     "nombre": "Decreto que instituye la Casa Guerrerense en el Distrito Federal",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36347.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36347.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2504,17 +2688,8 @@
     "nombre": "Decreto que instituye las Jornadas Alarconianas del Gobierno del Estado de Guerrero",
     "tipo": "Decreto",
     "entidad": "guerrero",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
-    "id": "guerrero_existen_total_denbsp_85_ordenamientos_tiacutetulo",
-    "nombre": "Existen un total de&nbsp; 85 Ordenamientos T&iacute;tulo",
-    "tipo": "Ley",
-    "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36348.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36348.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2524,7 +2699,8 @@
     "nombre": "Acuerdo administrativo por el que se crea la estructura y se otorgan atribuciones al Comité Estatal de Energía en el Estado de Guerrero (2007)",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36349.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36349.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2534,7 +2710,8 @@
     "nombre": "Acuerdo de Coordinación por el que se transfiere la responsabilidad del Servicio Medico Forense a los Servicios Estatales de Salud",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36350.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36350.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2544,7 +2721,8 @@
     "nombre": "Acuerdo mediante el cual se integra el Grupo Interinstitucional para la elaboración del Plan Estatal de Desarrollo de Guerrero 2005  2011",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36351.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36351.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2554,7 +2732,8 @@
     "nombre": "Acuerdo por el cual se crea el Consejo Agrario Estatal",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36352.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36352.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2564,7 +2743,8 @@
     "nombre": "Acuerdo por el que se abroga el similar que crea el Comité de Vigilancia y Evaluación de los Derechos Humanos y se extingue el Comité",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36353.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36353.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2574,7 +2754,8 @@
     "nombre": "Acuerdo por el que se aprueba el Programa de Acciones Prioritarias para el Ejercicio Fiscal 2006",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36354.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36354.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2584,7 +2765,8 @@
     "nombre": "Acuerdo por el que se Aprueba la Desaparición de la Oficialía del Registro Civil no. 7, con sede en Agua de Correa Municipio de José Azueta, Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36355.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36355.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2594,7 +2776,8 @@
     "nombre": "ACUERDO por el que se cancelan las exhibiciones de fuegos artificiales o pirotécnicos en todas sus modalidades, con motivo de las fiestas decembrinas 2020 y de año nuevo 2021 en el Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo123879.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo123879.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2604,7 +2787,8 @@
     "nombre": "Acuerdo por el que se comisiona, instruye y se delega facultades a la Consejería Jurídica de Poder Ejecutivo para que en forma continua, permanente y las veces que sea necesario, proceda a revisar y recibir aquellos documentos, expedientes y constancias,",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36356.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36356.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2614,7 +2798,8 @@
     "nombre": "Acuerdo por el que se constituye el \"Fideicomiso Parque Industrial Guerrero\"",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36357.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36357.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2624,7 +2809,8 @@
     "nombre": "Acuerdo por el que se crea el \"Centro Cultural Acapulco\" como Órgano Desconcentrado del Instituto Guerrerense de la Cultura",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36358.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36358.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2634,7 +2820,8 @@
     "nombre": "Acuerdo por el que se crea el Centro Estatal de Evaluación, Certificación y Credencialización, de los elementos que integran los cuerpos de Seguridad Pública del Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36359.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36359.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2644,7 +2831,8 @@
     "nombre": "Acuerdo por el que se crea el Comité Estatal de Tecnologías de la Información y Comunicaciones",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36360.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36360.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2654,7 +2842,8 @@
     "nombre": "Acuerdo por el que se crea el Comité Estatal de Vinculación del Sector Educativo con el Sector Productivo y de Servicios (CEVEPROS)",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36361.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36361.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2664,7 +2853,8 @@
     "nombre": "Acuerdo por el que se crea el Comité Estatal Interinstitucional para la Formación y Capacitación de Recursos Humanos e Investigación en Salud del Estado de Guerrero (2007)",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36362.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36362.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2674,7 +2864,8 @@
     "nombre": "Acuerdo por el que se crea el Consejo Estatal de Trasplantes, como Órgano Administrativo Desconcentrado",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36363.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36363.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2684,7 +2875,8 @@
     "nombre": "Acuerdo por el que se crea el Grupo Estatal de Emergencia en Salud Animal de Guerrero (GEESAG)",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36364.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36364.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2694,7 +2886,8 @@
     "nombre": "Acuerdo por el que se crea el Juzgado Mixto de Paz, con residencia oficial en la Cabecera Municipal de Marquelia, Guerrero, emitido por el pleno del Tribunal Superior de Justicia del Estado",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36525.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36525.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2704,7 +2897,8 @@
     "nombre": "Acuerdo por el que se crea la Agencia Auxiliar del Ministerio Publico del Fuero Común de Tecoanapa, Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36365.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36365.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2714,7 +2908,8 @@
     "nombre": "Acuerdo por el que se crea la Agencia del Ministerio Público del Fuero Común en la Población de Tlacoachistlahuaca, Mpio. de Tlacoachistlahuaca, Gro.",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36367.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36367.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2724,7 +2919,8 @@
     "nombre": "Acuerdo por el que se crea la Agencia Titular del Ministerio Público del Fuero Común en El Coloso, Municipio de Acapulco de Juárez, Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36368.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36368.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2734,7 +2930,8 @@
     "nombre": "Acuerdo por el que se crea la Comisión de Bioética del Estado de Guerrero, como un Órgano Consultivo, Normativo y de Coordinación entre las Dependencias e Instituciones Privadas",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36369.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36369.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2744,7 +2941,8 @@
     "nombre": "Acuerdo por el que se crea la Coordinación General de Acceso a la Información Pública del Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36370.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36370.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2754,7 +2952,8 @@
     "nombre": "Acuerdo por el que se crea la Coordinación General de Asuntos Indígenas",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36371.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36371.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2764,7 +2963,8 @@
     "nombre": "Acuerdo por el que se crea la Coordinación General de Enlace Político Institucional del Estado",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36372.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36372.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2774,7 +2974,8 @@
     "nombre": "Acuerdo por el que se crea la Coordinación General de Seguridad y Transporte Aéreo del Estado",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36373.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36373.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2784,7 +2985,8 @@
     "nombre": "Acuerdo por el que se crea la Coordinación General del Ejecutivo del Estado, como una Dependencia directamente adscrita a la Oficina del Gobernador",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36374.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36374.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2794,7 +2996,8 @@
     "nombre": "Acuerdo por el que se crean las Agencias Auxiliares del Ministerio Publico del Fuero Común de El Treinta y Xaltianguis, del Municipio de Acapulco de Juárez, Gro.",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36375.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36375.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2804,7 +3007,8 @@
     "nombre": "Acuerdo por el que se crean las Oficialías del Registro Civil en las Poblaciones de Chacalapa y San Juan de los Llanos, Mpio. de Igualapa y Pascala del Oro, Mpio. de San Luis Acatlán, Gro",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36376.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36376.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2814,7 +3018,8 @@
     "nombre": "Acuerdo por el que se crean las Oficialías Titulares del Registro Civil en El Campanario, El Arenal, Paso Limonero, La Maquina, La Progreso, Costa Azul y Santa Cruz del Municipio de Acapulco de Juárez, Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36377.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36377.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2824,7 +3029,8 @@
     "nombre": "Acuerdo por el que se crean los Consejos Consultivos de Transporte y Vialidad de las Regiones Centro, Costa Grande, Costa Chica, Norte, Tierra Caliente y la Montaña del Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36378.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36378.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2834,7 +3040,8 @@
     "nombre": "Acuerdo por el que se declara \"Salón de los Gobernadores\", el vestíbulo del edificio denominado Centro, del Palacio de Gobierno",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36379.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36379.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2844,7 +3051,8 @@
     "nombre": "Acuerdo por el que se delega al Director General Jurídico Consultivo de la Procuraduría General de Justicia del Estado, la facultad para firmar las resoluciones de ejercicio de la acción penal, no ejercicio de la acción penal y su archivo definitivo, resp",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36380.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36380.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2854,7 +3062,8 @@
     "nombre": "Acuerdo por el que se denomina \"General José Joaquín de Herrera\" al Auditorio del Nuevo Palacio de Gobierno",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36381.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36381.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2864,7 +3073,8 @@
     "nombre": "Acuerdo por el que se denomina \"Gral. Vicente Guerrero Saldaña\" a la Plaza Cívica del Nuevo Palacio de Gobierno",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36382.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36382.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2874,7 +3084,8 @@
     "nombre": "Acuerdo por el que se emiten las Reglas de Operación del Programa de Acciones Prioritarias, para el Ejercicio Fiscal 2006",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36383.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36383.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2884,7 +3095,8 @@
     "nombre": "Acuerdo por el que se establece e Instituye el Programa Regional de Desarrollo Turístico del Corredor Acapulco-Zihuatanejo en la Costa Grande, del Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36384.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36384.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2894,7 +3106,8 @@
     "nombre": "Acuerdo por el que se Instituye el Fandango Guerrerense",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36385.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36385.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2904,7 +3117,8 @@
     "nombre": "Acuerdo por el que se Instituye la Presea General Vicente Guerrero al Merito Docente",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36386.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36386.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2914,7 +3128,8 @@
     "nombre": "Acuerdo por el que se instruye a la Secretaría de Finanzas y Administración del Gobierno del Estado, para que bajo un esquema de cooperación intergubernamental, inicie los trabajos para la instalación del Sistema Estatal de Coordinación Fiscal, a fin de d",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36387.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36387.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2924,7 +3139,8 @@
     "nombre": "Acuerdo por el que se Otorgan Estímulos Fiscales en beneficio de las Familias Guerrerenses en la Adquisición de Vivienda de Interés Social, así como en la Regularización de la Tenencia de la Tierra, a través de los Organismos Reguladores con Jurisdicción",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36388.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36388.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2934,7 +3150,8 @@
     "nombre": "Acuerdo por el que se regulan los productos financieros, así como las economías presupuestarias, que se obtengan con motivo de la administración y manejo de los recursos públicos asignados a las Dependencias y Entidades de la Administración Pública Estata",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36389.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36389.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2944,7 +3161,8 @@
     "nombre": "Acuerdo por el que se suspende por este año la celebración de la Semana Jurídica, instituida para conmemorar la promulgación de la Constitución Política de los Estados Unidos Mexicanos (2007)",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36390.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36390.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2954,7 +3172,8 @@
     "nombre": "Acuerdo por el se crea la Coordinación General de Asuntos Periciales del Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36526.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36526.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2964,7 +3183,8 @@
     "nombre": "Acuerdo por medio del cual se instala la Comisión Intersecretarial para el Desarrollo Social y Superación de la Pobreza",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36391.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36391.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2974,7 +3194,8 @@
     "nombre": "Acuerdo que crea el Centro de Convivencia Familiar de la Colonia Jardín de Acapulco, y le impone el nombre de Leticia Pineda de Nogueda Otero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36393.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36393.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2984,7 +3205,8 @@
     "nombre": "Acuerdo que crea el Consejo Estatal Contra las Adicciones, como Órgano Administrativo Desconcentrado",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36394.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36394.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2994,7 +3216,8 @@
     "nombre": "Acuerdo que crea el Consejo Estatal para la Prevención y Control del VIH/SIDA",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36395.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36395.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3004,7 +3227,8 @@
     "nombre": "Acuerdo que crea la \"Casa Altamirano\"",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36396.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36396.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3014,7 +3238,8 @@
     "nombre": "Acuerdo que crea la Casa de Día del Anciano Rosita Salas",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36397.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36397.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3024,7 +3249,8 @@
     "nombre": "Acuerdo que crea la Casa de la Cultura para la Región de la Montaña",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36398.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36398.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3034,7 +3260,8 @@
     "nombre": "Acuerdo que crea la Comisión Estatal para la Planeación de la Educación Superior del Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36399.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36399.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3044,7 +3271,8 @@
     "nombre": "Acuerdo que crea la Comisión Técnica Intersecretarial para conocer Asuntos de Expropiaciones",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36400.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36400.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3054,7 +3282,8 @@
     "nombre": "Acuerdo que crea la Coordinación del Instituto de Formación y Capacitación Policial del Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36401.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36401.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3064,7 +3293,8 @@
     "nombre": "Acuerdo que crea la Delegación de la Dirección del Registro Público de la Propiedad con sede en la Ciudad de Acapulco y con jurisdicción para atender los Distritos Judiciales correspondientes a Costa Chica, Costa Grande y Acapulco",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36402.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36402.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3074,7 +3304,8 @@
     "nombre": "Acuerdo que crea la Delegación Regional de la Dirección General del Registro Publico de la Propiedad con sede en la Ciudad de Zihuatanejo, y con jurisdicción para atender los Distritos Judiciales de Teniente José Azueta y Montes de Oca",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36403.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36403.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3084,7 +3315,8 @@
     "nombre": "Acuerdo que crea la Galería Dolores Olmedo en la Unidad de Servicios Culturales del Centro Internacional Acapulco",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36404.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36404.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3094,7 +3326,8 @@
     "nombre": "Acuerdo que crea la Oficialía del Registro Civil de San Miguel, Municipio de Chilpancingo de los Bravo, Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36405.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36405.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3104,7 +3337,8 @@
     "nombre": "Acuerdo que crea la Oficialía del Registro Civil de: Colonia Heliodoro Castillo, Municipio de Chilpancingo de los Bravo, Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36406.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36406.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3114,7 +3348,8 @@
     "nombre": "Acuerdo que crea la Procuraduría de la Defensa de los Derechos de la Mujer",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36407.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36407.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3124,7 +3359,8 @@
     "nombre": "Acuerdo que crea la Unidad de Servicios Culturales del Centro Internacional Acapulco",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36408.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36408.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3134,7 +3370,8 @@
     "nombre": "Acuerdo que crea la Unidad de Servicios Educativos y Culturales \"Alejandro Cervantes Delgado\"",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36409.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36409.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3144,7 +3381,8 @@
     "nombre": "Acuerdo que crea la Visitaduría General del Notariado como una Unidad Administrativa dependiente de la Secretaría General de Gobierno del Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36410.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36410.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3154,7 +3392,8 @@
     "nombre": "Acuerdo que crea las Oficialías del Registro Civil de Amojileca, El Fresno, San Vicente, Inscuinatoyac y Acahuizotla",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36411.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36411.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3164,7 +3403,8 @@
     "nombre": "Acuerdo que crea un Zoológico en la Ciudad y Puerto de Acapulco denominado ACAZOO",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36412.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36412.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3174,7 +3414,8 @@
     "nombre": "Acuerdo que crea El Casino del Estudiante",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36392.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36392.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3184,7 +3425,8 @@
     "nombre": "Acuerdo que establece el Organo Desconcentrado denominado Procuraduría del Turista y determina las bases de su organización y funcionamiento",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36413.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36413.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3194,7 +3436,8 @@
     "nombre": "Acuerdo que establece, la Casa Quebec como Órgano del Centro Internacional Acapulco",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36414.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36414.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3204,7 +3447,8 @@
     "nombre": "Acuerdo que Estructura a la Unidad Deportiva de Acapulco como Órgano Administrativo Desconcentrado del Consejo Estatal de Recursos para la Atención de la Juventud en el Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36415.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36415.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3214,7 +3458,8 @@
     "nombre": "Acuerdo que exime del pago de los Servicios de Salud a la población abierta en el Medio Rural",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36416.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36416.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3224,7 +3469,8 @@
     "nombre": "Acuerdo que impone el nombre de Donato G. Alarcón al Hospital General de Ciudad Renacimiento en la Ciudad y Puerto de Acapulco",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36419.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36419.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3234,7 +3480,8 @@
     "nombre": "Acuerdo que impone el nombre de Fernando M. Lluck al Malecón del Pescador",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36420.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36420.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3244,7 +3491,8 @@
     "nombre": "Acuerdo que impone el nombre de Francisco Torres Moreno al Parque Ecológico ubicado en el Cerro del Huixteco de Taxco de Alarcón",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36421.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36421.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3254,7 +3502,8 @@
     "nombre": "Acuerdo que impone el nombre de General Rafael Catalán Calvo a la Unidad Deportiva de Acapulco",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36422.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36422.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3264,7 +3513,8 @@
     "nombre": "Acuerdo que impone el nombre de Guillermo Soberón Acevedo al Centro de Salud Urbano del centro de Chilpancingo de los Bravo, Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36423.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36423.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3274,7 +3524,8 @@
     "nombre": "Acuerdo que impone el nombre de Jorge Soberon Acevedo al Hospital General de la Zona Norte con sede en la Ciudad de Iguala de la Independencia",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36418.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36418.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3284,7 +3535,8 @@
     "nombre": "Acuerdo que impone el nombre CASA GUERRERO a la Residencia Oficial del Gobernador del Estado y establece el Patronato de dicha residencia",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36417.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36417.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3294,7 +3546,8 @@
     "nombre": "Acuerdo que instituye los festejos conmemorativos de las Jornadas Nacionales de la Constitución General de la República y los Símbolos Patrios en el Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36424.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36424.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3304,7 +3557,8 @@
     "nombre": "Acuerdo que ordena el establecimiento de la Agencia Auxiliar del Ministerio Público de Tepetixtla, municipio de Coyuca de Benítez, dependiente de la Agencia Central del Distrito Judicial de Tabares",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36425.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36425.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3314,7 +3568,8 @@
     "nombre": "Acuerdo que transforma a la Casa de la Cultura de Acapulco en Establecimiento Coordinado de Servicios Culturales",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36426.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36426.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3324,7 +3579,8 @@
     "nombre": "Acuerdo que transforma a la Casa de la Cultura de Chilpancingo en Establecimiento Coordinado de Servicios Culturales",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36427.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36427.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3334,7 +3590,8 @@
     "nombre": "Acuerdo que transforma a las Coordinaciones de Gestión Interna y Estructuras Equivalentes de las Dependencias y Unidades Administrativas de la Administración Pública Centralizada en Delegaciones Administrativas",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36428.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36428.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3344,7 +3601,8 @@
     "nombre": "Acuerdo SSA/SJ/001/2006 por el que se delegan facultades al C. Jefe del Departamento de Legislación y Consulta de la Subdirección Jurídica de la Secretaría de Salud del Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36429.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36429.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -3354,7 +3612,8 @@
     "nombre": "Acuerdo SSA/SJ/002/2006 por el que se delegan facultades al C. Coordinador Jurídico de la Jurisdicción Sanitaria 07 Acapulco, dependiente de la Subdirección Jurídica de la Secretaría de Salud del Estado de Guerrero",
     "tipo": "Acuerdo",
     "entidad": "guerrero",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36430.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Guerrero/wo36430.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"

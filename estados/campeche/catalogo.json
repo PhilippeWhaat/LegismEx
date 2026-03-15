@@ -1,30 +1,11 @@
 [
   {
-    "id": "campeche_nbsp_inicio_contacto_directorio_nbsp_nbspnbspnbspnbsp",
-    "nombre": "&nbsp; INICIO / CONTACTO / DIRECTORIO &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;",
-    "tipo": "Ley",
-    "entidad": "campeche",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
-    "id": "campeche_existen_total_denbsp_176_ordenamientos_tiacutetulo",
-    "nombre": "Existen un total de&nbsp; 176 Ordenamientos T&iacute;tulo",
-    "tipo": "Ley",
-    "entidad": "campeche",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
     "id": "campeche_ley_agricola_campeche",
     "nombre": "Ley Agrícola del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20320.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20320.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -34,7 +15,8 @@
     "nombre": "Ley Constitutiva de la Fundación Pablo García del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo89018.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo89018.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -44,7 +26,8 @@
     "nombre": "Ley Constitutiva de la Universidad Autónoma de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125106.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125106.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -54,7 +37,8 @@
     "nombre": "Ley Constitutiva de la Universidad Autónoma del Carmen",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20321.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20321.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -64,7 +48,8 @@
     "nombre": "Ley Constitutiva del Instituto Campechano",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44728.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44728.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -74,7 +59,8 @@
     "nombre": "Ley Constitutiva del Premio al Mérito a la Enfermería Campechana",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20323.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20323.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -84,7 +70,8 @@
     "nombre": "Ley Constitutiva del Reconocimiento a la Gestión Gubernamental en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20324.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20324.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -94,7 +81,8 @@
     "nombre": "Ley Constitutiva del Reconocimiento al \"Artesano Emérito Campechano\"",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125107.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125107.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -104,7 +92,8 @@
     "nombre": "Ley Constitutiva del Reconocimiento al \"Maestro Emérito Campechano\"",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90164.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90164.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -114,7 +103,8 @@
     "nombre": "Ley de Acceso a las Mujeres a una Vida Libre de Violencia del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo124875.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo124875.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -124,7 +114,8 @@
     "nombre": "Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20169.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20169.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -134,7 +125,8 @@
     "nombre": "Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20326.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20326.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -144,7 +136,8 @@
     "nombre": "Ley de Agua Potable y Alcantarillado del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20327.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20327.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -154,7 +147,8 @@
     "nombre": "Ley de Amnistía del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125109.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125109.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -164,7 +158,8 @@
     "nombre": "Ley de Apicultura del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44729.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44729.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -174,7 +169,8 @@
     "nombre": "Ley de Archivos del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo52457.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo52457.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -184,7 +180,8 @@
     "nombre": "Ley de Asentamientos Humanos del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20328.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20328.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -194,7 +191,8 @@
     "nombre": "Ley de Asistencia Social para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20329.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20329.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -204,7 +202,8 @@
     "nombre": "Ley de Asociaciones Público-Privadas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125110.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125110.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -214,7 +213,8 @@
     "nombre": "Ley de Austeridad y Ahorro del Estado de Campeche y sus Municipios",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125111.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125111.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -224,7 +224,8 @@
     "nombre": "Ley de Bienes del Estado de Campeche y sus Municipios",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44736.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44736.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -234,7 +235,8 @@
     "nombre": "Ley de Catastro del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90249.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90249.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -244,7 +246,8 @@
     "nombre": "Ley de Contratos de Colaboración Público Privada para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo65358.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo65358.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -254,7 +257,8 @@
     "nombre": "Ley de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo103038.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo103038.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -264,7 +268,8 @@
     "nombre": "Ley de Cooperación de los Particulares para Obras Públicas en el Estado",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20332.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20332.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -274,7 +279,8 @@
     "nombre": "Ley de Coordinación en Materia de Zonas Económicas Especiales y Áreas de Influencia del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125112.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125112.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -284,7 +290,8 @@
     "nombre": "Ley de Defensoría Pública y Asistencia Jurídica Gratuita del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99560.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99560.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -294,7 +301,8 @@
     "nombre": "Ley de Derechos, Cultura y Organización de los Pueblos y Comunidades Indígenas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20335.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20335.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -304,7 +312,8 @@
     "nombre": "Ley de Desarrollo Cultural del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo89019.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo89019.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -314,7 +323,8 @@
     "nombre": "Ley de Desarrollo Forestal Sustentable para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44735.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44735.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -324,7 +334,8 @@
     "nombre": "Ley de Desarrollo Social del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20336.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20336.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -334,7 +345,8 @@
     "nombre": "Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125113.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125113.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -344,7 +356,8 @@
     "nombre": "Ley de Educación Ambiental del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20339.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20339.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -354,7 +367,8 @@
     "nombre": "Ley de Educación del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20338.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20338.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -364,7 +378,8 @@
     "nombre": "Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo56995.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo56995.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -374,7 +389,8 @@
     "nombre": "Ley de Entrega-Recepción del Estado de Campeche y sus Municipios",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125114.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125114.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -384,7 +400,8 @@
     "nombre": "Ley de Expropiación y demás Limitaciones al Derecho de Propiedad del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20341.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20341.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -394,7 +411,8 @@
     "nombre": "Ley de Extinción de Dominio para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99562.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99562.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -404,7 +422,8 @@
     "nombre": "Ley de Firma Electrónica Avanzada y Uso de Medios Electrónicos del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99564.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99564.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -414,7 +433,8 @@
     "nombre": "Ley de Fiscalización y Rendición de Cuentas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125115.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125115.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -424,7 +444,8 @@
     "nombre": "Ley de Fomento a la Investigación Científica y Tecnológica del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20342.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20342.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -434,7 +455,8 @@
     "nombre": "Ley de Fomento a la Producción de Alimentos Básicos del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20343.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20343.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -444,7 +466,8 @@
     "nombre": "Ley de Fomento de la Lectura y del Libro del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125116.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125116.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -454,7 +477,8 @@
     "nombre": "Ley de Fomento Pecuario para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125117.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125117.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -464,7 +488,8 @@
     "nombre": "Ley de Fraccionamientos, Unidades Habitacionales, Condominios y Uso de Inmuebles en Tiempo Compartido del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20345.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20345.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -474,7 +499,8 @@
     "nombre": "Ley de Ganadería, Apícola y Avícola del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20346.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20346.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -484,7 +510,8 @@
     "nombre": "Ley de Hacienda de los Municipios del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20347.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20347.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -494,7 +521,8 @@
     "nombre": "Ley de Instituciones de Asistencia Privada del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20350.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20350.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -504,7 +532,8 @@
     "nombre": "Ley de Instituciones y Procedimientos Electorales del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99200.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99200.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -514,7 +543,8 @@
     "nombre": "Ley de Justicia Cívica para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125118.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125118.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -524,7 +554,8 @@
     "nombre": "Ley de la Administración Pública Paraestatal del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo56996.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo56996.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -534,7 +565,8 @@
     "nombre": "Ley de la Comisión de Conciliación y Arbitraje Médico del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44731.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44731.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -544,7 +576,8 @@
     "nombre": "Ley de la Comisión de Derechos Humanos del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20170.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20170.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -554,7 +587,8 @@
     "nombre": "Ley de la Escuela Normal de Profesores de Calkiní",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20353.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20353.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -564,7 +598,8 @@
     "nombre": "Ley de la Infraestructura Física Educativa del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44737.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44737.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -574,7 +609,8 @@
     "nombre": "Ley de la Juventud del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo65359.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo65359.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -584,7 +620,8 @@
     "nombre": "Ley de la Universidad Autónoma de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo89021.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo89021.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -594,7 +631,8 @@
     "nombre": "Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo104122.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo104122.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -604,7 +642,8 @@
     "nombre": "Ley de los Trabajadores al Servicio de los Poderes, Municipios e Instituciones Descentralizadas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20355.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20355.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -614,7 +653,8 @@
     "nombre": "Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20356.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20356.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -624,7 +664,8 @@
     "nombre": "Ley de Mejora Regulatoria para el Estado de Campeche y sus Municipios",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125099.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125099.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -634,7 +675,8 @@
     "nombre": "Ley de Movilidad y Seguridad Vial del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125119.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125119.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -644,7 +686,8 @@
     "nombre": "Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125120.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125120.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -654,7 +697,8 @@
     "nombre": "Ley de Obras Públicas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20357.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20357.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -664,7 +708,8 @@
     "nombre": "Ley de Patrimonio Cultural del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20358.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20358.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -674,7 +719,8 @@
     "nombre": "Ley de Pesca y Acuacultura sustentables del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20359.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20359.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -684,7 +730,8 @@
     "nombre": "Ley de Planeación del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20360.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20360.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -694,7 +741,8 @@
     "nombre": "Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20172.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20172.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -704,7 +752,8 @@
     "nombre": "Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44775.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44775.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -714,7 +763,8 @@
     "nombre": "Ley de Procedimientos para la Elección de Comisarios Municipales del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20363.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20363.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -724,7 +774,8 @@
     "nombre": "Ley de Protección a la Salud de los No Fumadores en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125122.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125122.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -734,7 +785,8 @@
     "nombre": "Ley de Protección Civil, Prevención y Atención de Desastres del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90254.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90254.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -744,7 +796,8 @@
     "nombre": "Ley de Protección de Adultos Mayores para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20173.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20173.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -754,7 +807,8 @@
     "nombre": "Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125108.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125108.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -764,7 +818,8 @@
     "nombre": "Ley de Protección, Conservación y Fomento de Arbolado y Áreas Verdes Urbanas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125131.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125131.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -774,7 +829,8 @@
     "nombre": "Ley de Protección, Conservación y Fomento de Arboleado y Áreas Verdes Urbanas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125123.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125123.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -784,7 +840,8 @@
     "nombre": "Ley de Responsabilidad Patrimonial del Estado de Campeche y sus Municipios",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125124.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125124.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -794,7 +851,8 @@
     "nombre": "Ley de Salud Mental para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo124873.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo124873.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -804,7 +862,8 @@
     "nombre": "Ley de Salud para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20368.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20368.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -814,7 +873,8 @@
     "nombre": "Ley de Seguridad Escolar para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo97608.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo97608.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -824,7 +884,8 @@
     "nombre": "Ley de Seguridad Pública del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20369.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20369.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -834,7 +895,8 @@
     "nombre": "Ley de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20370.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20370.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -844,7 +906,8 @@
     "nombre": "Ley de Servicios Periciales del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo103298.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo103298.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -854,7 +917,8 @@
     "nombre": "Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20296.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20296.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -864,7 +928,8 @@
     "nombre": "Ley de Trasplante de Órganos para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20372.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20372.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -874,7 +939,8 @@
     "nombre": "Ley de Turismo del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20373.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20373.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -884,7 +950,8 @@
     "nombre": "Ley de Uso de Fuego en Terrenos Agropecuarios en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo103410.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo103410.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -894,7 +961,8 @@
     "nombre": "Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44778.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44778.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -904,7 +972,8 @@
     "nombre": "Ley de Vida Silvestre del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20375.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20375.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -914,7 +983,8 @@
     "nombre": "Ley de Vivienda para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo65362.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo65362.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -924,7 +994,8 @@
     "nombre": "Ley del Archivo del Poder Legislativo del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20376.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20376.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -934,7 +1005,8 @@
     "nombre": "Ley del Deporte y la Cultura Física del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20378.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20378.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -944,7 +1016,8 @@
     "nombre": "Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20379.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20379.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -954,7 +1027,8 @@
     "nombre": "Ley del Instituto de la Mujer del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20380.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20380.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -964,7 +1038,8 @@
     "nombre": "Ley del Notariado para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20381.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20381.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -974,7 +1049,8 @@
     "nombre": "Ley del Periódico Oficial del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo105871.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo105871.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -984,7 +1060,8 @@
     "nombre": "Ley del Premio Estatal de Periodismo del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125100.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125100.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -994,7 +1071,8 @@
     "nombre": "Ley del Registro de Centros de Población del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44734.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44734.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1004,7 +1082,8 @@
     "nombre": "Ley del Servicio de Administración Fiscal del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125126.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125126.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1014,7 +1093,8 @@
     "nombre": "Ley del Servicio Profesional de Carrera para la Administración Pública del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125127.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125127.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1024,7 +1104,8 @@
     "nombre": "Ley del Sistema Anticorrupción del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125128.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125128.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1034,7 +1115,8 @@
     "nombre": "Ley del Sistema de Coordinación Fiscal del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo101969.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo101969.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1044,7 +1126,8 @@
     "nombre": "Ley del Sistema de Información para el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo95350.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo95350.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1054,7 +1137,8 @@
     "nombre": "Ley Ganadera del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20383.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20383.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1064,7 +1148,8 @@
     "nombre": "Ley Ganadera, Apícola y Avícola del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo91472.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo91472.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1074,7 +1159,8 @@
     "nombre": "Ley Integral de Justicia para Adolescentes y Medidas de Rehabilitación y Asistencia Social para Menores de Doce años del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99565.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99565.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1084,7 +1170,8 @@
     "nombre": "Ley Integral para las Personas con Discapacidad del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90408.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90408.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1094,7 +1181,8 @@
     "nombre": "Ley Orgánica de la Administración Pública del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo52458.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo52458.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1104,7 +1192,8 @@
     "nombre": "Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125129.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125129.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1114,7 +1203,8 @@
     "nombre": "Ley Orgánica de la Fiscalía General del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo106537.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo106537.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1124,7 +1214,8 @@
     "nombre": "Ley Orgánica de la Universidad Autónoma de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125101.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125101.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1134,7 +1225,8 @@
     "nombre": "Ley Orgánica de la Universidad Autónoma del Carmen",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20175.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20175.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1144,7 +1236,8 @@
     "nombre": "Ley Orgánica de los Municipios del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20388.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20388.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1154,7 +1247,8 @@
     "nombre": "Ley Orgánica del Centro de Conciliación Laboral del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125132.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125132.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1164,7 +1258,8 @@
     "nombre": "Ley Orgánica del Instituto Campechano",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44732.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo44732.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1174,7 +1269,8 @@
     "nombre": "Ley Orgánica del Liceo Carmelita",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20390.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20390.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1184,7 +1280,8 @@
     "nombre": "Ley Orgánica del Poder Judicial del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20297.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20297.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1194,7 +1291,8 @@
     "nombre": "Ley Orgánica del Poder Legislativo del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20392.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20392.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1204,7 +1302,8 @@
     "nombre": "Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125133.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125133.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1214,7 +1313,8 @@
     "nombre": "Ley Orgánica del Tribunal Electoral del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125134.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125134.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1224,7 +1324,8 @@
     "nombre": "Ley para el Ejercicio Profesional en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20394.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20394.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1234,7 +1335,8 @@
     "nombre": "Ley para el Fomento de las Actividades Artesanales en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo52454.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo52454.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1244,7 +1346,8 @@
     "nombre": "Ley para el Fomento de las Actividades Económicas y Empresariales en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20395.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20395.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1254,7 +1357,8 @@
     "nombre": "Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125135.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125135.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1264,7 +1368,8 @@
     "nombre": "Ley para el Otorgamiento de Pensiones a Beneficiarios e Integrantes de las Instituciones de Seguridad Pública del Estado e Integrantes de las Fuerzas Armadas de México Fallecidos en Cumplimiento de su Deber en el Territorio del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo65363.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo65363.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1274,7 +1379,8 @@
     "nombre": "Ley para el Otorgamiento del Premio al Mérito Médico del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125125.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125125.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1284,7 +1390,8 @@
     "nombre": "Ley para la Gestión Integral de los Residuos Sólidos Urbanos, de manejo especial y peligroso del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo52456.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo52456.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1294,7 +1401,8 @@
     "nombre": "Ley para la Igualdad de Hombres y Mujeres del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20176.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20176.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1304,7 +1412,8 @@
     "nombre": "Ley para la Igualdad entre Mujeres y Hombres del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125105.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125105.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1314,7 +1423,8 @@
     "nombre": "Ley para la Prevención del Sobrepeso y la Obesidad en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125136.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125136.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1324,7 +1434,8 @@
     "nombre": "Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo106539.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo106539.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1334,7 +1445,8 @@
     "nombre": "Ley para la Protección de Sujetos en Situación de Riesgo en el Procedimiento Penal del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125138.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125138.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1344,7 +1456,8 @@
     "nombre": "Ley para la Protección de Sujetos en Situación de Riesgo en el Proceso Penal del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90409.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90409.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1354,7 +1467,8 @@
     "nombre": "Ley para la Protección y Bienestar de los Animales del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125137.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125137.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1364,7 +1478,8 @@
     "nombre": "Ley para la venta ordenada y consumo responsable de bebidas alcohólicas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo106540.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo106540.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1374,7 +1489,8 @@
     "nombre": "Ley para Prevenir y Combatir la Trata de Personas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125139.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125139.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1384,7 +1500,8 @@
     "nombre": "Ley para Prevenir y Sancionar la Tortura en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20178.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20178.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1394,7 +1511,8 @@
     "nombre": "Ley para Prevenir, Combatir y Sancionar toda forma de Discriminación en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20177.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20177.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1404,7 +1522,8 @@
     "nombre": "Ley para Restringir el Acceso de Menores de Edad a Publicaciones y Grabaciones en Medios Impresos y Audiovisuales y Servicios de Internet con Contenido para Adultos en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20402.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20402.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1414,7 +1533,8 @@
     "nombre": "Ley que crea el \"Preimio Campeche\"",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90410.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90410.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1424,7 +1544,8 @@
     "nombre": "Ley que crea el Colegio de Bachilleres del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20403.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20403.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1434,7 +1555,8 @@
     "nombre": "Ley que crea el Hospital \"Dr. Manuel Campos\"",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20404.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20404.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1444,7 +1566,8 @@
     "nombre": "Ley que crea el Instituto de Cultura de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20405.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20405.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1454,7 +1577,8 @@
     "nombre": "Ley que crea el Instituto de Lenguas Indígenas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90411.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90411.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1464,7 +1588,8 @@
     "nombre": "Ley que crea el Organismo denominado Comité Cívico Estatal",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20406.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20406.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1474,7 +1599,8 @@
     "nombre": "Ley que crea el Organismo denominado Comité de Acción Cívica en cada uno de los Municipios del Estado",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20407.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20407.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1484,7 +1610,8 @@
     "nombre": "Ley que crea el Premio al Mérito Policial del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125140.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125140.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1494,7 +1621,8 @@
     "nombre": "Ley que Crea el Premio Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125141.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125141.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1504,7 +1632,8 @@
     "nombre": "Ley que crea el Premio Estatal \"María Lavalle Urbina, Benemeríta del Estado\" de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90452.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90452.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1514,7 +1643,8 @@
     "nombre": "Ley que crea la Comisión Estatal Forestal",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo52455.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo52455.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1524,7 +1654,8 @@
     "nombre": "Ley que crea la Escuela Normal en Educación Preescolar, en Calkiní, Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20410.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20410.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1534,7 +1665,8 @@
     "nombre": "Ley que crea la Escuela Preparatoria \"José María Morelos\" de la Ciudad de Calkiní, Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20411.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20411.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1544,7 +1676,8 @@
     "nombre": "Ley que crea la Escuela Secundaria \"16 de Septiembre\" del Pueblo de Candelaria, Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20412.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20412.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1554,7 +1687,8 @@
     "nombre": "Ley que crea la Escuela Secundaria Diurna \"Ricardo Monges López\" de la Villa de Tenabo, Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20413.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20413.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1564,7 +1698,8 @@
     "nombre": "Ley que crea la Escuela Secundaria Nocturna \"Ignacio Allende\" de la Ciudad de Calkiní, Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20414.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20414.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1574,7 +1709,8 @@
     "nombre": "Ley que crea la Escuela Secundaria Nocturna \"Luis Álvarez Buela\" de Hecelchakán, Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20415.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20415.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1584,7 +1720,8 @@
     "nombre": "Ley que crea la Escuela Secundaria Nocturna \"Vicente Guerrero\" del Pueblo de Bécal, Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20416.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20416.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1594,7 +1731,8 @@
     "nombre": "Ley que crea los Premios Estatales \"Luis Álvarez Barret\" y \"Apolonio Rivas\"",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20417.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20417.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1604,7 +1742,8 @@
     "nombre": "Ley que establece Disposiciones para el Tránsito en el Camino de Acceso a la Zona Arqueológica Calakmul",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20418.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20418.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1614,7 +1753,8 @@
     "nombre": "Ley que establece el Derecho de Vía de una Carretera o Camino Local",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20419.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20419.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1624,7 +1764,8 @@
     "nombre": "Ley que establece el Instituto de Acceso a la Justicia del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo65364.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo65364.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1634,7 +1775,8 @@
     "nombre": "Ley que Establece el Sistema de Justicia para las Víctimas del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99563.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99563.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1644,7 +1786,8 @@
     "nombre": "Ley que establece las Bases para la Entrega-Recepción del Despacho de los Titulares y otros Servidores de las Dependencias y Entidades de la Administración Pública Estatal y Municipal",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20420.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20420.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1654,7 +1797,8 @@
     "nombre": "Ley que Instituye al Premio Estatal \"Justo Sierra Méndez, Maestro de América\"",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20422.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20422.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1664,7 +1808,8 @@
     "nombre": "Ley que Reglamenta el Funcionamiento del Puente Isla Aguada-Puerto Real",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20423.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20423.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1674,7 +1819,8 @@
     "nombre": "Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125142.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125142.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1684,7 +1830,8 @@
     "nombre": "Ley que Regula las Actividades de los Agentes Inmobiliarios Registrados del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90463.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90463.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1694,7 +1841,8 @@
     "nombre": "Ley Reglamentaria de la Fracción II del Artículo 88 de la Constitución Política del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125143.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo125143.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1704,7 +1852,8 @@
     "nombre": "Ley Reglamentaria de la Fracción IV del Artículo 88 de la Constitución Política de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20425.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20425.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1714,7 +1863,8 @@
     "nombre": "Ley Reglamentaria del Artículo 5° de la Constitución Política del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20426.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20426.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1724,7 +1874,8 @@
     "nombre": "Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20427.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20427.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1734,17 +1885,8 @@
     "nombre": "Ley Regulatoria de Sociedades Civiles de Convivencia del Estado de Campeche",
     "tipo": "Ley",
     "entidad": "campeche",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
-    "id": "campeche_existen_total_denbsp_14_ordenamientos_tiacutetulo",
-    "nombre": "Existen un total de&nbsp; 14 Ordenamientos T&iacute;tulo",
-    "tipo": "Ley",
-    "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo95348.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo95348.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1754,7 +1896,8 @@
     "nombre": "Código Civil del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20300.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20300.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1764,7 +1907,8 @@
     "nombre": "Código de Conducta de la Auditoria Superior del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99915.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99915.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1774,7 +1918,8 @@
     "nombre": "Código de Ética al que deberán sujetarse los Servidores Públicos de las Dependencias y Entidades de la Administración Pública del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo83427.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo83427.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1784,7 +1929,8 @@
     "nombre": "Código de Ética de la Auditoria Superior del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99914.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99914.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1794,7 +1940,8 @@
     "nombre": "Código de Ética del Poder Judicial del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo83428.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo83428.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1804,7 +1951,8 @@
     "nombre": "Código de Ética Turística del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90464.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90464.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1814,7 +1962,8 @@
     "nombre": "Código de Procedimientos Civiles del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20302.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20302.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1824,7 +1973,8 @@
     "nombre": "Código de Procedimientos Contencioso Administrativo del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20180.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20180.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1834,7 +1984,8 @@
     "nombre": "Código de Procedimientos Penales del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20181.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20181.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1844,7 +1995,8 @@
     "nombre": "Código Fiscal del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20435.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20435.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1854,7 +2006,8 @@
     "nombre": "Código Fiscal Municipal del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90306.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90306.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1864,7 +2017,8 @@
     "nombre": "Código Nacional de Procedimientos Penales. Entrará en vigor a nivel federal conforme a la Declaratoria que emita el Congreso de la Unión, sin que exceda del 18 de junio de 2016. En las Entidades federativas y el Distrito Federal, en los términos de las Declaratoria del órgano legislativo respectivo (Artículo Segundo Transitorio del Decreto de expedición).",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo102650.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo102650.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1874,7 +2028,8 @@
     "nombre": "Código Penal del Estado de Campeche",
     "tipo": "Código",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20436.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo20436.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1884,17 +2039,8 @@
     "nombre": "DECRETO 285 Se reforman las Fracciones I, II, III, IV y V del Artículo 184, los Artículos 193 Y 218 del Código Penal del Estado de Campeche",
     "tipo": "Decreto",
     "entidad": "campeche",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
-    "id": "campeche_existen_total_denbsp_25_ordenamientos_tiacutetulo",
-    "nombre": "Existen un total de&nbsp; 25 Ordenamientos T&iacute;tulo",
-    "tipo": "Ley",
-    "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo124879.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo124879.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1904,7 +2050,8 @@
     "nombre": "Reglamento de la Ley Agrícola del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90774.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90774.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1914,7 +2061,8 @@
     "nombre": "Reglamento de la Ley de Apicultura del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo103025.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo103025.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1924,7 +2072,8 @@
     "nombre": "Reglamento de la Ley de Desarrollo Social del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90775.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90775.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1934,7 +2083,8 @@
     "nombre": "Reglamento de la Ley de Educación Preparatoria del Estado",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo120842.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo120842.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1944,7 +2094,8 @@
     "nombre": "Reglamento de la Ley de Fomento de las Actividades Artesanales del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90843.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90843.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1954,7 +2105,8 @@
     "nombre": "Reglamento de la Ley de la Juventud del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo106541.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo106541.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1964,7 +2116,8 @@
     "nombre": "Reglamento de la Ley de Obras Públicas del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90844.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90844.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1974,7 +2127,8 @@
     "nombre": "Reglamento de la Ley de Protección a los Animales para el Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90845.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90845.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1984,7 +2138,8 @@
     "nombre": "Reglamento de la Ley de Protección Civil, Prevención y Atención de Desastres del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99201.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99201.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -1994,7 +2149,8 @@
     "nombre": "Reglamento de la Ley de Salud para el Estado de Campeche en Materia de Control Sanitario de Cementerios, Osarios, Crematorios y Funerarias",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90847.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90847.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2004,7 +2160,8 @@
     "nombre": "Reglamento de la Ley de Transporte del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90856.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90856.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2014,7 +2171,8 @@
     "nombre": "Reglamento de la Ley de Turismo del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo120843.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo120843.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2024,7 +2182,8 @@
     "nombre": "Reglamento de la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90858.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90858.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2034,7 +2193,8 @@
     "nombre": "Reglamento de la Ley del Deporte y la Cultura Física del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo120844.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo120844.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2044,7 +2204,8 @@
     "nombre": "Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90860.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo90860.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2054,7 +2215,8 @@
     "nombre": "Reglamento de la Ley Integral para las Personas con Discapacidad del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99202.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo99202.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"
@@ -2064,17 +2226,8 @@
     "nombre": "Reglamento de la Ley que Regula las Actividades de los Agentes Inmobiliarios Registrados del Estado de Campeche",
     "tipo": "Reglamento",
     "entidad": "campeche",
-    "url_pdf": "",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ordenjuridico.gob.mx"
-  },
-  {
-    "id": "campeche_existen_total_denbsp_0_ordenamientos_ir",
-    "nombre": "Existen un total de&nbsp; 0 Ordenamientos Ir a Página: &nbsp;",
-    "tipo": "Ley",
-    "entidad": "campeche",
-    "url_pdf": "",
+    "url_pdf": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo97611.doc",
+    "url_word": "http://www.ordenjuridico.gob.mx/Documentos/Estatal/Campeche/wo97611.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ordenjuridico.gob.mx"

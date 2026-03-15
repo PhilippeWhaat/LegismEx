@@ -2400,12 +2400,20 @@ def scrape_coahuila() -> list[dict]:
 # Estados: Jalisco, Guerrero, Campeche, Colima, Sonora, Zacatecas, SLP.
 # ──────────────────────────────────────────────
 
+ORDENJURIDICO_STATE_PATHS = {
+    "campeche": "Campeche", "colima": "Colima", "guerrero": "Guerrero",
+    "jalisco": "Jalisco", "sanluispotosi": "San%20Luis%20Potosi",
+    "sonora": "Sonora", "zacatecas": "Zacatecas",
+}
+
+
 def scrape_ordenjuridico(entidad: str, edo_id: int):
     """Retorna una función scraper para la entidad via ordenjuridico.gob.mx."""
     def _scraper() -> list[dict]:
         cat_tipos = [4, 5, 6, 8, 10, 15]  # Leyes, Códigos, Reglamentos, etc.
         leyes: list[dict] = []
         ids_vistos: set[str] = set()
+        state_path = ORDENJURIDICO_STATE_PATHS.get(entidad, entidad.title())
 
         for cat in cat_tipos:
             url = f"http://www.ordenjuridico.gob.mx/despliegaedo2.php?ordenar=&edo={edo_id}&catTipo={cat}"
@@ -2418,31 +2426,44 @@ def scrape_ordenjuridico(entidad: str, edo_id: int):
                 log.error(f"  {entidad} catTipo={cat}: {e}")
                 continue
 
-            rows = re.findall(
-                r'<tr[^>]*>\s*<td[^>]*>(.*?)</td>\s*<td[^>]*>(.*?)</td>\s*</tr>',
-                html, re.DOTALL,
-            )
+            # Cada ley en un <tr> que contiene fichaOrdenamiento
+            rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
 
-            for name_cell, type_cell in rows:
-                nombre = re.sub(r'<[^>]+>', '', name_cell).strip()
-                nombre = limpiar_texto(nombre)
-                if not nombre or len(nombre) < 15:
-                    continue
-                if any(s in nombre for s in ["ACERCA DE", "PRIVACIDAD", "Comentarios", "AVISO"]):
+            for row in rows:
+                if "fichaOrdenamiento" not in row:
                     continue
 
-                pdf_match = re.search(r'href=["\']([^"\']*\.pdf)["\']', name_cell, re.IGNORECASE)
-                url_pdf = ""
-                if pdf_match:
-                    url_pdf = pdf_match.group(1)
-                    if not url_pdf.startswith("http"):
-                        url_pdf = f"http://www.ordenjuridico.gob.mx/{url_pdf}"
+                id_match = re.search(r'idArchivo=(\d+)', row)
+                if not id_match:
+                    continue
+                id_archivo = id_match.group(1)
+
+                # Nombre: primer <td> con texto sustancial
+                cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+                nombre = ""
+                for cell in cells:
+                    text = re.sub(r'<[^>]+>', '', cell).strip()
+                    text = limpiar_texto(text)
+                    # Quitar fechas y metadatos del final
+                    text = re.sub(r'\s+\d{2}-\d{2}-\d{4}.*$', '', text)
+                    text = re.sub(r'\s+Sin Reforma.*$', '', text)
+                    if len(text) > 15:
+                        nombre = text
+                        break
+
+                if not nombre:
+                    continue
+                if any(s in nombre for s in ["ACERCA DE", "PRIVACIDAD",
+                                             "Comentarios", "AVISO"]):
+                    continue
+
+                # URL: DOC en ordenjuridico.gob.mx/Documentos/Estatal/{estado}/wo{id}.doc
+                url_doc = (
+                    f"http://www.ordenjuridico.gob.mx/Documentos/Estatal/"
+                    f"{state_path}/wo{id_archivo}.doc"
+                )
 
                 tipo = inferir_tipo(nombre)
-                tipo_raw = re.sub(r'<[^>]+>', '', type_cell).strip()
-                if "Decreto" in tipo_raw:
-                    tipo = "Decreto"
-
                 ley_id = generar_id(entidad, nombre)
                 if ley_id in ids_vistos:
                     continue
@@ -2450,7 +2471,9 @@ def scrape_ordenjuridico(entidad: str, edo_id: int):
 
                 leyes.append({
                     "id": ley_id, "nombre": nombre, "tipo": tipo,
-                    "entidad": entidad, "url_pdf": url_pdf,
+                    "entidad": entidad,
+                    "url_pdf": url_doc,
+                    "url_word": url_doc,
                     "ultima_reforma": "", "estado_vigencia": "vigente",
                     "fuente": "ordenjuridico.gob.mx",
                 })
