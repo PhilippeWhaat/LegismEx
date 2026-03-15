@@ -1931,39 +1931,36 @@ def scrape_cdmx() -> list[dict]:
         if not html:
             break
 
-        # Extract law entries: links with law names
-        entries = re.findall(
+        # Extract all links
+        all_links = re.findall(
             r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
             html, re.DOTALL
         )
-        # Filter to law names only
-        entries = [(h, re.sub(r'<[^>]+>', '', t).strip()) for h, t in entries
-                   if any(w in re.sub(r'<[^>]+>', '', t).strip().lower()[:15]
-                          for w in ['ley ', 'código', 'codigo', 'constitución', 'constitucion', 'estatuto'])
-                   and len(re.sub(r'<[^>]+>', '', t).strip()) > 15]
-
-        if not entries:
-            break
-
-        # Also find all PDF links on the page
-        pdfs_on_page = re.findall(
-            r'href=["\']([^"\']+/images/leyes/[^"\']+\.pdf)["\']',
-            html, re.IGNORECASE
-        )
-
+        # Filter to law names
+        law_words = ['ley ', 'código', 'codigo', 'constitución',
+                     'constitucion', 'estatuto']
         found = 0
-        for href, nombre in entries:
+        for href, raw_text in all_links:
+            nombre = re.sub(r'<[^>]+>', '', raw_text).strip()
             nombre = limpiar_texto(nombre)
-            if not nombre or len(nombre) < 10:
+            if not nombre or len(nombre) < 20:
+                continue
+            if not any(w in nombre.lower()[:15] for w in law_words):
                 continue
 
-            # Try to find a PDF for this law
-            # Look for PDF near this law's anchor
-            nombre_short = nombre[:30].lower()
+            # Find PDF link near this law (search forward in HTML)
+            law_pos = html.find(nombre[:30])
             url_pdf = ""
-            for pdf in pdfs_on_page:
-                if not url_pdf:  # Take first available
-                    url_pdf = pdf if pdf.startswith("http") else f"{base_url}{pdf}"
+            if law_pos > 0:
+                chunk = html[law_pos:law_pos + 2000]
+                pdf_m = re.search(
+                    r'href=["\']([^"\']+/images/leyes/[^"\']+\.pdf)["\']',
+                    chunk, re.IGNORECASE
+                )
+                if pdf_m:
+                    url_pdf = pdf_m.group(1)
+                    if not url_pdf.startswith("http"):
+                        url_pdf = f"{base_url}{url_pdf}"
 
             tipo = inferir_tipo(nombre)
             ley_id = generar_id(entidad, nombre)
@@ -1977,7 +1974,7 @@ def scrape_cdmx() -> list[dict]:
                 "nombre": nombre,
                 "tipo": tipo,
                 "entidad": entidad,
-                "url_pdf": "",  # PDFs are per-entry, mapping is complex
+                "url_pdf": url_pdf,
                 "ultima_reforma": "",
                 "estado_vigencia": "vigente",
                 "fuente": "data.consejeria.cdmx.gob.mx",
@@ -2347,6 +2344,123 @@ def scrape_hidalgo() -> list[dict]:
     return leyes
 
 
+# ──────────────────────────────────────────────
+# COAHUILA — congresocoahuila.gob.mx (HTM con tablas individuales)
+# 166 leyes. Encoding latin-1. PDF links directos.
+# ──────────────────────────────────────────────
+
+def scrape_coahuila() -> list[dict]:
+    entidad = "coahuila"
+    url = "https://www.congresocoahuila.gob.mx/portal/wp-content/uploads/2014/11/Leyes-Estatales-Coahuila.htm"
+
+    log.info(f"  Coahuila: {url}")
+    # Latin-1 encoding
+    req = urllib.request.Request(url, headers=HEADERS)
+    try:
+        with urllib.request.urlopen(req, timeout=30, context=SSL_CTX) as resp:
+            html = resp.read().decode("latin-1", errors="replace")
+    except Exception as e:
+        log.warning(f"  Coahuila: no se pudo acceder ({e})")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+
+    # Each law: <td class='Estilo91'>NAME</td> followed by PDF link
+    for match in re.finditer(r'class=["\']Estilo91["\'][^>]*>(.*?)</td>', html, re.DOTALL):
+        nombre = re.sub(r'<[^>]+>', '', match.group(1)).strip()
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10 or nombre in ("WORD", "PDF"):
+            continue
+
+        rest = html[match.end():match.end() + 500]
+        pdf_match = re.search(r'href=["\']([^"\']+\.pdf)["\']', rest, re.IGNORECASE)
+        url_pdf = pdf_match.group(1) if pdf_match else ""
+
+        tipo = inferir_tipo(nombre)
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id, "nombre": nombre, "tipo": tipo,
+            "entidad": entidad, "url_pdf": url_pdf,
+            "ultima_reforma": "", "estado_vigencia": "vigente",
+            "fuente": "congresocoahuila.gob.mx",
+        })
+
+    log.info(f"  Coahuila total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# ORDENJURIDICO.GOB.MX — Fuente genérica para estados sin portal propio
+# Scraping del portal nacional por entidad + múltiples categorías.
+# Estados: Jalisco, Guerrero, Campeche, Colima, Sonora, Zacatecas, SLP.
+# ──────────────────────────────────────────────
+
+def scrape_ordenjuridico(entidad: str, edo_id: int):
+    """Retorna una función scraper para la entidad via ordenjuridico.gob.mx."""
+    def _scraper() -> list[dict]:
+        cat_tipos = [4, 5, 6, 8, 10, 15]  # Leyes, Códigos, Reglamentos, etc.
+        leyes: list[dict] = []
+        ids_vistos: set[str] = set()
+
+        for cat in cat_tipos:
+            url = f"http://www.ordenjuridico.gob.mx/despliegaedo2.php?ordenar=&edo={edo_id}&catTipo={cat}"
+            log.info(f"  {entidad}/catTipo={cat}: {url}")
+            req = urllib.request.Request(url, headers=HEADERS)
+            try:
+                with urllib.request.urlopen(req, timeout=15, context=SSL_CTX) as resp:
+                    html = resp.read().decode("latin-1", errors="replace")
+            except Exception as e:
+                log.error(f"  {entidad} catTipo={cat}: {e}")
+                continue
+
+            rows = re.findall(
+                r'<tr[^>]*>\s*<td[^>]*>(.*?)</td>\s*<td[^>]*>(.*?)</td>\s*</tr>',
+                html, re.DOTALL,
+            )
+
+            for name_cell, type_cell in rows:
+                nombre = re.sub(r'<[^>]+>', '', name_cell).strip()
+                nombre = limpiar_texto(nombre)
+                if not nombre or len(nombre) < 15:
+                    continue
+                if any(s in nombre for s in ["ACERCA DE", "PRIVACIDAD", "Comentarios", "AVISO"]):
+                    continue
+
+                pdf_match = re.search(r'href=["\']([^"\']*\.pdf)["\']', name_cell, re.IGNORECASE)
+                url_pdf = ""
+                if pdf_match:
+                    url_pdf = pdf_match.group(1)
+                    if not url_pdf.startswith("http"):
+                        url_pdf = f"http://www.ordenjuridico.gob.mx/{url_pdf}"
+
+                tipo = inferir_tipo(nombre)
+                tipo_raw = re.sub(r'<[^>]+>', '', type_cell).strip()
+                if "Decreto" in tipo_raw:
+                    tipo = "Decreto"
+
+                ley_id = generar_id(entidad, nombre)
+                if ley_id in ids_vistos:
+                    continue
+                ids_vistos.add(ley_id)
+
+                leyes.append({
+                    "id": ley_id, "nombre": nombre, "tipo": tipo,
+                    "entidad": entidad, "url_pdf": url_pdf,
+                    "ultima_reforma": "", "estado_vigencia": "vigente",
+                    "fuente": "ordenjuridico.gob.mx",
+                })
+            time.sleep(0.3)
+
+        log.info(f"  {entidad} total: {len(leyes)} documentos")
+        return leyes
+    return _scraper
+
+
 # ══════════════════════════════════════════════
 # REGISTRO DE SCRAPERS DISPONIBLES
 # ══════════════════════════════════════════════
@@ -2376,7 +2490,15 @@ SCRAPERS: dict[str, callable] = {
     "puebla":            scrape_puebla,
     "nayarit":           scrape_nayarit,
     "michoacan":         scrape_michoacan,
-    "cdmx":             scrape_cdmx,
+    "cdmx":              scrape_cdmx,
+    "coahuila":          scrape_coahuila,
+    "jalisco":           scrape_ordenjuridico("jalisco", 14),
+    "guerrero":          scrape_ordenjuridico("guerrero", 12),
+    "campeche":          scrape_ordenjuridico("campeche", 4),
+    "colima":            scrape_ordenjuridico("colima", 6),
+    "sonora":            scrape_ordenjuridico("sonora", 26),
+    "zacatecas":         scrape_ordenjuridico("zacatecas", 32),
+    "sanluispotosi":     scrape_ordenjuridico("sanluispotosi", 24),
 }
 
 

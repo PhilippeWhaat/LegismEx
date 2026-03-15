@@ -4,53 +4,78 @@
 # ══════════════════════════════════════════════════════
 # Instalar en cron con:
 #   crontab -e
-#   0 7 * * 1-5 /ruta/completa/a/legismex/scripts/run_diario.sh
+#   0 7 * * 1-5 /ruta/completa/a/DerIAMex/scripts/run_diario.sh
 #
-# Descripción de la secuencia:
-#   1. Vigilancia del DOF y periódicos estatales (Fase 4) — máxima prioridad
-#   2. Reintentos de descargas fallidas (Fase 5)
-#   3. Descarga de leyes del índice (Fase 3)
+# Secuencia:
+#   1. Re-scraping de catálogos (semanal, solo lunes)
+#   2. Regenerar índice consolidado
+#   3. Descarga de PDFs nuevos o actualizados
+#   4. Vigilancia del DOF y periódicos estatales
+#   5. Reintentos de descargas fallidas
+#
+# Para ejecución completa inicial (todo desde cero):
+#   bash scripts/run_diario.sh --full
 
-set -euo pipefail
+set -uo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BASE_DIR="$(dirname "$SCRIPT_DIR")"
 LOG_FILE="$BASE_DIR/logs/run_diario.log"
 PYTHON="${PYTHON:-python3}"
+DAY_OF_WEEK="$(date +%u)"  # 1=lunes
+
+mkdir -p "$BASE_DIR/logs"
 
 log() {
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" | tee -a "$LOG_FILE"
 }
 
 log "══════════════════════════════════════════"
-log "Iniciando ciclo diario LegismEx"
+log "Iniciando ciclo LegismEx"
 log "══════════════════════════════════════════"
 
-# ── FASE 4: Vigilancia DOF + estados principales ──
-log "[FASE 4] Vigilancia del DOF (federal)"
+# ── PASO 1: Re-scraping de catálogos (lunes o --full) ──
+if [[ "$DAY_OF_WEEK" == "1" ]] || [[ "${1:-}" == "--full" ]]; then
+    log "[PASO 1] Re-scraping de catálogos (33 entidades)"
+    $PYTHON "$SCRIPT_DIR/scraper_catalogo.py" --todas 2>&1 | tee -a "$LOG_FILE" || {
+        log "ERROR en scraping de catálogos — continuando"
+    }
+else
+    log "[PASO 1] Saltar re-scraping (solo se ejecuta los lunes o con --full)"
+fi
+
+# ── PASO 2: Regenerar índice consolidado ──
+log "[PASO 2] Regenerando leyes_index.json"
+$PYTHON "$SCRIPT_DIR/generar_indice.py" 2>&1 | tee -a "$LOG_FILE" || {
+    log "ERROR regenerando índice — continuando"
+}
+
+# ── PASO 3: Descargar PDFs ──
+log "[PASO 3] Descargando PDFs pendientes"
+$PYTHON "$SCRIPT_DIR/descarga.py" 2>&1 | tee -a "$LOG_FILE" || {
+    log "ERROR en descarga — continuando"
+}
+
+# ── PASO 4: Vigilancia DOF + periódicos estatales ──
+log "[PASO 4] Vigilancia del DOF (federal)"
 $PYTHON "$SCRIPT_DIR/vigilancia_dof.py" --entidad federal 2>&1 | tee -a "$LOG_FILE" || {
     log "ERROR en vigilancia DOF — continuando"
 }
 
-log "[FASE 4] Vigilancia estados configurados"
+log "[PASO 4] Vigilancia periódicos estatales"
 for ENTIDAD in cdmx edomex jalisco hidalgo nuevoleon puebla veracruz guanajuato sonora tamaulipas; do
-    log "  Vigilando: $ENTIDAD"
     $PYTHON "$SCRIPT_DIR/vigilancia_dof.py" --entidad "$ENTIDAD" 2>&1 | tee -a "$LOG_FILE" || {
         log "  ERROR vigilando $ENTIDAD — continuando"
     }
 done
 
-# ── FASE 5: Reintentos ──
-log "[FASE 5] Procesando cola de reintentos"
+# ── PASO 5: Reintentos ──
+log "[PASO 5] Procesando cola de reintentos"
 $PYTHON "$SCRIPT_DIR/reintentos.py" 2>&1 | tee -a "$LOG_FILE" || {
     log "ERROR en reintentos — continuando"
 }
 
-# ── FASE 3: Descarga del índice ──
-log "[FASE 3] Descargando leyes del índice"
-$PYTHON "$SCRIPT_DIR/descarga.py" 2>&1 | tee -a "$LOG_FILE" || {
-    log "ERROR en descarga de índice — continuando"
-}
-
-log "Ciclo diario completado"
+# ── Resumen ──
+log "Ciclo completado"
+$PYTHON "$SCRIPT_DIR/generar_indice.py" --resumen 2>&1 | tail -5 | tee -a "$LOG_FILE"
 log "══════════════════════════════════════════"

@@ -7,24 +7,48 @@ Catálogos completos de leyes, códigos y reglamentos con URLs de descarga direc
 
 ## Cobertura actual
 
-| Entidad | Leyes | Con PDF | Fuente |
-|---------|:-----:|:-------:|--------|
-| Estado de México | 426 | 426 | legislacion.edomex.gob.mx |
-| Yucatán | 384 | 371 | congresoyucatan.gob.mx |
-| Oaxaca | 215 | 215 | congresooaxaca.gob.mx |
-| Tlaxcala | 203 | 203 | congresodetlaxcala.gob.mx |
-| Chihuahua | 176 | 5 | congresochihuahua.gob.mx |
-| Nuevo León | 174 | 173 | hcnl.gob.mx |
-| Hidalgo | 168 | 168 | congresohidalgo.gob.mx |
-| Baja California | 163 | 162 | congresobc.gob.mx |
-| Durango | 157 | 157 | congresodurango.gob.mx |
-| Tamaulipas | 129 | 129 | congresotamaulipas.gob.mx |
-| Guanajuato | 118 | 117 | congresogto.gob.mx |
-| Tabasco | 49 | 49 | congresotabasco.gob.mx |
-| Quintana Roo | 27 | 27 | congresoqroo.gob.mx |
-| **Total** | **2389** | **2202** | |
+**33/33 entidades** (federal + 32 estados). Catálogo completo del derecho positivo mexicano.
 
-19 entidades restantes (federal + 18 estados) en proceso.
+| Entidad | Catálogo | PDFs | Fuente |
+|---------|:--------:|:----:|--------|
+| Jalisco | 1375 | 0 | ordenjuridico.gob.mx |
+| Estado de México | 426 | 409 | legislacion.edomex.gob.mx |
+| Yucatán | 384 | 370 | congresoyucatan.gob.mx |
+| Guerrero | 336 | 0 | ordenjuridico.gob.mx |
+| Federal | 315 | 315 | diputados.gob.mx |
+| Oaxaca | 215 | 208 | congresooaxaca.gob.mx |
+| Campeche | 208 | 0 | ordenjuridico.gob.mx |
+| Tlaxcala | 203 | 203 | congresodetlaxcala.gob.mx |
+| Veracruz | 185 | 180 | legisver.gob.mx |
+| Colima | 183 | 0 | ordenjuridico.gob.mx |
+| CDMX | 180 | 179 | data.consejeria.cdmx.gob.mx |
+| Chihuahua | 176 | 176 | congresochihuahua.gob.mx |
+| Nuevo León | 174 | 169 | hcnl.gob.mx |
+| Hidalgo | 168 | 163 | congresohidalgo.gob.mx |
+| Coahuila | 166 | 0 | congresocoahuila.gob.mx |
+| Sinaloa | 165 | 149 | iip.congresosinaloa.gob.mx |
+| Baja California | 163 | 162 | congresobc.gob.mx |
+| Baja California Sur | 162 | 161 | cbcs.gob.mx |
+| Durango | 157 | 154 | congresodurango.gob.mx |
+| Aguascalientes | 153 | 153 | congresoags.gob.mx |
+| Puebla | 148 | 146 | ojp.puebla.gob.mx |
+| Chiapas | 144 | 144 | web.congresochiapas.gob.mx |
+| Morelos | 139 | 139 | marcojuridico.morelos.gob.mx |
+| Tamaulipas | 129 | 129 | congresotamaulipas.gob.mx |
+| Nayarit | 119 | 119 | congresonayarit.gob.mx |
+| Guanajuato | 118 | 116 | congresogto.gob.mx |
+| Querétaro | 111 | 111 | legislaturaqueretaro.gob.mx |
+| Michoacán | 97 | 97 | congresomich.gob.mx |
+| Tabasco | 49 | 49 | congresotabasco.gob.mx |
+| San Luis Potosí | 47 | 0 | ordenjuridico.gob.mx |
+| Zacatecas | 36 | 0 | ordenjuridico.gob.mx |
+| Sonora | 32 | 0 | ordenjuridico.gob.mx |
+| Quintana Roo | 27 | 27 | congresoqroo.gob.mx |
+| **Total** | **6690** | **4228** | |
+
+Los estados con 0 PDFs (Jalisco, Guerrero, Campeche, Colima, Coahuila, SLP, Zacatecas, Sonora)
+tienen catálogo de nombres via ordenjuridico.gob.mx pero sin URL de descarga directa.
+Se necesita encontrar sus portales legislativos o usar headless browser.
 
 ---
 
