@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — CHIHUAHUA
 
-_Generado: 2026-03-14 | Total: 176 documentos_
+_Generado: 2026-03-15 | Total: 176 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

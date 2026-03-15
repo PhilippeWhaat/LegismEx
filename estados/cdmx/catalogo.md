@@ -1,34 +1,186 @@
 # Catálogo de Leyes Vigentes — CDMX
 
-_Generado: 2026-03-14 | Total: 28 documentos_
+_Generado: 2026-03-15 | Total: 180 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
-| 1 | Constitución Política de la Ciudad de México | Ley |  | — |
-| 2 | Ley Orgánica del Congreso de la Ciudad de México | Ley |  | — |
-| 3 | Ley que Regula el Uso de Tecnología para la Seguridad Ciudadana de la CDMX | Ley |  | — |
-| 4 | Ley de Protección a la Salud de las Personas no Fumadoras de la Ciudad de México | Ley |  | — |
-| 5 | Ley de la Institución Descentralizada de Servicio Público “Servicio de Transportes Eléctricos de la Ciudad De México” | Ley |  | — |
-| 6 | Ley de Protección y Fomento al Empleo para la Ciudad de México | Ley |  | — |
-| 7 | Ley de Educación de la Ciudad de México | Ley |  | — |
-| 8 | Ley de Auditoría y Control Interno de la Administración Pública de la Ciudad de México | Ley |  | — |
-| 9 | Ley Orgánica del Instituto de Planeación Democrática y Prospectiva de la Ciudad de México | Ley |  | — |
-| 10 | Ley Ambiental de la Ciudad de México | Ley |  | — |
-| 11 | Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Distrito Federal | Ley |  | — |
-| 12 | Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México | Ley |  | — |
-| 13 | Ley de los Derechos de Niñas Niños y Adolescentes de la Ciudad de México | Ley |  | — |
-| 14 | Ley para el Reconocimiento y la Atención de las Personas LGBTTTI+ de la Ciudad de México | Ley |  | — |
-| 15 | Ley para la Celebración de Espectáculos Públicos de la Ciudad de México | Ley |  | — |
-| 16 | Ley Orgánica de Alcaldías de la Ciudad de México | Ley |  | — |
-| 17 | Ley de Vivienda para la Ciudad De México | Ley |  | — |
-| 18 | Ley de Seguridad Privada para la Ciudad de México | Ley |  | — |
-| 19 | Ley de Salud de la Ciudad De México | Ley |  | — |
-| 20 | Ley de Protección y Bienestar de los Animales de la Ciudad de México | Ley |  | — |
-| 21 | Ley de Mejoramiento Barrial y Comunitario de la Ciudad de México | Ley |  | — |
-| 22 | Ley de Fomento para la Lectura y El Libro de la Ciudad de México | Ley |  | — |
-| 23 | Ley de Entrega Recepción de los Recursos de la Administración Pública de la Ciudad de México | Ley |  | — |
-| 24 | Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México | Ley |  | — |
-| 25 | Ley de Ingresos de la Ciudad de México para el Ejercicio Fiscal 2025 | Ley |  | — |
-| 26 | Ley de Memoria de la Ciudad de México | Ley |  | — |
-| 27 | Ley del Derecho al Bienestar e Igualdad Social para la Ciudad de México | Ley |  | — |
-| 28 | Ley de Cultura Cívica de la Ciudad de México | Ley |  | — |
+| 1 | Constitución Política de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_QUE_REGULA_EL_USO_DELA_TECNOLOGA_PARA_LA_SEGURIDAD_CIUDADANA_DE_LA_CDMX_2.5.pdf) |
+| 2 | Ley Orgánica del Congreso de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_QUE_REGULA_EL_USO_DELA_TECNOLOGA_PARA_LA_SEGURIDAD_CIUDADANA_DE_LA_CDMX_2.5.pdf) |
+| 3 | Ley que Regula el Uso de Tecnología para la Seguridad Ciudadana de la CDMX | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_QUE_REGULA_EL_USO_DELA_TECNOLOGA_PARA_LA_SEGURIDAD_CIUDADANA_DE_LA_CDMX_2.5.pdf) |
+| 4 | Ley de Protección a la Salud de las Personas no Fumadoras de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/LEY_DE_PROTECCION_A_LA_SALUD_DE_LOS_NO_FUMADORES_2.3.pdf) |
+| 5 | Ley de la Institución Descentralizada de Servicio Público “Servicio de Transportes Eléctricos de la Ciudad De México” | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_DE_LA_INST_DESC_DEL_SERV_PUB_DEL_DF_SERV_DE_TRANSP_ELECTRICOS_3.2.pdf) |
+| 6 | Ley de Protección y Fomento al Empleo para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_PROTECCION_Y_FOMENTO_AL_EMPLEO_PARA_LA_CDMX_2.pdf) |
+| 7 | Ley de Educación de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/60326/LEY_DE_EDUCACION_DE_LA_CDMX_3.6.pdf) |
+| 8 | Ley de Auditoría y Control Interno de la Administración Pública de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_AUDITORIA_Y_CONTROL_INTERNO_DE_LA_ADMON_PUBLICA_DE_LA_CDMX_3.3.pdf) |
+| 9 | Ley Orgánica del Instituto de Planeación Democrática y Prospectiva de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_ ORG_DEL_INST_DE_PLANEACION_DEMOCRATICA _Y_PROSPECTIVA_DE_LA_CDMX_3.4.pdf) |
+| 10 | Ley Ambiental de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_AMBIENTAL_DE_LA_CDMX_1.2.pdf) |
+| 11 | Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx//images/leyes/leyes/LEYDPROTECCIONDEDATOSPERSONALESPARAELDISTRITOFEDERAL.pdf) |
+| 12 | Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_ACCESO_DE_LAS_MUJERES_A_UNA_VIDA_LIBRE_DE_VIOLENCIA_DE_LA_CDMX_12.4.pdf) |
+| 13 | Ley de los Derechos de Niñas Niños y Adolescentes de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DERECHOS_NINAS_NINOS_ADOLESCENTES_CDMX_7.3.pdf) |
+| 14 | Ley para el Reconocimiento y la Atención de las Personas LGBTTTI+ de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_PARA_RECONOCIMIENTO_Y_LA_ATENCION_DE_LAS_PERSONAS_LGBTTTI_DE_LA_CDMX_4.1.pdf) |
+| 15 | Ley para la Celebración de Espectáculos Públicos de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/Ley_para_la_Celebracion_de_Espectaculos_Publicos_de_la_CDMX_3.4.pdf) |
+| 16 | Ley Orgánica de Alcaldías de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_ORGANICA_DE_ALCALDIAS_DE_LA_CDMX_6.3.pdf) |
+| 17 | Ley de Vivienda para la Ciudad De México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_VIVIENDA_PARA_LA_CDMX_4.4.pdf) |
+| 18 | Ley de Seguridad Privada para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_SEGURIDAD_PRIVADA_PARA_EL_DF_2.2.pdf) |
+| 19 | Ley de Salud de la Ciudad De México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_DE_SALUD_DE_LA_CIUDAD_DE_MEXICO_3.7.pdf) |
+| 20 | Ley de Protección y Bienestar de los Animales de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_PROTECCION_Y_FOMENTO_AL_EMPLEO_PARA_LA_CDMX_2.pdf) |
+| 21 | Ley de Mejoramiento Barrial y Comunitario de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_MEJORAMIENTO_BARRIAL_Y_COMUNITARIO_DEL_DF_2.3.pdf) |
+| 22 | Ley de Fomento para la Lectura y El Libro de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_FOMENTO_PARA_LA_LECTURA_Y_EL_LIBRO_DE_LA_CIUDAD_DE_MEXICO_6.6.pdf) |
+| 23 | Ley de Entrega Recepción de los Recursos de la Administración Pública de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_ENTREGA_RECEPCION_DE_LOS_RECURSOS_DE_LA_ADMINISTRACION_PUBLICA_DE_LA_CDMX_2.2.pdf) |
+| 24 | Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_AUST_TRANSP_EN_REMUN_PREST_Y_EJERC_DE_REC_DE_LA_CIUDAD_DE_MEXICO_5.8.PDF) |
+| 25 | Ley de Ingresos de la Ciudad de México para el Ejercicio Fiscal 2025 | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_INGRESOS_2025.pdf) |
+| 26 | Ley de Memoria de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_MEMORIA_DE_LA_CDMX.pdf) |
+| 27 | Ley del Derecho al Bienestar e Igualdad Social para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_DERECHO_AL_BIENESTAR_.pdf) |
+| 28 | Ley de Cultura Cívica de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_DE_CULTURA_CIVICA_DE_LA_CIUDAD_DE_MEXICO_2.8.pdf) |
+| 29 | Ley de Responsabilidad Ambiental de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_RESPONSABILIDAD_AMBIENTAL_DE_LA_CDMX_1.pdf) |
+| 30 | Ley de Espacios Culturales Independientes de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ESPACIOS_CULTURALES_INDEPENDIENTES_DE_LA_CDMX_3.pdf) |
+| 31 | Ley de Economia Circular de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ECONOMIA_CIRCULAR_DE_LA_CDMX.pdf) |
+| 32 | Ley para Garantizar el Acceso Libre y Gratuito al Internet de la&nbsp;Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ACCESO_GRATUITO_INTERNET_CDMX_1.pdf) |
+| 33 | Ley de Publicidad Exterior de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PUBLICIDAD_EXTERIOR_DE_LA_CDMX_2.1.pdf) |
+| 34 | Ley Orgánica del Centro de Conciliación Laboral de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORGANICA_DEL_CENTRO_DE_CONCILIACION_LABORAL_DE_LA_CIUDAD_DE%20_MEXICO_1.4.pdf) |
+| 35 | Ley de Centros Penitenciarios de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_CENTROS_PENITENCIARIOS_DE_LA_CDMX_2.1.pdf) |
+| 36 | Ley de Participación Ciudadana de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PARTICIPACION_CIUDADANA_DE_LA_CDMX_4.2.pdf) |
+| 37 | Ley para Prevenir la Violencia en los Espectáculos Deportivos en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_PREVENIR_LA_VIOLENCIA_EN%20_LOS_ESPECTACULOS_DEPORTIVOS_EN_LA_CDMX_2.pdf) |
+| 38 | Ley de Evaluación de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_EVALUACION_DE_LA_CDMX_4.pdf) |
+| 39 | Ley de Declaración Especial de Ausencia para Personas Desaparecidas en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_DECLARACION_ESP_DE%20AUSENCIA_PARA_PERS_DESAPARECIDAS_EN_LA_CDMX_3.pdf) |
+| 40 | Ley para la Protección, Atención y Asistencia a las Vícitimas de los Delitos en Materia de Trata de Personas de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_ATN_DELITOS_TRATA_DE_PERSONAS_DE_LA_CDMX_4.pdf) |
+| 41 | Ley de Fomento Cultural de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_CULTURAL_DE_LA_CDMX_5.1.pdf) |
+| 42 | Ley de Reconocimiento de los Derechos de las Personas Mayores y del Sistema Integral para su Atención de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_REC_DERECHOS_PERSONAS_MAYORES_Y_DEL_SISTEMA_INT_PARA_SU_ATN_DE_LA_CDMX_5.1.pdf) |
+| 43 | Ley para la Atención, Visibilización e Inclusión Social de las personas con la condición del Espectro Autista de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_ATENCION_PERSONAS_ESPECTRO_AUTISTA_3.pdf) |
+| 44 | Ley de Huertos Urbanos de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_HUERTOS_URBANOS_DE_LA_CIUDAD_DE_MEXICO_3.3.pdf) |
+| 45 | Ley de Archivos de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ARCHIVOS_DE_LA_CDMX_2.1.pdf) |
+| 46 | Ley de Patrimonio Cultural, Natural y Biocultural de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PATRIMONIO_CULTURAL_NATURAL_Y_BIOCULTURAL_DE_LA_CIUDAD_DE_MEXICO_2.7.pdf) |
+| 47 | Ley del Secreto Profesional y Cláusula de Conciencia para el Ejercicio Periodístico en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_SECRETO_PROF_Y_CLAUS_DE_CONCIEN_EJERCICIO_PERIODISTICO_DE_LA_CDMX_2.1.pdf) |
+| 48 | Ley del Sistema Anticorrupción de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SISTEMA_ANTICORRUPCION_DE_LA_CIUDAD_DE_MEXICO_4.1.pdf) |
+| 49 | Ley de Responsabilidad Social Mercantil de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_RESP_%20SOC_%20MERCANTIL_DE%20LA%20CIUDAD%20DE%20MEXICO_2.4.pdf) |
+| 50 | Ley de Bibliotecas de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_BIBLIOTECAS_%20DE%20_LA%20_CIUDAD%20_DE%20_MEXICO_3.4.pdf) |
+| 51 | Ley Procesal Electoral de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PROCESAL_ELECTORAL_DE_LA_CDMX_5.3.pdf) |
+| 52 | Ley Orgánica de la Secretaría de Seguridad Ciudadana de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORGANICA_DE_LA_SSC_CDMX_7.pdf) |
+| 53 | Ley Orgánica de la Fiscalía General de Justicia de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORGANICA_DE_LA_FISCALIA_GENERAL_DE_JUSTICIA_DE_LA_CIUDAD_DE_MEXICO_7.1.pdf) |
+| 54 | Ley de Derechos de los Pueblos y Barrios Originarios y Comunidades Indígenas Residentes en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DERECHOS_DE_PUEBLOS_Y_BARRIOS_ORIGINARIOS_Y_COMUNIDADES_INDIGENAS_RESIDENTES_EN_LA_CDMX_2.4.pdf) |
+| 55 | Ley del Sistema de Planeación del Desarrollo de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_DEL_SISTEMA_DE_PLANEACION_DEL_DESARROLLO_DE_LA_CDMX_2.7.pdf) |
+| 56 | Ley por la que se crea el Banco de ADN para uso forense de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_BANCO_ADN_PARA_USO_FORENSE_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf) |
+| 57 | Ley de Ciudadanía Digital de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_CIUDADANIA_DIGITAL_DE_LA_CIUDAD_DE_MEXICO_2.3.pdf) |
+| 58 | Ley del Sistema Integral de Derechos Humanos de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SISTEMA_INTEGRAL_DE_DERECHOS_HUMANOS_CDMX_1.1.pdf) |
+| 59 | Ley del Territorio de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DEL_TERRITORIO_DE_LA_CIUDAD_DE_MEXICO_2.pdf) |
+| 60 | Ley de Búsqueda de Personas de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_BUSQUEDA_DE_PERSONAS_DE_LA_CDMX_2.4.pdf) |
+| 61 | Ley de Adquisiciones para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ADQUISICIONES_PARA_EL_DISTRITO_FEDERAL_2.2.pdf) |
+| 62 | Ley de Albergues Privados para Personas Adultas Mayores de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ALBERGUES_PRIVADOS_PARA_PERSONAS_ADULTAS_MAYORES_DEL_DF_3.1.pdf) |
+| 63 | Ley de Albergues Públicos y Privados para Niñas y Niños del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ALBERG_PUB_PRIV_NINAS_Y_NINOS_DF_2.3.pdf) |
+| 64 | Ley de Asistencia e Integración Social para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ASISTENCIA_E_INTEGRA_SOCIAL_DEL_DF_2.1.pdf) |
+| 65 | Ley de Atención Integral para el Desarrollo de las Niñas y Niños en Primera Infancia en el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ATN_INT_PARA_EL_DESARROLLO_DE_NINAS_YnINOS_EN_PRIMERA_INFANCIA_1.1.pdf) |
+| 66 | Ley de Atención Prioritaria para las Personas con Discapacidad y en Situación de Vulnerabilidad en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ATEN_PRIO_P_LAS_PERSONAS_CON_DISCA_Y_EN_SITUACION_DE_VULNE_EN_LA_CDMX_3.pdf) |
+| 67 | Ley de Atención y Apoyo a Víctimas Directas e Indirectas del Delito de Secuestro en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ATN_Y_APO_A_VICT_DEIN_SECUESTRO_2.1.pdf) |
+| 68 | Ley de Bebé Seguro de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_BEBE_SEGURO_DE_LA_CDMX_6.pdf) |
+| 69 | Ley de Comedores Sociales de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_COMEDORES_SOCIALES_DE_LA_CDMX_4.pdf) |
+| 70 | Ley Constitucional de Derechos Humanos y sus Garantías de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_CONSTITUCIONAL_DE_DERECHOS_HUMANOS_Y_SUS_GARANTIAS_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf) |
+| 71 | Ley de Cuidados Alternativos para Niñas, Niños y Adolescentes en el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_CUID_ALT_NINAS_NINOS_Y_ADOL_EN_EL_DF_3.pdf) |
+| 72 | Ley de Cunas de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_CUNAS_DE_LA_CDMX_3.pdf) |
+| 73 | Ley de Desarrollo Agropecuario Rural y Sustentable de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_DESARRLLO_AGROPECUARIO_RURAL_Y_SUSTENTABLE_DE_LA_CDMX_3.pdf) |
+| 74 | Ley de Coordinación Metropolitana de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_COORDINACION_METROPOLITANA_DE_LA_CIUDAD_DE_MEXICO_3.1.pdf) |
+| 75 | Ley de Desarrollo Urbano del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_DE_DESARROLLO_URBANO_DEL_DF_5.1.pdf) |
+| 76 | Ley de Educación Física y Deporte de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_EDUCACION_FISICA_Y_DEPORTE_DEL_DF_9.2.pdf) |
+| 77 | Ley de Ejecución de Sanciones Penales y Reinserción Social para Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_EJECUCION_DE_SANCIONES_PENALES_Y_REINSERCION_SOCIAL_PARA_EL_DF_2.pdf) |
+| 78 | Ley de Establecimientos Mercantiles para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ESTABLECIMIENTOS_MERCANTILES_PARA_LA_CDMX_5.4.pdf) |
+| 79 | Ley de Extinción de Dominio para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_EXTINCION_DE_DOMINIO_PARA_LA_CDMX_1.1.pdf) |
+| 80 | Ley de Filmaciones de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FILMACIONES_DE_LA_CIUDAD_DE_MEXICO_3.1.pdf) |
+| 81 | Ley de Fiscalización Superior de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FISCALIZACION_SUPERIOR_DE_LA_CDMX_2.pdf) |
+| 82 | Ley de Fomento a las Actividades de Desarrollo Social de las Organizaciones Civiles para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_A_LAS_ACTI_DE_DESARROLLO_SOCIAL_DE_LAS_ORNG_CIVILES_PARA_EL_DF_2.3.pdf) |
+| 83 | Ley de Fomento al Cine Mexicano de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_AL_CINE_MEXICANO_DE_LA_CDMX_2.3.pdf) |
+| 84 | Ley de Fomento Cooperativo para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_COOPERATIVO_PARA_EL_DF_4.pdf) |
+| 85 | Ley de Fomento de Procesos Productivos Eficientes para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_DE_PROCESOS_PRODUCTIVOS_EFICIENTES_PARA_EL_DF_4.1.pdf) |
+| 86 | Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_GESTION_INTEGRAL_DE_RIESGOS_Y_PROTECCION_CIVIL_DE_LA_CDMX_4.pdf) |
+| 87 | Ley de Igualdad Sustantiva entre Hombres y Mujeres en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_IGUALDAD_SUSTANTIVA_ENTRE_M_Y_H_EN_LA_CDMX_3.9.pdf) |
+| 88 | Ley de Instituciones de Asistencia Privada para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_INSTITUCIONES_DE_ASISTENCIA_PRIVADA_PARA_EL_DF_3.2.pdf) |
+| 89 | Ley de Interculturalidad Atención a Migrantes y Movilidad Humana en el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_INTERCULTURALIDAD_ATENCION_A_MIGRANTES_Y_MOVILIDAD_HUMANA_EN_EL_DF_2.1.pdf) |
+| 90 | Ley de Justicia Administrativa de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_%20DE_JUSTICIA_ADMINISTRATIVA_DE_LA_CDMX_3.1.pdf) |
+| 91 | Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_JUSTICIA_ALTERNATIVA_DEL_TRIBUNAL_SUPERIOR_DE_JUSTICIA_PARA_EL_DF_2.1.pdf) |
+| 92 | Ley de Justicia Alternativa en la Procuración de Justicia para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_JUSTICIA_ALTERNATIVA_DEL_TRIBUNAL_SUPERIOR_DE_JUSTICIA_PARA_EL_DF_2.1.pdf) |
+| 93 | Ley de Justicia para Adolescentes para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_JUSTICIA_PARA_ADOLESCENTES_PARA_EL_DF_2.1.pdf) |
+| 94 | Ley de Mejora Regulatoria para la Ciudad de México. | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_MEJORA_REGULATORIA_PARA_LA_CIUDAD_DE_MEXICO_3.4.pdf) |
+| 95 | Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_MITIGACION_Y_ADAPTACION_AL_CAMBIO_CLIMATICO_Y_DESARROLLO_SUSTENTABLE_DE_LA_CDMX_6.3.pdf) |
+| 96 | Ley de Movilidad de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_MOVILIDAD_DE_LA_CDMX_3.2.pdf) |
+| 97 | Ley de Obras Públicas de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_OBRAS_PUBLICAS_DEL_DF_3.1.pdf) |
+| 98 | Ley de Operación e Innovación Digital para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_OPERACION_E_INNOVACION_DIGITAL_PARA_LA_CIUDAD_DE_MEXICO_3.1.pdf) |
+| 99 | Ley de Planeación Demográfica y Estadística para la Población del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PLANEACION_DEMOGRAFICA_Y_ESTADISTICA_PARA_LA_POBLACION_DEL_DF_2.1.pdf) |
+| 100 | Ley de Prestación de Servicios Inmobiliarios del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PRESTACION_DE_SERVICIOS_INMOBILIARIOS_DEL_DF_2.1.pdf) |
+| 101 | Ley de Prevención Social del Delito y la Violencia de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PREVENCION_SOCIAL_DEL_DELITO_Y_LA_VIOLENCIA_DE_LA_CDMX_2.3.pdf) |
+| 102 | Ley de Procedimiento Administrativo de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PROCEDIMIENTO_ADMINISTRATIVO_DE_LA_CDMX_1.1.pdf) |
+| 103 | Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PROPIEDAD_EN_CONDOMINIO_DE_INMUEBLES_PARA_EL_DF_4.pdf) |
+| 104 | Ley de Residuos Sólidos de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_RESIDUOS_SOLIDOS_DE_LA_CDMX_8.1.pdf) |
+| 105 | Ley de Responsabilidades Administrativas de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_DE_RESPONSABILIDADES_ADMINISTRATIVAS_DE_LA_CDMX_3.1.pdf) |
+| 106 | Ley de Responsabilidad Civil para la Protección del Derecho a la Vida Privada el Honor y la Propia Imagen en el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_DE_RESPONSABILIDADES_ADMINISTRATIVAS_DE_LA_CDMX_3.1.pdf) |
+| 107 | Ley de Responsabilidad Patrimonial del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_DE_RESPONSABILIDADES_ADMINISTRATIVAS_DE_LA_CDMX_3.1.pdf) |
+| 108 | Ley de Salud Mental del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SALUD_MENTAL_DEL_DF_2.1.pdf) |
+| 109 | Ley de Seguridad Alimentaria y Nutricional para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SEGURIDAD_ALIMENTARIA_Y_NUTRICIONAL_PARA_EL_DF_2.1.pdf) |
+| 110 | Ley de Seguridad Privada para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SEGURIDAD_PRIVADA_PARA_EL_DF_2.1.pdf) |
+| 111 | Ley de Sociedad de Convivencia para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SOCIEDAD_DE_CONVIVENCIA_PARA_LA_CDMX_2.1.pdf) |
+| 112 | Ley de Sociedades Mutualistas de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SOCIEDADES_MUTUALISTAS_DE_LA_CDMX_3.1.pdf) |
+| 113 | Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_TRANSPARENCIA_ACCESO_A_LA_INFORMACION_PUBLICA_Y_RENDICION_DE_CUENTAS_DE_LA_CDMX_5.1.pdf) |
+| 114 | Ley de Turismo de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_TURISMO_DE_LA_CIUDAD_DE_MEXICO_1.2.pdf) |
+| 115 | Ley de Víctimas para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_VICTIMAS_PARA_LA_CDMX_5.pdf) |
+| 116 | Ley de Voluntad Anticipada para Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_VOLUNTAD_ANTICIPADA_PARA_EL_DF_2.1.pdf) |
+| 117 | Ley del Derecho al Acceso, Disposición y Saneamiento del Agua de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DERECHO_ACC_DISP_Y_SANEAMIENTO_DEL%20AGUA_DE_LA_CIUDAD_DE_MEXICO_4.1.pdf) |
+| 118 | Ley del Fondo de Apoyo a la Administración de Justicia en el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_FONDO_DE_APOYO_A_LA_ADM_DE_JUSTICIA_EN_EL_DF_2.6.pdf) |
+| 119 | Ley del Fondo de Apoyo a la Procuración de Justicia en el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_FONDO_DE_APOYO_A_LA_ADM_DE_JUSTICIA_EN_EL_DF_2.6.pdf) |
+| 120 | Ley del Heróico Cuerpo de Bomberos del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_HEROICO_CUERPO_DE_BOMBEROS_DEL_DF_2.3.pdf) |
+| 121 | Ley del Instituto de Estudios Científicos para la Prevención del Delito en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_INSTI_DE_ESTUDIOS_CIENTIFICOS_PARA_LA_PREV_DEL_DELITO_EN_LA_CDMX_2.1.pdf) |
+| 122 | Ley del Instituto de Verificación Administrativa de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_INSTI_DE_ESTUDIOS_CIENTIFICOS_PARA_LA_PREV_DEL_DELITO_EN_LA_CDMX_2.1.pdf) |
+| 123 | Ley del Instituto para la Seguridad de las Construcciones de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_INST_PARA_LA_SEG_DE_LAS_CONSTRUCCIONES_DE LA_CDMX_3.2.pdf) |
+| 124 | Ley del Notariado para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/50226/LEY_DEL_NOTARIADO_PARA_LA_CIUDAD_DE_MEXICO_1.4.pdf) |
+| 125 | Ley del Programa de Derechos Humanos del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_PROGRAMA_DE_DERECHOS_HUMANOS_DEL_DF_2.pdf) |
+| 126 | Ley del Régimen Patrimonial y del Servicio Público | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_REGIMEN_PATRIMONIAL_Y_DEL_SERVICIO_PUBLICO_8.pdf) |
+| 127 | Ley del Seguro Educativo para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SEGURO_EDUCATIVO_PARA_EL_DF_4.pdf) |
+| 128 | Ley del Servicio Público de Carrera de la Administración Publica de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SERVICIO_PUBLICO_DE_CARRERA_DE_LA_ADM_PUB_DE_LA_CDMX_2.4.pdf) |
+| 129 | Ley del Sistema de Alerta Social de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SISTEMA_DE_ALERTA_SOCIAL_DE_LA_CDMX_2.5.pdf) |
+| 130 | Ley del Sistema de Seguridad Ciudadana de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SISTEMA_DE_SEGURIDAD_CIUDADANA_DE_LA_CDMX_10.1.pdf) |
+| 131 | Ley del Sistema Público de Radiodifusión para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SISTEMA_PUBLICO_DE_RADIODIFUSION_DE_LA_CIUDAD_DE_MEXICO_2.2.pdf) |
+| 132 | Ley de la Accesibilidad para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ACCESIBILIDAD_PARA_LA_CDMX_3.2.pdf) |
+| 133 | Ley de la Caja de Previsión de la Policía Preventiva del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LA_CAJA_DE_PREVISION_DE_LA_POLICIA_PREVENTIVA_DEL_DF_3.pdf) |
+| 134 | Ley de la Defensoría Pública del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DELA_DEFENSORIA_PUBLICA_DEL_DF_5.1.pdf) |
+| 135 | Ley de la Infraestructura Física Educativa de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_INFRAESTRUCTURA_FISICA_EDUCATIVA_DE_LA_CDMX_2.4.pdf) |
+| 136 | Ley de la Institución Decentralizada de Servicio Público "Servicio de Transportes Eléctricos del Distrito Federal" | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LA_INST_DESC_DEL_SERV_PUB_DEL_DF_SERV_DE_TRANSP_ELECTRICOS_3.1.pdf) |
+| 137 | Ley de la Procuraduría Social de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LA_PROCURADURIA_SOCIAL_DE_LA_CDMX_3.2.pdf) |
+| 138 | Ley de la Unidad de Cuenta de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_UNIDAD_DE_CUENTA_DE_LA_CDMX_2.3.pdf) |
+| 139 | Ley de la Universidad Autónoma de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LA_UNIVERSIDAD_AUTONOMA_DE_LA_CDMX_2.2.pdf) |
+| 140 | Ley de la Sala Constitucional del Poder Judicial de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LA_SALA_CONSTITUCIONAL_DEL_PODER_JUDICIAL_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf) |
+| 141 | Ley de los Derechos Culturales de los Habitantes y Visitantes de la Ciudad de México. | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LOS_DERECHOS_CULTURALES_DE_LOS_HABITANTES_Y_VISITANTES_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf) |
+| 142 | Ley de los Derechos de las Personas Mayores de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LOS_DERECHOS_CULTURALES_DE_LOS_HABITANTES_Y_VISITANTES_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf) |
+| 143 | Ley de los Derechos de las Personas Jóvenes en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LOS_DERECHOS_CULTURALES_DE_LOS_HABITANTES_Y_VISITANTES_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf) |
+| 144 | Ley Orgánica del Consejo Económico, Social y Ambiental de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_ORGNICA_DEL_CONSEJO_ECONMICO_SOCIAL_Y_AMBIENTAL_CDMX_5.4.pdf) |
+| 145 | Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_ORGANICA_DEL_PODER_EJECUTIVO_Y_DE_LA_ADMINISTRACION_PUBLICA_DE_LA_CDMX_7.1.pdf) |
+| 146 | Ley Orgánica del Poder Judicial de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_ORGANICA_DEL_PODER_EJECUTIVO_Y_DE_LA_ADMINISTRACION_PUBLICA_DE_LA_CDMX_7.1.pdf) |
+| 147 | Ley Orgánica del Tribunal de Justicia Administrativa de la Ciudad de &nbsp;México. | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/Ley_Org_TJACDMX_2.1.pdf) |
+| 148 | Ley Orgánica de la Comisión de Derechos Humanos de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/Ley_Organica_de_la_CDHCDMX_1.3.pdf) |
+| 149 | Ley Orgánica de la Escuela de Administración Pública de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORGANICA_DE_LA_ESCUELA_DE_ADM_PUBLICA_DE%20LA%20_CDMX_1.2.pdf) |
+| 150 | Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORG_FISCALIA_ESPECIAL_EN_COMBATE_A_LA_CORRUPCION_1.2.pdf) |
+| 151 | Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORGANICA_DE_LA_PAOT_DE_LA_CDMX_3.2.pdf) |
+| 152 | Ley Ogánica de la Sala Constitucional del Poder Judicial de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORG_SALA_CONSTITUCIONAL_DEL_PJCDMX_2.1.pdf) |
+| 153 | Ley para el Desarrollo Económico de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_PARA_EL_DESARROLLO_ECONOMICO_DE_LA_CDMX_1.1.pdf) |
+| 154 | Ley para el Desarrollo del Distrito Federal como Ciudad Digital y del Conocimiento | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_PARA_EL_DESARROLLO_ECONOMICO_DE_LA_CDMX_1.1.pdf) |
+| 155 | Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_PARA_EL_DESARROLLO_ECONOMICO_DE_LA_CDMX_1.1.pdf) |
+| 156 | Ley Para la Atención Integral del Cáncer de Mama del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_ATENCION_INTEGRAL_DELcANCER_DE_MAMA_DEL_DF_2.3.pdf) |
+| 157 | Ley para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_ATENCION_INTEGRAL_DELcANCER_DE_MAMA_DEL_DF_2.3.pdf) |
+| 158 | Ley para la Atención Integral de las Personas con Síndrome de Down de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_ATENCION_INTEGRAL_DELcANCER_DE_MAMA_DEL_DF_2.3.pdf) |
+| 159 | Ley para la Donación Altruista de Alimentos de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/Ley_para_la_Donacion_Altruista_de_Alimentos_2.4.pdf) |
+| 160 | Ley para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_INT_AL_DESA_DE_LAS_PERS_CON_DISCAPACIDAD_DEL_DF_6.4.pdf) |
+| 161 | Ley para la Prevención, Tratamiento y Control de la Diabetes en el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARALA_PREV_TRAT_Y_CONTROL_DE_LA_DIABETES_EN_EL_DF_2.pdf) |
+| 162 | Ley para la Prevención y Atención Integral del VIH/SIDA del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARALA_PREV_TRAT_Y_CONTROL_DE_LA_DIABETES_EN_EL_DF_2.pdf) |
+| 163 | Ley para la Prevención y el Tratamiento de la Obesidad y los Transtornos Alimenticios en el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARALA_PREV_TRAT_Y_CONTROL_DE_LA_DIABETES_EN_EL_DF_2.pdf) |
+| 164 | Ley para Prevenir, Eliminar y Sancionar la Desaparición Forzada de Personas y la Desaparición por Particulares en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_PREV_ELIM_Y_SANC_LA_DESAP_FORZADA_Y_LA_DESAP_POR_PART_EN_LA_CDMX_2.pdf) |
+| 165 | Ley para Prevenir la Violencia en los Espectáculos Deportivos en el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_PREV_LA_VIOLENCIA_EN_LOS_ESP_DEPORT_DEL_DF_2.pdf) |
+| 166 | Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_PREVENIR_Y_ELIMINAR_LA_DISCRIMINACION_DE_LA_CDMX_5.1.pdf) |
+| 167 | Ley para la Promoción de la Convivencia Libre de Violencia en el Entorno Escolar de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_PROMOCION_DE_LA_CONVIVENCIA_LIBRE_DE_VIOLENCIA_EN_EL_ENTORNO_ESCOLAR_DE_LA_CIUDAD_DE_MEXICO_2.3.pdf) |
+| 168 | Ley para la Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PROT_INT_PERSONAS_DDH_Y_PERIODISTAS_DF_3.1.pdf) |
+| 169 | Ley para la Reconstrucción Integral de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_RECONSTRUCCION_INTEGRAL_DE_LA_CIUDAD_DE_MEXICO_6.1 2.pdf) |
+| 170 | Ley para la Retribución por la Protección de los Servicios Ambientales del Suelo de Conservación de la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_RET_POR_SERV_AMB_EN_SUELO_DE_CONSERV_3.1.pdf) |
+| 171 | Ley que Crea el Consejo para la Prevención y la Atención Integral del VIH-SIDA del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_QUE_CREA_ELcONSEJO_PARA_LA_PREV_Y_ATN_INT_DEL_VIH_SIDA_DEL_DF_1.1.pdf) |
+| 172 | Ley que establece el Derecho a la Pensión para el Bienestar de las Personas Mayores, Residentes en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PENSION_PARA_EL_BIENESTAR_PERSONAS_MAYORES_2.1.pdf) |
+| 173 | Ley que Establece el Derecho a Recibir Información para la Prevención de Enfermedades Bucodentales, además de un Paquete de Salud Bucodental por Ciclo Escolar para todos los Alumnos Residentes e Inscritos en Escuelas Públicas de los Niveles Preescolar y Primaria en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PENSION_PARA_EL_BIENESTAR_PERSONAS_MAYORES_2.1.pdf) |
+| 174 | Ley que Establece el Derecho a Recibir un Apoyo Alimentario a las Madres Solas de Escasos Recursos Residentes en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PENSION_PARA_EL_BIENESTAR_PERSONAS_MAYORES_2.1.pdf) |
+| 175 | Ley que Establece el Derecho al Acceso Gratuito a los Servicios Médicos y Medicamentos a las Personas Residentes en el Distrito Federal que Cerecen de Seguridad Social Laboral | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PENSION_PARA_EL_BIENESTAR_PERSONAS_MAYORES_2.1.pdf) |
+| 176 | Ley que Establece el Procedimiento de Remoción de los Servidores Públicos que Designa la Asamblea Legislativa del Distrito Federal y de los Titulares de los Órganos Político-Administrativos del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PENSION_PARA_EL_BIENESTAR_PERSONAS_MAYORES_2.1.pdf) |
+| 177 | Ley que Extingue la Pretensión Punitiva y la Potestad de Ejercer Penas y Medidas de Seguridad contra todas aquellas Ciudadanas y Ciudadanos a quienes se le Imputaron Delitos Durante la Celebración de Manifestaciones en la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_QUE_EXTINGUE_LA_PRETENSION_PUNITIVA_MARCHAS_1.1.pdf) |
+| 178 | Ley que Regula el Funcionamiento de los Centros de Atención y Cuidado Infantil para el Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_REGULA_FUNCIONAMIENTO_DE_LOS_CACI_DEL_DF_1.3.pdf) |
+| 179 | Ley que Regula el Uso de la Fuerza de los Cuerpos de Seguridad Pública del Distrito Federal | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_REGULA_USO_DE_LA_FUERZA_PUBLICA_DF_1.1.pdf) |
+| 180 | Ley Registral para la Ciudad de México | Ley |  | [PDF](https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_REGISTRAL_PARA_LA_CDMX_2.4.pdf) |
