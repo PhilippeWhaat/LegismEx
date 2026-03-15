@@ -1,0 +1,1662 @@
+[
+  {
+    "id": "coahuila_constitucion_politica_estados_unidos_mexicanos",
+    "nombre": "Constitución Política de los Estados Unidos Mexicanos",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa00.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_constitucion_politica_coahuila_zaragoza",
+    "nombre": "Constitución Política del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa01.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_codigo_civil_coahuila_zaragoza",
+    "nombre": "Código Civil para el Estado de Coahuila de Zaragoza",
+    "tipo": "Código",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa02.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_codigo_procedimientos_penales_coahuila_zaragoza",
+    "nombre": "Código de Procedimientos Penales del Estado de Coahuila de Zaragoza",
+    "tipo": "Código",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa04.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_codigo_electoral_coahuila_zaragoza",
+    "nombre": "Código Electoral del Estado de Coahuila de Zaragoza",
+    "tipo": "Código",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa163.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_codigo_financiero_coahuila_zaragoza",
+    "nombre": "Código Financiero para los Municipios del Estado de Coahuila de Zaragoza",
+    "tipo": "Código",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa97.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_codigo_fiscal_coahuila_zaragoza",
+    "nombre": "Código Fiscal para el Estado de Coahuila de Zaragoza",
+    "tipo": "Código",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa06.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_codigo_municipal_coahuila_zaragoza",
+    "nombre": "Código Municipal para el Estado de Coahuila de Zaragoza",
+    "tipo": "Código",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa07.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_codigo_penal_coahuila_zaragoza",
+    "nombre": "Código Penal del Estado de Coahuila de Zaragoza",
+    "tipo": "Código",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa08.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_codigo_procesal_civil_coahuila_zaragoza",
+    "nombre": "Código Procesal Civil para el Estado de Coahuila de Zaragoza",
+    "tipo": "Código",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa03.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_estatuto_juridico_trabajadores_servicio_coahuila",
+    "nombre": "Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa09.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_estatuto_juridico_trabajadores_educacion_servicio",
+    "nombre": "Estatuto Jurídico para los Trabajadores de la Educación al Servicio del Estado y de los Municipios",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa10.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_apicola_coahuila_zaragoza",
+    "nombre": "Ley Apícola para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa11.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_acceso_a_informacion_publica_proteccion",
+    "nombre": "Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa160.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_acceso_mujeres_a_vida_libre",
+    "nombre": "Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa158.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_adquisiciones_arrendamientos_contratacion_servicios_coahuila",
+    "nombre": "Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa12.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_aguas_coahuila_zaragoza",
+    "nombre": "Ley de Aguas para los Municipios del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa166.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_aparceria_rural",
+    "nombre": "Ley de Aparcería Rural",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa13.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_archivos_publicos_coahuila_zaragoza",
+    "nombre": "Ley de Archivos Públicos para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa146.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_asentamientos_humanos_desarrollo_urbano_coahuila",
+    "nombre": "Ley de Asentamientos Humanos y Desarrollo Urbano del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa14.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_asistencia_social_proteccion_derechos_coahuila",
+    "nombre": "Ley de Asistencia Social y Protección de Derechos del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa176.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_camaras_agricultores_ganaderos_coahuila_zaragoza",
+    "nombre": "Ley de Cámaras de Agricultores y Ganaderos del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa16.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_camaras_propiedad_urbana_coahuila_zaragoza",
+    "nombre": "Ley de Cámaras de la Propiedad Urbana para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa17.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_condecoraciones_reconocimientos_valor_honor_integrantes",
+    "nombre": "Ley de Condecoraciones y Reconocimientos al Valor y Honor de los Integrantes de las Fuerzas de Seguridad Pública del Estado de Coahuila de Zaragoza y sus Municipios",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa190.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_cooperacion_obras_publicas_coahuila_zaragoza",
+    "nombre": "Ley de Cooperación para Obras Públicas del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa18.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_coordinacion_fiscal_coahuila",
+    "nombre": "Ley de Coordinación Fiscal del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa155.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_cultura_fisica_deporte_coahuila_zaragoza",
+    "nombre": "Ley de Cultura Física y Deporte del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa164.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_desarrollo_cultural_coahuila_zaragoza",
+    "nombre": "Ley de Desarrollo Cultural para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa126.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_desarrollo_social_coahuila",
+    "nombre": "Ley de Desarrollo Social para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa142.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_deuda_publica_coahuila_zaragoza",
+    "nombre": "Ley de Deuda Pública para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa20.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ejecucion_sanciones_penales_reinsercion_social",
+    "nombre": "Ley de Ejecución de Sanciones Penales y Reinserción Social para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa186.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_entidades_paraestatales_coahuila_zaragoza",
+    "nombre": "Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa185.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_entregarecepcion_coahuila_zaragoza",
+    "nombre": "Ley de Entrega-Recepción del Estado y Municipios de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa127.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_expropiacion_ocupacion_temporal_limitacion_dominio",
+    "nombre": "Ley de Expropiación, Ocupación Temporal, Limitación de Dominio y Servidumbre Administrativa por causas de utilidad Pública para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa145.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_extincion_dominio_coahuila_zaragoza",
+    "nombre": "Ley de Extinción de Dominio del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa196.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_filmaciones_coahuila_zaragoza",
+    "nombre": "Ley de Filmaciones del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa199.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_fiscalizacion_superior_coahuila_zaragoza",
+    "nombre": "Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa189.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_fomento_a_lectura_libro_coahuila",
+    "nombre": "Ley de Fomento a la Lectura y el Libro para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa173.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_fomento_ahorro_servidores_publicos_coahuila",
+    "nombre": "Ley de Fomento al Ahorro de los Servidores Públicos del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa156.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_fomento_uso_racional_energia_coahuila",
+    "nombre": "Ley de Fomento al Uso Racional de la Energía para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa149.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_fomento_cooperativo_coahuila_zaragoza",
+    "nombre": "Ley de Fomento Cooperativo del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa178.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_fomento_economico_coahuila_zaragoza",
+    "nombre": "Ley de Fomento Económico del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa115.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_fomento_ganadero_coahuila",
+    "nombre": "Ley de Fomento Ganadero para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa24.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_hacienda_coahuila_zaragoza",
+    "nombre": "Ley de Hacienda para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa25.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_igualdad_entre_mujeres_hombres_coahuila",
+    "nombre": "Ley de Igualdad entre Mujeres y Hombres en el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa194.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_ejercicio_fiscal_2004",
+    "nombre": "Ley de Ingresos del Estado para el Ejercicio Fiscal del 2004",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9304.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_ejercicio_fiscal_2005",
+    "nombre": "Ley de Ingresos del Estado para el Ejercicio Fiscal del 2005",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9305.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_ejercicio_fiscal_2006",
+    "nombre": "Ley de Ingresos del Estado para el Ejercicio Fiscal del 2006",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9306.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_ejercicio_fiscal_2007",
+    "nombre": "Ley de Ingresos del Estado para el Ejercicio Fiscal del 2007",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9307.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_ejercicio_fiscal_2008",
+    "nombre": "Ley de Ingresos del Estado para el Ejercicio Fiscal del 2008",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9308.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_ejercicio_fiscal_2009",
+    "nombre": "Ley de Ingresos del Estado para el Ejercicio Fiscal del 2009",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9309.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_ejercicio_fiscal_2010",
+    "nombre": "Ley de Ingresos del Estado para el Ejercicio Fiscal del 2010",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9310.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_ejercicio_fiscal_2011",
+    "nombre": "Ley de Ingresos del Estado para el Ejercicio Fiscal del 2011",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9311.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_ejercicio_fiscal_2012",
+    "nombre": "Ley de Ingresos del Estado para el Ejercicio Fiscal del 2012",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9312.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_ejercicio_fiscal_2013",
+    "nombre": "Ley de Ingresos del Estado para el Ejercicio Fiscal del 2013",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9313.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_ingresos_coahula_zaragoza_ejercicio_fiscal",
+    "nombre": "Ley de Ingresos para el Estado de Coahula de Zaragoza, para el Ejercicio Fiscal 2014",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa9314.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_instituciones_asociaciones_beneficencia_privada_coahuila",
+    "nombre": "Ley de Instituciones y Asociaciones de Beneficencia Privada para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa141.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_justicia_constitucional_local_coahuila_zaragoza",
+    "nombre": "Ley de Justicia Constitucional Local para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa132.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_justicia_adolescentes_coahuila_zaragoza",
+    "nombre": "Ley de Justicia para Adolescentes del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa138.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_administracion_fiscal_general_coahuila_zaragoza",
+    "nombre": "Ley de la Administración Fiscal General del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa177.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_comision_coahuilense_conciliacion_arbitraje_medico",
+    "nombre": "Ley de la Comisión Coahuilense de Conciliación y Arbitraje Médico para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa124.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_comision_derechos_humanos_coahuila_zaragoza",
+    "nombre": "Ley de la Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa55.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_defensoria_juridica_integral_coahuila",
+    "nombre": "Ley de la Defensoria Jurídica Integral para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa154.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_promotora_desarrollo_rural_coahuila",
+    "nombre": "Ley de la Promotora para el Desarrollo Rural de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa108.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_personas_adultas_mayores_coahuila_zaragoza",
+    "nombre": "Ley de las Personas Adultas Mayores para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa130.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_medios_alternos_solucion_controversias_coahuila",
+    "nombre": "Ley de Medios Alternos de Solución de Controversias para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa133.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_medios_impugnacion_materia_politicoelectoral_participacion",
+    "nombre": "Ley de Medios de Impugnación en Materia Político-Electoral y de Participación Ciudadana para el Estado",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa110.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_mejora_regulatoria_coahuila_zaragoza",
+    "nombre": "Ley de Mejora Regulatoria del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa193.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_obras_publicas_servicios_relacionados_mismas",
+    "nombre": "Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa28.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_participacion_ciudadana_coahuila_zaragoza",
+    "nombre": "Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa112.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_pensiones_otros_beneficios_sociales_trabajadores",
+    "nombre": "Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa29.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_planeacion_desarrollo_coahuila_zaragoza",
+    "nombre": "Ley de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa31.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_poblacion_desarrollo_municipal_coahuila_zaragoza",
+    "nombre": "Ley de Población y Desarrollo Municipal para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa151.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_prevencion_asistencia_atencion_violencia_familiar",
+    "nombre": "Ley de Prevención, Asistencia y Atención de la Violencia Familiar",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa116.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_procedimiento_administrativo_coahuila_zaragoza",
+    "nombre": "Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa150.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_procuracion_justicia_coahuila_zaragoza",
+    "nombre": "Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa157.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_profesiones_coahuila_zaragoza",
+    "nombre": "Ley de Profesiones para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa99.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_proteccion_a_maternidad_coahuila",
+    "nombre": "Ley de Protección a la Maternidad en el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa161.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_proteccion_civil_coahuila_zaragoza",
+    "nombre": "Ley de Protección Civil para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa34.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_proteccion_trato_digno_a_animales",
+    "nombre": "Ley de Protección y Trato Digno a los Animales para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa197.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_proyectos_prestacion_servicios_coahuila",
+    "nombre": "Ley de Proyectos para Prestación de Servicios del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa152.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_responsabilidades_servidores_publicos_estatales_municipales",
+    "nombre": "Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa35.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_sociedades_mutualistas_coahuila_zaragoza",
+    "nombre": "Ley de Sociedades Mutualistas del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa37.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_transito_transporte_coahuila_zaragoza",
+    "nombre": "Ley de Tránsito y Transporte del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa38.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_turismo_coahuila_zaragoza",
+    "nombre": "Ley de Turismo para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa165.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_vida_silvestre_coahuila",
+    "nombre": "Ley de Vida Silvestre para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa181.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_vivienda_coahuila_zaragoza",
+    "nombre": "Ley de Vivienda para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa172.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_colegio_coahuilense_investigaciones_histoacutericas",
+    "nombre": "Ley del Colegio Coahuilense de Investigaciones Hist&oacute;ricas",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa40.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_equilibrio_ecoloacutegico_proteccioacuten_ambiente_coahuila",
+    "nombre": "Ley del Equilibrio Ecol&oacute;gico y la Protecci&oacute;n al Ambiente del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa67.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_fondo_vivienda_trabajadores_educacioacuten_servicio",
+    "nombre": "Ley del Fondo de la Vivienda para los Trabajadores de la Educaci&oacute;n al Servicio del Estado de Coahuila de Zaragoza y sus Municipios",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa41.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_impuesto_sobre_produccion_transformacion_alcohol",
+    "nombre": "Ley del Impuesto Sobre la Producción y Transformación de Alcohol y de Bebidas Alcohólicas en el Estado",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa43.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_instituto_coahuilense_acceso_a_informacion",
+    "nombre": "Ley del Instituto Coahuilense de Acceso a la Información Pública",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa121.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_instituto_coahuilense_personas_adultas_mayores",
+    "nombre": "Ley del Instituto Coahuilense de las Personas Adultas Mayores",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa113.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_instituto_becas_apoyos_financieros_educacion",
+    "nombre": "Ley del Instituto de Becas y Apoyos Financieros para la Educación del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa106.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_instituto_estatal_defensoria_publica_coahuila",
+    "nombre": "Ley del Instituto Estatal de Defensoría Pública de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa191.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_notariado_coahuila_zaragoza",
+    "nombre": "Ley del Notariado del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa44.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_registro_civil_coahuila_zaragoza",
+    "nombre": "Ley del Registro Civil para el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa118.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_seguro_trabajadores_educacion",
+    "nombre": "Ley del Seguro de los Trabajadores de la Educación",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa46.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_servicio_medico_trabajadores_educacion_coahuila",
+    "nombre": "Ley del Servicio Médico para los Trabajadores de la Educación del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa47.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_sistema_informacion_estadistica_geografica_coahuila",
+    "nombre": "Ley del Sistema de Información Estadística y Geográfica del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa169.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_sistema_seguridad_publica_coahuila_zaragoza",
+    "nombre": "Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa168.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_estatal_educacion",
+    "nombre": "Ley Estatal de Educación",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa49.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_estatal_salud",
+    "nombre": "Ley Estatal de Salud",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa50.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_forestal_coahuila_zaragoza",
+    "nombre": "Ley Forestal del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa139.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_general_bienes_coahuila",
+    "nombre": "Ley General de Bienes del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa51.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_general_catastro_informacion_territorial_coahuila",
+    "nombre": "Ley General del Catastro y la Información Territorial para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa53.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_organica_administracion_publica_coahuila_zaragoza",
+    "nombre": "Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa54.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_organica_procuraduria_general_justicia_coahuila",
+    "nombre": "Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa192.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_organica_universidad_autonoma_coahuila",
+    "nombre": "Ley Orgánica de la Universidad Autónoma de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa59.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_organica_congreso_independiente_libre_soberano",
+    "nombre": "Ley Orgánica del Congreso del Estado Independiente, Libre y Soberano de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa60.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_organica_organismo_publico_descentralizado_administracion",
+    "nombre": "Ley Orgánica del Organismo Público Descentralizado de la Administración Municipal Denominado \"Dirección de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Municipio de Saltillo",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa101.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_organica_poder_judicial_coahuila_zaragoza",
+    "nombre": "Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa61.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_combatir_ruido_coahuila_zaragoza",
+    "nombre": "Ley para Combatir el Ruido en el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa182.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_desarrollo_e_inclusion_personas_discapacidad",
+    "nombre": "Ley para el Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa195.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_fomento_desarrollo_fruticultura_coahuila",
+    "nombre": "Ley para el Fomento y Desarrollo de la Fruticultura en el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa140.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_funcionamiento_juntas_mejoras_materiales",
+    "nombre": "Ley para el Funcionamiento de las Juntas de Mejoras Materiales en el Estado",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa65.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_adaptacion_mitigacion_a_efectos_cambio",
+    "nombre": "Ley para la Adaptación y Mitigación a los efectos del Cambio Climático en el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa188.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_distribucion_participaciones_aportaciones_federales_a",
+    "nombre": "Ley para la Distribución de Participaciones y Aportaciones Federales a los Municipios del Estado de Coahuila de Zaragoza 2014",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa94.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_donacion_altruista_alimentos_su_fomento",
+    "nombre": "Ley para la Donación Altruista de Alimentos y su Fomento en el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa68.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_implementacion_seguimiento_evaluacion_sistema_justicia",
+    "nombre": "Ley para la Implementación, Seguimiento y Evaluación del Sistema de Justicia Penal Acusatorio y Oral en el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa183.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_integracion_funcionamiento_juntas_municipales_mejoramiento",
+    "nombre": "Ley para la Integración y Funcionamiento de las Juntas Municipales de Mejoramiento Moral Cívico y Material del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa69.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_prevencion_social_violencia_delincuencia_coahuila",
+    "nombre": "Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa175.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_prevencion_combate_a_pobreza_extrema",
+    "nombre": "Ley para la Prevención y Combate a la Pobreza Extrema en el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa198.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_prevencion_gestion_integral_residuos_coahuila",
+    "nombre": "Ley para la Prevención y Gestión Integral de Residuos para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa136.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_prevencion_proteccion_atencion_asistencia_a",
+    "nombre": "Ley para la Prevención, Protección, Atención y Asistencia a las Víctimas y Ofendidos de los Delitos en Materia de Trata de Personas del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa187.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_proteccion_derechos_deberes_ninas_ninos",
+    "nombre": "Ley para la Protección de los Derechos y Deberes de las Niñas, Niños y Adolescentes del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa143.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_proteccion_no_fumadores_coahuila_zaragoza",
+    "nombre": "Ley para la Protección de los No Fumadores en el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa147.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_proteccion_promocion_derechos_contribuyente_coahuila",
+    "nombre": "Ley para la Protección y Promoción de los Derechos del Contribuyente del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa179.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_regulacion_venta_consumo_alcohol_coahuila",
+    "nombre": "Ley para la Regulación de la Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa180.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_transferencia_funciones_servicios_publicos_a",
+    "nombre": "Ley para la Transferencia de Funciones y Servicios Públicos del Estado a los Municipios",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa125.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_prevenir_sancionar_tortura_coahuila_zaragoza",
+    "nombre": "Ley para Prevenir y Sancionar la Tortura en el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa71.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_prevenir_sancionar_practicas_corrupcion_procedimientos",
+    "nombre": "Ley para Prevenir y Sancionar las Prácticas de Corrupción en los Procedimientos de Contratación Pública del Estado de Coahuila de Zaragoza y sus Municipios",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa184.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_promover_igualdad_prevenir_discriminacion_coahuila",
+    "nombre": "Ley para Promover la Igualdad y Prevenir la Discriminación en el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa153.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_protectora_dignidad_enfermo_terminal_coahuila",
+    "nombre": "Ley Protectora de la Dignidad del Enfermo Terminal para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa159.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_crea_organismo_publico_descentralizado_administracion",
+    "nombre": "Ley que crea al Organismo Publico Descentralizado de la Administración Municipal Denominado Dirección de Pensiones y otros Beneficios Sociales para los Trabajadores al Servicio del Municipio de Saltillo, Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa72.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_crea_consejo_estatal_ciencia_tecnologia",
+    "nombre": "Ley que crea el Consejo Estatal de Ciencia y Tecnología y el Fomento a la Investigación Científica y el Desarrollo Tecnológico del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa117.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_crea_consejo_planeacion_estrategica_largo",
+    "nombre": "Ley que crea el Consejo para la Planeación Estratégica de largo plazo de la Región Centro del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa134.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_crea_organismo_publico_descentraliado_denominado",
+    "nombre": "Ley que crea el Organismo Público Descentraliado Denominado \"Comisión Estatal de Aguas y Saneamiento de Coahuila\"",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa76.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_crea_organismo_publico_descentralizado_denominado",
+    "nombre": "Ley que crea el Organismo Público Descentralizado Denominado Comité de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa77.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_crea_sistema_agua_potable_alcantarillado",
+    "nombre": "Ley que crea el Sistema de Agua Potable y Alcantarillado de Ramos Arizpe, Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa102.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_crea_procuraduria_proteccion_ambiente_coahuila",
+    "nombre": "Ley que crea la Procuraduría de Protección al Ambiente del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa162.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_crea_patronato_administracion_unidad_deportiva",
+    "nombre": "Ley que crea un Patronato para la Administración de la Unidad Deportiva Torreón y el Gimnasio Municipal Torreón",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa79.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_establece_derecho_via_carreteras_caminos",
+    "nombre": "Ley que Establece el Derecho de Vía de las Carreteras y Caminos Locales",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa80.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_establece_bases_transferencia_funciones_seguridad",
+    "nombre": "Ley que Establece las Bases para la Transferencia de las Funciones de Seguridad Pública y Tránsito de los Municipios al Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa171.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_establece_bases_lineamientos_generales_recepcion",
+    "nombre": "Ley que Establece las Bases y los Lineamientos Generales para la Recepción de las Aportaciones Federales y la Creación, Distribución, Aplicación y Seguimiento de esos Recursos de los Fondos Estatales para el Desarrollo Social en Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa95.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_establece_derechos_uso_aprovechamiento_carretera",
+    "nombre": "Ley que Establece los Derechos por el Uso o Aprovechamiento de la Carretera la Carbonera Ojo Caliente",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa81.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_reglamenta_division_comunidades_rurales_coahuila",
+    "nombre": "Ley que Reglamenta la División de las Comunidades Rurales en el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa82.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_regula_casas_empeno_coahuila_zaragoza",
+    "nombre": "Ley que Regula las Casas de Empeño en el Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa137.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_reglamentaria_presupuesto_egresos_coahuila_zaragoza",
+    "nombre": "Ley Reglamentaria del Presupuesto de Egresos del Estado de Coahuila de Zaragoza",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa84.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_reglamentaria_registro_publico_coahuila",
+    "nombre": "Ley Reglamentaria del Registro Público del Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa86.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_reglamentaria_ejercicio_abogacia",
+    "nombre": "Ley Reglamentaria para el Ejercicio de la Abogacía",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa87.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_reglamentaria_juzgados_registro_civil_campos",
+    "nombre": "Ley Reglamentaria para los Juzgados del Registro Civil y Campos Mortuorios del Estado",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa88.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_sobre_disolucion_latifundios_proteccion_a",
+    "nombre": "Ley Sobre Disolución de Latifundios y Protección a la Industria Ganadera",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa89.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_sobre_escudo_coahuila_himno_coahuilense",
+    "nombre": "Ley Sobre el Escudo de Coahuila y el Himno Coahuilense",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa128.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_sobre_regimen_propiedad_condominio_inmuebles",
+    "nombre": "Ley Sobre el Regimen de Propiedad en Condominio de Inmuebles para el Estado de Coahuila",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa90.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_ley_sobre_plusvalia_derivada_obras_realizadas",
+    "nombre": "Ley Sobre Plusvalia Derivada de Obras Realizadas en Cooperación con el Gobierno Federal",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/coa92.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2005",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2005",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2005.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2006",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2006",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2006.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2007",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2007",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2007.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2008",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2008",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2008.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2009",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2009",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2009.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2010",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2010",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2010.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2011",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2011",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2011.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2012",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2012",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2012.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2013",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2013",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2013.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_coahuila_zaragoza_ejercicio_fiscal",
+    "nombre": "Presupuesto de Egresos del Estado de Coahuila de Zaragoza, para el Ejercicio Fiscal 2014",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/pre_ejercicio_fiscal_2014.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  }
+]
