@@ -1,81 +1,239 @@
 #!/bin/bash
-# ══════════════════════════════════════════════════════
-# run_diario.sh — Ejecución diaria del sistema LegismEx
-# ══════════════════════════════════════════════════════
-# Instalar en cron con:
-#   crontab -e
-#   0 7 * * 1-5 /ruta/completa/a/DerIAMex/scripts/run_diario.sh
+# ═══════════════════════════════════════════════════════════════════
+# run_diario.sh — Orquestador diario del Sistema de Vigilancia
+#                  Legislativa Mexicana (LegismEx)
 #
-# Secuencia:
-#   1. Re-scraping de catálogos (semanal, solo lunes)
-#   2. Regenerar índice consolidado
-#   3. Descarga de PDFs nuevos o actualizados
-#   4. Vigilancia del DOF y periódicos estatales
-#   5. Reintentos de descargas fallidas
+# Pipeline completo:
+#   1. Re-scraping de catálogos legislativos (semanal, solo lunes)
+#   2. Regenerar índice consolidado (leyes_index.json)
+#   3. Vigilancia del DOF y periódicos oficiales estatales
+#   4. Análisis con LLM (Claude) de publicaciones detectadas
+#   5. Re-descarga de leyes marcadas como actualizadas
+#   6. Reintentos de descargas fallidas previas
 #
-# Para ejecución completa inicial (todo desde cero):
-#   bash scripts/run_diario.sh --full
+# Uso:
+#   ./run_diario.sh                # Pipeline diario estándar
+#   ./run_diario.sh --full         # Forzar re-scraping + descarga completa
+#   ./run_diario.sh --solo-dof     # Solo vigilancia DOF federal
+#   ./run_diario.sh --dry-run      # Análisis LLM sin ejecutar acciones
+#   ./run_diario.sh --sin-llm      # Vigilancia + descarga, sin análisis LLM
+#
+# Cron recomendado (diario a las 7:00 AM hora CDMX, lun-vie):
+#   0 7 * * 1-5 /ruta/a/DerIAMex/scripts/run_diario.sh >> /ruta/a/DerIAMex/logs/cron.log 2>&1
+#
+# Variables de entorno requeridas:
+#   ANTHROPIC_API_KEY  — en .env o exportada (solo si se usa análisis LLM)
+# ═══════════════════════════════════════════════════════════════════
 
 set -uo pipefail
 
+# ── Rutas ─────────────────────────────────────────────────────────
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BASE_DIR="$(dirname "$SCRIPT_DIR")"
-LOG_FILE="$BASE_DIR/logs/run_diario.log"
+LOGS_DIR="$BASE_DIR/logs"
 PYTHON="${PYTHON:-python3}"
-DAY_OF_WEEK="$(date +%u)"  # 1=lunes
+DAY_OF_WEEK="$(date +%u)"  # 1=lunes ... 7=domingo
+HOY=$(date +%Y-%m-%d)
 
-mkdir -p "$BASE_DIR/logs"
+mkdir -p "$LOGS_DIR"
+LOG_FILE="$LOGS_DIR/pipeline_${HOY}.log"
 
+# ── Argumentos ────────────────────────────────────────────────────
+FULL=false
+SOLO_DOF=false
+DRY_RUN=false
+SIN_LLM=false
+
+for arg in "$@"; do
+    case "$arg" in
+        --full)     FULL=true ;;
+        --solo-dof) SOLO_DOF=true ;;
+        --dry-run)  DRY_RUN=true ;;
+        --sin-llm)  SIN_LLM=true ;;
+        --help|-h)
+            head -28 "$0" | grep '^#' | sed 's/^# \?//'
+            exit 0
+            ;;
+        *)
+            echo "Argumento desconocido: $arg" >&2
+            exit 1
+            ;;
+    esac
+done
+
+# ── Logging ───────────────────────────────────────────────────────
 log() {
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" | tee -a "$LOG_FILE"
 }
 
-log "══════════════════════════════════════════"
-log "Iniciando ciclo LegismEx"
-log "══════════════════════════════════════════"
+log_error() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] ERROR: $*" | tee -a "$LOG_FILE" >&2
+}
 
-# ── PASO 1: Re-scraping de catálogos (lunes o --full) ──
-if [[ "$DAY_OF_WEEK" == "1" ]] || [[ "${1:-}" == "--full" ]]; then
-    log "[PASO 1] Re-scraping de catálogos (33 entidades)"
-    $PYTHON "$SCRIPT_DIR/scraper_catalogo.py" --todas 2>&1 | tee -a "$LOG_FILE" || {
-        log "ERROR en scraping de catálogos — continuando"
-    }
-else
-    log "[PASO 1] Saltar re-scraping (solo se ejecuta los lunes o con --full)"
+# ── Cargar .env ───────────────────────────────────────────────────
+if [ -f "$BASE_DIR/.env" ]; then
+    set -a
+    # shellcheck source=/dev/null
+    source "$BASE_DIR/.env"
+    set +a
 fi
 
-# ── PASO 2: Regenerar índice consolidado ──
-log "[PASO 2] Regenerando leyes_index.json"
-$PYTHON "$SCRIPT_DIR/generar_indice.py" 2>&1 | tee -a "$LOG_FILE" || {
-    log "ERROR regenerando índice — continuando"
-}
+# ══════════════════════════════════════════════════════════════════
+log "════════════════════════════════════════════════════════"
+log "Pipeline LegismEx — $HOY"
+log "════════════════════════════════════════════════════════"
 
-# ── PASO 3: Descargar PDFs ──
-log "[PASO 3] Descargando PDFs pendientes"
-$PYTHON "$SCRIPT_DIR/descarga.py" 2>&1 | tee -a "$LOG_FILE" || {
-    log "ERROR en descarga — continuando"
-}
+ERRORES=0
+INICIO=$(date +%s)
 
-# ── PASO 4: Vigilancia DOF + periódicos estatales ──
-log "[PASO 4] Vigilancia del DOF (federal)"
-$PYTHON "$SCRIPT_DIR/vigilancia_dof.py" --entidad federal 2>&1 | tee -a "$LOG_FILE" || {
-    log "ERROR en vigilancia DOF — continuando"
-}
-
-log "[PASO 4] Vigilancia periódicos estatales"
-for ENTIDAD in cdmx edomex jalisco hidalgo nuevoleon puebla veracruz guanajuato sonora tamaulipas; do
-    $PYTHON "$SCRIPT_DIR/vigilancia_dof.py" --entidad "$ENTIDAD" 2>&1 | tee -a "$LOG_FILE" || {
-        log "  ERROR vigilando $ENTIDAD — continuando"
+# ── PASO 1: Re-scraping de catálogos (lunes o --full) ────────────
+if [[ "$DAY_OF_WEEK" == "1" ]] || [[ "$FULL" == true ]]; then
+    log ""
+    log "── PASO 1: Re-scraping de catálogos (33 entidades) ──"
+    $PYTHON "$SCRIPT_DIR/scraper_catalogo.py" --todas 2>&1 | tee -a "$LOG_FILE" || {
+        log_error "Scraping de catálogos falló — continuando"
+        ERRORES=$((ERRORES + 1))
     }
-done
+else
+    log ""
+    log "── PASO 1: Re-scraping saltado (solo lunes o con --full) ──"
+fi
 
-# ── PASO 5: Reintentos ──
-log "[PASO 5] Procesando cola de reintentos"
-$PYTHON "$SCRIPT_DIR/reintentos.py" 2>&1 | tee -a "$LOG_FILE" || {
-    log "ERROR en reintentos — continuando"
+# ── PASO 2: Regenerar índice consolidado ──────────────────────────
+log ""
+log "── PASO 2: Regenerando leyes_index.json ──"
+$PYTHON "$SCRIPT_DIR/generar_indice.py" 2>&1 | tee -a "$LOG_FILE" || {
+    log_error "Regeneración de índice falló — continuando"
+    ERRORES=$((ERRORES + 1))
 }
 
-# ── Resumen ──
-log "Ciclo completado"
-$PYTHON "$SCRIPT_DIR/generar_indice.py" --resumen 2>&1 | tail -5 | tee -a "$LOG_FILE"
-log "══════════════════════════════════════════"
+# ── PASO 3: Vigilancia del DOF y periódicos oficiales ─────────────
+log ""
+log "── PASO 3: Vigilancia de publicaciones oficiales ──"
+
+if [ "$SOLO_DOF" = true ]; then
+    log "Consultando solo DOF federal..."
+    $PYTHON "$SCRIPT_DIR/vigilancia_dof.py" 2>&1 | tee -a "$LOG_FILE" || {
+        log_error "Vigilancia DOF falló"
+        ERRORES=$((ERRORES + 1))
+    }
+else
+    log "Consultando DOF + todos los estados configurados..."
+    $PYTHON "$SCRIPT_DIR/vigilancia_dof.py" --todas 2>&1 | tee -a "$LOG_FILE" || {
+        log_error "Vigilancia completa falló"
+        ERRORES=$((ERRORES + 1))
+    }
+fi
+
+# ── PASO 4: Análisis LLM de publicaciones ────────────────────────
+COLA="$LOGS_DIR/cola_procesamiento.json"
+TIENE_PUBLICACIONES=false
+
+if [ -f "$COLA" ]; then
+    N_PUB=$($PYTHON -c "import json; print(len(json.load(open('$COLA'))))" 2>/dev/null || echo 0)
+    if [ "$N_PUB" -gt 0 ]; then
+        TIENE_PUBLICACIONES=true
+    fi
+fi
+
+if [ "$SIN_LLM" = true ]; then
+    log ""
+    log "── PASO 4: Análisis LLM saltado (--sin-llm) ──"
+elif [ "$TIENE_PUBLICACIONES" = false ]; then
+    log ""
+    log "── PASO 4: Sin publicaciones pendientes de análisis ──"
+else
+    log ""
+    log "── PASO 4: Análisis con LLM — $N_PUB publicación(es) ──"
+
+    if [ -z "${ANTHROPIC_API_KEY:-}" ]; then
+        log_error "ANTHROPIC_API_KEY no configurada — saltando análisis LLM"
+        ERRORES=$((ERRORES + 1))
+    else
+        LLM_ARGS=""
+        if [ "$DRY_RUN" = true ]; then
+            LLM_ARGS="--dry-run"
+            log "Modo dry-run: solo clasificar, sin ejecutar acciones."
+        fi
+
+        $PYTHON "$SCRIPT_DIR/analizar_publicaciones.py" $LLM_ARGS 2>&1 | tee -a "$LOG_FILE" || {
+            log_error "Análisis LLM falló"
+            ERRORES=$((ERRORES + 1))
+        }
+    fi
+fi
+
+# ── PASO 5: Re-descarga de leyes actualizadas ────────────────────
+if [ "$DRY_RUN" = false ]; then
+    log ""
+    log "── PASO 5: Re-descarga de leyes actualizadas ──"
+
+    INDEX="$BASE_DIR/leyes_index.json"
+    if [ -f "$INDEX" ]; then
+        PENDIENTES=$($PYTHON -c "
+import json
+with open('$INDEX') as f:
+    idx = json.load(f)
+pend = [l['id'] for l in idx if l.get('estado') == 'pendiente_actualizacion']
+for p in pend:
+    print(p)
+" 2>/dev/null || true)
+
+        if [ -n "$PENDIENTES" ]; then
+            N_PEND=$(echo "$PENDIENTES" | wc -l)
+            log "$N_PEND ley(es) marcadas para re-descarga."
+            echo "$PENDIENTES" | while read -r LEY_ID; do
+                if [ -n "$LEY_ID" ]; then
+                    log "  Descargando: $LEY_ID"
+                    $PYTHON "$SCRIPT_DIR/descarga.py" --id "$LEY_ID" 2>&1 | tee -a "$LOG_FILE" || {
+                        log_error "Descarga falló para $LEY_ID"
+                    }
+                fi
+            done
+        else
+            log "No hay leyes pendientes de re-descarga."
+        fi
+    fi
+else
+    log ""
+    log "── PASO 5: Re-descarga saltada (--dry-run) ──"
+fi
+
+# ── PASO 6: Reintentos de descargas fallidas ──────────────────────
+if [ "$DRY_RUN" = false ]; then
+    log ""
+    log "── PASO 6: Procesando cola de reintentos ──"
+
+    COLA_REINTENTOS="$BASE_DIR/cola_reintentos.json"
+    if [ -f "$COLA_REINTENTOS" ]; then
+        N_REINTENTOS=$($PYTHON -c "import json; print(len(json.load(open('$COLA_REINTENTOS'))))" 2>/dev/null || echo 0)
+        if [ "$N_REINTENTOS" -gt 0 ]; then
+            log "$N_REINTENTOS elemento(s) en cola de reintentos."
+            $PYTHON "$SCRIPT_DIR/reintentos.py" 2>&1 | tee -a "$LOG_FILE" || {
+                log_error "Reintentos fallaron"
+                ERRORES=$((ERRORES + 1))
+            }
+        else
+            log "Cola de reintentos vacía."
+        fi
+    else
+        log "No hay cola de reintentos."
+    fi
+fi
+
+# ── Resumen final ─────────────────────────────────────────────────
+FIN=$(date +%s)
+DURACION=$(( FIN - INICIO ))
+MINUTOS=$(( DURACION / 60 ))
+SEGUNDOS=$(( DURACION % 60 ))
+
+log ""
+log "════════════════════════════════════════════════════════"
+if [ "$ERRORES" -gt 0 ]; then
+    log "Pipeline completado con $ERRORES error(es) en ${MINUTOS}m ${SEGUNDOS}s"
+    log "Revisar: $LOG_FILE"
+    exit 1
+else
+    log "Pipeline completado exitosamente en ${MINUTOS}m ${SEGUNDOS}s"
+    exit 0
+fi
