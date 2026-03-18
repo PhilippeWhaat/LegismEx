@@ -1092,18 +1092,6 @@
     "categoria": "leyes"
   },
   {
-    "id": "nuevoleon_ley_sistema_estatal_anticorrupcion",
-    "nombre": "LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN",
-    "tipo": "Ley",
-    "entidad": "nuevoleon",
-    "url_pdf": "",
-    "url_word": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DEL%20SISTEMA%20ESTATAL%20ANTICORRUPCION%20PARA%20EL%20ESTADO%20DE%20NUEVO%20LEON.docx?2022-09-%206",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "",
-    "categoria": "leyes"
-  },
-  {
     "id": "nuevoleon_ley_fomento_sociedad_civil_organizada",
     "nombre": "LEY DE FOMENTO DE LA SOCIEDAD CIVIL ORGANIZADA PARA EL ESTADO DE NUEVO LEÓN",
     "tipo": "Ley",

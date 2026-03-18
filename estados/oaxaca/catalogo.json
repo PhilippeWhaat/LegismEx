@@ -90,16 +90,6 @@
     "fuente": "congresooaxaca.gob.mx"
   },
   {
-    "id": "oaxaca_decreto_establece_bases_factores_distribucion_montos",
-    "nombre": "Decreto que establece las bases, factores de distribución, montos estimados y plazos para el pago de participaciones fiscales federales a los municipios del Estado de Oaxaca, para el ejercicio fiscal 2015.",
-    "tipo": "Decreto",
-    "entidad": "oaxaca",
-    "url_pdf": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Decreto_que_establece_las_bases__factores_de_distribuci%c3%b3n__montos_estimados_y_plazos_para_el_pago_de_participaciones_fiscales_federales_.pdf",
-    "ultima_reforma": "2005-03-22",
-    "estado_vigencia": "vigente",
-    "fuente": "congresooaxaca.gob.mx"
-  },
-  {
     "id": "oaxaca_ley_adopciones_oaxaca",
     "nombre": "Ley de Adopciones del Estado de Oaxaca.",
     "tipo": "Ley",
@@ -470,16 +460,6 @@
     "fuente": "congresooaxaca.gob.mx"
   },
   {
-    "id": "oaxaca_ley_fomento_promocion_uso_bicicleta_zonas",
-    "nombre": "Ley de Fomento y Promoción del Uso de la Bicicleta en las Zonas Metropolitanas del Estado de Oaxaca.",
-    "tipo": "Ley",
-    "entidad": "oaxaca",
-    "url_pdf": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Fomento_y_Promoci%c3%b3n_del_Uso_de_la_Bicicleta_en_las_Zonas_Metropolitanas_del_Estado_de_Oaxaca..pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "congresooaxaca.gob.mx"
-  },
-  {
     "id": "oaxaca_ley_hacienda_municipal_oaxaca",
     "nombre": "Ley de Hacienda Municipal del Estado de Oaxaca.",
     "tipo": "Ley",
@@ -656,16 +636,6 @@
     "entidad": "oaxaca",
     "url_pdf": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_la_Casa_de_la_Cultura_Oaxaqueña_(Ref_dto_733_aprob_LXVI_Legis_5_ago_2025_PO_Extra_1_sep_2025).pdf",
     "ultima_reforma": "2005-09-01",
-    "estado_vigencia": "vigente",
-    "fuente": "congresooaxaca.gob.mx"
-  },
-  {
-    "id": "oaxaca_ley_corporacion_oaxaquena_radio_television",
-    "nombre": "Ley de la Corporación Oaxaqueña de Radio y Televisión.",
-    "tipo": "Ley",
-    "entidad": "oaxaca",
-    "url_pdf": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_deLey_de_la_Corporacion_Oaxaqueña_de_Radio_y_Television_(Dto_Ref_735_Aprob_LXVI_Legis_5_agosto_2025_PO_36_11a_secc_6_septiembre_2025).pdf",
-    "ultima_reforma": "2025-09-06",
     "estado_vigencia": "vigente",
     "fuente": "congresooaxaca.gob.mx"
   },
@@ -1246,16 +1216,6 @@
     "entidad": "oaxaca",
     "url_pdf": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Sistema_de_Medios_de_Impugnacion_en_materia_electoral_y_de_participacion_ciudadana_(Dto_Ref_686_aprob_LXV_Legis_21_sep_2022_PO_42_3a._Secc_15_oct_2022).pdf",
     "ultima_reforma": "2022-10-15",
-    "estado_vigencia": "vigente",
-    "fuente": "congresooaxaca.gob.mx"
-  },
-  {
-    "id": "oaxaca_ley_sistema_estatal_combate_a_corrupcion",
-    "nombre": "Ley del Sistema Estatal de Combate a la Corrupción.",
-    "tipo": "Ley",
-    "entidad": "oaxaca",
-    "url_pdf": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Sistema_Estatal_de_Combate_a_la_Corrupcion_(Ref_dto_1475_aprob_LXV_Legis_12_julio_2023_PO_30_10a_secc_29_julio_2023).pdf",
-    "ultima_reforma": "2023-07-23",
     "estado_vigencia": "vigente",
     "fuente": "congresooaxaca.gob.mx"
   },

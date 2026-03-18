@@ -2484,6 +2484,320 @@ def scrape_ordenjuridico(entidad: str, edo_id: int):
     return _scraper
 
 
+# ──────────────────────────────────────────────
+# SONORA — API REST gestion.api.congresoson.gob.mx
+# 240+ leyes con PDF y DOCX directos.
+# ──────────────────────────────────────────────
+
+def scrape_sonora() -> list[dict]:
+    entidad = "sonora"
+    api_url = "https://gestion.api.congresoson.gob.mx/publico/ley"
+    log.info(f"  Sonora API: {api_url}")
+
+    all_items = []
+    for pagina in range(1, 20):
+        url = f"{api_url}?limite=100&pagina={pagina}&ordenar=nombre&direccion=asc"
+        req = urllib.request.Request(url, headers={**HEADERS, "Accept": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=15, context=SSL_CTX) as resp:
+                import json as json_mod
+                data = json_mod.load(resp)
+            items = data.get("resultado", [])
+            if not items:
+                break
+            all_items.extend(items)
+            if len(items) < 100:
+                break
+        except Exception as e:
+            log.error(f"  Sonora API pagina {pagina}: {e}")
+            break
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+    for item in all_items:
+        nombre = limpiar_texto(item.get("nombre", ""))
+        if not nombre or len(nombre) < 10:
+            continue
+        url_pdf = item.get("mediaPdf", "")
+        url_word = item.get("mediaDocx", "")
+        tipo_raw = item.get("tipoLey", "")
+        tipo = {"CÓDIGO": "Código", "REGLAMENTO": "Reglamento", "DECRETO": "Decreto"}.get(tipo_raw, inferir_tipo(nombre))
+
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id, "nombre": nombre, "tipo": tipo,
+            "entidad": entidad, "url_pdf": url_pdf, "url_word": url_word,
+            "ultima_reforma": (item.get("modificado", "") or "")[:10],
+            "estado_vigencia": "vigente", "fuente": "congresoson.gob.mx",
+        })
+
+    log.info(f"  Sonora total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# ZACATECAS — cgj.zacatecas.gob.mx/MJE/LEYES/
+# Directory listing avec PDFs directos.
+# ──────────────────────────────────────────────
+
+def scrape_zacatecas() -> list[dict]:
+    entidad = "zacatecas"
+    url = "https://cgj.zacatecas.gob.mx/MJE/LEYES/"
+    log.info(f"  Zacatecas: {url}")
+    html = fetch(url)
+    if not html:
+        log.warning("  Zacatecas: no se pudo acceder")
+        return []
+
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+    entries = re.findall(r'<a[^>]+href=["\']([^"\']*\.pdf)["\'][^>]*>(.*?)</a>', html, re.DOTALL | re.IGNORECASE)
+
+    for url_pdf, text in entries:
+        nombre = re.sub(r'<[^>]+>', '', text).strip()
+        if not nombre or len(nombre) < 10:
+            nombre = urllib.parse.unquote(url_pdf.split("/")[-1]).replace(".pdf", "").replace("..pdf", "").replace("%20", " ")
+        nombre = limpiar_texto(nombre)
+        if not nombre or len(nombre) < 10:
+            continue
+        if not url_pdf.startswith("http"):
+            url_pdf = f"https://cgj.zacatecas.gob.mx/MJE/LEYES/{url_pdf}"
+
+        ley_id = generar_id(entidad, nombre)
+        if ley_id in ids_vistos:
+            continue
+        ids_vistos.add(ley_id)
+
+        leyes.append({
+            "id": ley_id, "nombre": nombre, "tipo": inferir_tipo(nombre),
+            "entidad": entidad, "url_pdf": url_pdf,
+            "ultima_reforma": "", "estado_vigencia": "vigente",
+            "fuente": "cgj.zacatecas.gob.mx",
+        })
+
+    log.info(f"  Zacatecas total: {len(leyes)} documentos")
+    return leyes
+
+
+# ──────────────────────────────────────────────
+# SCRAPERS PLAYWRIGHT — Jalisco, Guerrero, Campeche, Colima, SLP
+# Requièrent headless browser (playwright).
+# ──────────────────────────────────────────────
+
+def _scrape_with_playwright(entidad, url, extract_fn):
+    """Wrapper genérico para scrapers que necesitan Playwright."""
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        log.error(f"  [{entidad}] Playwright no instalado. Instalar con: pip install playwright && python3 -m playwright install chromium")
+        return []
+
+    log.info(f"  {entidad} (Playwright): {url}")
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        try:
+            page.goto(url, timeout=30000)
+            page.wait_for_timeout(5000)
+            leyes = extract_fn(page, entidad)
+        except Exception as e:
+            log.error(f"  {entidad} Playwright: {e}")
+            leyes = []
+        browser.close()
+
+    log.info(f"  {entidad} total: {len(leyes)} documentos")
+    return leyes
+
+
+def scrape_jalisco() -> list[dict]:
+    def extract(page, entidad):
+        leyes = []
+        ids_vistos = set()
+        elements = page.query_selector_all('[href*=".pdf"]')
+        for el in elements:
+            href = el.get_attribute("href") or ""
+            text = el.text_content() or ""
+            if "descargar" not in text.lower():
+                continue
+            parent_text = page.evaluate(
+                'el => el.closest("tr, li, div.card, div.row, article")?.textContent', el
+            ) or ""
+            lines = [l.strip() for l in parent_text.split("\n") if l.strip() and len(l.strip()) > 10]
+            nombre = lines[0] if lines else ""
+            nombre = re.sub(r'ver en linea.*$', '', nombre, flags=re.IGNORECASE).strip()
+            nombre = re.sub(r'descargar.*$', '', nombre, flags=re.IGNORECASE).strip()
+            nombre = limpiar_texto(nombre)
+            if not nombre or len(nombre) < 10:
+                continue
+            url_pdf = href
+            if "viewer?url=" in url_pdf:
+                path = url_pdf.split("viewer?url=")[-1]
+                url_pdf = f"https://stjjalisco.gob.mx/{path}"
+            ley_id = generar_id(entidad, nombre)
+            if ley_id in ids_vistos:
+                continue
+            ids_vistos.add(ley_id)
+            leyes.append({
+                "id": ley_id, "nombre": nombre, "tipo": inferir_tipo(nombre),
+                "entidad": entidad, "url_pdf": url_pdf,
+                "ultima_reforma": "", "estado_vigencia": "vigente",
+                "fuente": "stjjalisco.gob.mx",
+            })
+        return leyes
+
+    return _scrape_with_playwright("jalisco",
+        "https://stjjalisco.gob.mx/las-leyes-federales-y-estatales", extract)
+
+
+def scrape_guerrero() -> list[dict]:
+    def extract(page, entidad):
+        html = page.content()
+        entries = re.findall(r'<a[^>]+href=["\']([^"\']*\.pdf)["\'][^>]*>(.*?)</a>', html, re.DOTALL | re.IGNORECASE)
+        leyes = []
+        ids_vistos = set()
+        for url_pdf, text in entries:
+            nombre = limpiar_texto(re.sub(r'<[^>]+>', '', text).strip())
+            if not nombre or len(nombre) < 10:
+                continue
+            if not url_pdf.startswith("http"):
+                url_pdf = f"https://congresogro.gob.mx/legislacion/{url_pdf}"
+            ley_id = generar_id(entidad, nombre)
+            if ley_id in ids_vistos:
+                continue
+            ids_vistos.add(ley_id)
+            leyes.append({
+                "id": ley_id, "nombre": nombre, "tipo": inferir_tipo(nombre),
+                "entidad": entidad, "url_pdf": url_pdf,
+                "ultima_reforma": "", "estado_vigencia": "vigente",
+                "fuente": "congresogro.gob.mx",
+            })
+        return leyes
+
+    return _scrape_with_playwright("guerrero",
+        "https://congresogro.gob.mx/legislacion/leyes-ordinarias.php", extract)
+
+
+def scrape_campeche() -> list[dict]:
+    def extract(page, entidad):
+        rows = page.query_selector_all("tr")
+        leyes = []
+        ids_vistos = set()
+        base = "https://consejeria.campeche.gob.mx/pagina/LEXIUSCAMPECHE"
+        for row in rows:
+            cells = row.query_selector_all("td")
+            if len(cells) < 2:
+                continue
+            nombre = limpiar_texto(cells[0].text_content().strip() if cells[0].text_content() else "")
+            if not nombre or len(nombre) < 10:
+                continue
+            pdf_el = row.query_selector('a[href*=".pdf"]')
+            url_pdf = ""
+            if pdf_el:
+                url_pdf = pdf_el.get_attribute("href") or ""
+                if url_pdf and not url_pdf.startswith("http"):
+                    url_pdf = f"{base}/{url_pdf}"
+            ley_id = generar_id(entidad, nombre)
+            if ley_id in ids_vistos:
+                continue
+            ids_vistos.add(ley_id)
+            leyes.append({
+                "id": ley_id, "nombre": nombre, "tipo": inferir_tipo(nombre),
+                "entidad": entidad, "url_pdf": url_pdf,
+                "ultima_reforma": "", "estado_vigencia": "vigente",
+                "fuente": "consejeria.campeche.gob.mx",
+            })
+        return leyes
+
+    return _scrape_with_playwright("campeche",
+        "https://consejeria.campeche.gob.mx/pagina/LEXIUSCAMPECHE/leyesEstatales.php", extract)
+
+
+def scrape_colima() -> list[dict]:
+    def extract(page, entidad):
+        # Click on "Leyes Estatales"
+        for link in page.query_selector_all("a"):
+            if link.text_content() and "Leyes Estatales" in link.text_content().strip():
+                link.click()
+                page.wait_for_timeout(3000)
+                break
+        html = page.content()
+        entries = re.findall(r'<a[^>]+href=["\']([^"\']*\.pdf)["\'][^>]*>(.*?)</a>', html, re.DOTALL | re.IGNORECASE)
+        leyes = []
+        ids_vistos = set()
+        for url_pdf, text in entries:
+            nombre = limpiar_texto(re.sub(r'<[^>]+>', '', text).strip())
+            if not nombre or len(nombre) < 10:
+                fname = url_pdf.split("/")[-1].replace(".pdf", "").replace("_", " ").replace("-", " ")
+                nombre = limpiar_texto(fname)
+            if not nombre or len(nombre) < 10:
+                continue
+            if not url_pdf.startswith("http"):
+                url_pdf = f"https://congresocol.gob.mx/web/www/leyes/{url_pdf}"
+            ley_id = generar_id(entidad, nombre)
+            if ley_id in ids_vistos:
+                continue
+            ids_vistos.add(ley_id)
+            leyes.append({
+                "id": ley_id, "nombre": nombre, "tipo": inferir_tipo(nombre),
+                "entidad": entidad, "url_pdf": url_pdf,
+                "ultima_reforma": "", "estado_vigencia": "vigente",
+                "fuente": "congresocol.gob.mx",
+            })
+        return leyes
+
+    return _scrape_with_playwright("colima",
+        "https://congresocol.gob.mx/web/www/leyes/index.php", extract)
+
+
+def scrape_sanluispotosi() -> list[dict]:
+    def extract(page, entidad):
+        # Paginate through Drupal views
+        leyes = []
+        ids_vistos = set()
+        while True:
+            html = page.content()
+            entries = re.findall(r'<a[^>]+href=["\']([^"\']*\.pdf)["\'][^>]*>(.*?)</a>', html, re.DOTALL | re.IGNORECASE)
+            found = 0
+            for url_pdf, text in entries:
+                nombre = limpiar_texto(re.sub(r'<[^>]+>', '', text).strip())
+                if not nombre or len(nombre) < 10:
+                    fname = urllib.parse.unquote(url_pdf.split("/")[-1]).replace(".pdf", "").replace("_", " ")
+                    nombre = limpiar_texto(fname)
+                if not nombre or len(nombre) < 10:
+                    continue
+                if not url_pdf.startswith("http"):
+                    url_pdf = f"https://congresosanluis.gob.mx{url_pdf}"
+                ley_id = generar_id(entidad, nombre)
+                if ley_id in ids_vistos:
+                    continue
+                ids_vistos.add(ley_id)
+                leyes.append({
+                    "id": ley_id, "nombre": nombre, "tipo": inferir_tipo(nombre),
+                    "entidad": entidad, "url_pdf": url_pdf,
+                    "ultima_reforma": "", "estado_vigencia": "vigente",
+                    "fuente": "congresosanluis.gob.mx",
+                })
+                found += 1
+
+            # Find next page
+            next_link = page.query_selector('a[title="Ir a la página siguiente"]')
+            if not next_link:
+                next_link = page.query_selector('.pager-next a')
+            if next_link:
+                next_link.click()
+                page.wait_for_timeout(3000)
+            else:
+                break
+        return leyes
+
+    return _scrape_with_playwright("sanluispotosi",
+        "https://congresosanluis.gob.mx/legislacion/leyes", extract)
+
+
 # ══════════════════════════════════════════════
 # REGISTRO DE SCRAPERS DISPONIBLES
 # ══════════════════════════════════════════════
@@ -2515,13 +2829,13 @@ SCRAPERS: dict[str, callable] = {
     "michoacan":         scrape_michoacan,
     "cdmx":              scrape_cdmx,
     "coahuila":          scrape_coahuila,
-    "jalisco":           scrape_ordenjuridico("jalisco", 14),
-    "guerrero":          scrape_ordenjuridico("guerrero", 12),
-    "campeche":          scrape_ordenjuridico("campeche", 4),
-    "colima":            scrape_ordenjuridico("colima", 6),
-    "sonora":            scrape_ordenjuridico("sonora", 26),
-    "zacatecas":         scrape_ordenjuridico("zacatecas", 32),
-    "sanluispotosi":     scrape_ordenjuridico("sanluispotosi", 24),
+    "jalisco":           scrape_jalisco,
+    "guerrero":          scrape_guerrero,
+    "campeche":          scrape_campeche,
+    "colima":            scrape_colima,
+    "sonora":            scrape_sonora,
+    "zacatecas":         scrape_zacatecas,
+    "sanluispotosi":     scrape_sanluispotosi,
 }
 
 
