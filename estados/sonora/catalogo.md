@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — SONORA
 
-_Generado: 2026-03-16 | Total: 240 documentos_
+_Generado: 2026-03-18 | Total: 240 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
