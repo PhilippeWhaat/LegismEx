@@ -221,57 +221,158 @@ def vigilar_dof(fecha: date) -> list[dict]:
 # Vigilancia de periódicos estatales (genérica)
 # ──────────────────────────────────────────────
 
-# Configuración de fuentes estatales que permiten scraping por índice
+# Configuración de fuentes estatales que permiten scraping por índice.
+# 30 de 32 estados configurados (faltan: michoacan [403], tlaxcala [502]).
 FUENTES_ESTATALES = {
+    "aguascalientes": {
+        "nombre": "Periódico Oficial Aguascalientes",
+        "url_indice": "https://eservicios2.aguascalientes.gob.mx/periodicooficial/",
+        "base_url": "https://eservicios2.aguascalientes.gob.mx",
+    },
+    "bajacalifornia": {
+        "nombre": "Periódico Oficial Baja California",
+        "url_indice": "https://periodicooficial.ebajacalifornia.gob.mx/oficial/inicioConsulta.jsp",
+        "base_url": "https://periodicooficial.ebajacalifornia.gob.mx",
+    },
+    "bajacaliforniasur": {
+        "nombre": "Boletín Oficial Baja California Sur",
+        "url_indice": "https://finanzas.bcs.gob.mx/boletines-oficiales/",
+        "base_url": "https://finanzas.bcs.gob.mx",
+    },
+    "campeche": {
+        "nombre": "Periódico Oficial Campeche",
+        "url_indice": "http://periodicooficial.campeche.gob.mx/sipoec/public/documentos",
+        "base_url": "http://periodicooficial.campeche.gob.mx",
+    },
     "cdmx": {
         "nombre": "Gaceta Oficial CDMX",
         "url_indice": "https://www.consejeria.cdmx.gob.mx/gaceta",
         "base_url": "https://www.consejeria.cdmx.gob.mx",
+    },
+    "chiapas": {
+        "nombre": "Periódico Oficial Chiapas",
+        "url_indice": "https://www.sgg.chiapas.gob.mx/periodico/periodico1824",
+        "base_url": "https://www.sgg.chiapas.gob.mx",
+    },
+    "chihuahua": {
+        "nombre": "Periódico Oficial Chihuahua",
+        "url_indice": "https://chihuahua.gob.mx/periodicooficial/ultimo",
+        "base_url": "https://chihuahua.gob.mx",
+    },
+    "coahuila": {
+        "nombre": "Periódico Oficial Coahuila",
+        "url_indice": "https://periodico.segobcoahuila.gob.mx/",
+        "base_url": "https://periodico.segobcoahuila.gob.mx",
+    },
+    "colima": {
+        "nombre": "Periódico Oficial Colima",
+        "url_indice": "https://periodicooficial.col.gob.mx/",
+        "base_url": "https://periodicooficial.col.gob.mx",
+    },
+    "durango": {
+        "nombre": "Periódico Oficial Durango",
+        "url_indice": "https://periodicooficial.durango.gob.mx/publicaciones",
+        "base_url": "https://periodicooficial.durango.gob.mx",
     },
     "edomex": {
         "nombre": "Gaceta del Gobierno EdoMex",
         "url_indice": "https://legislacion.edomex.gob.mx/gaceta-gobierno",
         "base_url": "https://legislacion.edomex.gob.mx",
     },
-    "jalisco": {
-        "nombre": "Periódico Oficial Jalisco",
-        "url_indice": "https://periodicooficial.jalisco.gob.mx/",
-        "base_url": "https://periodicooficial.jalisco.gob.mx",
+    "guanajuato": {
+        "nombre": "Periódico Oficial Guanajuato",
+        "url_indice": "https://periodico.guanajuato.gob.mx/",
+        "base_url": "https://periodico.guanajuato.gob.mx",
+    },
+    "guerrero": {
+        "nombre": "Periódico Oficial Guerrero",
+        "url_indice": "https://periodicooficial.guerrero.gob.mx/publicaciones/",
+        "base_url": "https://periodicooficial.guerrero.gob.mx",
     },
     "hidalgo": {
         "nombre": "Periódico Oficial Hidalgo",
         "url_indice": "https://periodicooficial.hidalgo.gob.mx/",
         "base_url": "https://periodicooficial.hidalgo.gob.mx",
     },
+    "jalisco": {
+        "nombre": "Periódico Oficial Jalisco",
+        "url_indice": "https://periodicooficial.jalisco.gob.mx/",
+        "base_url": "https://periodicooficial.jalisco.gob.mx",
+    },
+    "morelos": {
+        "nombre": "Periódico Oficial Morelos",
+        "url_indice": "https://periodico.morelos.gob.mx/",
+        "base_url": "https://periodico.morelos.gob.mx",
+    },
+    "nayarit": {
+        "nombre": "Periódico Oficial Nayarit",
+        "url_indice": "https://periodicooficial.nayarit.gob.mx/",
+        "base_url": "https://periodicooficial.nayarit.gob.mx",
+    },
     "nuevoleon": {
         "nombre": "Periódico Oficial Nuevo León",
         "url_indice": "https://www.nl.gob.mx/publicaciones/periodico-oficial-del-estado",
         "base_url": "https://www.nl.gob.mx",
+    },
+    "oaxaca": {
+        "nombre": "Periódico Oficial Oaxaca",
+        "url_indice": "https://www.periodicooficial.oaxaca.gob.mx/",
+        "base_url": "https://www.periodicooficial.oaxaca.gob.mx",
     },
     "puebla": {
         "nombre": "Periódico Oficial Puebla",
         "url_indice": "https://periodico.puebla.gob.mx/",
         "base_url": "https://periodico.puebla.gob.mx",
     },
-    "veracruz": {
-        "nombre": "Gaceta Oficial Veracruz",
-        "url_indice": "https://www.veracruz.gob.mx/gobierno/gaceta-oficial/",
-        "base_url": "https://www.veracruz.gob.mx",
+    "queretaro": {
+        "nombre": "La Sombra de Arteaga (Querétaro)",
+        "url_indice": "https://lasombradearteaga.segobqueretaro.gob.mx/",
+        "base_url": "https://lasombradearteaga.segobqueretaro.gob.mx",
     },
-    "guanajuato": {
-        "nombre": "Periódico Oficial Guanajuato",
-        "url_indice": "https://periodico.guanajuato.gob.mx/",
-        "base_url": "https://periodico.guanajuato.gob.mx",
+    "quintanaroo": {
+        "nombre": "Periódico Oficial Quintana Roo",
+        "url_indice": "https://cjpe.qroo.gob.mx/periodico-oficial-del-estado-de-quintana-roo/",
+        "base_url": "https://cjpe.qroo.gob.mx",
+    },
+    "sanluispotosi": {
+        "nombre": "Periódico Oficial San Luis Potosí",
+        "url_indice": "https://periodicooficial.slp.gob.mx/",
+        "base_url": "https://periodicooficial.slp.gob.mx",
+    },
+    "sinaloa": {
+        "nombre": "Periódico Oficial Sinaloa",
+        "url_indice": "https://iip.congresosinaloa.gob.mx/poes.html",
+        "base_url": "https://iip.congresosinaloa.gob.mx",
     },
     "sonora": {
         "nombre": "Boletín Oficial Sonora",
         "url_indice": "https://www.boletinoficial.sonora.gob.mx/",
         "base_url": "https://www.boletinoficial.sonora.gob.mx",
     },
+    "tabasco": {
+        "nombre": "Periódico Oficial Tabasco",
+        "url_indice": "https://tabasco.gob.mx/PeriodicoOficial",
+        "base_url": "https://tabasco.gob.mx",
+    },
     "tamaulipas": {
         "nombre": "Periódico Oficial Tamaulipas",
         "url_indice": "https://po.tamaulipas.gob.mx/",
         "base_url": "https://po.tamaulipas.gob.mx",
+    },
+    "veracruz": {
+        "nombre": "Gaceta Oficial Veracruz",
+        "url_indice": "https://www.veracruz.gob.mx/gobierno/gaceta-oficial/",
+        "base_url": "https://www.veracruz.gob.mx",
+    },
+    "yucatan": {
+        "nombre": "Diario Oficial Yucatán",
+        "url_indice": "https://www.yucatan.gob.mx/gobierno/diario_oficial.php",
+        "base_url": "https://www.yucatan.gob.mx",
+    },
+    "zacatecas": {
+        "nombre": "Periódico Oficial Zacatecas",
+        "url_indice": "https://periodicooficial.zacatecas.gob.mx/",
+        "base_url": "https://periodicooficial.zacatecas.gob.mx",
     },
 }
 
