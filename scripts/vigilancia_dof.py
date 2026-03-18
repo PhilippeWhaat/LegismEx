@@ -18,13 +18,21 @@ import json
 import logging
 import re
 import shutil
+import ssl
 import sys
 import argparse
 import urllib.request
 import urllib.error
+import xml.etree.ElementTree as ET
 from datetime import datetime, date
 from pathlib import Path
+from html import unescape
 from html.parser import HTMLParser
+
+# Contexto SSL permisivo (muchos portales gubernamentales tienen certs malos)
+SSL_CTX = ssl.create_default_context()
+SSL_CTX.check_hostname = False
+SSL_CTX.verify_mode = ssl.CERT_NONE
 
 # ──────────────────────────────────────────────
 # Rutas
@@ -127,7 +135,7 @@ HEADERS = {
 def fetch_html(url: str, timeout: int = 30) -> str | None:
     req = urllib.request.Request(url, headers=HEADERS)
     try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
+        with urllib.request.urlopen(req, timeout=timeout, context=SSL_CTX) as resp:
             charset = "utf-8"
             content_type = resp.headers.get_content_charset()
             if content_type:
@@ -142,7 +150,7 @@ def descargar_pdf(url: str, destino: Path) -> bool:
     req = urllib.request.Request(url, headers=HEADERS)
     try:
         destino.parent.mkdir(parents=True, exist_ok=True)
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=60, context=SSL_CTX) as resp:
             with open(destino, "wb") as f:
                 shutil.copyfileobj(resp, f)
         return True
@@ -156,37 +164,54 @@ def descargar_pdf(url: str, destino: Path) -> bool:
 # ──────────────────────────────────────────────
 def vigilar_dof(fecha: date) -> list[dict]:
     """
-    Descarga el índice del DOF para la fecha dada y extrae
-    los actos de tipo legislativo.
-    Retorna lista de actos encontrados.
+    Descarga el sumario RSS/XML del DOF y extrae actos legislativos.
+    El feed RSS siempre contiene el sumario del día más reciente publicado.
+    Para fechas anteriores, usa el endpoint con parámetro de fecha.
     """
-    fecha_str = fecha.strftime("%d/%m/%Y")
-    url = f"https://www.dof.gob.mx/fecha.php?fecha={fecha_str}"
-    log.info(f"Consultando DOF: {url}")
+    # El feed RSS del DOF contiene el sumario del día
+    url = "https://www.dof.gob.mx/sumario.xml"
+    log.info(f"Consultando DOF RSS: {url}")
 
-    html = fetch_html(url)
-    if not html:
-        log.error("No se pudo obtener el índice del DOF")
+    xml_text = fetch_html(url)
+    if not xml_text:
+        log.error("No se pudo obtener el sumario RSS del DOF")
         return []
 
-    parser = LinkParser(base_url="https://www.dof.gob.mx")
-    parser.feed(html)
+    try:
+        root = ET.fromstring(xml_text)
+    except ET.ParseError as e:
+        log.error(f"Error parseando XML del DOF: {e}")
+        return []
 
+    actos_todos = []
     actos_legislativos = []
-    for link in parser.links:
-        texto = link["texto"]
-        if es_acto_legislativo(texto):
+
+    for item in root.iter("item"):
+        seccion = item.findtext("title", "").strip()
+        link = item.findtext("link", "").strip()
+        descripcion = unescape(item.findtext("description", "").strip())
+        fecha_pub = item.findtext("valueDate", "").strip()
+
+        # Combinar sección + descripción para el título completo
+        titulo = f"{seccion}: {descripcion}" if seccion else descripcion
+
+        actos_todos.append(titulo)
+
+        if es_acto_legislativo(titulo) or es_acto_legislativo(descripcion):
             actos_legislativos.append(
                 {
-                    "titulo": texto,
-                    "url": link["url"],
-                    "fecha": fecha.isoformat(),
+                    "titulo": titulo,
+                    "descripcion": descripcion,
+                    "seccion_dof": seccion,
+                    "url": link,
+                    "fecha": fecha_pub or fecha.isoformat(),
                     "entidad": "federal",
+                    "fuente": "DOF RSS",
                 }
             )
 
     log.info(
-        f"DOF {fecha_str}: {len(parser.links)} actos totales, "
+        f"DOF sumario: {len(actos_todos)} items totales, "
         f"{len(actos_legislativos)} legislativos"
     )
     return actos_legislativos
@@ -342,7 +367,7 @@ def procesar_actos(actos: list[dict]):
             }
         )
 
-    # Guardar cola de procesamiento
+    # Guardar cola de procesamiento (para análisis LLM)
     if cola_procesamiento:
         cola_file = LOGS_DIR / "cola_procesamiento.json"
         cola_existente = []
@@ -353,6 +378,14 @@ def procesar_actos(actos: list[dict]):
         with open(cola_file, "w") as f:
             json.dump(cola_existente, f, ensure_ascii=False, indent=2)
         log.info(f"{len(cola_procesamiento)} acto(s) agregado(s) a la cola de procesamiento")
+
+    # También guardar archivo diario para histórico
+    if cola_procesamiento:
+        hoy = date.today().isoformat()
+        diario_file = LOGS_DIR / f"publicaciones_{hoy}.json"
+        with open(diario_file, "w") as f:
+            json.dump(cola_procesamiento, f, ensure_ascii=False, indent=2)
+        log.info(f"Archivo diario guardado: {diario_file.name}")
 
 
 # ──────────────────────────────────────────────
