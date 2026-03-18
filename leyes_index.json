@@ -8214,8 +8214,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "&nbsp;",
-    "estado": "sin_url",
-    "fuente": "congresobc.gob.mx"
+    "estado": "excluido",
+    "fuente": "congresobc.gob.mx",
+    "estado_vigencia": "federal_no_estatal"
   },
   {
     "id": "bajacalifornia_ley_org193nica_defensor205a_p218blica_baja_california",
@@ -13668,7 +13669,7 @@
     "nombre": "Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_AUST_TRANSP_EN_REMUN_PREST_Y_EJERC_DE_REC_DE_LA_CIUDAD_DE_MEXICO_5.8.PDF",
+    "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_INGRESOS_2025.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "2abbe36d5367538ab7684b9f897cc2b7",
@@ -22526,6 +22527,141 @@
     "fuente": "congresocoahuila.gob.mx"
   },
   {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2005",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2005",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2005.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocoahuila.gob.mx",
+    "estado_vigencia": "documento_temporal"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2006",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2006",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2006.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocoahuila.gob.mx",
+    "estado_vigencia": "documento_temporal"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2007",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2007",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2007.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocoahuila.gob.mx",
+    "estado_vigencia": "documento_temporal"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2008",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2008",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2008.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocoahuila.gob.mx",
+    "estado_vigencia": "documento_temporal"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2009",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2009",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2009.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocoahuila.gob.mx",
+    "estado_vigencia": "documento_temporal"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2010",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2010",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2010.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocoahuila.gob.mx",
+    "estado_vigencia": "documento_temporal"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2011",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2011",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2011.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocoahuila.gob.mx",
+    "estado_vigencia": "documento_temporal"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2012",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2012",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2012.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocoahuila.gob.mx",
+    "estado_vigencia": "documento_temporal"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2013",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2013",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2013.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocoahuila.gob.mx",
+    "estado_vigencia": "documento_temporal"
+  },
+  {
     "id": "coahuila_presupuesto_egresos_coahuila_zaragoza_ejercicio_fiscal",
     "nombre": "Presupuesto de Egresos del Estado de Coahuila de Zaragoza, para el Ejercicio Fiscal 2014",
     "tipo": "Ley",
@@ -22538,6 +22674,21 @@
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "colima_ingresos_edo_2026",
+    "nombre": "Ingresos Edo 2026",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ingresos _Edo_2026.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocol.gob.mx",
+    "estado_vigencia": "documento_temporal"
   },
   {
     "id": "colima_nueva_ley_protecciondatospersonales_10_noviembre_2025",
@@ -22607,6 +22758,49 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_ingresos_edo_2024",
+    "nombre": "Ingresos Edo 2024",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ingresos _Edo_2024.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocol.gob.mx",
+    "estado_vigencia": "documento_temporal"
+  },
+  {
+    "id": "colima_ley_organica_fiscalia_general_colima",
+    "nombre": "Ley Organica de la Fiscalia General del Estado de Colima",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ley Organica de la Fiscalia General del Estado de Colima.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": "3f2fa6fd39228959d515c590beb7b013",
+    "ultima_descarga": "2026-03-15",
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_ley_promocion_desarrollo_agroecologico_colima",
+    "nombre": "Ley para la Promocion y Desarrollo Agroecologico en el Estado de Colima",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ley para la Promocion y Desarrollo Agroecologico en el Estado de Colima.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
     "fuente": "congresocol.gob.mx"
   },
   {
@@ -22691,6 +22885,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_cancer_infancia_adolescencia_25jun2022_2",
+    "nombre": "Cancer Infancia Adolescencia 25jun2022 (2)",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Cancer_Infancia_Adolescencia_25jun2022 (2).pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
     "fuente": "congresocol.gob.mx"
   },
   {
@@ -22960,6 +23168,20 @@
     "fuente": "congresocol.gob.mx"
   },
   {
+    "id": "colima_comision_busqueda_personas_colima",
+    "nombre": "Comision de Busqueda de personas del Estado de Colima",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Comision de Busqueda de personas del Estado de Colima.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
     "id": "colima_austeridad_colima_06mar2021",
     "nombre": "Austeridad Colima 06mar2021",
     "tipo": "Ley",
@@ -23170,6 +23392,20 @@
     "fuente": "congresocol.gob.mx"
   },
   {
+    "id": "colima_ley_atencio_espectro_autista",
+    "nombre": "LEY PARA LA ATENCIO ESPECTRO AUTISTA",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/LEY PARA LA ATENCIO_ESPECTRO_AUTISTA.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
     "id": "colima_movilidad_sustentable_11marzo2023",
     "nombre": "Movilidad Sustentable 11marzo2023",
     "tipo": "Ley",
@@ -23223,6 +23459,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_participacion_congreso_asuntos_municipales_22nov2016",
+    "nombre": "participacion congreso asuntos municipales 22NOV2016",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/participacion_congreso_asuntos_municipales 22NOV2016.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
     "fuente": "congresocol.gob.mx"
   },
   {
@@ -23394,6 +23644,20 @@
     "fuente": "congresocol.gob.mx"
   },
   {
+    "id": "colima_tortura_otros_tratos_crueles_04abril2015",
+    "nombre": "Tortura y otros Tratos Crueles 04abril2015",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Tortura_ y_otros_Tratos_Crueles_04abril2015.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
     "id": "colima_servicio_profesional_carrera_02may2015",
     "nombre": "servicio profesional carrera 02may2015",
     "tipo": "Ley",
@@ -23405,6 +23669,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_ley_protecc_29_02_2016",
+    "nombre": "LEY PARA LA PROTECC 29 02 2016",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/LEY PARA LA PROTECC_29_02_2016.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
     "fuente": "congresocol.gob.mx"
   },
   {
@@ -24206,6 +24484,20 @@
     "fuente": "congresocol.gob.mx"
   },
   {
+    "id": "colima_resolver_conflictos_limites_22nov2016",
+    "nombre": "resolver conflictos limites 22NOV2016",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/resolver_conflictos_limites 22NOV2016.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
     "id": "colima_ambiental_14diciembre2024",
     "nombre": "ambiental 14DICIEMBRE2024",
     "tipo": "Ley",
@@ -24357,6 +24649,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_trabajadores_servicio_gobierno_28febrero2026",
+    "nombre": "trabajadores servicio gobierno 28febrero2026",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/trabajadores _servicio_gobierno_28febrero2026.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
     "fuente": "congresocol.gob.mx"
   },
   {
@@ -27608,6 +27914,20 @@
     "fuente": ""
   },
   {
+    "id": "edomex_ley_sistema_anticorrupcion_mexico_pdf_word",
+    "nombre": "Ley del Sistema Anticorrupción del Estado de México y Municipios",
+    "tipo": "Ley",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/ley/vig/leyvig240.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/ley/doc/leyvig240.doc",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
     "id": "edomex_ley_trabajo_servidores_publicos_pdf_word",
     "nombre": "Ley del Trabajo de los Servidores Públicos del Estado y  Municipios",
     "tipo": "Ley",
@@ -28364,6 +28684,20 @@
     "fuente": ""
   },
   {
+    "id": "edomex_reglamento_ley_fomento_proteccion_maiz_nativo",
+    "nombre": "Reglamento de la Ley de Fomento y Protección del Maíz Nativo como Patrimonio Biocultural y Alimentario del Estado de México PDF WORD Tipo de ordenamiento: Reglamento de Ley Fecha de publicación: 07-06-2023 Fecha de última modificación: Sin reformas",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig833.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig833.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
     "id": "edomex_reglamento_libro_decimo_noveno_codigo_administrativo",
     "nombre": "Reglamento del Libro Décimo Noveno del Código Administrativo del Estado de México PDF WORD Tipo de ordenamiento: Reglamento de Ley Fecha de publicación: 02-05-2022 Fecha de última modificación: Sin reformas",
     "tipo": "Reglamento",
@@ -28935,6 +29269,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_titulo_quinto_codigo_financiero_mexico",
+    "nombre": "Reglamento del Título Quinto del Código Financiero del Estado de México y Municipios denominado \"Del Catastro\" PDF WORD Tipo de ordenamiento: Reglamento de Ley Fecha de publicación: 01-01-2009 Fecha de última modificación: 17-03-2023",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig117.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig117.doc",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
     "fuente": ""
   },
   {
@@ -29848,6 +30196,104 @@
     "fuente": ""
   },
   {
+    "id": "edomex_reglamento_interior_consejo_estatal_fomento_economico",
+    "nombre": "Reglamento Interior del Consejo Estatal de Fomento Económico y Competitividad PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 26-04-2023 Fecha de última modificación: Sin reformas",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig828.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig828.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interior_comision_impacto_estatal_pdf",
+    "nombre": "Reglamento Interior de la Comisión de Impacto Estatal PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 10-03-2023 Fecha de última modificación: Sin reformas",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig824.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig824.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interno_consejo_salud_mexico_pdf",
+    "nombre": "Reglamento Interno del Consejo de Salud del Estado de México PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 01-03-2023 Fecha de última modificación: Sin reformas",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig264.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig264.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interior_comision_estatal_energia_pdf",
+    "nombre": "Reglamento Interior de la Comisión Estatal de Energía PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 17-02-2023 Fecha de última modificación: Sin reformas",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig823.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig823.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interior_unidad_estatal_evaluacion_confianza",
+    "nombre": "Reglamento Interior de la Unidad Estatal de Evaluación de Confianza PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 08-02-2023 Fecha de última modificación: Sin reformas",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig822.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig822.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interior_archivo_general_mexico_pdf",
+    "nombre": "Reglamento Interior del Archivo General del Estado de México PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 03-02-2023 Fecha de última modificación: Sin reformas",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig821.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig821.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interno_instituto_mexiquense_discapacidad_pdf",
+    "nombre": "Reglamento Interno del Instituto Mexiquense para la Discapacidad PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 03-02-2023 Fecha de última modificación: Sin reformas",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig820.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig820.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
     "id": "edomex_reglamento_interior_centro_control_confianza_mexico",
     "nombre": "Reglamento Interior del Centro de Control de Confianza del Estado de México PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 02-02-2023 Fecha de última modificación: 23-05-2025",
     "tipo": "Reglamento",
@@ -29873,6 +30319,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interno_instituto_investigacion_fomento_artesanias",
+    "nombre": "Reglamento Interno del Instituto de Investigación y Fomento de las Artesanías del Estado de México PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 07-12-2022 Fecha de última modificación: 24/02/2023",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig204.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig204.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
     "fuente": ""
   },
   {
@@ -29957,6 +30417,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interno_instituto_investigacion_capacitacion_agropecuaria",
+    "nombre": "Reglamento Interno del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 24-03-2022 Fecha de última modificación: 14-02-2023",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig203.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig203.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
     "fuente": ""
   },
   {
@@ -30097,6 +30571,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interior_unidad_asuntos_internos_pdf",
+    "nombre": "Reglamento Interior de la Unidad de Asuntos Internos PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 15-09-2020 Fecha de última modificación: 14-04-2023",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig745.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig745.doc",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
     "fuente": ""
   },
   {
@@ -30492,6 +30980,20 @@
     "fuente": ""
   },
   {
+    "id": "edomex_reglamento_interior_universidad_digital_mexico_pdf",
+    "nombre": "Reglamento Interior de la Universidad Digital del Estado de México PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 29-03-2017 Fecha de última modificación: 08-02-2023",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig199.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig199.doc",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
     "id": "edomex_reglamento_interior_universidad_politecnica_atlautla_pdf",
     "nombre": "Reglamento Interior de la Universidad Politécnica de Atlautla PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 10-03-2017 Fecha de última modificación: 27-06-2023",
     "tipo": "Reglamento",
@@ -30601,6 +31103,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interno_colegio_estudios_hacendarios_mexico",
+    "nombre": "Reglamento Interno del Colegio de Estudios Hacendarios del Estado de México PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 03/11/2016 Fecha de última modificación: 25/01/2023",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig355.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig355.doc",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
     "fuente": ""
   },
   {
@@ -31315,6 +31831,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
+    "fuente": ""
+  },
+  {
+    "id": "edomex_reglamento_interno_centro_estatal_trasplantes_pdf",
+    "nombre": "Reglamento Interno del Centro Estatal de Trasplantes PDF WORD Tipo de ordenamiento: Reglamento Interior Fecha de publicación: 24-03-2023 Fecha de última modificación: Sin reformas",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig247.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig247.docx",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
     "fuente": ""
   },
   {
@@ -32088,6 +32618,20 @@
     "fuente": ""
   },
   {
+    "id": "edomex_reglamento_sesiones_consejo_consultivo_comision_derechos",
+    "nombre": "Reglamento de Sesiones del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México PDF WORD Tipo de ordenamiento: Poderes y Autónomos Fecha de publicación: 16-03-2017 Fecha de última modificación: 08-05-2023",
+    "tipo": "Reglamento",
+    "entidad": "edomex",
+    "url": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/vig/rglvig655.pdf",
+    "url_word": "//legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/rgl/doc/rglvig655.doc",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "pendiente",
+    "fuente": ""
+  },
+  {
     "id": "edomex_reglamento_interno_comision_derechos_humanos_mexico",
     "nombre": "Reglamento Interno de la Comisión de Derechos Humanos del Estado de México PDF WORD Tipo de ordenamiento: Poderes y Autónomos Fecha de publicación: 14-02-2017 Fecha de última modificación: 02-04-2025",
     "tipo": "Reglamento",
@@ -32526,7 +33070,7 @@
     "nombre": "Ley de Movilidad del Estado de Guanajuato y sus Municipios",
     "tipo": "Ley",
     "entidad": "guanajuato",
-    "url": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3673/LMEGM_REF_05Dic2025.pdf",
+    "url": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3694/LBAEGM_REF_31Diciembre2025.pdf",
     "url_word": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/word/3673/LMEGM_REF_05Dic2025.docx",
     "formato": "pdf",
     "ultimo_hash": "9011d868d93d52a7a8403ad7882a8e98",
@@ -33429,6 +33973,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2019-08-01",
     "estado": "ok",
+    "fuente": ""
+  },
+  {
+    "id": "guanajuato_ley_proteccion_a_abejas_desarrollo_apicola",
+    "nombre": "Ley para la Protección a las Abejas y el Desarrollo Apícola para el Estado de Guanajuato",
+    "tipo": "Ley",
+    "entidad": "guanajuato",
+    "url": "",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "2019-11-25",
+    "estado": "sin_url",
     "fuente": ""
   },
   {
@@ -35934,7 +36492,7 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "sin_url",
+    "estado": "excluido",
     "fuente": "congresohidalgo.gob.mx"
   },
   {
@@ -36229,6 +36787,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-12-11",
     "estado": "ok",
+    "fuente": "congresohidalgo.gob.mx"
+  },
+  {
+    "id": "hidalgo_ley_administracion_bienes_asegurados_decomisados_abandonados",
+    "nombre": "LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE HIDALGO",
+    "tipo": "Ley",
+    "entidad": "hidalgo",
+    "url": "https://congresohidalgo.gob.mx/acervo_legislativo/leyes/Contenido/../https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/17Ley para la Administracion de bienes asegurados.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
     "fuente": "congresohidalgo.gob.mx"
   },
   {
@@ -36782,7 +37354,7 @@
     "nombre": "LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO",
     "tipo": "Ley",
     "entidad": "hidalgo",
-    "url": "https://congresohidalgo.gob.mx/acervo_legislativo/leyes/../https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/51Ley de Justicia para Adolecentes del Estado de Hidalgo.pdf",
+    "url": "https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/Acuerdo med. el cual se declara la entrada en vigor del Cod. Procesal Penal y ref. a la Ley de Jus. Adol..pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "93ae578823ea6c049cd7742a4218545a",
@@ -36803,6 +37375,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-05-18",
     "estado": "ok",
+    "fuente": "congresohidalgo.gob.mx"
+  },
+  {
+    "id": "hidalgo_ley_auditoria_superior_hidalgovigencia_leer_articulos",
+    "nombre": "LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO.*Vigencia, leer artículos transitorios de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo",
+    "tipo": "Ley",
+    "entidad": "hidalgo",
+    "url": "https://congresohidalgo.gob.mx/acervo_legislativo/leyes/../https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/52Ley de la Auditoria Superior del Estado de Hidalgo.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "2016-12-31",
+    "estado": "fallido",
     "fuente": "congresohidalgo.gob.mx"
   },
   {
@@ -37335,6 +37921,20 @@
     "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-11-19",
     "estado": "ok",
+    "fuente": "congresohidalgo.gob.mx"
+  },
+  {
+    "id": "hidalgo_ley_transparencia_acceso_a_informacion_publica",
+    "nombre": "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL PARA EL ESTADO DE HIDALGO",
+    "tipo": "Ley",
+    "entidad": "hidalgo",
+    "url": "https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/82Ley de Transparencia y Acceso a la Informacion Publica Gubernamental para el Estado de Hidalgo.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "2016-12-31",
+    "estado": "fallido",
     "fuente": "congresohidalgo.gob.mx"
   },
   {
@@ -39194,7 +39794,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "446b0f3e10026da5be2930210ff7ec63",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "stjjalisco.gob.mx"
@@ -39208,7 +39808,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "446b0f3e10026da5be2930210ff7ec63",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "stjjalisco.gob.mx"
@@ -39222,7 +39822,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "446b0f3e10026da5be2930210ff7ec63",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "stjjalisco.gob.mx"
@@ -39236,7 +39836,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "446b0f3e10026da5be2930210ff7ec63",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "stjjalisco.gob.mx"
@@ -39250,7 +39850,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ab700801f5daf3d86e4d10f075b640c5",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39264,7 +39864,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "21291ba2606201faf3f96ef06b07da57",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39278,7 +39878,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "54aa277e5428fcc2f2d68bdf358b78f1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39292,7 +39892,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e269c5e9a04431c003ad5331a5c05c8a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39306,7 +39906,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "54aa277e5428fcc2f2d68bdf358b78f1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39320,7 +39920,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "54aa277e5428fcc2f2d68bdf358b78f1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39334,7 +39934,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "54aa277e5428fcc2f2d68bdf358b78f1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39348,7 +39948,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5191d2b1c5edb290713da8ebc5769c51",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39362,7 +39962,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "df3d6405c98964e4cac002b47c16d03b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39376,7 +39976,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e0ace6221af73cbee6fa67f73afc103b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39390,7 +39990,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d46ef72514dc53c430f92b7153c229e2",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39404,7 +40004,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d46ef72514dc53c430f92b7153c229e2",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39418,7 +40018,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d46ef72514dc53c430f92b7153c229e2",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39432,7 +40032,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "f4f8380d598034415118d4cab02db1c1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39446,7 +40046,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "25a3f88a662dad63d328e416bf690855",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39460,7 +40060,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "89d056cc845c6d66359209a02dab63a6",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39474,7 +40074,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0bfff15880c7e30635a9ed7f0eb59ec1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39488,7 +40088,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "afd63045212ea19c5cd37c5a831d6d91",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39502,7 +40102,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "cf21be5e87b6b9cd7c47411773bc6a06",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39516,7 +40116,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "25a3f88a662dad63d328e416bf690855",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39530,7 +40130,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "11884e388c11c0bb0e418524ee17532a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39544,7 +40144,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0bfff15880c7e30635a9ed7f0eb59ec1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39558,7 +40158,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0bfff15880c7e30635a9ed7f0eb59ec1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39572,7 +40172,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0ffeebaf4b55fe25fd3f84ee5be80507",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39586,7 +40186,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d515d3476cefd3e10482bff322837e30",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39600,7 +40200,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "92b4080d55ca9d6186a0392bb5cb2d80",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39614,7 +40214,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "55197391ec3d71ab10eacc878d830afc",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39628,7 +40228,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "92b4080d55ca9d6186a0392bb5cb2d80",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39642,7 +40242,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "21e077e93f0bdc8342de5f24c5c29add",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39656,7 +40256,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "eb54efb1b487c326512a5d1eaec05028",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39670,7 +40270,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d221aac9df0c34688e93ae07650b342b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39684,7 +40284,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "f03a07f062d25151fed80947725e1039",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39698,7 +40298,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "9492a02eba237dd7040d54e1ba387cbf",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39712,7 +40312,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "7bf000de6b3e35ac7845fa91d6211101",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39726,7 +40326,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "9ec6c21c4c06ab0c8b8fce876d21efc6",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39740,7 +40340,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "9c3d69914bd1e9c9b111216d80c19d07",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39754,7 +40354,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0b52470fcdb36f959e76464aedbe9b86",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39768,7 +40368,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "a86deaa2db1f900b2aa63d0cfdbb5d88",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39782,7 +40382,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e00e0174ffa32a670ff44cff65f7d16c",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39796,7 +40396,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "8b405b6cbe84529a85aa3b0a31d6cb56",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39810,7 +40410,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "a723db150770ebd75845c912f25f14dd",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39824,7 +40424,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "a723db150770ebd75845c912f25f14dd",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39838,7 +40438,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "b8faea3ae66d820f0edd11b5e1dd8511",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39852,7 +40452,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "4e3551be245a9d438c1d128de0730d48",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39866,7 +40466,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "bb40aeca9218f7da72c8b97d794d0deb",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39880,7 +40480,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "214e22c74e5bcc7e14437350eb3f6d4c",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39894,7 +40494,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "2a0c8ebf02dd327d6157ef00c3797d63",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39908,7 +40508,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "f65144b145c28745e1f06cef08913087",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39922,7 +40522,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "89e2eaa76b1c71653992dda7ba728d1e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39936,7 +40536,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3ff48fbd670636f7c9350d36992d1914",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39950,7 +40550,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0981ba1f5e9a7c221d60ff71ad09d7cd",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39964,7 +40564,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "07eebb6a8b69f3ccc17baf5fa5b85b93",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39978,7 +40578,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "fca7033efb817b78bc727df81ee4a407",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -39992,7 +40592,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "147de26dd329f2c63f18d188f7880f4b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40006,7 +40606,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ff33a2cdfc99a310d8f301686696e0c6",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40020,7 +40620,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5c08ab27db47b7b9c6412547a64ce703",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40034,7 +40634,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "1b5fca265e36f928fcabfe2f427f1938",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40048,7 +40648,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "98126b69d3ed4300af03d7820446e41c",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40062,7 +40662,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "462b116be4506f6bc497c50062df5fa6",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40076,7 +40676,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "c0879a5a16c370599e09e5e1b1b0709f",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40090,7 +40690,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "44d3d82bc4e807f10cab173541e97d3b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40104,7 +40704,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d9df7d888e77f2a8e981857722e84ee4",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40118,7 +40718,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "990ba9a3749c9b11362520b67975b17d",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40132,7 +40732,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "630818ec7c55df47fbaea16d5ab0995f",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40146,7 +40746,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "b1482104a36a30f4f67ca82092cf2079",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40160,7 +40760,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "aa86960e023aa26e84c06eca1401610a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40174,7 +40774,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "b32743bf98be871c8e7e2b922ebade3c",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40188,7 +40788,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e3e03700e2658349e0b587bbadb16979",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40202,7 +40802,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0c317c1dbecce9a17a5b7814ddd95b7b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40216,7 +40816,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "58c09397b1436157de1abe8f32f174d2",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40230,7 +40830,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "470b0ec4a7bb993da33daf06ec0d8477",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40244,7 +40844,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5b7099183efdc493a2153aaf2325726e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40258,7 +40858,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5b7099183efdc493a2153aaf2325726e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40272,7 +40872,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5b7099183efdc493a2153aaf2325726e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40286,7 +40886,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "452441b6cbfb110fb8e2e5a0117d4039",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40300,7 +40900,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3013024710d3c4dba3ce63b99b4e03bc",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40314,7 +40914,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "a4eb1938c32fae5aee26ac6f2a8cae69",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40328,7 +40928,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "7a3adcafe8436d5eb9113d7629cf6e69",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40342,7 +40942,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e4e9429d672551237b4d279131233390",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40356,7 +40956,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "a5bd1c0afddd9ff82376d86cdaf5e0cf",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40370,7 +40970,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "70092ce60da1c453ccf69f284c34ae4f",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40384,7 +40984,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ca4a7e3f88bc7eae9061b4ea8b9ec1b1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40398,7 +40998,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "252dbd2f40a488fc4a717317b828bdef",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40412,7 +41012,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ff458e5546fe059cf893695e398bc4f3",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40426,7 +41026,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "74a019fb8470627c089fc082f64d2558",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40440,7 +41040,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "c53d9643f0b2045c9a6ea937e0bfdcd5",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40454,7 +41054,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "4417afb92a3d72965b4cca5a51f9608e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40468,7 +41068,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "f4a43b8676f6860f2b2d2d36a799ccba",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40482,7 +41082,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "f3c084e14428388415ea5d5ba55ea8e5",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40496,7 +41096,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "aa7e72e33af03d66f72c6cf135b72db7",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40510,7 +41110,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "a88436ae00e34b7351826e81dfe79280",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40524,7 +41124,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "57b4de9cef3394d3206d8c3530214106",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40538,7 +41138,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "740c848fc2ae9189ed2a0467f4e0c4ad",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40552,7 +41152,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "b2a51cd916dc8f9517235b1d3774023f",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40566,7 +41166,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "15a416034b0085c328323b0a81ba1bb8",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40580,7 +41180,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "063357f8ca9e8654531af118b73a78c0",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40594,7 +41194,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "c9b163912cc0d3744702195ddf0e752f",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresomich.gob.mx"
@@ -40608,7 +41208,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "2231b187c76e49a52b9ecd1de381c495",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-09-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40622,7 +41222,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "293f4dfba5cafa26e31127c1cb9f0cd3",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-10-15",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40636,7 +41236,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3084ebf7589e738e1716190f9d3d7d58",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-09-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40650,7 +41250,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "7d548baeb521a104a54bc85d5a98315b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-09-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40664,7 +41264,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "438a627dd7554521b7bb0eb8d4902b7e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-09-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40678,7 +41278,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3243b83d2274937d663d13b7645a0895",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-10-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40692,7 +41292,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d50b18923f45e7ae182505521e318d06",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40706,7 +41306,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "7b479b9ee8fbef1ba030e33812fa7155",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-09-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40720,7 +41320,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d940b65380d7af20094553ccec4cdbbb",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2014-03-05",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40734,7 +41334,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3eae716b3e6bb73435eac44fe4ed218a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-12-31",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40748,7 +41348,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0e38f7a6364cdac545de886b3b471626",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-03-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40762,7 +41362,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "c970010549403ef03a1a85509d9894de",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-03-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40776,7 +41376,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "81c64023d0279f9b760dae017c7ebb0a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-03-02",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40790,7 +41390,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "111eff1b103b02d514dcbd7188cdc61e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-07-29",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40804,7 +41404,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "4e2fae9dfadb3ebf883e24f442369bd2",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-05-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40818,7 +41418,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ba50b79293bc17e95f1f4decd599d272",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40832,7 +41432,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "cdb506768c3a732988dd259457c889f1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2019-04-10",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40846,7 +41446,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "f3e49d5701ad0a706710ca7b6cd9304e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-05-15",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40860,7 +41460,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "9cb3fc1e375c1ed5e2a0e5008181e8a1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-04-09",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40874,7 +41474,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "085822adbb8a0df5edd07cd099113d99",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2023-12-20",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40888,7 +41488,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0c721baa430074fcd9066641cdb1265e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-07-31",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40902,7 +41502,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "64af9f0c1412e021e3d6c672e2613ed3",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2023-07-12",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40916,7 +41516,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "9c959b56e95d4828b7ab3ba2ce64d81d",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-01-21",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40930,7 +41530,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "cf37495de58340752a3acbe19329a123",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-02-18",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40944,7 +41544,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5d9f8019a2036ebc62de7a8b99adb6b3",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-10-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40958,7 +41558,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "bdd923c641084b6f16d6603f34d1a03a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-04-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40972,7 +41572,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3e3180ecbe3f51c2c912f9f59e35c352",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-07-31",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -40986,7 +41586,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "079b824535c048ecd4a4ae9268d96224",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-09-04",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41000,7 +41600,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "61cb887014b7b711aad1cfa04de3937a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-09-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41014,7 +41614,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "a4ac0f107cd7b28af5069f8f312171db",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41028,7 +41628,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "bfc34ac938a268bedc0f7a93c561fc70",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-09-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41042,7 +41642,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "4ec3ceff8e40b24eed80ea5ea3d8107b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2014-11-12",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41056,7 +41656,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e84d3ca3f1d74506a8d6e88064c6c08a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-04-09",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41070,7 +41670,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0e3230a078e100ed955dfd0a334bcef8",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-08-19",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41084,7 +41684,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "956006ffd1434008abb7d27796ec1472",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-10-15",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41098,7 +41698,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "49d2915c6047582377c6f3669cf2f2ee",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2021-06-16",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41112,7 +41712,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "7d1832952fd00c7e1a8b8ba55b1635de",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-07-31",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41126,7 +41726,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "25a3ba49eab056aa323f4a2826c21853",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2023-12-20",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41140,7 +41740,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3bb6c352ccc8807c6f607c3090491c6c",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2013-10-09",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41154,7 +41754,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "92b1c3b6b1e89f134607c7296e7cd0aa",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-03-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41168,7 +41768,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "2795c61d1800e18b62111453396c4c0b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2021-01-27",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41182,7 +41782,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "c4cfb289677ba7f36359504d4938969b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-09-04",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41196,7 +41796,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "7f48f919a7713fd82d44437643df12f6",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2018-08-31",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41210,7 +41810,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "2876427900ba255000a81fc12dc9b32c",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-09-30",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41224,7 +41824,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5a5bdc1b631a0354a63be67074ae567c",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-02-11",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41238,7 +41838,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5ac0e1ee1458655e02c237433ddb5231",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-03-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41252,7 +41852,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "02e211bef48f1d0efa57c3739c0c4cc8",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41266,7 +41866,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "218a5d77c6130aeff208a0ee60a334c6",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-09-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41280,7 +41880,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "c8e1fb3c776d1d3e993cea5e292c1b7a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-07-31",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41294,7 +41894,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5d47eaf0eda2be831a1d9e0d62ea0e3c",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2022-08-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41308,7 +41908,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "b7649dd95cd2d683ed89ff7757a0f398",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41322,7 +41922,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "70aba9e7c0c0b66d954f3d754791cd4b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-09-30",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41336,7 +41936,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "c31135fa620b08fdb8c616428aab0460",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-09-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41350,7 +41950,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "80f449fb8cfd82818ac1543bf2212412",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41364,7 +41964,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "cbbe69da1677683856d2b81b28fb8cf6",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-03-04",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41378,7 +41978,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "45b65fe195da390ad0b12841e27b7e18",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41392,7 +41992,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "9bb0a86f0e0e1733705ea4efb5f742f4",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-03-02",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41406,7 +42006,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "90f92837e6f2d2c332458dafa7b96103",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2023-02-08",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41420,7 +42020,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "1788d22af215ef067bfea46b23fd5dec",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41434,7 +42034,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e94db40d7dd2c3a2fd14435e9e4147e0",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2018-03-21",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41448,7 +42048,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "b7a0ec10a87478f59fb417965b27ddfc",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-12-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41462,7 +42062,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "64f454022c448f99c60f5eff31d0f7bd",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-07-31",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41476,7 +42076,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "cd79633bee082a18f813dc85f62d9150",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2016-06-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41490,7 +42090,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "4b366c6e75bd1bf3c456d9624b57e3a0",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-10-15",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41504,7 +42104,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "f2e45f2aba282c064994d70537b52b24",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-03-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41518,7 +42118,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3537b31a49aa626e0fb167ab7a512216",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-02-28",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41532,7 +42132,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "470a1c082d89239f8cc351fe06f80444",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-02-18",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41546,7 +42146,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "10a4c708d71bcaf5291d5b8a8cdd7ea9",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-02-18",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41560,7 +42160,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "42718effa318e1399770552c5b4aed6a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41574,7 +42174,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e098435d85057b64537f8346d3c1e9a2",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41588,7 +42188,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "8080e81804a4889c89e5524f5afc003e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41602,7 +42202,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5ba584ee6cc815541aa110e0c6ed4a77",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-03-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41616,7 +42216,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "09734de8ec4f543f1398d99aec8311da",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-10-15",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41630,7 +42230,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "a13c4c3876ff2aed1553bc4226ae4bc4",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41644,7 +42244,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "7b4e53dc0b327ef6ceb93b7317d2e69e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-07-16",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41658,7 +42258,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "a73e461eac6de291b05fdad75b4df3d1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-02-03",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41672,7 +42272,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5668a999a693aade84f67ae72bf1456b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41686,7 +42286,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3bbe94b095c60d53744b0890f528bdd5",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-07-29",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41700,7 +42300,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0e5ad35293842acaaf80f27a3d25aad2",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41714,7 +42314,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d97b1bb1a16ba6a3e45a2b2d51507cde",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-05-15",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41728,7 +42328,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "5cc06216fb3cfacb545725af77450ecd",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-02-28",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41742,7 +42342,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "f2eb503bcb6e7bc6fd92a261c861e66d",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2019-09-26",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41756,7 +42356,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "fe44fb9d2af0129ee528aa5eb617510a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41770,7 +42370,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "64a12de13e5e59380da2d47c379195ce",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-04-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41784,7 +42384,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "1a5147b202821a2ac4b9e34d7b99dbb2",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2023-10-18",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41798,7 +42398,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "9006709bee8cfbc37ff52780a9d57440",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-09-04",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41812,7 +42412,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "7297a45cde3f9cadae126d841af746a7",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-03-18",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41826,7 +42426,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3566ade8f17d19f291c953b9f3eb68b5",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-03-02",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41840,7 +42440,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "aa477f6a835d2f515f0c5071e2327ed9",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-12-11",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41854,7 +42454,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "72a74771b110b21728b5b4b77262baa4",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41868,7 +42468,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "79740fbe8d8262db6205d7fa1a3c9143",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-03-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41882,7 +42482,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "2dab89a86b4c8a27b83aef8a820fe730",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-12-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41896,7 +42496,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "72ab04192b300385f5d4ae3938fb42ee",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2019-04-10",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41910,7 +42510,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "8e291f382c431cc79375894be3b7dc68",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-03-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41924,7 +42524,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "6bbfdf5e133382c7a99f455d27b30948",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-02-14",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41938,7 +42538,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "919957ac51817f1c2a54fb723fa7e67d",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2020-04-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41952,7 +42552,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e65e7d528b0e993b366a4cb64fcf2743",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-07-19",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41966,7 +42566,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "0981a567b336e9b645e0fc0674f3b193",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-10-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41980,7 +42580,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "54e93dd64b7e4dbfd094ccceb810f18a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-09-04",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -41994,7 +42594,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d2390e274c666df75ff61b50d4c20adf",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-03-02",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42008,7 +42608,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "43bba94b639ff091fa6d7fc49ff09be9",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-03-02",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42022,7 +42622,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "99aebe572c6f907c6e0f28abd3f9381b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-02-03",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42036,7 +42636,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "dd065e7757653ced268aa49069a81f7a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-09-04",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42050,7 +42650,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "214de76e800a1cde5a956bd68ab7187b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-01-28",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42064,7 +42664,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ba197aeec233e96ee9ff6cfe31f55985",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-01-25",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42078,7 +42678,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ef344061fa7366fa3e10f870ecb19a21",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42092,7 +42692,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e401337c4088089026dd791d4971524b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42106,7 +42706,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "1809b1fd6b44221c3406e9db90a8567b",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-10-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42120,7 +42720,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "61daa8b9e613887aa5ac01bf73d8fff9",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-09-04",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42134,7 +42734,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "6ef7527701be4aaddfca986885732aa5",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-06-14",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42148,7 +42748,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "44f2ef72bdf24eff084ed65a54e0aa99",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42162,7 +42762,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "22a31893ad3f4a43693f89d2ab8a334e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-03-09",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42176,7 +42776,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "7b4bdc7de944b051ddfb9cdc890bef91",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-11-12",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42190,7 +42790,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "498469e1f3c84ffbaf23049deb3839da",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42204,7 +42804,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "339810f9d2ddb113cbfe0b1957724032",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-10-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42218,7 +42818,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "097a6da61d29f1f5839fb31da1c30d0a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42232,7 +42832,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "1d5da2d4b753280d2ffebabf72deb18f",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42246,7 +42846,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "907333ed0e9bc22123a0ac4ce7f52290",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-02-18",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42260,7 +42860,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "bbabde10db3f18ff60c60544f0a60586",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2018-06-06",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42274,7 +42874,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "b057ab572bf401be9c21f930f3af6071",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42288,7 +42888,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "4e24099bb86ee4eea2d711de41812624",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-04-22",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42302,7 +42902,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "87e026b65a0ad154be9e3d816fb36b2f",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2024-03-06",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42316,7 +42916,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "dbe2f2bd8464be394829a7ac96774eb8",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42330,7 +42930,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "047d5bfd6285baf6cdd31f1e2833ef07",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2023-02-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42344,7 +42944,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d32f8a077f562ec5f955530861a3aaf6",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2025-10-15",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42358,7 +42958,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "4801ac4043d6e99e44d0f092ce63f5f2",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-03-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42372,7 +42972,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "1f82b6ae58cde05ad24aacb7e16a9bb6",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2021-04-21",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42386,7 +42986,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d7d5fb7b27a49e1b5118d60868c46364",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2014-03-26",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42400,7 +43000,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "48520228b7723bc57599a04f8ea32d2e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-03-08",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42414,7 +43014,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "e4db45894122c05cd1b9888a5e4a51cd",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2022-08-24",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42428,7 +43028,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "f1bd8eb66c499110653786ce0c960421",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2012-10-15",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42442,7 +43042,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "371f4b91864929b1a87f31ded56e55f7",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2020-12-31",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42456,7 +43056,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ef689d190fad1302c812301892ce4b09",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42470,7 +43070,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "8c8893fdc08eab0ebaff9c32e0cd6c79",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2022-11-30",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42484,7 +43084,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "eab1b3593652face9938d482dda0f87c",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42498,7 +43098,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ec7db02ed7e94049a0a5db98c86ec100",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-02-18",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42512,7 +43112,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "620383ab189d4f9fc22b946886f5f1c5",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2017-07-16",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42526,7 +43126,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "46215f317b5507f767814077b5a4de3a",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2026-02-18",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42540,7 +43140,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d320b8d9fd0fc32c065360473a3baf95",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "2015-04-01",
     "estado": "ok",
     "fuente": "marcojuridico.morelos.gob.mx"
@@ -42554,7 +43154,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "739922229d79ff8725de1098eb6f7a73",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresonayarit.gob.mx"
@@ -42568,7 +43168,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "af86d6bf95ce986561b2a7535fe0b4f8",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresonayarit.gob.mx"
@@ -42581,8 +43181,8 @@
     "url": "https://congresonayarit.gob.mx/wp-content/uploads/QUE_HACEMOS/LEGISLACION_ESTATAL/leyes/acceso_de_las_mujeres_a_una_vida_libre_de_violencia_para_el_estado_de_nayarit_ley_de.pdf",
     "url_word": "",
     "formato": "pdf",
-    "ultimo_hash": "0897466d86fcd966be6b12bf3d57e8ef",
-    "ultima_descarga": "2026-03-17",
+    "ultimo_hash": "3b8f597874bd1bb317d03f46aa1f73d0",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresonayarit.gob.mx"
@@ -42596,7 +43196,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "00aa0e268460d480404fdfc1b05d015f",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresonayarit.gob.mx"
@@ -42610,7 +43210,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "148aa0299bef74b6c0039b3d0877af03",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresonayarit.gob.mx"
@@ -42624,7 +43224,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "177d0c5e6d9f99fb9c74a9b38f5c25d3",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresonayarit.gob.mx"
@@ -42638,7 +43238,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "3f1680aa196116e194cfe729b8acbf73",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresonayarit.gob.mx"
@@ -42652,7 +43252,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "8b0b6f23d28707015ef0246da17fa7b2",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresonayarit.gob.mx"
@@ -42666,7 +43266,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "4876f80b76866ef6e833255e213ed97e",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresonayarit.gob.mx"
@@ -42680,7 +43280,7 @@
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ff3b66f2c6d0404b485356d7d51c5ed1",
-    "ultima_descarga": "2026-03-17",
+    "ultima_descarga": "2026-03-18",
     "ultima_reforma": "",
     "estado": "ok",
     "fuente": "congresonayarit.gob.mx"
@@ -45486,6 +46086,20 @@
     "fuente": ""
   },
   {
+    "id": "nuevoleon_ley_sistema_estatal_anticorrupcion",
+    "nombre": "LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN",
+    "tipo": "Ley",
+    "entidad": "nuevoleon",
+    "url": "",
+    "url_word": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DEL%20SISTEMA%20ESTATAL%20ANTICORRUPCION%20PARA%20EL%20ESTADO%20DE%20NUEVO%20LEON.docx?2022-09-%206",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "sin_url",
+    "fuente": ""
+  },
+  {
     "id": "nuevoleon_ley_fomento_sociedad_civil_organizada",
     "nombre": "LEY DE FOMENTO DE LA SOCIEDAD CIVIL ORGANIZADA PARA EL ESTADO DE NUEVO LEÓN",
     "tipo": "Ley",
@@ -46760,6 +47374,20 @@
     "fuente": "congresooaxaca.gob.mx"
   },
   {
+    "id": "oaxaca_decreto_establece_bases_factores_distribucion_montos",
+    "nombre": "Decreto que establece las bases, factores de distribución, montos estimados y plazos para el pago de participaciones fiscales federales a los municipios del Estado de Oaxaca, para el ejercicio fiscal 2015.",
+    "tipo": "Decreto",
+    "entidad": "oaxaca",
+    "url": "https://www.congresooaxaca.gob.mx/www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Decreto_que_establece_las_bases__factores_de_distribuci%c3%b3n__montos_estimados_y_plazos_para_el_pago_de_participaciones_fiscales_federales_.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "2005-03-22",
+    "estado": "fallido",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
     "id": "oaxaca_ley_adopciones_oaxaca",
     "nombre": "Ley de Adopciones del Estado de Oaxaca.",
     "tipo": "Ley",
@@ -47278,6 +47906,20 @@
     "fuente": "congresooaxaca.gob.mx"
   },
   {
+    "id": "oaxaca_ley_fomento_promocion_uso_bicicleta_zonas",
+    "nombre": "Ley de Fomento y Promoción del Uso de la Bicicleta en las Zonas Metropolitanas del Estado de Oaxaca.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url": "https://www.congresooaxaca.gob.mx/www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Fomento_y_Promoci%c3%b3n_del_Uso_de_la_Bicicleta_en_las_Zonas_Metropolitanas_del_Estado_de_Oaxaca..pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "",
+    "estado": "fallido",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
     "id": "oaxaca_ley_hacienda_municipal_oaxaca",
     "nombre": "Ley de Hacienda Municipal del Estado de Oaxaca.",
     "tipo": "Ley",
@@ -47527,6 +48169,20 @@
     "ultima_descarga": "2026-03-17",
     "ultima_reforma": "2005-09-01",
     "estado": "ok",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_corporacion_oaxaquena_radio_television",
+    "nombre": "Ley de la Corporación Oaxaqueña de Radio y Televisión.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url": "https://www.congresooaxaca.gob.mx/www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_deLey_de_la_Corporacion_Oaxaqueña_de_Radio_y_Television_(Dto_Ref_735_Aprob_LXVI_Legis_5_agosto_2025_PO_36_11a_secc_6_septiembre_2025).pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "2025-09-06",
+    "estado": "fallido",
     "fuente": "congresooaxaca.gob.mx"
   },
   {
@@ -48339,6 +48995,20 @@
     "ultima_descarga": "2026-03-17",
     "ultima_reforma": "2022-10-15",
     "estado": "ok",
+    "fuente": "congresooaxaca.gob.mx"
+  },
+  {
+    "id": "oaxaca_ley_sistema_estatal_combate_a_corrupcion",
+    "nombre": "Ley del Sistema Estatal de Combate a la Corrupción.",
+    "tipo": "Ley",
+    "entidad": "oaxaca",
+    "url": "https://www.congresooaxaca.gob.mx/www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Sistema_Estatal_de_Combate_a_la_Corrupcion_(Ref_dto_1475_aprob_LXV_Legis_12_julio_2023_PO_30_10a_secc_29_julio_2023).pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "2023-07-23",
+    "estado": "fallido",
     "fuente": "congresooaxaca.gob.mx"
   },
   {
@@ -49528,8 +50198,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "congresooaxaca.gob.mx"
+    "estado": "excluido",
+    "fuente": "congresooaxaca.gob.mx",
+    "estado_vigencia": "documento_temporal"
   },
   {
     "id": "oaxaca_ramo_33_distribucion_recursos_fondos_aportaciones",
@@ -56836,8 +57507,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_transparencia_acceso_a_infomacion_publica",
@@ -57718,8 +58390,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_responsabilidad_patrimonial_sinaloa",
@@ -57732,8 +58405,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_estatal_combatir_prevenir_sancionar_trata",
@@ -57746,8 +58420,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_crea_fondo_apoyo_a_procuracion",
@@ -57760,8 +58435,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_presupuesto_contabilidad_gasto_publico_sinaloa",
@@ -57774,8 +58450,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "documento_temporal"
   },
   {
     "id": "sinaloa_ley_hospital_pediatrico_sinaloa",
@@ -57788,8 +58465,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_justicia_adolescentes_sinaloa",
@@ -57802,8 +58480,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_acceso_a_informacioacuten_puacuteblica_sinaloa",
@@ -57816,8 +58495,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_desarrollo_urbano_sinaloa",
@@ -57830,8 +58510,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_organica_defensoria_oficio_sinaloa",
@@ -57844,8 +58525,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_organica_procuraduria_general_justicia_sinaloa",
@@ -57858,8 +58540,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_organica_universidad_occidente",
@@ -57872,8 +58555,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_organica_instituto_oceanologico_pacifico",
@@ -57886,8 +58570,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_crea_instituto_vivienda_sinaloa",
@@ -57900,8 +58585,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sinaloa_ley_prevenir_atender_vlolencia_intrafamiliar_sinaloa",
@@ -57914,8 +58600,9 @@
     "ultimo_hash": null,
     "ultima_descarga": null,
     "ultima_reforma": "",
-    "estado": "pendiente",
-    "fuente": "iip.congresosinaloa.gob.mx"
+    "estado": "excluido",
+    "fuente": "iip.congresosinaloa.gob.mx",
+    "estado_vigencia": "posiblemente_abrogada"
   },
   {
     "id": "sonora_codigo_civil_sonora",
@@ -74400,7 +75087,7 @@
     "nombre": "CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN",
     "tipo": "Código",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/16e5c95db63b190a1b8ab32a772fc24a_2025-07-28.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "fbfb5053ff21059840f121e2e3e63bd6",
@@ -74414,7 +75101,7 @@
     "nombre": "CÓDIGO PENAL DEL ESTADO DE YUCATÁN",
     "tipo": "Código",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/60f579cd1bca0d02fb7c2d5b5502d07a_2026-01-29.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "d9005870ce1d7f70948ace763bf78589",
@@ -74428,7 +75115,7 @@
     "nombre": "CÓDIGO DE PROCEDIMIENTOS EN MATERIA PENAL DEL ESTADO DE YUCATÁN. (Abrogado el 22 de septiembre de 2015, de conformidad con el Decreto 233-2014 publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 29 de noviembre de 2014.)",
     "tipo": "Código",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/8a2fc7c5d692fbd7edc40459d8809ad3.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "93c2ecd38bfffa41e390fb7772762432",
@@ -74442,7 +75129,7 @@
     "nombre": "CÓDIGO DE PROCEDIMIENTOS CIVILES DE YUCATÁN",
     "tipo": "Código",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/8a2fc7c5d692fbd7edc40459d8809ad3.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "93c2ecd38bfffa41e390fb7772762432",
@@ -74456,7 +75143,7 @@
     "nombre": "CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE YUCATÁN",
     "tipo": "Código",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/8a2fc7c5d692fbd7edc40459d8809ad3.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "93c2ecd38bfffa41e390fb7772762432",
@@ -74470,7 +75157,7 @@
     "nombre": "CÓDIGO CIVIL DEL ESTADO DE YUCATÁN",
     "tipo": "Código",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/ca9da342d9e6c5faf13d9e39e9ec6591_2022-06-10.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "12d9a336b2862258a53e45593ef78811",
@@ -74484,7 +75171,7 @@
     "nombre": "CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN",
     "tipo": "Código",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/d474fca229d7858e2f1156c9c626a090_2024-08-02.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "f25ec7c9b3a04de900b6411ab388ef2d",
@@ -74498,7 +75185,7 @@
     "nombre": "CÓDIGO PROCESAL PENAL PARA EL ESTADO DE YUCATÁN. (Abrogado el 22 de septiembre de 2015, de conformidad con el Decreto 233-2014 publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 29 de noviembre de 2014.)",
     "tipo": "Código",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/fd568a592fba2906fe9fa71947daf050.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "7254a3d93045ac9497c4ce659718ca96",
@@ -74512,7 +75199,7 @@
     "nombre": "CÓDIGO FISCAL DEL ESTADO DE YUCATÁN",
     "tipo": "Código",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/5c6e68c9b7bea85e9384441c5a6e73ac_2024-01-03.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "593d3b55930797ea0ce9784a39a66c80",
@@ -74522,11 +75209,25 @@
     "fuente": "congresoyucatan.gob.mx"
   },
   {
+    "id": "yucatan_reglamento_ley_fiscalizacion_cuenta_publica_yucatan",
+    "nombre": "REGLAMENTO DE LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN",
+    "tipo": "Reglamento",
+    "entidad": "yucatan",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/reglamentos/c31b03_REGLAMENTO AUDITORÍA.pdf",
+    "url_word": "",
+    "formato": "pdf",
+    "ultimo_hash": null,
+    "ultima_descarga": null,
+    "ultima_reforma": "2011-11-11",
+    "estado": "sin_url",
+    "fuente": "congresoyucatan.gob.mx"
+  },
+  {
     "id": "yucatan_reglamento_ley_gobierno_poder_legislativo_yucatan",
     "nombre": "REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN",
     "tipo": "Reglamento",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/reglamentos/39071312e619564c829796c0e6bf39e1_2026-01-15.pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "ceaa66138d701cce812d548f957daf9b",
@@ -74540,7 +75241,7 @@
     "nombre": "REGLAMENTO DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN",
     "tipo": "Reglamento",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/reglamentos/b2d805_REGLAMENTO-INSTI-INVEST (Últ ref 30-09-16).pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "94a733b54e1d8855d3ab483f02e78ee0",
@@ -74554,7 +75255,7 @@
     "nombre": "REGLAMENTO INTERIOR DE LA UNIDAD DE VIGILANCIA Y EVALUACIÓN DE LA ASEY",
     "tipo": "Reglamento",
     "entidad": "yucatan",
-    "url": "",
+    "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/reglamentos/6c8796_REGLAMENTO ASEY (ultima ref 1-mzo-19).pdf",
     "url_word": "",
     "formato": "pdf",
     "ultimo_hash": "69b51356e973e0405b32b7faee5bbca3",
