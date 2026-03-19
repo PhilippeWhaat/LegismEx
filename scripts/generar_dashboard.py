@@ -174,7 +174,9 @@ def recopilar_datos() -> dict:
 # ──────────────────────────────────────────────
 
 def generar_html(datos: dict) -> str:
-    datos_json = json.dumps(datos, ensure_ascii=False, default=str)
+    # Escape </script> sequences to prevent script tag breakout (XSS)
+    datos_json = json.dumps(datos, ensure_ascii=False, default=str).replace(
+        '</script>', '<\\/script>').replace('</Script>', '<\\/Script>')
 
     return f'''<!DOCTYPE html>
 <html lang="es">
@@ -614,6 +616,13 @@ tr:hover td {{ background: var(--wine-bg); }}
   .hero {{ padding: 2.5rem 1rem; }}
 }}
 
+/* ── Embed mode (hide chrome when loaded inside iframe) ── */
+.embed-mode .header,
+.embed-mode .hero,
+.embed-mode .footer {{ display: none !important; }}
+.embed-mode .section:first-of-type {{ padding-top: 2rem; }}
+.embed-mode {{ overflow: hidden !important; height: auto !important; }}
+
 /* ── Animations ─────────────────── */
 @keyframes fadeUp {{
   from {{ opacity: 0; transform: translateY(20px); }}
@@ -664,6 +673,16 @@ tr:hover td {{ background: var(--wine-bg); }}
 </style>
 </head>
 <body>
+<script>
+if (new URLSearchParams(window.location.search).has('embed')) {{
+  document.body.classList.add('embed-mode');
+  function notifyHeight() {{
+    window.parent.postMessage({{ type: 'dashboard-height', height: document.documentElement.scrollHeight }}, '*');
+  }}
+  window.addEventListener('load', notifyHeight);
+  new ResizeObserver(notifyHeight).observe(document.body);
+}}
+</script>
 
 <!-- Header -->
 <header class="header">
@@ -725,7 +744,7 @@ tr:hover td {{ background: var(--wine-bg); }}
       </div>
       <div class="card">
         <div class="card-title">Top 15 Entidades por Volumen</div>
-        <div class="chart-container">
+        <div class="chart-container" style="max-height:none;">
           <canvas id="chart-top-entidades"></canvas>
         </div>
       </div>
@@ -838,6 +857,10 @@ tr:hover td {{ background: var(--wine-bg); }}
 <script>
 const D = {datos_json};
 
+// ── XSS sanitization ──
+function esc(s) {{ if (s == null) return ''; return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }}
+function escUrl(u) {{ if (u == null) return ''; const s = String(u).trim(); if (/^https?:\\/\\//i.test(s)) return esc(s); return ''; }}
+
 // ── Populate stats ──
 document.getElementById('fecha-gen').textContent = new Date(D.fecha_generacion).toLocaleString('es-MX');
 document.getElementById('s-total').textContent = D.total_leyes.toLocaleString();
@@ -903,10 +926,11 @@ new Chart(document.getElementById('chart-top-entidades'), {{
   options: {{
     responsive: true,
     maintainAspectRatio: true,
+    aspectRatio: 1.2,
     indexAxis: 'y',
     scales: {{
       x: {{ stacked: true, grid: {{ color: 'rgba(0,0,0,0.05)' }} }},
-      y: {{ stacked: true, ticks: {{ font: {{ size: 11 }} }} }}
+      y: {{ stacked: true, ticks: {{ font: {{ size: 12 }}, autoSkip: false, padding: 4 }} }}
     }},
     plugins: {{
       legend: {{ position: 'top', labels: {{ font: {{ family: "'Inter'", size: 11 }} }} }}
@@ -944,17 +968,17 @@ function renderTable(data) {{
   tbody.innerHTML = data.map(e => {{
     const barColor = e.pct >= 95 ? 'green' : e.pct >= 80 ? 'wine' : 'gold';
     return `<tr>
-      <td><strong>${{e.nombre}}</strong></td>
-      <td>${{e.total}}</td>
-      <td>${{e.con_url}}</td>
-      <td>${{e.descargadas}}</td>
+      <td><strong>${{esc(e.nombre)}}</strong></td>
+      <td>${{Number(e.total) || 0}}</td>
+      <td>${{Number(e.con_url) || 0}}</td>
+      <td>${{Number(e.descargadas) || 0}}</td>
       <td><div class="bar-cell">
-        <span class="pct">${{e.pct}}%</span>
-        <div class="bar"><div class="bar-fill ${{barColor}}" style="width:${{e.pct}}%"></div></div>
+        <span class="pct">${{Number(e.pct) || 0}}%</span>
+        <div class="bar"><div class="bar-fill ${{barColor}}" style="width:${{Number(e.pct) || 0}}%"></div></div>
       </div></td>
-      <td>${{e.tipos['Ley'] || 0}}</td>
-      <td>${{e.tipos['C\\u00f3digo'] || e.tipos['Codigo'] || 0}}</td>
-      <td>${{e.tipos['Reglamento'] || 0}}</td>
+      <td>${{Number(e.tipos['Ley']) || 0}}</td>
+      <td>${{Number(e.tipos['C\\u00f3digo']) || Number(e.tipos['Codigo']) || 0}}</td>
+      <td>${{Number(e.tipos['Reglamento']) || 0}}</td>
     </tr>`;
   }}).join('');
 }}
@@ -994,11 +1018,11 @@ if (D.publicaciones.length === 0) {{
     return `<div class="feed-item">
       <div class="feed-dot wine"></div>
       <div class="feed-content">
-        <div class="feed-title">${{(p.titulo || '').substring(0, 120)}}</div>
+        <div class="feed-title">${{esc((p.titulo || '').substring(0, 120))}}</div>
         <div class="feed-meta">
-          <span class="badge badge--info">${{ent}}</span>
-          ${{p.fecha_deteccion ? new Date(p.fecha_deteccion).toLocaleDateString('es-MX') : ''}}
-          ${{p.url ? ' &middot; <a href="' + p.url + '" target="_blank" style="color:var(--wine)">Ver publicaci&oacute;n</a>' : ''}}
+          <span class="badge badge--info">${{esc(ent)}}</span>
+          ${{p.fecha_deteccion ? esc(new Date(p.fecha_deteccion).toLocaleDateString('es-MX')) : ''}}
+          ${{escUrl(p.url) ? ' &middot; <a href="' + escUrl(p.url) + '" target="_blank" rel="noopener" style="color:var(--wine)">Ver publicaci&oacute;n</a>' : ''}}
         </div>
       </div>
     </div>`;
@@ -1020,13 +1044,13 @@ if (D.acciones_llm.length === 0) {{
     return `<div class="feed-item">
       <div class="feed-dot ${{dotColor}}"></div>
       <div class="feed-content">
-        <div class="feed-title">${{a.ley_afectada || a.tipo_acto || '?'}}</div>
-        <div class="feed-desc">${{a.resumen || ''}}</div>
+        <div class="feed-title">${{esc(a.ley_afectada || a.tipo_acto || '?')}}</div>
+        <div class="feed-desc">${{esc(a.resumen || '')}}</div>
         <div class="feed-meta">
-          <span class="badge badge--${{badgeClass}}">${{a.accion_recomendada}}</span>
-          <span class="badge badge--purple">${{a.tipo_acto}}</span>
-          Confianza: ${{(a.confianza * 100).toFixed(0)}}%
-          ${{a._fecha_analisis ? ' &middot; ' + new Date(a._fecha_analisis).toLocaleDateString('es-MX') : ''}}
+          <span class="badge badge--${{badgeClass}}">${{esc(a.accion_recomendada)}}</span>
+          <span class="badge badge--purple">${{esc(a.tipo_acto)}}</span>
+          Confianza: ${{(Number(a.confianza) * 100 || 0).toFixed(0)}}%
+          ${{a._fecha_analisis ? ' &middot; ' + esc(new Date(a._fecha_analisis).toLocaleDateString('es-MX')) : ''}}
         </div>
       </div>
     </div>`;
@@ -1045,8 +1069,8 @@ if (D.alertas_recientes.length === 0) {{
     return `<div class="feed-item">
       <div class="feed-dot gold"></div>
       <div class="feed-content">
-        <div class="feed-desc">${{msg.substring(0, 200)}}</div>
-        <div class="feed-meta">${{fecha}}</div>
+        <div class="feed-desc">${{esc(msg.substring(0, 200))}}</div>
+        <div class="feed-meta">${{esc(fecha)}}</div>
       </div>
     </div>`;
   }}).join('');
@@ -1064,12 +1088,12 @@ if (D.resolver.length === 0) {{
     return `<div class="feed-item">
       <div class="feed-dot ${{dotColor}}"></div>
       <div class="feed-content">
-        <div class="feed-title">${{r.nombre || r.id}}</div>
+        <div class="feed-title">${{esc(r.nombre || r.id)}}</div>
         <div class="feed-meta">
           <span class="badge badge--${{badge}}">${{label}}</span>
-          D&iacute;as: ${{r.dias || '?'}} &middot; Intentos: ${{r.intentos || '?'}}
-          ${{r.estrategia ? ' &middot; Estrategia ' + r.estrategia : ''}}
-          ${{r.fecha ? ' &middot; ' + new Date(r.fecha).toLocaleDateString('es-MX') : ''}}
+          D&iacute;as: ${{Number(r.dias) || '?'}} &middot; Intentos: ${{Number(r.intentos) || '?'}}
+          ${{r.estrategia ? ' &middot; Estrategia ' + esc(r.estrategia) : ''}}
+          ${{r.fecha ? ' &middot; ' + esc(new Date(r.fecha).toLocaleDateString('es-MX')) : ''}}
         </div>
       </div>
     </div>`;
@@ -1088,10 +1112,10 @@ if (D.pipeline_logs.length === 0) {{
     return `<div class="feed-item" style="background:rgba(255,255,255,0.03);border-color:rgba(255,255,255,0.1);">
       <div class="feed-dot ${{dotColor}}"></div>
       <div class="feed-content">
-        <div class="feed-title" style="color:white;">${{p.fecha}}</div>
+        <div class="feed-title" style="color:white;">${{esc(p.fecha)}}</div>
         <div class="feed-meta" style="color:rgba(255,255,255,0.5);">
           <span class="badge badge--${{badge}}">${{label}}</span>
-          ${{p.duracion}}
+          ${{esc(p.duracion)}}
         </div>
       </div>
     </div>`;
