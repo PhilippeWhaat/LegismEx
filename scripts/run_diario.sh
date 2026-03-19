@@ -21,7 +21,7 @@
 #   ./run_diario.sh --sin-llm      # Vigilancia + descarga, sin análisis LLM
 #
 # Cron recomendado (diario a las 7:00 AM hora CDMX, lun-vie):
-#   0 7 * * 1-5 /ruta/a/DerIAMex/scripts/run_diario.sh >> /ruta/a/DerIAMex/logs/cron.log 2>&1
+#   0 7 * * 1-5 /ruta/a/LegismEx/scripts/run_diario.sh >> /ruta/a/LegismEx/logs/cron.log 2>&1
 #
 # Variables de entorno requeridas:
 #   ANTHROPIC_API_KEY  — en .env o exportada (solo si se usa análisis LLM)
@@ -241,12 +241,35 @@ if [ "$DRY_RUN" = false ]; then
     fi
 fi
 
-# ── PASO 8: Regenerar dashboard ───────────────────────────────────
+# ── PASO 8: Regenerar dashboard y publicar ────────────────────────
 log ""
-log "── PASO 8: Generando dashboard ──"
+log "── PASO 8: Generando y publicando dashboard ──"
 $PYTHON "$SCRIPT_DIR/generar_dashboard.py" 2>&1 | tee -a "$LOG_FILE" || {
     log_error "Generación de dashboard falló"
 }
+
+# Publicar a gh-pages (GitHub Pages)
+if [ -f "$BASE_DIR/dashboard.html" ]; then
+    DASH_TMP=$(mktemp)
+    cp "$BASE_DIR/dashboard.html" "$DASH_TMP"
+    CURRENT_BRANCH=$(git -C "$BASE_DIR" branch --show-current)
+    git -C "$BASE_DIR" stash --quiet 2>/dev/null
+    git -C "$BASE_DIR" checkout gh-pages --quiet 2>/dev/null && {
+        cp "$DASH_TMP" "$BASE_DIR/dashboard.html"
+        cp "$DASH_TMP" "$BASE_DIR/index.html"
+        git -C "$BASE_DIR" add index.html dashboard.html 2>/dev/null
+        git -C "$BASE_DIR" diff --cached --quiet 2>/dev/null || {
+            git -C "$BASE_DIR" commit -m "Dashboard actualizado: $HOY" --quiet
+            git -C "$BASE_DIR" push --quiet 2>/dev/null && {
+                log "Dashboard publicado en GitHub Pages"
+            } || log_error "Push a gh-pages falló"
+        }
+        git -C "$BASE_DIR" checkout "$CURRENT_BRANCH" --quiet 2>/dev/null
+    } || log_error "No se pudo cambiar a gh-pages"
+    git -C "$BASE_DIR" stash pop --quiet 2>/dev/null
+    rm -f "$DASH_TMP"
+fi
+
 
 # ── Resumen final ─────────────────────────────────────────────────
 FIN=$(date +%s)
