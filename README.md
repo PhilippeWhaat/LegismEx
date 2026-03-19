@@ -2,7 +2,9 @@
 
 Base de datos completa y sistema de vigilancia automatizado del derecho positivo mexicano: federal + 32 estados. Catálogos de leyes, códigos y reglamentos con URLs de descarga directa, monitoreo diario del DOF y periódicos oficiales estatales, y análisis con IA para detectar reformas.
 
-## [Dashboard en vivo](https://philippewhaat.github.io/DerIAMex/)
+[![Dashboard de Vigilancia Legislativa](assets/dashboard-preview.png)](https://philippewhaat.github.io/DerIAMex/)
+
+**[Abrir dashboard interactivo](https://philippewhaat.github.io/DerIAMex/)** — gráficas, tabla de entidades, actividad del DOF, estado del pipeline.
 
 ---
 
