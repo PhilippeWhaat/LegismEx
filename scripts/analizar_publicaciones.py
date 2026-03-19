@@ -318,12 +318,17 @@ def _accion_redescargar(resultado: dict, catalogos: dict):
     with open(INDEX_FILE) as f:
         indice = json.load(f)
 
+    pub = resultado.get("_publicacion_original", {})
     encontrada = False
     for ley in indice:
         if ley.get("id") == id_cat:
             ley["estado"] = "pendiente_actualizacion"
             ley["_motivo_actualizacion"] = resultado.get("resumen", "Reforma detectada por LLM")
             ley["_fecha_deteccion"] = datetime.now().isoformat()
+            ley["_intentos_actualizacion"] = 0
+            ley["_url_dof"] = pub.get("url", "")
+            ley["_tipo_acto"] = resultado.get("tipo_acto", "")
+            ley["_ley_afectada"] = resultado.get("ley_afectada", "")
             encontrada = True
             log.info(f"    → Marcada para re-descarga: {id_cat}")
             break

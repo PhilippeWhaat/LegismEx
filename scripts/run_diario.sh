@@ -9,7 +9,8 @@
 #   3. Vigilancia del DOF y periódicos oficiales estatales
 #   4. Análisis con LLM (Claude) de publicaciones detectadas
 #   5. Re-descarga de leyes marcadas como actualizadas
-#   6. Reintentos de descargas fallidas previas
+#   6. Resolución inteligente de pendientes >7 días (LLM + scraping)
+#   7. Reintentos de descargas fallidas previas
 #
 # Uso:
 #   ./run_diario.sh                # Pipeline diario estándar
@@ -199,7 +200,25 @@ else
     log "── PASO 5: Re-descarga saltada (--dry-run) ──"
 fi
 
-# ── PASO 6: Reintentos de descargas fallidas ──────────────────────
+# ── PASO 6: Resolución inteligente de pendientes >7 días ──────────
+if [ "$DRY_RUN" = false ] && [ "$SIN_LLM" = false ]; then
+    log ""
+    log "── PASO 6: Resolución inteligente de pendientes antiguos ──"
+
+    if [ -z "${ANTHROPIC_API_KEY:-}" ]; then
+        log "Sin API key — resolver_pendientes ejecutará solo estrategias A y B"
+    fi
+
+    $PYTHON "$SCRIPT_DIR/resolver_pendientes.py" 2>&1 | tee -a "$LOG_FILE" || {
+        log_error "Resolución de pendientes falló"
+        ERRORES=$((ERRORES + 1))
+    }
+else
+    log ""
+    log "── PASO 6: Resolución inteligente saltada ──"
+fi
+
+# ── PASO 7: Reintentos de descargas fallidas ──────────────────────
 if [ "$DRY_RUN" = false ]; then
     log ""
     log "── PASO 6: Procesando cola de reintentos ──"
