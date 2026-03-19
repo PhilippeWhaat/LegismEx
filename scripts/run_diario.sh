@@ -11,6 +11,7 @@
 #   5. Re-descarga de leyes marcadas como actualizadas
 #   6. Resolución inteligente de pendientes >7 días (LLM + scraping)
 #   7. Reintentos de descargas fallidas previas
+#   8. Regenerar dashboard HTML
 #
 # Uso:
 #   ./run_diario.sh                # Pipeline diario estándar
@@ -239,6 +240,13 @@ if [ "$DRY_RUN" = false ]; then
         log "No hay cola de reintentos."
     fi
 fi
+
+# ── PASO 8: Regenerar dashboard ───────────────────────────────────
+log ""
+log "── PASO 8: Generando dashboard ──"
+$PYTHON "$SCRIPT_DIR/generar_dashboard.py" 2>&1 | tee -a "$LOG_FILE" || {
+    log_error "Generación de dashboard falló"
+}
 
 # ── Resumen final ─────────────────────────────────────────────────
 FIN=$(date +%s)
