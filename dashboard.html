@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LegismEx — Vigilancia Legislativa Mexicana</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+:root {
+  --wine: #8A1538;
+  --wine-dark: #6b1030;
+  --wine-light: #a91d47;
+  --wine-bg: rgba(138, 21, 56, 0.06);
+  --wine-bg2: rgba(138, 21, 56, 0.12);
+  --gold: #b8860b;
+  --gold-bg: #fdf6e3;
+  --green: #2d7a4f;
+  --green-bg: #ecf5f0;
+  --red: #c0392b;
+  --red-bg: #fdf0ee;
+  --purple: #7c3a6e;
+  --purple-bg: #f5edf4;
+  --text: #1a1a1a;
+  --text2: #555;
+  --text3: #6b7280;
+  --border: #e5e5e5;
+  --bg: #ffffff;
+  --bg-warm: #f8f6f3;
+  --bg-warm2: #faf9f7;
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --shadow: 0 1px 3px rgba(0,0,0,0.06);
+  --shadow-lg: 0 4px 12px rgba(0,0,0,0.1);
+  --radius: 6px;
+  --max-w: 1200px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: var(--font-sans);
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Header ─────────────────────── */
+.header {
+  background: var(--wine);
+  color: white;
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(138, 21, 56, 0.3);
+}
+
+.header-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.header h1 {
+  font-family: var(--font-serif);
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.header h1 span {
+  font-weight: 400;
+  opacity: 0.8;
+  font-size: 0.9em;
+}
+
+.header-meta {
+  font-size: 0.8rem;
+  opacity: 0.75;
+}
+
+.header-nav {
+  display: flex;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+
+.header-nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  font-size: 0.8rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 4px;
+  transition: all 0.2s;
+  font-weight: 500;
+}
+
+.header-nav a:hover, .header-nav a.active {
+  background: rgba(255,255,255,0.15);
+  color: white;
+}
+
+/* ── Sections ───────────────────── */
+.section {
+  padding: 3rem 2rem;
+}
+
+.section--alt {
+  background: var(--bg-warm);
+}
+
+.section--dark {
+  background: var(--text);
+  color: white;
+}
+
+.container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+
+.section-title {
+  font-family: var(--font-serif);
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 700;
+  color: var(--wine);
+  margin-bottom: 0.5rem;
+}
+
+.section--dark .section-title { color: white; }
+
+.section-subtitle {
+  font-size: 0.85rem;
+  color: var(--text3);
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-weight: 600;
+}
+
+.section--dark .section-subtitle { color: rgba(255,255,255,0.6); }
+
+.divider {
+  width: 48px;
+  height: 2px;
+  background: var(--wine);
+  margin-bottom: 2rem;
+}
+
+.section--dark .divider { background: rgba(255,255,255,0.4); }
+
+/* ── Hero Stats ─────────────────── */
+.hero {
+  background: linear-gradient(135deg, var(--wine) 0%, var(--wine-dark) 100%);
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.hero h2 {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.hero p {
+  opacity: 0.8;
+  font-size: 1.1rem;
+  margin-bottom: 2.5rem;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+
+.stat-card {
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  text-align: center;
+  transition: transform 0.2s, background 0.2s;
+}
+
+.stat-card:hover {
+  transform: translateY(-2px);
+  background: rgba(255,255,255,0.15);
+}
+
+.stat-number {
+  font-family: var(--font-serif);
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 0.25rem;
+}
+
+.stat-number.green { color: #8eff8e; }
+.stat-number.gold { color: #ffd700; }
+.stat-number.red { color: #ff8e8e; }
+
+.stat-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  opacity: 0.7;
+  font-weight: 600;
+}
+
+/* ── Cards ──────────────────────── */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+
+.card {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  border-color: var(--wine);
+  box-shadow: var(--shadow-lg);
+}
+
+.card-title {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--wine);
+  margin-bottom: 1rem;
+}
+
+/* ── Charts ─────────────────────── */
+.chart-container {
+  position: relative;
+  width: 100%;
+  max-height: 400px;
+}
+
+.chart-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .chart-row { grid-template-columns: 1fr; }
+}
+
+/* ── Table ──────────────────────── */
+.table-wrap {
+  overflow-x: auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+th {
+  background: var(--wine);
+  color: white;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  position: sticky;
+  top: 0;
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+th:hover { background: var(--wine-dark); }
+th .sort-arrow { margin-left: 4px; opacity: 0.5; }
+
+td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+tr:hover td { background: var(--wine-bg); }
+
+.bar-cell {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.bar {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--border);
+  flex: 1;
+  min-width: 60px;
+  overflow: hidden;
+}
+
+.bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.5s ease;
+}
+
+.bar-fill.green { background: var(--green); }
+.bar-fill.wine { background: var(--wine); }
+.bar-fill.gold { background: var(--gold); }
+
+.pct { font-weight: 600; font-size: 0.8rem; min-width: 42px; text-align: right; }
+
+/* ── Badges ─────────────────────── */
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.badge--ok { background: var(--green-bg); color: var(--green); }
+.badge--warn { background: var(--gold-bg); color: var(--gold); }
+.badge--error { background: var(--red-bg); color: var(--red); }
+.badge--info { background: var(--wine-bg2); color: var(--wine); }
+.badge--purple { background: var(--purple-bg); color: var(--purple); }
+
+/* ── Activity feed ──────────────── */
+.feed {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.feed-item {
+  display: flex;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.85rem;
+  transition: border-color 0.2s;
+  align-items: flex-start;
+}
+
+.feed-item:hover { border-color: var(--wine); }
+
+.feed-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-top: 6px;
+  flex-shrink: 0;
+}
+
+.feed-dot.green { background: var(--green); }
+.feed-dot.wine { background: var(--wine); }
+.feed-dot.gold { background: var(--gold); }
+.feed-dot.red { background: var(--red); }
+
+.feed-content { flex: 1; min-width: 0; }
+.feed-title { font-weight: 600; margin-bottom: 2px; }
+.feed-meta { color: var(--text3); font-size: 0.75rem; }
+.feed-desc { color: var(--text2); font-size: 0.8rem; overflow: hidden; text-overflow: ellipsis; }
+
+/* ── Tabs ───────────────────────── */
+.tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 2px solid var(--border);
+  margin-bottom: 1.5rem;
+}
+
+.tab {
+  padding: 0.75rem 1.25rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text3);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition: all 0.2s;
+}
+
+.tab:hover { color: var(--wine); }
+.tab.active { color: var(--wine); border-bottom-color: var(--wine); }
+
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+/* ── Footer ─────────────────────── */
+.footer {
+  background: #1a1a1a;
+  color: #aaa;
+  padding: 2rem;
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+.footer a { color: #ccc; }
+
+/* ── Responsive ─────────────────── */
+@media (max-width: 768px) {
+  .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
+  .stat-card { padding: 1rem; }
+  .stat-number { font-size: 1.8rem; }
+  .cards-grid { grid-template-columns: 1fr; }
+  .header-inner { padding: 0.75rem 1rem; }
+  .section { padding: 2rem 1rem; }
+  .hero { padding: 2.5rem 1rem; }
+}
+
+/* ── Animations ─────────────────── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate { animation: fadeUp 0.5s ease forwards; opacity: 0; }
+
+.animate-delay-1 { animation-delay: 0.1s; }
+.animate-delay-2 { animation-delay: 0.2s; }
+.animate-delay-3 { animation-delay: 0.3s; }
+.animate-delay-4 { animation-delay: 0.4s; }
+.animate-delay-5 { animation-delay: 0.5s; }
+
+/* ── Search/Filter ──────────────── */
+.search-box {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.85rem;
+  font-family: var(--font-sans);
+  margin-bottom: 1.5rem;
+  transition: border-color 0.2s;
+}
+
+.search-box:focus {
+  outline: none;
+  border-color: var(--wine);
+  box-shadow: 0 0 0 2px var(--wine-bg2);
+}
+
+/* ── Pulse dot ──────────────────── */
+.pulse {
+  width: 10px; height: 10px;
+  background: var(--green);
+  border-radius: 50%;
+  display: inline-block;
+  animation: pulse-anim 2s infinite;
+}
+
+@keyframes pulse-anim {
+  0% { box-shadow: 0 0 0 0 rgba(45, 122, 79, 0.4); }
+  70% { box-shadow: 0 0 0 8px rgba(45, 122, 79, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(45, 122, 79, 0); }
+}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header class="header">
+  <div class="header-inner">
+    <h1>LegismEx <span>Vigilancia Legislativa</span></h1>
+    <nav class="header-nav">
+      <a href="#resumen" class="active">Resumen</a>
+      <a href="#entidades">Entidades</a>
+      <a href="#tipos">Instrumentos</a>
+      <a href="#actividad">Actividad</a>
+      <a href="#pipeline">Pipeline</a>
+    </nav>
+    <div class="header-meta">
+      <span class="pulse"></span> Actualizado: <span id="fecha-gen"></span>
+    </div>
+  </div>
+</header>
+
+<!-- Hero Stats -->
+<section class="hero" id="resumen">
+  <h2>Derecho Positivo Mexicano</h2>
+  <p>Vigilancia automatizada del Diario Oficial de la Federaci&oacute;n y 30 peri&oacute;dicos oficiales estatales</p>
+  <div class="stats-grid">
+    <div class="stat-card animate animate-delay-1">
+      <div class="stat-number" id="s-total">-</div>
+      <div class="stat-label">Instrumentos legales</div>
+    </div>
+    <div class="stat-card animate animate-delay-2">
+      <div class="stat-number" id="s-entidades">-</div>
+      <div class="stat-label">Entidades federativas</div>
+    </div>
+    <div class="stat-card animate animate-delay-3">
+      <div class="stat-number green" id="s-descargadas">-</div>
+      <div class="stat-label">Descargadas y verificadas</div>
+    </div>
+    <div class="stat-card animate animate-delay-4">
+      <div class="stat-number green" id="s-pct">-</div>
+      <div class="stat-label">Cobertura</div>
+    </div>
+    <div class="stat-card animate animate-delay-5">
+      <div class="stat-number gold" id="s-pendientes">-</div>
+      <div class="stat-label">Pendientes de actualizar</div>
+    </div>
+  </div>
+</section>
+
+<!-- Tipos de instrumentos -->
+<section class="section" id="tipos">
+  <div class="container">
+    <div class="section-subtitle">Composici&oacute;n</div>
+    <h3 class="section-title">Instrumentos Legales por Tipo</h3>
+    <div class="divider"></div>
+    <div class="chart-row">
+      <div class="card">
+        <div class="card-title">Distribuci&oacute;n Nacional</div>
+        <div class="chart-container">
+          <canvas id="chart-tipos"></canvas>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-title">Top 15 Entidades por Volumen</div>
+        <div class="chart-container">
+          <canvas id="chart-top-entidades"></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Entidades -->
+<section class="section section--alt" id="entidades">
+  <div class="container">
+    <div class="section-subtitle">Federal + 32 estados</div>
+    <h3 class="section-title">Cobertura por Entidad Federativa</h3>
+    <div class="divider"></div>
+    <input type="text" class="search-box" placeholder="Buscar entidad..." id="search-entidad">
+    <div class="table-wrap">
+      <table id="tabla-entidades">
+        <thead>
+          <tr>
+            <th onclick="sortTable(0)">Entidad <span class="sort-arrow">&#9650;</span></th>
+            <th onclick="sortTable(1)">Total <span class="sort-arrow">&#9650;</span></th>
+            <th onclick="sortTable(2)">Con URL <span class="sort-arrow">&#9650;</span></th>
+            <th onclick="sortTable(3)">Descargadas <span class="sort-arrow">&#9650;</span></th>
+            <th onclick="sortTable(4)">Cobertura <span class="sort-arrow">&#9650;</span></th>
+            <th>Leyes</th>
+            <th>C&oacute;digos</th>
+            <th>Reglamentos</th>
+          </tr>
+        </thead>
+        <tbody id="tbody-entidades"></tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- Actividad reciente -->
+<section class="section" id="actividad">
+  <div class="container">
+    <div class="section-subtitle">Monitoreo en tiempo real</div>
+    <h3 class="section-title">Actividad Reciente</h3>
+    <div class="divider"></div>
+
+    <div class="tabs">
+      <div class="tab active" onclick="switchTab('pub')">Publicaciones DOF</div>
+      <div class="tab" onclick="switchTab('acciones')">Acciones LLM</div>
+      <div class="tab" onclick="switchTab('alertas')">Alertas</div>
+      <div class="tab" onclick="switchTab('resolver')">Resoluciones</div>
+    </div>
+
+    <div class="tab-content active" id="tab-pub">
+      <div class="feed" id="feed-pub"></div>
+    </div>
+    <div class="tab-content" id="tab-acciones">
+      <div class="feed" id="feed-acciones"></div>
+    </div>
+    <div class="tab-content" id="tab-alertas">
+      <div class="feed" id="feed-alertas"></div>
+    </div>
+    <div class="tab-content" id="tab-resolver">
+      <div class="feed" id="feed-resolver"></div>
+    </div>
+  </div>
+</section>
+
+<!-- Pipeline -->
+<section class="section section--dark" id="pipeline">
+  <div class="container">
+    <div class="section-subtitle">Sistema aut&oacute;nomo</div>
+    <h3 class="section-title">Estado del Pipeline</h3>
+    <div class="divider"></div>
+    <div class="cards-grid">
+      <div class="card" style="background:rgba(255,255,255,0.05);border-color:rgba(255,255,255,0.1);">
+        <div class="card-title" style="color:white;">Descargas Hist&oacute;ricas</div>
+        <div class="chart-container">
+          <canvas id="chart-descargas"></canvas>
+        </div>
+      </div>
+      <div class="card" style="background:rgba(255,255,255,0.05);border-color:rgba(255,255,255,0.1);">
+        <div class="card-title" style="color:white;">Ejecuciones del Pipeline</div>
+        <div class="feed" id="feed-pipeline"></div>
+      </div>
+    </div>
+    <div style="margin-top:2rem;">
+      <div class="cards-grid" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
+        <div class="stat-card">
+          <div class="stat-number green" id="s-exitosas">-</div>
+          <div class="stat-label">Descargas exitosas</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number red" id="s-fallidas">-</div>
+          <div class="stat-label">Descargas fallidas</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number gold" id="s-reintentos">-</div>
+          <div class="stat-label">En cola de reintentos</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number" id="s-llm-acciones">-</div>
+          <div class="stat-label">Acciones LLM</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <p>LegismEx &mdash; Sistema de Vigilancia Legislativa Mexicana</p>
+  <p style="margin-top:0.5rem;opacity:0.6;">Dashboard generado autom&aacute;ticamente &middot; Datos actualizados diariamente a las 11:00 AM CDMX</p>
+</footer>
+
+<script>
+const D = {"fecha_generacion": "2026-03-19T02:52:37.307098", "total_leyes": 5446, "con_url": 5245, "descargadas": 5427, "pendientes_actualizacion": 0, "criticas": 0, "pct_descarga": 99.65, "entidades": 33, "tipos_global": {"Ley": 4971, "Código": 113, "Reglamento": 324, "Acuerdo": 1, "Decreto": 37}, "entidades_tabla": [{"id": "aguascalientes", "nombre": "Aguascalientes", "total": 153, "con_url": 153, "descargadas": 153, "pct": 100.0, "tipos": {"Ley": 151, "Reglamento": 2}}, {"id": "bajacalifornia", "nombre": "Baja California", "total": 163, "con_url": 162, "descargadas": 162, "pct": 99.4, "tipos": {"Ley": 163}}, {"id": "bajacaliforniasur", "nombre": "Baja California Sur", "total": 162, "con_url": 162, "descargadas": 162, "pct": 100.0, "tipos": {"Ley": 152, "Código": 5, "Reglamento": 5}}, {"id": "campeche", "nombre": "Campeche", "total": 160, "con_url": 160, "descargadas": 160, "pct": 100.0, "tipos": {"Ley": 160}}, {"id": "cdmx", "nombre": "Ciudad de México", "total": 180, "con_url": 180, "descargadas": 180, "pct": 100.0, "tipos": {"Ley": 180}}, {"id": "chiapas", "nombre": "Chiapas", "total": 144, "con_url": 144, "descargadas": 144, "pct": 100.0, "tipos": {"Ley": 134, "Código": 9, "Reglamento": 1}}, {"id": "chihuahua", "nombre": "Chihuahua", "total": 176, "con_url": 5, "descargadas": 176, "pct": 100.0, "tipos": {"Ley": 176}}, {"id": "coahuila", "nombre": "Coahuila", "total": 157, "con_url": 157, "descargadas": 157, "pct": 100.0, "tipos": {"Ley": 149, "Código": 8}}, {"id": "colima", "nombre": "Colima", "total": 138, "con_url": 138, "descargadas": 138, "pct": 100.0, "tipos": {"Ley": 138}}, {"id": "durango", "nombre": "Durango", "total": 157, "con_url": 157, "descargadas": 157, "pct": 100.0, "tipos": {"Código": 6, "Ley": 148, "Reglamento": 3}}, {"id": "edomex", "nombre": "Estado de México", "total": 409, "con_url": 409, "descargadas": 409, "pct": 100.0, "tipos": {"Ley": 115, "Código": 9, "Reglamento": 285}}, {"id": "federal", "nombre": "Federal", "total": 315, "con_url": 315, "descargadas": 315, "pct": 100.0, "tipos": {"Ley": 303, "Código": 9, "Reglamento": 3}}, {"id": "guanajuato", "nombre": "Guanajuato", "total": 117, "con_url": 117, "descargadas": 117, "pct": 100.0, "tipos": {"Ley": 105, "Código": 6, "Reglamento": 6}}, {"id": "guerrero", "nombre": "Guerrero", "total": 133, "con_url": 133, "descargadas": 133, "pct": 100.0, "tipos": {"Ley": 133}}, {"id": "hidalgo", "nombre": "Hidalgo", "total": 165, "con_url": 164, "descargadas": 164, "pct": 99.4, "tipos": {"Ley": 152, "Código": 8, "Acuerdo": 1, "Reglamento": 4}}, {"id": "jalisco", "nombre": "Jalisco", "total": 74, "con_url": 74, "descargadas": 74, "pct": 100.0, "tipos": {"Código": 12, "Ley": 62}}, {"id": "michoacan", "nombre": "Michoacán", "total": 97, "con_url": 97, "descargadas": 97, "pct": 100.0, "tipos": {"Ley": 87, "Código": 10}}, {"id": "morelos", "nombre": "Morelos", "total": 139, "con_url": 139, "descargadas": 139, "pct": 100.0, "tipos": {"Decreto": 1, "Ley": 138}}, {"id": "nayarit", "nombre": "Nayarit", "total": 119, "con_url": 119, "descargadas": 119, "pct": 100.0, "tipos": {"Ley": 119}}, {"id": "nuevoleon", "nombre": "Nuevo León", "total": 173, "con_url": 173, "descargadas": 173, "pct": 100.0, "tipos": {"Ley": 165, "Código": 5, "Reglamento": 3}}, {"id": "oaxaca", "nombre": "Oaxaca", "total": 211, "con_url": 211, "descargadas": 210, "pct": 99.5, "tipos": {"Ley": 200, "Código": 8, "Reglamento": 3}}, {"id": "puebla", "nombre": "Puebla", "total": 148, "con_url": 148, "descargadas": 148, "pct": 100.0, "tipos": {"Ley": 148}}, {"id": "queretaro", "nombre": "Querétaro", "total": 111, "con_url": 111, "descargadas": 111, "pct": 100.0, "tipos": {"Ley": 111}}, {"id": "quintanaroo", "nombre": "Quintana Roo", "total": 27, "con_url": 27, "descargadas": 27, "pct": 100.0, "tipos": {"Ley": 27}}, {"id": "sanluispotosi", "nombre": "San Luis Potosí", "total": 144, "con_url": 144, "descargadas": 144, "pct": 100.0, "tipos": {"Ley": 138, "Código": 1, "Decreto": 2, "Reglamento": 3}}, {"id": "sinaloa", "nombre": "Sinaloa", "total": 165, "con_url": 149, "descargadas": 149, "pct": 90.3, "tipos": {"Ley": 165}}, {"id": "sonora", "nombre": "Sonora", "total": 240, "con_url": 240, "descargadas": 240, "pct": 100.0, "tipos": {"Código": 5, "Ley": 207, "Decreto": 28}}, {"id": "tabasco", "nombre": "Tabasco", "total": 49, "con_url": 49, "descargadas": 49, "pct": 100.0, "tipos": {"Ley": 44, "Decreto": 1, "Reglamento": 1, "Código": 3}}, {"id": "tamaulipas", "nombre": "Tamaulipas", "total": 129, "con_url": 129, "descargadas": 129, "pct": 100.0, "tipos": {"Ley": 129}}, {"id": "tlaxcala", "nombre": "Tlaxcala", "total": 203, "con_url": 203, "descargadas": 203, "pct": 100.0, "tipos": {"Ley": 201, "Reglamento": 2}}, {"id": "veracruz", "nombre": "Veracruz", "total": 185, "con_url": 185, "descargadas": 185, "pct": 100.0, "tipos": {"Ley": 185}}, {"id": "yucatan", "nombre": "Yucatán", "total": 383, "con_url": 371, "descargadas": 383, "pct": 100.0, "tipos": {"Ley": 366, "Decreto": 5, "Código": 9, "Reglamento": 3}}, {"id": "zacatecas", "nombre": "Zacatecas", "total": 120, "con_url": 120, "descargadas": 120, "pct": 100.0, "tipos": {"Ley": 120}}], "acciones_llm": [{"tipo_acto": "ley_nueva", "ley_afectada": null, "id_catalogo": "federal_lfcs", "entidad": "federal", "articulos_afectados": null, "accion_recomendada": "agregar", "resumen": "Se expide la Ley Federal de Ciberseguridad, una nueva ley que no existe en el catálogo legislativo actual. Esta ley crea un marco regulatorio completamente nuevo para la ciberseguridad en México.", "confianza": 0.95, "_publicacion_original": {"titulo": "PODER LEGISLATIVO CAMARA DE DIPUTADOS: DECRETO por el que se expide la Ley Federal de Ciberseguridad.", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5000002&fecha=15/03/2026", "entidad": "federal", "fecha": "2026-03-15", "fuente": "DOF RSS"}, "_fecha_analisis": "2026-03-18T18:27:24.112538", "_tokens_input": 4435, "_tokens_output": 162}, {"tipo_acto": "reforma", "ley_afectada": "LEY General de Educación", "id_catalogo": "federal_LGE", "entidad": "federal", "articulos_afectados": null, "accion_recomendada": "re-descargar", "resumen": "Decreto que reforma, adiciona y deroga disposiciones de la Ley General de Educación", "confianza": 0.95, "_publicacion_original": {"titulo": "PODER EJECUTIVO: DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Educación y de la Ley General del Sistema para la Carrera de las Maestras y los Maestros.", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5000001&fecha=15/03/2026", "entidad": "federal", "fecha": "2026-03-15", "fuente": "DOF RSS"}, "_fecha_analisis": "2026-03-18T18:28:26.094492", "_tokens_input": 4510, "_tokens_output": 301}, {"tipo_acto": "reforma", "ley_afectada": "LEY General del Sistema para la Carrera de las Maestras y los Maestros", "id_catalogo": "federal_LGSCMM", "entidad": "federal", "articulos_afectados": null, "accion_recomendada": "re-descargar", "resumen": "Decreto que reforma, adiciona y deroga disposiciones de la Ley General del Sistema para la Carrera de las Maestras y los Maestros", "confianza": 0.95, "_publicacion_original": {"titulo": "PODER EJECUTIVO: DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Educación y de la Ley General del Sistema para la Carrera de las Maestras y los Maestros.", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5000001&fecha=15/03/2026", "entidad": "federal", "fecha": "2026-03-15", "fuente": "DOF RSS"}, "_fecha_analisis": "2026-03-18T18:28:26.094505", "_tokens_input": 4510, "_tokens_output": 301}, {"tipo_acto": "ley_nueva", "ley_afectada": null, "id_catalogo": "federal_lfciber", "entidad": "federal", "articulos_afectados": null, "accion_recomendada": "agregar", "resumen": "Decreto que expide la Ley Federal de Ciberseguridad, una ley completamente nueva que no existe en el catálogo legislativo actual. Esta ley establecerá el marco regulatorio para la ciberseguridad en México a nivel federal.", "confianza": 0.95, "_publicacion_original": {"titulo": "PODER LEGISLATIVO CAMARA DE DIPUTADOS: DECRETO por el que se expide la Ley Federal de Ciberseguridad.", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5000002&fecha=15/03/2026", "entidad": "federal", "fecha": "2026-03-15", "fuente": "DOF RSS"}, "_fecha_analisis": "2026-03-18T18:28:28.261912", "_tokens_input": 4486, "_tokens_output": 169}, {"tipo_acto": "ley_nueva", "ley_afectada": null, "id_catalogo": "tamaulipas_ley_ingresos_2026", "entidad": "tamaulipas", "articulos_afectados": null, "accion_recomendada": "agregar", "resumen": "Ley de Ingresos del Estado de Tamaulipas para el ejercicio fiscal 2026. Se trata de una ley anual que establece los ingresos presupuestarios del estado. No afecta leyes existentes en el catálogo, sino que es una disposición fiscal periódica nueva para cada año fiscal.", "confianza": 0.85, "_publicacion_original": {"titulo": "Ley de Ingresos del Estado 2026", "url": "https://po.tamaulipas.gob.mx/wp-content/uploads/2025/12/cl-150-161225_EV.pdf", "entidad": "tamaulipas", "fecha_deteccion": "2026-03-18T19:15:34.200416", "archivo_local": "/home/pprince/DerIAMex/estados/tamaulipas/periodico_oficial/2026-03-18_20260318_191533_Ley_de_Ingresos_del_Estado_2026.pdf"}, "_fecha_analisis": "2026-03-18T19:16:03.787326", "_tokens_input": 5150, "_tokens_output": 196}], "cola_reintentos": [{"id": "oaxaca_presupuesto_egresos_oaxaca_ejercicio_fiscal_2026", "url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Presupuesto_de_Egresos_del_Estado_de_Oaxaca_para_el_ejercicio_fiscal_2026_(Txt_orig_dto_888_aprob_LXVI_Legis_8_dic_2025_PO_Extra_10_dic_2026).pdf", "intentos": 3, "proximo_reintento": "2026-03-19T19:00:00", "motivo": "Fallo de red o HTTP"}, {"id": "sinaloa_ley_aprovechamiento_integral_alimentos_su_donacion", "url": "https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_105.pdf.pdf", "intentos": 2, "proximo_reintento": "2026-03-19T19:00:00", "motivo": "Fallo de red o HTTP"}], "evidencias": [], "leyes_nuevas": [{"nombre": null, "tipo": "ley_nueva", "entidad": "tamaulipas", "url_publicacion": "https://po.tamaulipas.gob.mx/wp-content/uploads/2025/12/cl-150-161225_EV.pdf", "fecha_publicacion": "", "estado": "pendiente_catalogo", "_detectada_por": "analizar_publicaciones.py", "_fecha_deteccion": "2026-03-18T19:16:13.403380"}], "publicaciones": [{"titulo": "PODER EJECUTIVO SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO: Acuerdo por el que la persona Titular de Transparencia para el Pueblo delega a la Dirección General Jurídica las facultades que se indican y le adscribe la Dirección de Transparencia.", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5782501&fecha=18/03/2026", "entidad": "federal", "fecha_deteccion": "2026-03-18T23:06:47.771468", "archivo_local": "/home/pprince/DerIAMex/federal/diario_oficial/18/03/2026_20260318_230647_PODER_EJECUTIVO_SECRETARIA_ANTICORRUPCION_Y_BUEN_GOBIERNO_Acuerdo_por_el_que_la.pdf"}, {"titulo": "PODER EJECUTIVO SECRETARIA DE CULTURA: Acuerdo por el que se establecen acciones de mejora en la simplificación administrativa de servicios que se realizan ante la Secretaría de Cultura.", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5782505&fecha=18/03/2026", "entidad": "federal", "fecha_deteccion": "2026-03-18T23:06:47.771567", "archivo_local": "/home/pprince/DerIAMex/federal/diario_oficial/18/03/2026_20260318_230647_PODER_EJECUTIVO_SECRETARIA_DE_CULTURA_Acuerdo_por_el_que_se_establecen_acciones.pdf"}, {"titulo": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS: Acuerdo por el que la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros hace del conocimiento del público en general, la suspensión de los términos y plazos los días 26, 27 y 28 de enero de 2026, para efectos de los actos y procedimientos administrativos substanciados por la Comisión Nacional.", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5782512&fecha=18/03/2026", "entidad": "federal", "fecha_deteccion": "2026-03-18T23:06:47.771648", "archivo_local": "/home/pprince/DerIAMex/federal/diario_oficial/18/03/2026_20260318_230647_ORGANISMOS_DESCONCENTRADOS_O_DESCENTRALIZADOS_COMISION_NACIONAL_PARA_LA_PROTECCI.pdf"}, {"titulo": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS: Acuerdo por el que la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros hace del conocimiento del público en general, la suspensión de los términos y plazos, así como la atención presencial en las Unidades de Atención a Usuarios Occidente 5 y Occidente 6, ubicadas en los estados de Nayarit y Jalisco, respectivamente, el día 23 de febrero de 2026.", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5782513&fecha=18/03/2026", "entidad": "federal", "fecha_deteccion": "2026-03-18T23:06:47.771723", "archivo_local": "/home/pprince/DerIAMex/federal/diario_oficial/18/03/2026_20260318_230647_ORGANISMOS_DESCONCENTRADOS_O_DESCENTRALIZADOS_COMISION_NACIONAL_PARA_LA_PROTECCI.pdf"}, {"titulo": "PODER JUDICIAL TRIBUNAL DE DISCIPLINA JUDICIAL: Acuerdo General 1/2026 del Pleno del Tribunal de Disciplina Judicial del Poder Judicial de la Federación que establece el Sistema de Evaluación del Desempeño y Honorabilidad de las personas visitadoras judiciales regionales y visitadoras judiciales.", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5782517&fecha=18/03/2026", "entidad": "federal", "fecha_deteccion": "2026-03-18T23:06:47.771795", "archivo_local": "/home/pprince/DerIAMex/federal/diario_oficial/18/03/2026_20260318_230647_PODER_JUDICIAL_TRIBUNAL_DE_DISCIPLINA_JUDICIAL_Acuerdo_General_12026_del_Pleno_d.pdf"}, {"titulo": "ORGANISMOS AUTONOMOS TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA: Acuerdo SS/7/2026 por el que se da a conocer la designación de la Titular del Órgano Interno de Control.", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5782524&fecha=18/03/2026", "entidad": "federal", "fecha_deteccion": "2026-03-18T23:06:47.771864", "archivo_local": "/home/pprince/DerIAMex/federal/diario_oficial/18/03/2026_20260318_230647_ORGANISMOS_AUTONOMOS_TRIBUNAL_FEDERAL_DE_JUSTICIA_ADMINISTRATIVA_Acuerdo_SS72026.pdf"}, {"titulo": "ORGANISMOS AUTONOMOS TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA: Extracto del Acuerdo SS/8/2026, denominado \"Se reforma el diverso SS/11/2025 que establece el Reglamento de Sesiones de la Sala Superior.\"", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5782525&fecha=18/03/2026", "entidad": "federal", "fecha_deteccion": "2026-03-18T23:06:47.771934", "archivo_local": "/home/pprince/DerIAMex/federal/diario_oficial/18/03/2026_20260318_230647_ORGANISMOS_AUTONOMOS_TRIBUNAL_FEDERAL_DE_JUSTICIA_ADMINISTRATIVA_Extracto_del_Ac.pdf"}, {"titulo": "ORGANISMOS AUTONOMOS TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA: Extracto del Acuerdo SS/9/2026, denominado \"Se reforma el Reglamento Interior del Tribunal Federal de Justicia Administrativa.\"", "url": "https://dof.gob.mx/nota_detalle.php?codigo=5782526&fecha=18/03/2026", "entidad": "federal", "fecha_deteccion": "2026-03-18T23:06:47.772002", "archivo_local": "/home/pprince/DerIAMex/federal/diario_oficial/18/03/2026_20260318_230647_ORGANISMOS_AUTONOMOS_TRIBUNAL_FEDERAL_DE_JUSTICIA_ADMINISTRATIVA_Extracto_del_Ac.pdf"}, {"titulo": "Pago de infracciones a la Ley de Transito", "url": "https://ipagos.chihuahua.gob.mx/pagos/infracciones/index.html", "entidad": "chihuahua", "fecha_deteccion": "2026-03-18T23:06:47.772072", "archivo_local": "/home/pprince/DerIAMex/estados/chihuahua/periodico_oficial/2026-03-18_20260318_230647_Pago_de_infracciones_a_la_Ley_de_Transito.pdf"}, {"titulo": "Ley de Ingresos del Estado 2026", "url": "https://po.tamaulipas.gob.mx/wp-content/uploads/2025/12/cl-150-161225_EV.pdf", "entidad": "tamaulipas", "fecha_deteccion": "2026-03-18T23:06:48.846884", "archivo_local": "/home/pprince/DerIAMex/estados/tamaulipas/periodico_oficial/2026-03-18_20260318_230647_Ley_de_Ingresos_del_Estado_2026.pdf"}, {"titulo": "Ley de Ingresos municipales 2026", "url": "https://po.tamaulipas.gob.mx/wp-content/uploads/2025/12/cl-Ext-No.64-261225.pdf", "entidad": "tamaulipas", "fecha_deteccion": "2026-03-18T23:06:50.845905", "archivo_local": "/home/pprince/DerIAMex/estados/tamaulipas/periodico_oficial/2026-03-18_20260318_230648_Ley_de_Ingresos_municipales_2026.pdf"}, {"titulo": "Ley de Ingresos del Estado 2026", "url": "https://po.tamaulipas.gob.mx/wp-content/uploads/2025/12/cl-150-161225_EV.pdf", "entidad": "tamaulipas", "fecha_deteccion": "2026-03-18T23:06:51.908512", "archivo_local": "/home/pprince/DerIAMex/estados/tamaulipas/periodico_oficial/2026-03-18_20260318_230650_Ley_de_Ingresos_del_Estado_2026.pdf"}, {"titulo": "Ley de Ingresos municipales 2026", "url": "https://po.tamaulipas.gob.mx/wp-content/uploads/2025/12/cl-Ext-No.64-261225.pdf", "entidad": "tamaulipas", "fecha_deteccion": "2026-03-18T23:06:54.399906", "archivo_local": "/home/pprince/DerIAMex/estados/tamaulipas/periodico_oficial/2026-03-18_20260318_230651_Ley_de_Ingresos_municipales_2026.pdf"}, {"titulo": "Ley de Ingresos Municipales 2026", "url": "https://po.tamaulipas.gob.mx/wp-content/uploads/2025/12/cl-Ext-No.64-261225.pdf", "entidad": "tamaulipas", "fecha_deteccion": "2026-03-18T23:06:56.602041", "archivo_local": "/home/pprince/DerIAMex/estados/tamaulipas/periodico_oficial/2026-03-18_20260318_230654_Ley_de_Ingresos_Municipales_2026.pdf"}], "pipeline_logs": [{"fecha": "2026-03-18", "exito": true, "duracion": "0m 48s"}], "exitosas_total": 34224, "fallidas_total": 4673, "alertas_recientes": ["2026-03-18T19:16:13.698477 | REINTENTO FALLIDO | hidalgo_ley_auditoria_superior_hidalgovigencia_leer_articulos superó 3 fallos consecutivos. Se requiere intervención manual. URL: https://congresohidalgo.gob.mx/acervo_legislativo/leyes/../https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/52Ley de la Auditoria Superior del Estado de Hidalgo.pdf", "2026-03-18T19:16:13.698904 | REINTENTO FALLIDO | hidalgo_ley_transparencia_acceso_a_informacion_publica superó 3 fallos consecutivos. Se requiere intervención manual. URL: https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/82Ley de Transparencia y Acceso a la Informacion Publica Gubernamental para el Estado de Hidalgo.pdf", "2026-03-18T19:16:13.699351 | REINTENTO FALLIDO | oaxaca_decreto_establece_bases_factores_distribucion_montos superó 3 fallos consecutivos. Se requiere intervención manual. URL: https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Decreto_que_establece_las_bases__factores_de_distribuci%c3%b3n__montos_estimados_y_plazos_para_el_pago_de_participaciones_fiscales_federales_.pdf", "2026-03-18T19:16:13.699776 | REINTENTO FALLIDO | oaxaca_ley_fomento_promocion_uso_bicicleta_zonas superó 3 fallos consecutivos. Se requiere intervención manual. URL: https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Fomento_y_Promoci%c3%b3n_del_Uso_de_la_Bicicleta_en_las_Zonas_Metropolitanas_del_Estado_de_Oaxaca..pdf", "2026-03-18T19:16:13.700208 | REINTENTO FALLIDO | oaxaca_ley_corporacion_oaxaquena_radio_television superó 3 fallos consecutivos. Se requiere intervención manual. URL: https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_deLey_de_la_Corporacion_Oaxaqueña_de_Radio_y_Television_(Dto_Ref_735_Aprob_LXVI_Legis_5_agosto_2025_PO_36_11a_secc_6_septiembre_2025).pdf", "2026-03-18T19:16:13.700635 | REINTENTO FALLIDO | oaxaca_ley_sistema_estatal_combate_a_corrupcion superó 3 fallos consecutivos. Se requiere intervención manual. URL: https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Sistema_Estatal_de_Combate_a_la_Corrupcion_(Ref_dto_1475_aprob_LXV_Legis_12_julio_2023_PO_30_10a_secc_29_julio_2023).pdf", "2026-03-18T23:06:47.771312 | ALERTA | Nueva publicación detectada (requiere revisión): PODER EJECUTIVO SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO: Acuerdo por el que la persona Titular de Transparencia para el Pueblo delega a la Dirección General Jurídica las facultades que se indican y le adscribe la Dirección de Transparencia. — https://dof.gob.mx/nota_detalle.php?codigo=5782501&fecha=18/03/2026", "2026-03-18T23:06:47.771508 | ALERTA | Nueva publicación detectada (requiere revisión): PODER EJECUTIVO SECRETARIA DE CULTURA: Acuerdo por el que se establecen acciones de mejora en la simplificación administrativa de servicios que se realizan ante la Secretaría de Cultura. — https://dof.gob.mx/nota_detalle.php?codigo=5782505&fecha=18/03/2026", "2026-03-18T23:06:47.771600 | ALERTA | Nueva publicación detectada (requiere revisión): ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS: Acuerdo por el que la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros hace del conocimiento del público en general, la suspensión de los términos y plazos los días 26, 27 y 28 de enero de 2026, para efectos de los actos y procedimientos administrativos substanciados por la Comisión Nacional. — https://dof.gob.mx/nota_detalle.php?codigo=5782512&fecha=18/03/2026", "2026-03-18T23:06:47.771677 | ALERTA | Nueva publicación detectada (requiere revisión): ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS: Acuerdo por el que la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros hace del conocimiento del público en general, la suspensión de los términos y plazos, así como la atención presencial en las Unidades de Atención a Usuarios Occidente 5 y Occidente 6, ubicadas en los estados de Nayarit y Jalisco, respectivamente, el día 23 de febrero de 2026. — https://dof.gob.mx/nota_detalle.php?codigo=5782513&fecha=18/03/2026", "2026-03-18T23:06:47.771750 | ALERTA | Nueva publicación detectada (requiere revisión): PODER JUDICIAL TRIBUNAL DE DISCIPLINA JUDICIAL: Acuerdo General 1/2026 del Pleno del Tribunal de Disciplina Judicial del Poder Judicial de la Federación que establece el Sistema de Evaluación del Desempeño y Honorabilidad de las personas visitadoras judiciales regionales y visitadoras judiciales. — https://dof.gob.mx/nota_detalle.php?codigo=5782517&fecha=18/03/2026", "2026-03-18T23:06:47.771821 | ALERTA | Nueva publicación detectada (requiere revisión): ORGANISMOS AUTONOMOS TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA: Acuerdo SS/7/2026 por el que se da a conocer la designación de la Titular del Órgano Interno de Control. — https://dof.gob.mx/nota_detalle.php?codigo=5782524&fecha=18/03/2026", "2026-03-18T23:06:47.771889 | ALERTA | Nueva publicación detectada (requiere revisión): ORGANISMOS AUTONOMOS TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA: Extracto del Acuerdo SS/8/2026, denominado \"Se reforma el diverso SS/11/2025 que establece el Reglamento de Sesiones de la Sala Superior.\" — https://dof.gob.mx/nota_detalle.php?codigo=5782525&fecha=18/03/2026", "2026-03-18T23:06:47.771958 | ALERTA | Nueva publicación detectada (requiere revisión): ORGANISMOS AUTONOMOS TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA: Extracto del Acuerdo SS/9/2026, denominado \"Se reforma el Reglamento Interior del Tribunal Federal de Justicia Administrativa.\" — https://dof.gob.mx/nota_detalle.php?codigo=5782526&fecha=18/03/2026", "2026-03-18T23:06:47.772027 | ALERTA | Nueva publicación detectada (requiere revisión): Pago de infracciones a la Ley de Transito — https://ipagos.chihuahua.gob.mx/pagos/infracciones/index.html", "2026-03-18T23:06:48.846704 | ALERTA | Nueva publicación descargada: Ley de Ingresos del Estado 2026 — 2026-03-18 — tamaulipas", "2026-03-18T23:06:50.845720 | ALERTA | Nueva publicación descargada: Ley de Ingresos municipales 2026 — 2026-03-18 — tamaulipas", "2026-03-18T23:06:51.908317 | ALERTA | Nueva publicación descargada: Ley de Ingresos del Estado 2026 — 2026-03-18 — tamaulipas", "2026-03-18T23:06:54.399717 | ALERTA | Nueva publicación descargada: Ley de Ingresos municipales 2026 — 2026-03-18 — tamaulipas", "2026-03-18T23:06:56.601855 | ALERTA | Nueva publicación descargada: Ley de Ingresos Municipales 2026 — 2026-03-18 — tamaulipas"], "resolver": []};
+
+// ── Populate stats ──
+document.getElementById('fecha-gen').textContent = new Date(D.fecha_generacion).toLocaleString('es-MX');
+document.getElementById('s-total').textContent = D.total_leyes.toLocaleString();
+document.getElementById('s-entidades').textContent = D.entidades;
+document.getElementById('s-descargadas').textContent = D.descargadas.toLocaleString();
+document.getElementById('s-pct').textContent = D.pct_descarga + '%';
+document.getElementById('s-pendientes').textContent = D.pendientes_actualizacion;
+document.getElementById('s-exitosas').textContent = D.exitosas_total.toLocaleString();
+document.getElementById('s-fallidas').textContent = D.fallidas_total.toLocaleString();
+document.getElementById('s-reintentos').textContent = D.cola_reintentos.length;
+document.getElementById('s-llm-acciones').textContent = D.acciones_llm.length;
+
+// ── Chart: Tipos ──
+const tipoColors = {
+  'Ley': '#8A1538', 'C\u00f3digo': '#b8860b', 'Reglamento': '#2d7a4f',
+  'Decreto': '#7c3a6e', 'Acuerdo': '#2980b9', 'Norma': '#e67e22', 'Otro': '#95a5a6'
+};
+
+const tipoLabels = Object.keys(D.tipos_global);
+const tipoData = Object.values(D.tipos_global);
+
+new Chart(document.getElementById('chart-tipos'), {
+  type: 'doughnut',
+  data: {
+    labels: tipoLabels,
+    datasets: [{
+      data: tipoData,
+      backgroundColor: tipoLabels.map(t => tipoColors[t] || '#95a5a6'),
+      borderWidth: 2,
+      borderColor: '#fff',
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: true,
+    plugins: {
+      legend: {
+        position: 'bottom',
+        labels: { font: { family: "'Inter'", size: 12 }, padding: 16 }
+      }
+    }
+  }
+});
+
+// ── Chart: Top entidades ──
+const sorted = [...D.entidades_tabla].sort((a, b) => b.total - a.total).slice(0, 15);
+new Chart(document.getElementById('chart-top-entidades'), {
+  type: 'bar',
+  data: {
+    labels: sorted.map(e => e.nombre),
+    datasets: [{
+      label: 'Descargadas',
+      data: sorted.map(e => e.descargadas),
+      backgroundColor: 'rgba(138, 21, 56, 0.8)',
+      borderRadius: 3,
+    }, {
+      label: 'Pendientes',
+      data: sorted.map(e => e.total - e.descargadas),
+      backgroundColor: 'rgba(184, 134, 11, 0.5)',
+      borderRadius: 3,
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: true,
+    indexAxis: 'y',
+    scales: {
+      x: { stacked: true, grid: { color: 'rgba(0,0,0,0.05)' } },
+      y: { stacked: true, ticks: { font: { size: 11 } } }
+    },
+    plugins: {
+      legend: { position: 'top', labels: { font: { family: "'Inter'", size: 11 } } }
+    }
+  }
+});
+
+// ── Chart: Descargas ──
+new Chart(document.getElementById('chart-descargas'), {
+  type: 'doughnut',
+  data: {
+    labels: ['Exitosas', 'Fallidas'],
+    datasets: [{
+      data: [D.exitosas_total, D.fallidas_total],
+      backgroundColor: ['#2d7a4f', '#c0392b'],
+      borderWidth: 0,
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: true,
+    cutout: '70%',
+    plugins: {
+      legend: {
+        position: 'bottom',
+        labels: { color: '#ccc', font: { family: "'Inter'", size: 12 } }
+      }
+    }
+  }
+});
+
+// ── Table: Entidades ──
+function renderTable(data) {
+  const tbody = document.getElementById('tbody-entidades');
+  tbody.innerHTML = data.map(e => {
+    const barColor = e.pct >= 95 ? 'green' : e.pct >= 80 ? 'wine' : 'gold';
+    return `<tr>
+      <td><strong>${e.nombre}</strong></td>
+      <td>${e.total}</td>
+      <td>${e.con_url}</td>
+      <td>${e.descargadas}</td>
+      <td><div class="bar-cell">
+        <span class="pct">${e.pct}%</span>
+        <div class="bar"><div class="bar-fill ${barColor}" style="width:${e.pct}%"></div></div>
+      </div></td>
+      <td>${e.tipos['Ley'] || 0}</td>
+      <td>${e.tipos['C\u00f3digo'] || e.tipos['Codigo'] || 0}</td>
+      <td>${e.tipos['Reglamento'] || 0}</td>
+    </tr>`;
+  }).join('');
+}
+
+renderTable(D.entidades_tabla);
+
+// Search
+document.getElementById('search-entidad').addEventListener('input', function() {
+  const q = this.value.toLowerCase();
+  const filtered = D.entidades_tabla.filter(e =>
+    e.nombre.toLowerCase().includes(q) || e.id.includes(q)
+  );
+  renderTable(filtered);
+});
+
+// Sort
+let sortDir = {};
+function sortTable(col) {
+  sortDir[col] = !(sortDir[col] || false);
+  const keys = ['nombre', 'total', 'con_url', 'descargadas', 'pct'];
+  const key = keys[col];
+  const dir = sortDir[col] ? 1 : -1;
+  const sorted = [...D.entidades_tabla].sort((a, b) => {
+    if (typeof a[key] === 'string') return a[key].localeCompare(b[key]) * dir;
+    return (a[key] - b[key]) * dir;
+  });
+  renderTable(sorted);
+}
+
+// ── Feed: Publicaciones ──
+const feedPub = document.getElementById('feed-pub');
+if (D.publicaciones.length === 0) {
+  feedPub.innerHTML = '<div class="feed-item"><div class="feed-content"><div class="feed-title" style="color:var(--text3)">Sin publicaciones detectadas a&uacute;n</div></div></div>';
+} else {
+  feedPub.innerHTML = D.publicaciones.slice(-20).reverse().map(p => {
+    const ent = p.entidad || 'federal';
+    return `<div class="feed-item">
+      <div class="feed-dot wine"></div>
+      <div class="feed-content">
+        <div class="feed-title">${(p.titulo || '').substring(0, 120)}</div>
+        <div class="feed-meta">
+          <span class="badge badge--info">${ent}</span>
+          ${p.fecha_deteccion ? new Date(p.fecha_deteccion).toLocaleDateString('es-MX') : ''}
+          ${p.url ? ' &middot; <a href="' + p.url + '" target="_blank" style="color:var(--wine)">Ver publicaci&oacute;n</a>' : ''}
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── Feed: Acciones LLM ──
+const feedAcciones = document.getElementById('feed-acciones');
+if (D.acciones_llm.length === 0) {
+  feedAcciones.innerHTML = '<div class="feed-item"><div class="feed-content"><div class="feed-title" style="color:var(--text3)">Sin acciones LLM registradas</div></div></div>';
+} else {
+  feedAcciones.innerHTML = D.acciones_llm.map(a => {
+    const dotColor = a.accion_recomendada === 're-descargar' ? 'gold' :
+                     a.accion_recomendada === 'agregar' ? 'green' :
+                     a.accion_recomendada === 'marcar-abrogada' ? 'red' : 'wine';
+    const badgeClass = a.accion_recomendada === 're-descargar' ? 'warn' :
+                       a.accion_recomendada === 'agregar' ? 'ok' :
+                       a.accion_recomendada === 'marcar-abrogada' ? 'error' : 'info';
+    return `<div class="feed-item">
+      <div class="feed-dot ${dotColor}"></div>
+      <div class="feed-content">
+        <div class="feed-title">${a.ley_afectada || a.tipo_acto || '?'}</div>
+        <div class="feed-desc">${a.resumen || ''}</div>
+        <div class="feed-meta">
+          <span class="badge badge--${badgeClass}">${a.accion_recomendada}</span>
+          <span class="badge badge--purple">${a.tipo_acto}</span>
+          Confianza: ${(a.confianza * 100).toFixed(0)}%
+          ${a._fecha_analisis ? ' &middot; ' + new Date(a._fecha_analisis).toLocaleDateString('es-MX') : ''}
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── Feed: Alertas ──
+const feedAlertas = document.getElementById('feed-alertas');
+if (D.alertas_recientes.length === 0) {
+  feedAlertas.innerHTML = '<div class="feed-item"><div class="feed-content"><div class="feed-title" style="color:var(--text3)">Sin alertas recientes</div></div></div>';
+} else {
+  feedAlertas.innerHTML = D.alertas_recientes.reverse().map(a => {
+    const parts = a.split(' | ');
+    const fecha = parts[0] || '';
+    const msg = parts.slice(2).join(' | ') || parts.slice(1).join(' | ') || a;
+    return `<div class="feed-item">
+      <div class="feed-dot gold"></div>
+      <div class="feed-content">
+        <div class="feed-desc">${msg.substring(0, 200)}</div>
+        <div class="feed-meta">${fecha}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── Feed: Resolver ──
+const feedResolver = document.getElementById('feed-resolver');
+if (D.resolver.length === 0) {
+  feedResolver.innerHTML = '<div class="feed-item"><div class="feed-content"><div class="feed-title" style="color:var(--text3)">Sin resoluciones pendientes</div></div></div>';
+} else {
+  feedResolver.innerHTML = D.resolver.map(r => {
+    const dotColor = r.resuelto ? 'green' : 'gold';
+    const badge = r.resuelto ? 'ok' : 'warn';
+    const label = r.resuelto ? 'Resuelto' : 'Pendiente';
+    return `<div class="feed-item">
+      <div class="feed-dot ${dotColor}"></div>
+      <div class="feed-content">
+        <div class="feed-title">${r.nombre || r.id}</div>
+        <div class="feed-meta">
+          <span class="badge badge--${badge}">${label}</span>
+          D&iacute;as: ${r.dias || '?'} &middot; Intentos: ${r.intentos || '?'}
+          ${r.estrategia ? ' &middot; Estrategia ' + r.estrategia : ''}
+          ${r.fecha ? ' &middot; ' + new Date(r.fecha).toLocaleDateString('es-MX') : ''}
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── Feed: Pipeline ──
+const feedPipeline = document.getElementById('feed-pipeline');
+if (D.pipeline_logs.length === 0) {
+  feedPipeline.innerHTML = '<div class="feed-item"><div class="feed-content"><div class="feed-title" style="color:rgba(255,255,255,0.5)">Sin ejecuciones registradas</div></div></div>';
+} else {
+  feedPipeline.innerHTML = D.pipeline_logs.slice(-10).reverse().map(p => {
+    const dotColor = p.exito ? 'green' : 'red';
+    const badge = p.exito ? 'ok' : 'error';
+    const label = p.exito ? 'Exitoso' : 'Con errores';
+    return `<div class="feed-item" style="background:rgba(255,255,255,0.03);border-color:rgba(255,255,255,0.1);">
+      <div class="feed-dot ${dotColor}"></div>
+      <div class="feed-content">
+        <div class="feed-title" style="color:white;">${p.fecha}</div>
+        <div class="feed-meta" style="color:rgba(255,255,255,0.5);">
+          <span class="badge badge--${badge}">${label}</span>
+          ${p.duracion}
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── Tabs ──
+function switchTab(name) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+  event.target.classList.add('active');
+  document.getElementById('tab-' + name).classList.add('active');
+}
+
+// ── Smooth scroll ──
+document.querySelectorAll('.header-nav a').forEach(a => {
+  a.addEventListener('click', function(e) {
+    e.preventDefault();
+    const id = this.getAttribute('href').slice(1);
+    document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    document.querySelectorAll('.header-nav a').forEach(x => x.classList.remove('active'));
+    this.classList.add('active');
+  });
+});
+
+// ── Intersection observer for active nav ──
+const sections = document.querySelectorAll('.section, .hero');
+const navLinks = document.querySelectorAll('.header-nav a');
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      navLinks.forEach(l => l.classList.remove('active'));
+      const link = document.querySelector(`.header-nav a[href="#${entry.target.id}"]`);
+      if (link) link.classList.add('active');
+    }
+  });
+}, { threshold: 0.3 });
+sections.forEach(s => { if (s.id) observer.observe(s); });
+</script>
+</body>
+</html>
