@@ -584,6 +584,8 @@ tr:hover td {{ background: var(--wine-bg); }}
 }}
 
 .feed-item:hover {{ border-color: var(--wine); }}
+a.feed-item {{ text-decoration: none; color: inherit; cursor: pointer; }}
+a.feed-item:hover {{ box-shadow: var(--shadow); }}
 
 .feed-dot {{
   width: 8px;
@@ -599,9 +601,9 @@ tr:hover td {{ background: var(--wine-bg); }}
 .feed-dot.red {{ background: var(--red); }}
 
 .feed-content {{ flex: 1; min-width: 0; }}
-.feed-title {{ font-weight: 600; margin-bottom: 2px; }}
+.feed-title {{ font-weight: 600; margin-bottom: 2px; overflow-wrap: break-word; word-wrap: break-word; }}
 .feed-meta {{ color: var(--text3); font-size: 0.75rem; }}
-.feed-desc {{ color: var(--text2); font-size: 0.8rem; overflow: hidden; text-overflow: ellipsis; }}
+.feed-desc {{ color: var(--text2); font-size: 0.8rem; overflow-wrap: break-word; word-wrap: break-word; }}
 
 /* ── Tabs ───────────────────────── */
 .tabs {{
@@ -648,6 +650,24 @@ tr:hover td {{ background: var(--wine-bg); }}
   .header-inner {{ padding: 0.75rem 1rem; }}
   .section {{ padding: 2rem 1rem; }}
   .hero {{ padding: 2.5rem 1rem; }}
+  .tabs {{ overflow-x: auto; -webkit-overflow-scrolling: touch; flex-wrap: nowrap; }}
+  .tab {{ white-space: nowrap; flex-shrink: 0; padding: 0.6rem 0.9rem; font-size: 0.8rem; }}
+  .feed-item {{ flex-wrap: wrap; padding: 0.6rem 0.75rem; gap: 0.5rem; }}
+  .feed-content {{ min-width: 0; width: calc(100% - 24px); }}
+  .feed-meta {{ flex-wrap: wrap; gap: 0.25rem; }}
+  td {{ white-space: normal; padding: 0.5rem 0.6rem; font-size: 0.78rem; }}
+  th {{ padding: 0.5rem 0.6rem; font-size: 0.68rem; }}
+  .header-nav a {{ padding: 0.3rem 0.5rem; font-size: 0.72rem; }}
+}}
+
+@media (max-width: 480px) {{
+  .stats-grid {{ grid-template-columns: 1fr; }}
+  .header-inner {{ flex-direction: column; align-items: flex-start; gap: 0.5rem; }}
+  .header h1 {{ font-size: 1.3rem; }}
+  .header-nav {{ width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }}
+  .tab {{ padding: 0.5rem 0.7rem; font-size: 0.75rem; }}
+  .hero h2 {{ font-size: 1.5rem; }}
+  .hero p {{ font-size: 0.9rem; }}
 }}
 
 /* ── Embed mode (hide chrome when loaded inside iframe) ── */
@@ -746,7 +766,7 @@ if (new URLSearchParams(window.location.search).has('embed')) {{
     </div>
     <div class="stat-card animate animate-delay-2">
       <div class="stat-number" id="s-entidades">-</div>
-      <div class="stat-label">Entidades federativas</div>
+      <div class="stat-label">Entidades (federal + 32 estados)</div>
     </div>
     <div class="stat-card animate animate-delay-3">
       <div class="stat-number green" id="s-descargadas">-</div>
@@ -896,7 +916,7 @@ function esc(s) {{ if (s == null) return ''; return String(s).replace(/&/g,'&amp
 function escUrl(u) {{ if (u == null) return ''; const s = String(u).trim(); if (/^https?:\\/\\//i.test(s)) return esc(s); return ''; }}
 
 // ── Populate stats ──
-document.getElementById('fecha-gen').textContent = new Date(D.fecha_generacion).toLocaleString('es-MX');
+document.getElementById('fecha-gen').textContent = new Date(D.fecha_generacion + 'Z').toLocaleString('es-MX', {{timeZone: 'America/Mexico_City'}});
 document.getElementById('s-total').textContent = D.total_leyes.toLocaleString();
 document.getElementById('s-entidades').textContent = D.entidades;
 document.getElementById('s-descargadas').textContent = D.descargadas.toLocaleString();
@@ -1049,17 +1069,19 @@ if (D.publicaciones.length === 0) {{
 }} else {{
   feedPub.innerHTML = D.publicaciones.slice(-20).reverse().map(p => {{
     const ent = p.entidad || 'federal';
-    return `<div class="feed-item">
+    const hasUrl = escUrl(p.url);
+    const tag = hasUrl ? 'a' : 'div';
+    const linkAttrs = hasUrl ? ` href="${{escUrl(p.url)}}" target="_blank" rel="noopener"` : '';
+    return `<${{tag}} class="feed-item"${{linkAttrs}}>
       <div class="feed-dot wine"></div>
       <div class="feed-content">
-        <div class="feed-title">${{esc((p.titulo || '').substring(0, 120))}}</div>
+        <div class="feed-title">${{esc(p.titulo || '')}}</div>
         <div class="feed-meta">
           <span class="badge badge--info">${{esc(ent)}}</span>
           ${{p.fecha_deteccion ? esc(new Date(p.fecha_deteccion).toLocaleDateString('es-MX')) : ''}}
-          ${{escUrl(p.url) ? ' &middot; <a href="' + escUrl(p.url) + '" target="_blank" rel="noopener" style="color:var(--wine)">Ver publicaci&oacute;n</a>' : ''}}
         </div>
       </div>
-    </div>`;
+    </${{tag}}>`;
   }}).join('');
 }}
 
@@ -1103,7 +1125,7 @@ if (D.alertas_recientes.length === 0) {{
     return `<div class="feed-item">
       <div class="feed-dot gold"></div>
       <div class="feed-content">
-        <div class="feed-desc">${{esc(msg.substring(0, 200))}}</div>
+        <div class="feed-desc">${{esc(msg)}}</div>
         <div class="feed-meta">${{esc(fecha)}}</div>
       </div>
     </div>`;
