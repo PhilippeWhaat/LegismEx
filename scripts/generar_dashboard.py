@@ -735,6 +735,8 @@ if (new URLSearchParams(window.location.search).has('embed')) {{
   }}
   window.addEventListener('load', notifyHeight);
   new ResizeObserver(notifyHeight).observe(document.body);
+  // Re-notify on any click (tab switches, accordions, etc.)
+  document.addEventListener('click', function() {{ setTimeout(notifyHeight, 100); }});
 }}
 </script>
 
