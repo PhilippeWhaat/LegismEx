@@ -77,6 +77,40 @@ NOMBRES_ESTADOS = {
 }
 
 
+def filtrar_acciones_verificadas(acciones: list, indice: list) -> list:
+    """Solo incluir acciones LLM que se materializaron en el índice.
+
+    Para re-descargar/marcar-abrogada: debe existir una ley de esa entidad
+    con estado que confirme que la acción se ejecutó (ok o abrogada).
+    Para agregar/ley_nueva: la ley debe haber sido efectivamente agregada
+    al índice (descargada con éxito).
+    Ignorar/irrelevante: se excluyen siempre.
+    """
+    # Construir lookup: id exacto + set de entidades con descargas ok
+    ids_indice = {ley.get("id") for ley in indice}
+    leyes_actualizadas = set()
+    for ley in indice:
+        if ley.get("estado") in ("ok", "pendiente_actualizacion", "abrogada"):
+            leyes_actualizadas.add(ley.get("id"))
+
+    verificadas = []
+    for a in acciones:
+        accion = a.get("accion_recomendada", "")
+        if accion == "ignorar":
+            continue
+        id_cat = a.get("id_catalogo", "")
+        if accion in ("re-descargar", "marcar-abrogada", "actualizar-catalogo"):
+            # El ID del LLM puede no coincidir exactamente; buscar por entidad
+            # y verificar que al menos existe la ley referenciada en el índice
+            if id_cat in ids_indice:
+                verificadas.append(a)
+        elif accion == "agregar":
+            # Ley nueva: solo mostrar si fue agregada al índice y descargada
+            if id_cat in leyes_actualizadas:
+                verificadas.append(a)
+    return verificadas
+
+
 def recopilar_datos() -> dict:
     indice = cargar_indice()
     catalogos = cargar_catalogos()
@@ -156,7 +190,7 @@ def recopilar_datos() -> dict:
         "entidades": len(por_entidad),
         "tipos_global": dict(tipos_global),
         "entidades_tabla": entidades_tabla,
-        "acciones_llm": acciones,
+        "acciones_llm": filtrar_acciones_verificadas(acciones, indice),
         "cola_reintentos": cola_reintentos,
         "evidencias": evidencias,
         "leyes_nuevas": nuevas,
