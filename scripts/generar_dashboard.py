@@ -731,12 +731,16 @@ a.feed-item:hover {{ box-shadow: var(--shadow); }}
 if (new URLSearchParams(window.location.search).has('embed')) {{
   document.body.classList.add('embed-mode');
   function notifyHeight() {{
-    window.parent.postMessage({{ type: 'dashboard-height', height: document.documentElement.scrollHeight }}, '*');
+    // Measure actual content height (not viewport) by temporarily shrinking body
+    document.body.style.height = '0';
+    var h = document.body.scrollHeight;
+    document.body.style.height = '';
+    window.parent.postMessage({{ type: 'dashboard-height', height: h }}, '*');
   }}
   window.addEventListener('load', notifyHeight);
   new ResizeObserver(notifyHeight).observe(document.body);
   // Re-notify on any click (tab switches, accordions, etc.)
-  document.addEventListener('click', function() {{ setTimeout(notifyHeight, 100); }});
+  document.addEventListener('click', function() {{ setTimeout(notifyHeight, 150); }});
 }}
 </script>
 
