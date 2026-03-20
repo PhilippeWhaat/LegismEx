@@ -104,7 +104,7 @@ LegismEx/
 │   ├── generar_indice.py             ← Consolida catálogos → leyes_index.json
 │   ├── descarga.py                   ← Descarga con verificación por hash MD5
 │   ├── vigilancia_dof.py             ← DOF (RSS) + 30 periódicos estatales
-│   ├── analizar_publicaciones.py     ← Clasificación con Claude API
+│   ├── analizar_publicaciones.py     ← Clasificación con Claude API + extracción PDF/HTML
 │   ├── resolver_pendientes.py        ← Resolución inteligente (3 estrategias)
 │   ├── reintentos.py                 ← Cola de reintentos (máx 3 fallos)
 │   ├── generar_dashboard.py          ← Dashboard HTML autocontenido
@@ -163,6 +163,7 @@ Cada intento queda registrado en `logs/evidencias_reformas.json` para trazabilid
 
 - Python 3.10+
 - `anthropic` + `python-dotenv` (para análisis LLM)
+- `pymupdf` (extracción de texto de PDFs para análisis LLM)
 - Node.js (para build del sitio web, opcional)
 - API key de Anthropic en `.env`
 

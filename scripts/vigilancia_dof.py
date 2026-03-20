@@ -69,16 +69,21 @@ def log_alerta(mensaje: str):
 # Palabras clave legislativas
 # ──────────────────────────────────────────────
 PALABRAS_CLAVE = [
-    r"\bLey\b",
-    r"\bDecreto\b",
-    r"\bReforma\b",
-    r"\bReglamento\b",
-    r"\bAbrogaci[oó]n\b",
-    r"\bDerogaci[oó]n\b",
-    r"\bC[oó]digo\b",
-    r"\bAcuerdo\b",
-    r"\bNorma Oficial\b",
-    r"\bDisposici[oó]n\b",
+    r"\bLeyes?\b",                        # Ley, Leyes
+    r"\bDecretos?\b",                     # Decreto, Decretos
+    r"\bReformas?\b",                     # Reforma, Reformas
+    r"\bReglamentos?\b",                  # Reglamento, Reglamentos
+    r"\bAbrogaci[oó]n(es)?\b",
+    r"\bDerogaci[oó]n(es)?\b",
+    r"\bC[oó]digos?\b",                   # Código, Códigos
+    r"\bAcuerdos?\b",
+    r"\bNormas?\s+Oficial(es)?\b",
+    r"\bDisposici[oó]n(es)?\b",
+    r"\bPresupuesto(s)?\b",               # Presupuestos de egresos
+    r"\bIngresos\b",                      # Leyes de ingresos
+    r"\bEgresos\b",                       # Presupuestos de egresos
+    r"\bConstituc",                       # Constitución, Constitucional
+    r"\bLineamientos?\b",
 ]
 
 PATRON_LEGISLATIVO = re.compile("|".join(PALABRAS_CLAVE), re.IGNORECASE)
@@ -475,10 +480,12 @@ def procesar_actos(actos: list[dict]):
         if cola_file.exists():
             with open(cola_file) as f:
                 cola_existente = json.load(f)
-        cola_existente.extend(cola_procesamiento)
+        urls_existentes = {p.get("url") for p in cola_existente}
+        nuevas = [p for p in cola_procesamiento if p.get("url") not in urls_existentes]
+        cola_existente.extend(nuevas)
         with open(cola_file, "w") as f:
             json.dump(cola_existente, f, ensure_ascii=False, indent=2)
-        log.info(f"{len(cola_procesamiento)} acto(s) agregado(s) a la cola de procesamiento")
+        log.info(f"{len(nuevas)} acto(s) nuevo(s) agregado(s) a la cola de procesamiento ({len(cola_procesamiento) - len(nuevas)} duplicados omitidos)")
 
     # También guardar archivo diario para histórico
     if cola_procesamiento:

@@ -18,6 +18,7 @@ import logging
 import os
 import sys
 from datetime import datetime, date
+from html.parser import HTMLParser
 from pathlib import Path
 
 try:
@@ -129,20 +130,93 @@ Si afecta una sola ley, responde con un solo objeto JSON.
 Responde SIEMPRE en JSON válido, sin texto adicional."""
 
 
-def construir_prompt_usuario(publicacion: dict, nombres_leyes: list[str]) -> str:
+# ──────────────────────────────────────────────
+# Extracción de contenido de documentos
+# ──────────────────────────────────────────────
+MAX_CONTENIDO_CHARS = 15000
+
+
+class _TextExtractor(HTMLParser):
+    """Extrae texto plano de HTML."""
+    def __init__(self):
+        super().__init__()
+        self._textos: list[str] = []
+
+    def handle_data(self, data):
+        t = data.strip()
+        if t:
+            self._textos.append(t)
+
+    def get_text(self) -> str:
+        return " ".join(self._textos)
+
+
+def _extraer_texto_pdf(ruta: Path) -> str:
+    """Extrae texto de un PDF usando PyMuPDF (fitz)."""
+    try:
+        import fitz  # PyMuPDF
+    except ImportError:
+        log.debug("PyMuPDF no instalado, no se puede extraer texto de PDF")
+        return ""
+    try:
+        doc = fitz.open(str(ruta))
+        textos = []
+        for page in doc:
+            textos.append(page.get_text())
+        doc.close()
+        return " ".join(textos)
+    except Exception as e:
+        log.warning(f"Error extrayendo texto de PDF {ruta}: {e}")
+        return ""
+
+
+def _extraer_texto_html(ruta: Path) -> str:
+    """Extrae texto plano de un archivo HTML."""
+    try:
+        contenido = ruta.read_text(encoding="utf-8", errors="replace")
+        parser = _TextExtractor()
+        parser.feed(contenido)
+        return parser.get_text()
+    except Exception as e:
+        log.warning(f"Error extrayendo texto de HTML {ruta}: {e}")
+        return ""
+
+
+def extraer_contenido(publicacion: dict) -> str:
+    """Extrae contenido textual del archivo local de una publicación."""
+    archivo = publicacion.get("archivo_local")
+    if not archivo:
+        return ""
+    ruta = Path(archivo)
+    if not ruta.exists():
+        return ""
+
+    sufijo = ruta.suffix.lower()
+    if sufijo == ".pdf":
+        texto = _extraer_texto_pdf(ruta)
+    elif sufijo in (".html", ".htm"):
+        texto = _extraer_texto_html(ruta)
+    else:
+        # DOC/DOCX u otros formatos: no extraer
+        return ""
+
+    return texto[:MAX_CONTENIDO_CHARS] if texto else ""
+
+
+def construir_prompt_usuario(publicacion: dict, nombres_leyes: list[str], contenido_extraido: str = "") -> str:
     """Construye el prompt con la publicación y contexto del catálogo."""
     titulo = publicacion.get("titulo", "")
     entidad = publicacion.get("entidad", "federal")
     fecha = publicacion.get("fecha", "")
     url = publicacion.get("url", "")
 
-    # Limitar lista de leyes a un tamaño razonable para el contexto
     leyes_texto = ""
     if nombres_leyes:
-        leyes_muestra = nombres_leyes[:200]  # Máx 200 nombres
-        leyes_texto = "\n".join(f"  - {n}" for n in leyes_muestra)
-        if len(nombres_leyes) > 200:
-            leyes_texto += f"\n  ... y {len(nombres_leyes) - 200} más"
+        leyes_texto = "\n".join(f"  - {n}" for n in nombres_leyes)
+
+    contenido_seccion = ""
+    if contenido_extraido:
+        contenido_seccion = f"\n\nCONTENIDO DEL DOCUMENTO:\n{contenido_extraido}"
 
     return f"""Analiza esta publicación oficial y clasifícala:
 
@@ -150,7 +224,7 @@ PUBLICACIÓN:
   Título: {titulo}
   Entidad: {entidad}
   Fecha: {fecha}
-  URL: {url}
+  URL: {url}{contenido_seccion}
 
 {"LEYES EN NUESTRO CATÁLOGO PARA " + entidad.upper() + ":" + chr(10) + leyes_texto if leyes_texto else "No tenemos catálogo para esta entidad aún."}
 
@@ -178,8 +252,9 @@ def analizar_con_llm(
     """Envía una publicación al LLM y obtiene la clasificación."""
     entidad = publicacion.get("entidad", "federal")
     nombres = nombres_leyes_entidad(catalogos, entidad)
+    contenido = extraer_contenido(publicacion)
 
-    prompt = construir_prompt_usuario(publicacion, nombres)
+    prompt = construir_prompt_usuario(publicacion, nombres, contenido)
 
     try:
         response = client.messages.create(
@@ -396,12 +471,21 @@ def _accion_marcar_abrogada(resultado: dict, catalogos: dict):
 
 
 def _guardar_acciones(acciones: list[dict]):
-    """Guarda el log de acciones del LLM."""
+    """Guarda el log de acciones del LLM, deduplicando por url + id_catalogo."""
     existentes = []
     if ACCIONES_LOG.exists():
         with open(ACCIONES_LOG) as f:
             existentes = json.load(f)
-    existentes.extend(acciones)
+    claves_existentes = {
+        (a.get("_publicacion_original", {}).get("url", ""), a.get("id_catalogo", ""))
+        for a in existentes
+    }
+    nuevas = [
+        a for a in acciones
+        if (a.get("_publicacion_original", {}).get("url", ""), a.get("id_catalogo", ""))
+        not in claves_existentes
+    ]
+    existentes.extend(nuevas)
     with open(ACCIONES_LOG, "w") as f:
         json.dump(existentes, f, ensure_ascii=False, indent=2)
 
@@ -513,7 +597,7 @@ def main():
     tokens_total = 0
 
     for i, pub in enumerate(publicaciones, 1):
-        titulo = pub.get("titulo", "?")[:80]
+        titulo = pub.get("titulo", "?")
         log.info(f"[{i}/{len(publicaciones)}] Analizando: {titulo}...")
 
         raw = analizar_con_llm(client, pub, catalogos)
