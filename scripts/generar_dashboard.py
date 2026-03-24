@@ -13,7 +13,8 @@ import json
 import html
 import sys
 from collections import Counter, defaultdict
-from datetime import datetime, date
+from datetime import datetime, date, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -180,7 +181,7 @@ def recopilar_datos() -> dict:
         })
 
     return {
-        "fecha_generacion": datetime.now().isoformat(),
+        "fecha_generacion": datetime.now(ZoneInfo("America/Mexico_City")).isoformat(),
         "total_leyes": total,
         "con_url": con_url,
         "descargadas": descargadas,
@@ -922,7 +923,7 @@ function esc(s) {{ if (s == null) return ''; return String(s).replace(/&/g,'&amp
 function escUrl(u) {{ if (u == null) return ''; const s = String(u).trim(); if (/^https?:\\/\\//i.test(s)) return esc(s); return ''; }}
 
 // ── Populate stats ──
-document.getElementById('fecha-gen').textContent = new Date(D.fecha_generacion + 'Z').toLocaleString('es-MX', {{timeZone: 'America/Mexico_City'}});
+document.getElementById('fecha-gen').textContent = new Date(D.fecha_generacion).toLocaleString('es-MX', {{timeZone: 'America/Mexico_City'}});
 document.getElementById('s-total').textContent = D.total_leyes.toLocaleString();
 document.getElementById('s-entidades').textContent = D.entidades;
 document.getElementById('s-descargadas').textContent = D.descargadas.toLocaleString();
@@ -1084,7 +1085,7 @@ if (D.publicaciones.length === 0) {{
         <div class="feed-title">${{esc(p.titulo || '')}}</div>
         <div class="feed-meta">
           <span class="badge badge--info">${{esc(ent)}}</span>
-          ${{p.fecha_deteccion ? esc(new Date(p.fecha_deteccion).toLocaleDateString('es-MX')) : ''}}
+          ${{p.fecha_deteccion ? esc(new Date(p.fecha_deteccion).toLocaleDateString('es-MX', {{timeZone: 'America/Mexico_City'}})) : ''}}
         </div>
       </div>
     </${{tag}}>`;
@@ -1112,7 +1113,7 @@ if (D.acciones_llm.length === 0) {{
           <span class="badge badge--${{badgeClass}}">${{esc(a.accion_recomendada)}}</span>
           <span class="badge badge--purple">${{esc(a.tipo_acto)}}</span>
           Confianza: ${{(Number(a.confianza) * 100 || 0).toFixed(0)}}%
-          ${{a._fecha_analisis ? ' &middot; ' + esc(new Date(a._fecha_analisis).toLocaleDateString('es-MX')) : ''}}
+          ${{a._fecha_analisis ? ' &middot; ' + esc(new Date(a._fecha_analisis).toLocaleDateString('es-MX', {{timeZone: 'America/Mexico_City'}})) : ''}}
         </div>
       </div>
     </div>`;
@@ -1155,7 +1156,7 @@ if (D.resolver.length === 0) {{
           <span class="badge badge--${{badge}}">${{label}}</span>
           D&iacute;as: ${{Number(r.dias) || '?'}} &middot; Intentos: ${{Number(r.intentos) || '?'}}
           ${{r.estrategia ? ' &middot; Estrategia ' + esc(r.estrategia) : ''}}
-          ${{r.fecha ? ' &middot; ' + esc(new Date(r.fecha).toLocaleDateString('es-MX')) : ''}}
+          ${{r.fecha ? ' &middot; ' + esc(new Date(r.fecha).toLocaleDateString('es-MX', {{timeZone: 'America/Mexico_City'}})) : ''}}
         </div>
       </div>
     </div>`;

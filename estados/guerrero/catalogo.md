@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — GUERRERO
 
-_Generado: 2026-03-18 | Total: 133 documentos_
+_Generado: 2026-03-23 | Total: 133 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

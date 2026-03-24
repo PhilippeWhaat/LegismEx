@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — JALISCO
 
-_Generado: 2026-03-17 | Total: 74 documentos_
+_Generado: 2026-03-23 | Total: 74 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

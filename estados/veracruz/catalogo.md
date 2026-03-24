@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — VERACRUZ
 
-_Generado: 2026-03-14 | Total: 185 documentos_
+_Generado: 2026-03-23 | Total: 185 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

@@ -75,7 +75,7 @@
     "tipo": "Ley",
     "entidad": "tamaulipas",
     "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=298",
-    "ultima_reforma": "2026-03-09",
+    "ultima_reforma": "2027-03-17",
     "estado_vigencia": "vigente",
     "fuente": "congresotamaulipas.gob.mx"
   },
@@ -1046,6 +1046,16 @@
     "entidad": "tamaulipas",
     "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=79",
     "ultima_reforma": "2023-06-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotamaulipas.gob.mx"
+  },
+  {
+    "id": "tamaulipas_reconocimiento_atencin_personas_lgbttti_tamaulipas_ley",
+    "nombre": "Reconocimiento y AtenciÃ³n de las personas LGBTTTI+ para el Estado de Tamaulipas, Ley para el",
+    "tipo": "Ley",
+    "entidad": "tamaulipas",
+    "url_pdf": "https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=1329",
+    "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "congresotamaulipas.gob.mx"
   },

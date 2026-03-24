@@ -312,11 +312,24 @@ class NLTableParser(HTMLParser):
         self._cell_links: list[str] = []
         self._depth = 0
 
+    def _flush_row(self):
+        """Finalize the current row and append it if it has a name."""
+        if self._current_row.get("nombre"):
+            self.rows.append(dict(self._current_row))
+        self._in_tr = False
+        self._current_row = {}
+        self._col = 0
+        self._depth = 0
+
     def handle_starttag(self, tag, attrs):
         attrs_d = dict(attrs)
         if tag == "tbody":
             self._in_tbody = True
         if self._in_tbody and tag == "tr":
+            # If already inside a <tr>, flush the previous row first
+            # (the page has no </tr> closing tags)
+            if self._in_tr:
+                self._flush_row()
             self._in_tr = True
             self._current_row = {}
             self._col = 0
@@ -365,6 +378,9 @@ class NLTableParser(HTMLParser):
             self._in_tr = False
             self._current_row = {}
         if tag == "tbody":
+            # Flush last row (may not be followed by another <tr>)
+            if self._in_tr:
+                self._flush_row()
             self._in_tbody = False
 
 
@@ -887,106 +903,116 @@ def scrape_tamaulipas() -> list[dict]:
 # ──────────────────────────────────────────────
 
 def scrape_chihuahua() -> list[dict]:
+    import csv as csv_mod
+    import io
+    import unicodedata
+
     entidad = "chihuahua"
     csv_url = "https://www.congresochihuahua.gob.mx/biblioteca/leyes/generarCSV.php"
     page_url = "https://www.congresochihuahua.gob.mx/biblioteca/leyes/"
 
-    # Step 1: Get full list from CSV export (names + publication dates)
+    def _normalize(s: str) -> str:
+        """Normalize name for matching: strip accents, lowercase, collapse spaces."""
+        s = unicodedata.normalize("NFD", s)
+        s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+        return re.sub(r"\s+", " ", s).strip().lower()
+
+    # Step 1: Get publication dates from CSV (secondary source)
+    csv_dates: dict[str, str] = {}
     log.info(f"  Chihuahua CSV: {csv_url}")
     csv_text = fetch(csv_url)
-    if not csv_text:
-        log.warning("  Chihuahua: no se pudo obtener CSV")
-        return []
+    if csv_text:
+        reader = csv_mod.reader(io.StringIO(csv_text))
+        next(reader, None)  # skip header
+        for row in reader:
+            if not row or not row[0].strip():
+                continue
+            nombre_norm = _normalize(row[0])
+            fecha = row[1].strip() if len(row) > 1 else ""
+            if fecha:
+                csv_dates[nombre_norm] = fecha
+        log.info(f"  Chihuahua CSV: {len(csv_dates)} fechas de publicación")
 
-    import csv as csv_mod
-    import io
-    reader = csv_mod.reader(io.StringIO(csv_text))
-    header = next(reader, None)
-    csv_rows = list(reader)
-    log.info(f"  Chihuahua CSV: {len(csv_rows)} leyes en CSV")
-
-    # Step 2: Scrape paginated pages to map law names to PDF IDs
-    # The page uses GET with ?pagina=N parameter
-    # Max pages = ceil(CSV rows / 5) + buffer (server wraps around infinitely)
-    max_pages = (len(csv_rows) // 5) + 5
-    name_to_pdf: dict[str, dict] = {}
+    # Step 2: Scrape paginated pages as PRIMARY source (names + URLs)
+    # Each page has 5 entries; 176 results = 36 pages. Server wraps around.
+    leyes: list[dict] = []
+    ids_vistos: set[str] = set()
+    nombres_vistos: set[str] = set()
     pagina = 1
+    max_pages = 40  # safety limit; we detect wrap-around below
+
     while pagina <= max_pages:
-        url = f"{page_url}?pagina={pagina}"
+        url = f"{page_url}index.php?pag={pagina}&palabra="
         html = fetch(url)
         if not html:
             break
 
-        # Each law card: name in text, then archivosLeyes/{id}.pdf
-        # Split by "table-bordered" class which wraps each law
+        # Split by table-bordered which wraps each law card
         cards = re.split(r'class="table\s+table-bordered"', html)
         found = 0
 
         for card in cards[1:]:
-            name_match = re.search(
-                r'>\s*((?:LEY|CÓDIGO|CODIGO|REGLAMENTO|CONSTITUCIÓN|CONSTITUCION|'
-                r'DECRETO)[^<]{10,})',
-                card, re.IGNORECASE
-            )
-            if not name_match:
-                # Try any substantial uppercase text
-                name_match = re.search(
-                    r'>\s*([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ\s,.\-()]{15,}[A-ZÁÉÍÓÚÑÜ)])\s*<',
-                    card
-                )
+            # Extract name from <th colspan="2"> tag
+            name_match = re.search(r'<th\s+colspan="2"\s*>(.*?)</th>', card, re.DOTALL)
             if not name_match:
                 continue
 
             nombre = limpiar_texto(name_match.group(1))
+            if not nombre:
+                continue
+
+            # Detect wrap-around: if we've seen this name before, stop
+            nombre_norm = _normalize(nombre)
+            if nombre_norm in nombres_vistos:
+                found = -1  # signal to stop
+                break
+            nombres_vistos.add(nombre_norm)
+
+            # Extract PDF and Word URLs
             pdf_match = re.search(r'(https?://[^"\'>\s]*archivosLeyes/\d+\.pdf)', card)
             word_match = re.search(r'(https?://[^"\'>\s]*archivosLeyesWord/\d+\.doc)', card)
 
-            name_to_pdf[nombre.upper()] = {
+            # Extract publication date from page (e.g. "Publicación: 30 de abril de 2011")
+            fecha_pub = ""
+            fecha_match = re.search(r'Publicaci[oó]n:\s*([^<]+)', card)
+            if fecha_match:
+                fecha_pub = limpiar_texto(fecha_match.group(1))
+
+            # Try to get ISO date from CSV if available
+            fecha_csv = csv_dates.get(nombre_norm, "")
+            if fecha_csv:
+                fecha_pub = fecha_csv
+
+            tipo = inferir_tipo(nombre)
+            ley_id = generar_id(entidad, nombre)
+            if ley_id in ids_vistos:
+                continue
+            ids_vistos.add(ley_id)
+
+            leyes.append({
+                "id": ley_id,
+                "nombre": nombre,
+                "tipo": tipo,
+                "entidad": entidad,
                 "url_pdf": pdf_match.group(1) if pdf_match else "",
                 "url_word": word_match.group(1) if word_match else "",
-            }
+                "ultima_reforma": fecha_pub,
+                "estado_vigencia": "vigente",
+                "fuente": "congresochihuahua2.gob.mx",
+            })
             found += 1
 
-        log.info(f"  Chihuahua página {pagina}: {found} leyes con PDF")
+        if found == -1:
+            log.info(f"  Chihuahua página {pagina}: wrap-around detectado, parando")
+            break
+        log.info(f"  Chihuahua página {pagina}: {found} leyes")
         if found == 0:
             break
         pagina += 1
         time.sleep(0.3)
 
-    log.info(f"  Chihuahua: {len(name_to_pdf)} leyes mapeadas a PDF")
-
-    # Step 3: Build catalog from CSV, enriched with PDF URLs
-    leyes: list[dict] = []
-    ids_vistos: set[str] = set()
-
-    for row in csv_rows:
-        if not row or not row[0].strip():
-            continue
-        nombre = limpiar_texto(row[0])
-        fecha_pub = row[1].strip() if len(row) > 1 else ""
-
-        # Look up PDF URL
-        urls = name_to_pdf.get(nombre.upper(), {})
-
-        tipo = inferir_tipo(nombre)
-        ley_id = generar_id(entidad, nombre)
-        if ley_id in ids_vistos:
-            continue
-        ids_vistos.add(ley_id)
-
-        leyes.append({
-            "id": ley_id,
-            "nombre": nombre,
-            "tipo": tipo,
-            "entidad": entidad,
-            "url_pdf": urls.get("url_pdf", ""),
-            "url_word": urls.get("url_word", ""),
-            "ultima_reforma": fecha_pub,
-            "estado_vigencia": "vigente",
-            "fuente": "congresochihuahua.gob.mx",
-        })
-
-    log.info(f"  Chihuahua total: {len(leyes)} documentos")
+    log.info(f"  Chihuahua total: {len(leyes)} documentos, "
+             f"{sum(1 for l in leyes if l['url_pdf'])} con URL")
     return leyes
 
 
@@ -1796,7 +1822,7 @@ def scrape_veracruz() -> list[dict]:
 
 # ──────────────────────────────────────────────
 # CHIAPAS — web.congresochiapas.gob.mx/trabajo-legislativo/legislacion-vigente
-# Tabla con ~148 leyes. Nombre + fecha. Sin PDF directo.
+# Tabla con ~148 leyes. PDF URL en onclick="goToUrl('...')" de cada <tr>.
 # ──────────────────────────────────────────────
 
 def scrape_chiapas() -> list[dict]:
@@ -1812,9 +1838,12 @@ def scrape_chiapas() -> list[dict]:
     leyes: list[dict] = []
     ids_vistos: set[str] = set()
 
-    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+    # Each <tr> has onclick="goToUrl('https://...pdf?v=...')" with the PDF URL
+    raw_rows = re.findall(r'<tr([^>]*)>(.*?)</tr>', html, re.DOTALL)
 
-    for row in rows:
+    for attrs, row in raw_rows:
+        url_m = re.search(r'''goToUrl\(['"]([^'"]+)['"]\)''', attrs)
+        pdf_url = url_m.group(1) if url_m else ""
         cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
         if len(cells) < 5:
             continue
@@ -1838,7 +1867,7 @@ def scrape_chiapas() -> list[dict]:
             "nombre": nombre,
             "tipo": tipo,
             "entidad": entidad,
-            "url_pdf": "",
+            "url_pdf": pdf_url.strip(),
             "ultima_reforma": ultima_reforma,
             "estado_vigencia": "vigente",
             "fuente": "web.congresochiapas.gob.mx",
@@ -1912,8 +1941,10 @@ def scrape_bajacaliforniasur() -> list[dict]:
 
 
 # ──────────────────────────────────────────────
-# CDMX — data.consejeria.cdmx.gob.mx/index.php/leyes/leyes
-# Joomla paginado. ~80+ leyes con PDFs en /images/leyes/.
+# CDMX — data.consejeria.cdmx.gob.mx
+# Portal Consejería Jurídica: 5 secciones (constitucion, leyes, codigos,
+# reglamentos, historico).  Cada sección usa acordeones Joomla
+# (nn_sliders) con enlaces a /images/leyes/... (PDF, DOCX, DOC).
 # ──────────────────────────────────────────────
 
 def scrape_cdmx() -> list[dict]:
@@ -1922,72 +1953,144 @@ def scrape_cdmx() -> list[dict]:
 
     leyes: list[dict] = []
     ids_vistos: set[str] = set()
-    start = 0
 
-    while True:
-        url = f"{base_url}/index.php/leyes/leyes?start={start}" if start > 0 else f"{base_url}/index.php/leyes/leyes"
-        log.info(f"  CDMX: {url}")
+    # Secciones a recorrer: (ruta, vigencia_por_defecto)
+    secciones = [
+        ("constitucion", "vigente"),
+        ("leyes", "vigente"),
+        ("codigos", "vigente"),
+        ("reglamentos", "vigente"),
+        ("historico", "abrogado"),
+    ]
+
+    for seccion, vigencia in secciones:
+        url = f"{base_url}/index.php/leyes/{seccion}"
+        log.info(f"  CDMX sección '{seccion}': {url}")
         html = fetch(url)
         if not html:
-            break
+            continue
 
-        # Extract all links
-        all_links = re.findall(
-            r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
-            html, re.DOTALL
-        )
-        # Filter to law names
-        law_words = ['ley ', 'código', 'codigo', 'constitución',
-                     'constitucion', 'estatuto']
-        found = 0
-        for href, raw_text in all_links:
-            nombre = re.sub(r'<[^>]+>', '', raw_text).strip()
-            nombre = limpiar_texto(nombre)
-            if not nombre or len(nombre) < 20:
-                continue
-            if not any(w in nombre.lower()[:15] for w in law_words):
-                continue
-
-            # Find PDF link near this law (search forward in HTML)
-            law_pos = html.find(nombre[:30])
+        # --- Caso especial: constitución (no usa sliders) ---
+        if seccion == "constitucion":
+            doc_links = re.findall(
+                r'href=["\']([^"\']*?/images/leyes/[^"\']+)["\']',
+                html, re.IGNORECASE,
+            )
             url_pdf = ""
-            if law_pos > 0:
-                chunk = html[law_pos:law_pos + 2000]
-                pdf_m = re.search(
-                    r'href=["\']([^"\']+/images/leyes/[^"\']+\.pdf)["\']',
-                    chunk, re.IGNORECASE
-                )
-                if pdf_m:
-                    url_pdf = pdf_m.group(1)
-                    if not url_pdf.startswith("http"):
-                        url_pdf = f"{base_url}{url_pdf}"
+            url_word = ""
+            for lnk in doc_links:
+                full = lnk if lnk.startswith("http") else f"{base_url}{lnk}"
+                if lnk.lower().endswith(".pdf"):
+                    url_pdf = full
+                elif re.search(r'\.(docx?|DOC)$', lnk):
+                    url_word = full
+                elif not url_pdf:
+                    # Link sin extensión (puede ser PDF)
+                    url_pdf = full
+
+            reforma_m = re.search(
+                r'[Úú]ltima\s+reforma[^<]*?'
+                r'(\d{1,2}\s+de\s+\w+\s+de\s+\d{4})',
+                html, re.IGNORECASE,
+            )
+            nombre = "Constitución Política de la Ciudad de México"
+            ley_id = generar_id(entidad, nombre)
+            if ley_id not in ids_vistos:
+                ids_vistos.add(ley_id)
+                entry: dict = {
+                    "id": ley_id,
+                    "nombre": nombre,
+                    "tipo": "Ley",
+                    "entidad": entidad,
+                    "url_pdf": url_pdf,
+                    "ultima_reforma": reforma_m.group(1) if reforma_m else "",
+                    "estado_vigencia": "vigente",
+                    "fuente": "data.consejeria.cdmx.gob.mx",
+                }
+                if url_word:
+                    entry["url_word"] = url_word
+                leyes.append(entry)
+            continue
+
+        # --- Secciones con sliders (leyes, codigos, reglamentos, historico) ---
+        # Dividir por contenedores de slider
+        containers = re.split(
+            r'<div[^>]*class="nn_sliders_content_wrapper[^"]*"',
+            html,
+        )
+
+        for chunk in containers[1:]:  # el primer trozo es antes del 1er slider
+            # Título
+            title_m = re.search(
+                r'<h2 class="nn_sliders_title">(.*?)</h2>',
+                chunk, re.DOTALL,
+            )
+            if not title_m:
+                continue
+            nombre = re.sub(r'<[^>]+>', '', title_m.group(1)).strip()
+            nombre = limpiar_texto(nombre)
+            nombre = re.sub(r'&nbsp;', ' ', nombre).strip()
+            if not nombre or len(nombre) < 10:
+                continue
+
+            # Enlaces a documentos en /images/leyes/
+            doc_links = re.findall(
+                r'href=["\']([^"\']*?/images/[^"\']+)["\']',
+                chunk, re.IGNORECASE,
+            )
+            url_pdf = ""
+            url_word = ""
+            for lnk in doc_links:
+                full = lnk if lnk.startswith("http") else f"{base_url}{lnk}"
+                low = lnk.lower()
+                if low.endswith(".pdf"):
+                    url_pdf = full
+                elif re.search(r'\.docx?$', low):
+                    url_word = full
+                elif low.endswith(".doc"):
+                    url_word = full
+            # Si no hay .pdf explícito, buscar enlace sin extensión
+            # y agregarle .pdf (el portal a veces omite la extensión
+            # pero el archivo .pdf existe en el servidor)
+            if not url_pdf:
+                for lnk in doc_links:
+                    low = lnk.lower()
+                    if not re.search(r'\.(docx?|pdf|png|jpg|gif)$', low):
+                        full = lnk if lnk.startswith("http") else f"{base_url}{lnk}"
+                        url_pdf = full + ".pdf"
+                        break
+            # Último recurso: usar DOCX como url_pdf
+            if not url_pdf and url_word:
+                url_pdf = url_word
+
+            # Última reforma
+            reforma_m = re.search(
+                r'[Úú]ltima\s+reforma[^<]*?'
+                r'(\d{1,2}\s+de\s+\w+\s+de\s+\d{4})',
+                chunk, re.IGNORECASE,
+            )
 
             tipo = inferir_tipo(nombre)
             ley_id = generar_id(entidad, nombre)
             if ley_id in ids_vistos:
                 continue
             ids_vistos.add(ley_id)
-            found += 1
 
-            leyes.append({
+            entry = {
                 "id": ley_id,
                 "nombre": nombre,
                 "tipo": tipo,
                 "entidad": entidad,
                 "url_pdf": url_pdf,
-                "ultima_reforma": "",
-                "estado_vigencia": "vigente",
+                "ultima_reforma": reforma_m.group(1) if reforma_m else "",
+                "estado_vigencia": vigencia,
                 "fuente": "data.consejeria.cdmx.gob.mx",
-            })
+            }
+            if url_word and url_word != url_pdf:
+                entry["url_word"] = url_word
+            leyes.append(entry)
 
-        if found == 0:
-            break
-
-        # Check for next page
-        next_start = start + 20
-        if f"start={next_start}" not in html:
-            break
-        start = next_start
+        log.info(f"    {seccion}: {len(containers)-1} documentos encontrados")
         time.sleep(0.5)
 
     log.info(f"  CDMX total: {len(leyes)} documentos")
@@ -2034,8 +2137,9 @@ def scrape_michoacan() -> list[dict]:
             continue
 
         # Find first PDF link in this block (the main law PDF, not reforms)
+        # HTML structure: <a class="...ptb_extra_pdf" href="URL"><span>PDF...</span></a>
         pdf_match = re.search(
-            r'<a[^>]+href=["\']([^"\']+\.pdf)["\'][^>]*>\s*PDF',
+            r'<a[^>]+href=["\']([^"\']+\.pdf[^"\']*)["\'][^>]*>[^<]*(?:<[^>]+>)*\s*PDF',
             block, re.IGNORECASE
         )
         url_pdf = ""
@@ -2496,7 +2600,7 @@ def scrape_sonora() -> list[dict]:
 
     all_items = []
     for pagina in range(1, 20):
-        url = f"{api_url}?limite=100&pagina={pagina}&ordenar=nombre&direccion=asc"
+        url = f"{api_url}?limite=100&pagina={pagina}&ordenar=nombre&direccion=asc&expand=archivos"
         req = urllib.request.Request(url, headers={**HEADERS, "Accept": "application/json"})
         try:
             with urllib.request.urlopen(req, timeout=15, context=SSL_CTX) as resp:
@@ -2518,10 +2622,14 @@ def scrape_sonora() -> list[dict]:
         nombre = limpiar_texto(item.get("nombre", ""))
         if not nombre or len(nombre) < 10:
             continue
-        url_pdf = item.get("mediaPdf", "")
-        url_word = item.get("mediaDocx", "")
+        archivos = item.get("archivos") or {}
+        uuid_pdf = archivos.get("pdf") or ""
+        uuid_doc = archivos.get("doc") or ""
+        base_dl = "https://gestion.api.congresoson.gob.mx/publico/descarga?uuid="
+        url_pdf = f"{base_dl}{uuid_pdf}" if uuid_pdf else ""
+        url_word = f"{base_dl}{uuid_doc}" if uuid_doc else ""
         tipo_raw = item.get("tipoLey", "")
-        tipo = {"CÓDIGO": "Código", "REGLAMENTO": "Reglamento", "DECRETO": "Decreto"}.get(tipo_raw, inferir_tipo(nombre))
+        tipo = {"CÓDIGO": "Código", "CÓDIGOS": "Código", "REGLAMENTO": "Reglamento", "REGLAMENTOS": "Reglamento", "DECRETO": "Decreto", "DECRETOS": "Decreto", "LEYES": "Ley"}.get(tipo_raw, inferir_tipo(nombre))
 
         ley_id = generar_id(entidad, nombre)
         if ley_id in ids_vistos:

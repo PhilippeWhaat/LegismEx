@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — COAHUILA
 
-_Generado: 2026-03-15 | Total: 166 documentos_
+_Generado: 2026-03-23 | Total: 166 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

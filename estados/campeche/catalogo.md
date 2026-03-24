@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — CAMPECHE
 
-_Generado: 2026-03-17 | Total: 160 documentos_
+_Generado: 2026-03-23 | Total: 160 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

@@ -1560,6 +1560,96 @@
     "fuente": "congresocoahuila.gob.mx"
   },
   {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2005",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2005",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2005.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2006",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2006",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2006.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2007",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2007",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2007.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2008",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2008",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2008.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2009",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2009",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2009.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2010",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2010",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2010.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2011",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2011",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2011.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2012",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2012",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2012.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
+    "id": "coahuila_presupuesto_egresos_ejercicio_fiscal_2013",
+    "nombre": "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2013",
+    "tipo": "Ley",
+    "entidad": "coahuila",
+    "url_pdf": "http://www.congresocoahuila.gob.mx/archive/leyesestatalescoahuila/Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2013.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocoahuila.gob.mx"
+  },
+  {
     "id": "coahuila_presupuesto_egresos_coahuila_zaragoza_ejercicio_fiscal",
     "nombre": "Presupuesto de Egresos del Estado de Coahuila de Zaragoza, para el Ejercicio Fiscal 2014",
     "tipo": "Ley",

@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — MORELOS
 
-_Generado: 2026-03-14 | Total: 139 documentos_
+_Generado: 2026-03-23 | Total: 139 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

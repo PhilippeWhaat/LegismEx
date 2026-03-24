@@ -1,11 +1,11 @@
 # Catálogo de Leyes Vigentes — QUINTANAROO
 
-_Generado: 2026-03-14 | Total: 27 documentos_
+_Generado: 2026-03-23 | Total: 27 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
 | 1 | Ley de Archivos del Estado de Quintana Roo | Ley |  | [PDF](https://documentos.congresoqroo.gob.mx/leyes/L285-XVII-20231222-L1720231222201.pdf) |
-| 2 | Ley de Seguridad Ciudadana del Estado de Quintana Roo | Ley |  | [PDF](https://documentos.congresoqroo.gob.mx/leyes/L284-XVIII-20251210-L1820251204184-Ley-de-Seguridad-Ciudadana.pdf) |
+| 2 | Ley de Seguridad Ciudadana del Estado de Quintana Roo | Ley |  | [PDF](https://documentos.congresoqroo.gob.mx/leyes/L284-XVIII-20260305-L1820260305201-Ley-de-Seguridad-Ciudadana.pdf) |
 | 3 | Ley de Seguridad Escolar Integral del Estado de Quintana Roo | Ley |  | [PDF](https://documentos.congresoqroo.gob.mx/leyes/L262-XVIII-20251210-L1820251210184-Ley-de-Seguridad-Escolar.pdf) |
 | 4 | Ley para la Dotación Gratuita de Uniformes, Mochilas y Útiles Escolares a las Alumnas y los Alumnos Inscritos en Escuelas Públicas de Educación Básica en el Estado de Quintana Roo | Ley |  | [PDF](https://documentos.congresoqroo.gob.mx/leyes/L264-XVI-20220616-L1620220616241.pdf) |
 | 5 | Ley de Coordinación Fiscal del Estado de Quintana Roo | Ley |  | [PDF](https://documentos.congresoqroo.gob.mx/leyes/L226-XVII-20240808-L1720240808261-coordinacion-fiscal.pdf) |

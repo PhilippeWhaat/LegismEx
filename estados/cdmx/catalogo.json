@@ -4,20 +4,22 @@
     "nombre": "Constitución Política de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_QUE_REGULA_EL_USO_DELA_TECNOLOGA_PARA_LA_SEGURIDAD_CIUDADANA_DE_LA_CDMX_2.5.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/estatutos/CONSTITUCION_POLITICA_DE_LA_CDMX_14.4.pdf",
+    "ultima_reforma": "24 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/estatutos/CONSTITUCION_POLITICA_DE_LA_CDMX_14.4.docx"
   },
   {
     "id": "cdmx_ley_organica_congreso_ciudad_mexico",
     "nombre": "Ley Orgánica del Congreso de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_QUE_REGULA_EL_USO_DELA_TECNOLOGA_PARA_LA_SEGURIDAD_CIUDADANA_DE_LA_CDMX_2.5.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/260226/LEY_ORGANICA_DEL_CONGRESO_DE_LA_CDMX_7.4.pdf",
+    "ultima_reforma": "23 de enero de 2026",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/260226/LEY_ORGANICA_DEL_CONGRESO_DE_LA_CDMX_7.4.docx"
   },
   {
     "id": "cdmx_ley_regula_uso_tecnologia_seguridad_ciudadana",
@@ -27,7 +29,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_QUE_REGULA_EL_USO_DELA_TECNOLOGA_PARA_LA_SEGURIDAD_CIUDADANA_DE_LA_CDMX_2.5.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_QUE_REGULA_EL_USO_DELA_TECNOLOGA_PARA_LA_SEGURIDAD_CIUDADANA_DE_LA_CDMX_2.5.docx"
   },
   {
     "id": "cdmx_ley_proteccion_a_salud_personas_no",
@@ -35,9 +38,10 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/LEY_DE_PROTECCION_A_LA_SALUD_DE_LOS_NO_FUMADORES_2.3.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "24 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/LEY_DE_PROTECCION_A_LA_SALUD_DE_LOS_NO_FUMADORES_2.3.docx"
   },
   {
     "id": "cdmx_ley_institucion_descentralizada_servicio_publico_servicio",
@@ -47,7 +51,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_DE_LA_INST_DESC_DEL_SERV_PUB_DEL_DF_SERV_DE_TRANSP_ELECTRICOS_3.2.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_DE_LA_INST_DESC_DEL_SERV_PUB_DEL_DF_SERV_DE_TRANSP_ELECTRICOS_3.2.docx"
   },
   {
     "id": "cdmx_ley_proteccion_fomento_empleo_ciudad_mexico",
@@ -57,7 +62,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_PROTECCION_Y_FOMENTO_AL_EMPLEO_PARA_LA_CDMX_2.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_PROTECCION_Y_FOMENTO_AL_EMPLEO_PARA_LA_CDMX_2.docx"
   },
   {
     "id": "cdmx_ley_educacion_ciudad_mexico",
@@ -65,9 +71,10 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/60326/LEY_DE_EDUCACION_DE_LA_CDMX_3.6.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "30 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/60326/LEY_DE_EDUCACION_DE_LA_CDMX_3.6.docx"
   },
   {
     "id": "cdmx_ley_auditoria_control_interno_administracion_publica",
@@ -75,9 +82,10 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_AUDITORIA_Y_CONTROL_INTERNO_DE_LA_ADMON_PUBLICA_DE_LA_CDMX_3.3.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "24 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_AUDITORIA_Y_CONTROL_INTERNO_DE_LA_ADMON_PUBLICA_DE_LA_CDMX_3.3.docx"
   },
   {
     "id": "cdmx_ley_organica_instituto_planeacion_democratica_prospectiva",
@@ -85,9 +93,10 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_ ORG_DEL_INST_DE_PLANEACION_DEMOCRATICA _Y_PROSPECTIVA_DE_LA_CDMX_3.4.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "24 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_ ORG_DEL_INST_DE_PLANEACION_DEMOCRATICA _Y_PROSPECTIVA_DE_LA_CDMX_3.4.docx"
   },
   {
     "id": "cdmx_ley_ambiental_ciudad_mexico",
@@ -95,19 +104,10 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_AMBIENTAL_DE_LA_CDMX_1.2.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "24 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_proteccion_datos_personales_posesion_sujetos",
-    "nombre": "Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx//images/leyes/leyes/LEYDPROTECCIONDEDATOSPERSONALESPARAELDISTRITOFEDERAL.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_AMBIENTAL_DE_LA_CDMX_1.2.docx"
   },
   {
     "id": "cdmx_ley_acceso_mujeres_a_vida_libre",
@@ -115,9 +115,10 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_ACCESO_DE_LAS_MUJERES_A_UNA_VIDA_LIBRE_DE_VIOLENCIA_DE_LA_CDMX_12.4.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "27 DE AGOSTO DE 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_ACCESO_DE_LAS_MUJERES_A_UNA_VIDA_LIBRE_DE_VIOLENCIA_DE_LA_CDMX_12.4.docx"
   },
   {
     "id": "cdmx_ley_derechos_ninas_ninos_adolescentes_ciudad",
@@ -125,9 +126,10 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DERECHOS_NINAS_NINOS_ADOLESCENTES_CDMX_7.3.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "24 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DERECHOS_NINAS_NINOS_ADOLESCENTES_CDMX_7.3.docx"
   },
   {
     "id": "cdmx_ley_reconocimiento_atencion_personas_lgbttti_ciudad",
@@ -137,7 +139,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_PARA_RECONOCIMIENTO_Y_LA_ATENCION_DE_LAS_PERSONAS_LGBTTTI_DE_LA_CDMX_4.1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_PARA_RECONOCIMIENTO_Y_LA_ATENCION_DE_LAS_PERSONAS_LGBTTTI_DE_LA_CDMX_4.1.docx"
   },
   {
     "id": "cdmx_ley_celebracion_espectaculos_publicos_ciudad_mexico",
@@ -147,7 +150,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/Ley_para_la_Celebracion_de_Espectaculos_Publicos_de_la_CDMX_3.4.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/Ley_para_la_Celebracion_de_Espectaculos_Publicos_de_la_CDMX_3.4.docx"
   },
   {
     "id": "cdmx_ley_organica_alcaldias_ciudad_mexico",
@@ -155,9 +159,10 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_ORGANICA_DE_ALCALDIAS_DE_LA_CDMX_6.3.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "24 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_ORGANICA_DE_ALCALDIAS_DE_LA_CDMX_6.3.docx"
   },
   {
     "id": "cdmx_ley_vivienda_ciudad_mexico",
@@ -165,9 +170,10 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_VIVIENDA_PARA_LA_CDMX_4.4.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "27 de octubre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_VIVIENDA_PARA_LA_CDMX_4.4.docx"
   },
   {
     "id": "cdmx_ley_seguridad_privada_ciudad_mexico",
@@ -177,7 +183,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_SEGURIDAD_PRIVADA_PARA_EL_DF_2.2.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_SEGURIDAD_PRIVADA_PARA_EL_DF_2.2.docx"
   },
   {
     "id": "cdmx_ley_salud_ciudad_mexico",
@@ -185,19 +192,21 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_DE_SALUD_DE_LA_CIUDAD_DE_MEXICO_3.7.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "24 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_DE_SALUD_DE_LA_CIUDAD_DE_MEXICO_3.7.docx"
   },
   {
     "id": "cdmx_ley_proteccion_bienestar_animales_ciudad_mexico",
     "nombre": "Ley de Protección y Bienestar de los Animales de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_PROTECCION_Y_FOMENTO_AL_EMPLEO_PARA_LA_CDMX_2.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_DE_PROTECCION_Y_BIENESTAR_DE_LOS_ANIMALES_DE_LA_CDMX_1.1.5.pdf",
+    "ultima_reforma": "30 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_DE_PROTECCION_Y_BIENESTAR_DE_LOS_ANIMALES_DE_LA_CDMX_1.1.5.docx"
   },
   {
     "id": "cdmx_ley_mejoramiento_barrial_comunitario_ciudad_mexico",
@@ -207,7 +216,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_MEJORAMIENTO_BARRIAL_Y_COMUNITARIO_DEL_DF_2.3.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_MEJORAMIENTO_BARRIAL_Y_COMUNITARIO_DEL_DF_2.3.docx"
   },
   {
     "id": "cdmx_ley_fomento_lectura_libro_ciudad_mexico",
@@ -217,7 +227,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_FOMENTO_PARA_LA_LECTURA_Y_EL_LIBRO_DE_LA_CIUDAD_DE_MEXICO_6.6.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_FOMENTO_PARA_LA_LECTURA_Y_EL_LIBRO_DE_LA_CIUDAD_DE_MEXICO_6.6.docx"
   },
   {
     "id": "cdmx_ley_entrega_recepcion_recursos_administracion_publica",
@@ -227,7 +238,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_ENTREGA_RECEPCION_DE_LOS_RECURSOS_DE_LA_ADMINISTRACION_PUBLICA_DE_LA_CDMX_2.2.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_ENTREGA_RECEPCION_DE_LOS_RECURSOS_DE_LA_ADMINISTRACION_PUBLICA_DE_LA_CDMX_2.2.docx"
   },
   {
     "id": "cdmx_ley_austeridad_transparencia_remuneraciones_prestaciones_ejercicio",
@@ -237,17 +249,19 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_AUST_TRANSP_EN_REMUN_PREST_Y_EJERC_DE_REC_DE_LA_CIUDAD_DE_MEXICO_5.8.PDF",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/\tLEY_AUST_TRANSP_EN_REMUN_PREST_Y_EJERC_DE_REC_DE_LA_CIUDAD_DE_MEXICO_5.8.docx"
   },
   {
     "id": "cdmx_ley_ingresos_ciudad_mexico_ejercicio_fiscal",
-    "nombre": "Ley de Ingresos de la Ciudad de México para el Ejercicio Fiscal 2025",
+    "nombre": "Ley de Ingresos de la Ciudad de México para el Ejercicio Fiscal 2026",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_INGRESOS_2025.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/17326/LEY_DE_INGRESOS_2026.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/17326/LEY_DE_INGRESOS_2026.docx"
   },
   {
     "id": "cdmx_ley_memoria_ciudad_mexico",
@@ -257,7 +271,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_MEMORIA_DE_LA_CDMX.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_MEMORIA_DE_LA_CDMX.docx"
   },
   {
     "id": "cdmx_ley_derecho_bienestar_e_igualdad_social",
@@ -267,7 +282,8 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_DERECHO_AL_BIENESTAR_.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_DERECHO_AL_BIENESTAR_.docx"
   },
   {
     "id": "cdmx_ley_cultura_civica_ciudad_mexico",
@@ -275,9 +291,10 @@
     "tipo": "Ley",
     "entidad": "cdmx",
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_DE_CULTURA_CIVICA_DE_LA_CIUDAD_DE_MEXICO_2.8.pdf",
-    "ultima_reforma": "",
+    "ultima_reforma": "24 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_DE_CULTURA_CIVICA_DE_LA_CIUDAD_DE_MEXICO_2.8.docx"
   },
   {
     "id": "cdmx_ley_responsabilidad_ambiental_ciudad_mexico",
@@ -287,1516 +304,1182 @@
     "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_RESPONSABILIDAD_AMBIENTAL_DE_LA_CDMX_1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_espacios_culturales_independientes_ciudad_mexico",
-    "nombre": "Ley de Espacios Culturales Independientes de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ESPACIOS_CULTURALES_INDEPENDIENTES_DE_LA_CDMX_3.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_economia_circular_ciudad_mexico",
-    "nombre": "Ley de Economia Circular de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ECONOMIA_CIRCULAR_DE_LA_CDMX.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_garantizar_acceso_libre_gratuito_internet",
-    "nombre": "Ley para Garantizar el Acceso Libre y Gratuito al Internet de la&nbsp;Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ACCESO_GRATUITO_INTERNET_CDMX_1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_publicidad_exterior_ciudad_mexico",
-    "nombre": "Ley de Publicidad Exterior de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PUBLICIDAD_EXTERIOR_DE_LA_CDMX_2.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_organica_centro_conciliacion_laboral_ciudad",
-    "nombre": "Ley Orgánica del Centro de Conciliación Laboral de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORGANICA_DEL_CENTRO_DE_CONCILIACION_LABORAL_DE_LA_CIUDAD_DE%20_MEXICO_1.4.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_centros_penitenciarios_ciudad_mexico",
-    "nombre": "Ley de Centros Penitenciarios de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_CENTROS_PENITENCIARIOS_DE_LA_CDMX_2.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_participacion_ciudadana_ciudad_mexico",
-    "nombre": "Ley de Participación Ciudadana de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PARTICIPACION_CIUDADANA_DE_LA_CDMX_4.2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_prevenir_violencia_espectaculos_deportivos_ciudad",
-    "nombre": "Ley para Prevenir la Violencia en los Espectáculos Deportivos en la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_PREVENIR_LA_VIOLENCIA_EN%20_LOS_ESPECTACULOS_DEPORTIVOS_EN_LA_CDMX_2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_evaluacion_ciudad_mexico",
-    "nombre": "Ley de Evaluación de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_EVALUACION_DE_LA_CDMX_4.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_declaracion_especial_ausencia_personas_desaparecidas",
-    "nombre": "Ley de Declaración Especial de Ausencia para Personas Desaparecidas en la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_DECLARACION_ESP_DE%20AUSENCIA_PARA_PERS_DESAPARECIDAS_EN_LA_CDMX_3.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_proteccion_atencion_asistencia_a_vicitimas",
-    "nombre": "Ley para la Protección, Atención y Asistencia a las Vícitimas de los Delitos en Materia de Trata de Personas de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_ATN_DELITOS_TRATA_DE_PERSONAS_DE_LA_CDMX_4.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_fomento_cultural_ciudad_mexico",
-    "nombre": "Ley de Fomento Cultural de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_CULTURAL_DE_LA_CDMX_5.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_reconocimiento_derechos_personas_mayores_sistema",
-    "nombre": "Ley de Reconocimiento de los Derechos de las Personas Mayores y del Sistema Integral para su Atención de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_REC_DERECHOS_PERSONAS_MAYORES_Y_DEL_SISTEMA_INT_PARA_SU_ATN_DE_LA_CDMX_5.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_atencion_visibilizacion_e_inclusion_social",
-    "nombre": "Ley para la Atención, Visibilización e Inclusión Social de las personas con la condición del Espectro Autista de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_ATENCION_PERSONAS_ESPECTRO_AUTISTA_3.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_huertos_urbanos_ciudad_mexico",
-    "nombre": "Ley de Huertos Urbanos de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_HUERTOS_URBANOS_DE_LA_CIUDAD_DE_MEXICO_3.3.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_RESPONSABILIDAD_AMBIENTAL_DE_LA_CDMX_1.docx"
   },
   {
-    "id": "cdmx_ley_archivos_ciudad_mexico",
-    "nombre": "Ley de Archivos de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_codigo_fiscal_ciudad_mexico",
+    "nombre": "Código Fiscal de la Ciudad de México",
+    "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ARCHIVOS_DE_LA_CDMX_2.1.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/CODIGO_FISCAL_DE_LA_CDMX_26.1.pdf",
+    "ultima_reforma": "19 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/CODIGO_FISCAL_DE_LA_CDMX_26.1.docx"
   },
   {
-    "id": "cdmx_ley_patrimonio_cultural_natural_biocultural_ciudad",
-    "nombre": "Ley de Patrimonio Cultural, Natural y Biocultural de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_codigo_instituciones_procedimientos_electorales_ciudad_mexico",
+    "nombre": "Código de Instituciones y Procedimientos Electorales de la Ciudad de México",
+    "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PATRIMONIO_CULTURAL_NATURAL_Y_BIOCULTURAL_DE_LA_CIUDAD_DE_MEXICO_2.7.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_INSTITUCIONES_Y_PROC_ELECTORALES_CDMX_6.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_INSTITUCIONES_Y_PROC_ELECTORALES_CDMX_6.docx"
   },
   {
-    "id": "cdmx_ley_secreto_profesional_clausula_conciencia_ejercicio",
-    "nombre": "Ley del Secreto Profesional y Cláusula de Conciencia para el Ejercicio Periodístico en la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_codigo_etica_administracion_publica_ciudad_mexico",
+    "nombre": "Código de Ética de la Administración Pública de la Ciudad de México",
+    "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_SECRETO_PROF_Y_CLAUS_DE_CONCIEN_EJERCICIO_PERIODISTICO_DE_LA_CDMX_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_ETICA_DE_LA_AP_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_ETICA_DE_LA_AP_DE_LA_CIUDAD_DE_MEXICO_2.1.docx"
   },
   {
-    "id": "cdmx_ley_sistema_anticorrupcion_ciudad_mexico",
-    "nombre": "Ley del Sistema Anticorrupción de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_codigo_responsabilidad_parlamentaria_congreso_ciudad_mexico",
+    "nombre": "Código de Responsabilidad parlamentaria del Congreso de la Ciudad de México",
+    "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SISTEMA_ANTICORRUPCION_DE_LA_CIUDAD_DE_MEXICO_4.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_RESPONSABILIDAD_PARLAMENTARIA_DEL_CONGRESO_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_RESPONSABILIDAD_PARLAMENTARIA_DEL_CONGRESO_DE_LA_CIUDAD_DE_MEXICO_2.1.docx"
   },
   {
-    "id": "cdmx_ley_responsabilidad_social_mercantil_ciudad_mexico",
-    "nombre": "Ley de Responsabilidad Social Mercantil de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_codigo_procedimientos_civiles_distrito_federal",
+    "nombre": "Código de Procedimientos Civiles para el Distrito Federal",
+    "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_RESP_%20SOC_%20MERCANTIL_DE%20LA%20CIUDAD%20DE%20MEXICO_2.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/Codigo_Procedimientos_Civiles_DF_2.2.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/Codigo_Procedimientos_Civiles_DF_2.2.docx"
   },
   {
-    "id": "cdmx_ley_bibliotecas_ciudad_mexico",
-    "nombre": "Ley de Bibliotecas de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_codigo_civil_distrito_federal",
+    "nombre": "Código Civil para el Distrito Federal",
+    "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_BIBLIOTECAS_%20DE%20_LA%20_CIUDAD%20_DE%20_MEXICO_3.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/CODIGOS_2025/CODIGO_CIVIL_PARA_EL_DF_15.3.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/CODIGOS_2025/CODIGO_CIVIL_PARA_EL_DF_15.3.docx"
   },
   {
-    "id": "cdmx_ley_procesal_electoral_ciudad_mexico",
-    "nombre": "Ley Procesal Electoral de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_codigo_penal_distrito_federal",
+    "nombre": "Código Penal para el Distrito Federal",
+    "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PROCESAL_ELECTORAL_DE_LA_CDMX_5.3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/50226/CODIGO_PENAL_PARA_EL_DF_12.3.4.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/50226/CODIGO_PENAL_PARA_EL_DF_12.3.4.docx"
   },
   {
-    "id": "cdmx_ley_organica_secretaria_seguridad_ciudadana_ciudad",
-    "nombre": "Ley Orgánica de la Secretaría de Seguridad Ciudadana de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_turismo_ciudad_mexico",
+    "nombre": "Reglamento de la Ley de Turismo de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORGANICA_DE_LA_SSC_CDMX_7.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LA_LEY_DE_TURISMO_DE_LA_CDMX_1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LA_LEY_DE_TURISMO_DE_LA_CDMX_1.docx"
   },
   {
-    "id": "cdmx_ley_organica_fiscalia_general_justicia_ciudad",
-    "nombre": "Ley Orgánica de la Fiscalía General de Justicia de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_registro_civil_ciudad_mexico",
+    "nombre": "Reglamento del Registro Civil de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORGANICA_DE_LA_FISCALIA_GENERAL_DE_JUSTICIA_DE_LA_CIUDAD_DE_MEXICO_7.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DEL_REGISTRO_CIVIL_DE_LA_CDMX_1.1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DEL_REGISTRO_CIVIL_DE_LA_CDMX_1.1.docx"
   },
   {
-    "id": "cdmx_ley_derechos_pueblos_barrios_originarios_comunidades",
-    "nombre": "Ley de Derechos de los Pueblos y Barrios Originarios y Comunidades Indígenas Residentes en la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_establecimientos_mercantiles_ciudad_mexico",
+    "nombre": "Reglamento de la Ley de Establecimientos Mercantiles para la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DERECHOS_DE_PUEBLOS_Y_BARRIOS_ORIGINARIOS_Y_COMUNIDADES_INDIGENAS_RESIDENTES_EN_LA_CDMX_2.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DE_LA_LEY_DE_ESTABLECIMIENTOS_MERCANTILES_PARA_LA_CIUDAD_DE_MEXICO_2.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DE_LA_LEY_DE_ESTABLECIMIENTOS_MERCANTILES_PARA_LA_CIUDAD_DE_MEXICO_1.doc"
   },
   {
-    "id": "cdmx_ley_sistema_planeacion_desarrollo_ciudad_mexico",
-    "nombre": "Ley del Sistema de Planeación del Desarrollo de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_cultura_civica_ciudad_mexico",
+    "nombre": "Reglamento de la Ley de Cultura Cívica de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_DEL_SISTEMA_DE_PLANEACION_DEL_DESARROLLO_DE_LA_CDMX_2.7.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DE_LA_LEY_DE_CULTURA_CIVICA_DE_LA_CDMX.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DE_LA_LEY_DE_CULTURA_CIVICA_DE_LA_CDMX_1.doc"
   },
   {
-    "id": "cdmx_ley_crea_banco_adn_uso_forense",
-    "nombre": "Ley por la que se crea el Banco de ADN para uso forense de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_notariado_ciudad_mexico",
+    "nombre": "Reglamento de la Ley del Notariado en la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_BANCO_ADN_PARA_USO_FORENSE_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DE_LA_LEY_DEL_NOTARIADO_EN_LA_CIUDAD_DE_MEXICO_1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DE_LA_LEY_DEL_NOTARIADO_EN_LA_CIUDAD_DE_MEXICO_1.docx"
   },
   {
-    "id": "cdmx_ley_ciudadania_digital_ciudad_mexico",
-    "nombre": "Ley de Ciudadanía Digital de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_comision_coordinadora_sistema_general_bienestar",
+    "nombre": "Reglamento de la Comisión Coordinadora del Sistema General de Bienestar Social",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_CIUDADANIA_DIGITAL_DE_LA_CIUDAD_DE_MEXICO_2.3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LA_COMISION_COORDINADORA_DEL_SISTEMA_GENERAL_DE_BIENESTAR_SOCIAL.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LA_COMISION_COORDINADORA_DEL_SISTEMA_GENERAL_DE_BIENESTAR_SOCIAL.docx"
   },
   {
-    "id": "cdmx_ley_sistema_integral_derechos_humanos_ciudad",
-    "nombre": "Ley del Sistema Integral de Derechos Humanos de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_espacios_culturales_independientes_ciudad",
+    "nombre": "Reglamento de la Ley de Espacios Culturales Independientes de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SISTEMA_INTEGRAL_DE_DERECHOS_HUMANOS_CDMX_1.1.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RTO_LEY_ESP_CULTURALES_IND_CDMX.2.pdf",
+    "ultima_reforma": "11 de diciembre de 2025",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RTO_LEY_ESP_CULTURALES_IND_CDMX.2.docx"
   },
   {
-    "id": "cdmx_ley_territorio_ciudad_mexico",
-    "nombre": "Ley del Territorio de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_economia_circular_ciudad_mexico",
+    "nombre": "Reglamento de la Ley de Economía Circular de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DEL_TERRITORIO_DE_LA_CIUDAD_DE_MEXICO_2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RTO_ECONOMIA_CIRCULAR_CDMX.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RTO_ECONOMIA_CIRCULAR_CDMX.docx"
   },
   {
-    "id": "cdmx_ley_busqueda_personas_ciudad_mexico",
-    "nombre": "Ley de Búsqueda de Personas de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_huertos_urbanos_ciudad_mexico",
+    "nombre": "Reglamento de la Ley de Huertos Urbanos de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_BUSQUEDA_DE_PERSONAS_DE_LA_CDMX_2.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/rgto_de_la_ley_de_huertos_urbanos_cdmx.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/rgto_de_la_ley_de_huertos_urbanos_cdmx.docx"
   },
   {
-    "id": "cdmx_ley_adquisiciones_distrito_federal",
-    "nombre": "Ley de Adquisiciones para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_publicidad_exterior_ciudad_mexico",
+    "nombre": "Reglamento de la Ley de Publicidad Exterior de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ADQUISICIONES_PARA_EL_DISTRITO_FEDERAL_2.2.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RTO_LEY_DE_PUBLICIDAD_EXTERIOR_CDMX_2.6.pdf",
+    "ultima_reforma": "24 DE DICIEMBRE DE 2024",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RTO_LEY_DE_PUBLICIDAD_EXTERIOR_CDMX_2.6.docx"
   },
   {
-    "id": "cdmx_ley_albergues_privados_personas_adultas_mayores",
-    "nombre": "Ley de Albergues Privados para Personas Adultas Mayores de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_centros_penitenciarios_ciudad_mexico",
+    "nombre": "Reglamento de la Ley de Centros Penitenciarios de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ALBERGUES_PRIVADOS_PARA_PERSONAS_ADULTAS_MAYORES_DEL_DF_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LA_LEY_DE_CENTROS_PENITENCIARIOS_DE_LA_CDMX.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LA_LEY_DE_CENTROS_PENITENCIARIOS_DE_LA_CDMX.docx"
   },
   {
-    "id": "cdmx_ley_albergues_publicos_privados_ninas_ninos",
-    "nombre": "Ley de Albergues Públicos y Privados para Niñas y Niños del Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_comision_tecnica_box_desarrollo_espectaculos",
+    "nombre": "Reglamento de la Comisión Técnica de Box y el Desarrollo de Espectáculos Públicos de Box en la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ALBERG_PUB_PRIV_NINAS_Y_NINOS_DF_2.3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LA_COM_TEC_DE_BOX_Y_EL_DESARROLLO_DE_ESP_PUB_DE_BOXEO_EN_LA_CDMX.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LA_COM_TEC_DE_BOX_Y_EL_DESARROLLO_DE_ESP_PUB_DE_BOXEO_EN_LA_CDMX.docx"
   },
   {
-    "id": "cdmx_ley_asistencia_e_integracion_social_distrito",
-    "nombre": "Ley de Asistencia e Integración Social para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interno_operacion_centros_justicia_mujeres",
+    "nombre": "Reglamento Interno de Operación de los Centros de Justicia para las Mujeres de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ASISTENCIA_E_INTEGRA_SOCIAL_DEL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTOINTERNODEOPERACIONDELOSCENTROSDEJUSTICIAPARALASMUJERESENLACIUDADDEMEXICO1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTOINTERNODEOPERACIONDELOSCENTROSDEJUSTICIAPARALASMUJERESENLACIUDADDEMEXICO1.docx"
   },
   {
-    "id": "cdmx_ley_atencion_integral_desarrollo_ninas_ninos",
-    "nombre": "Ley de Atención Integral para el Desarrollo de las Niñas y Niños en Primera Infancia en el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_fiscalizacion_instituto_electoral_ciudad_mexico",
+    "nombre": "Reglamento de Fiscalización del Instituto Electoral de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ATN_INT_PARA_EL_DESARROLLO_DE_NINAS_YnINOS_EN_PRIMERA_INFANCIA_1.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/2022/RTO_FISCALIZACION_INSTITUTO_ELECTORAL_CDMX.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/2022/RTO_FISCALIZACION_INSTITUTO_ELECTORAL_CDMX.docx"
   },
   {
-    "id": "cdmx_ley_atencion_prioritaria_personas_discapacidad_situacion",
-    "nombre": "Ley de Atención Prioritaria para las Personas con Discapacidad y en Situación de Vulnerabilidad en la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_organos_colegiados_honor_justicia_secretaria",
+    "nombre": "Reglamento de los Órganos Colegiados de Honor y Justicia de la Secretaría de Seguridad Ciudadana de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ATEN_PRIO_P_LAS_PERSONAS_CON_DISCA_Y_EN_SITUACION_DE_VULNE_EN_LA_CDMX_3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/2022/RGTO_DE_LOS_ORGANOS_CJH_SCC_CDMX.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/2022/RGTO_DE_LOS_ORGANOS_CJH_SCC_CDMX.docx"
   },
   {
-    "id": "cdmx_ley_atencion_apoyo_a_victimas_directas",
-    "nombre": "Ley de Atención y Apoyo a Víctimas Directas e Indirectas del Delito de Secuestro en la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_uniformes_condecoraciones_insignias_divisas_equipo",
+    "nombre": "Reglamento de Uniformes, Condecoraciones, Insignias, Divisas y Equipo de la Policía de Proximidad de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ATN_Y_APO_A_VICT_DEIN_SECUESTRO_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/2022/RGTO_UNIF_CONDEC_INSIGN_Y_EQUIPO_DE_LA_POLICIA_DE_ LA_CDMX.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/2022/RGTO_UNIF_CONDEC_INSIGN_Y_EQUIPO_DE_LA_POLICIA_DE_ LA_CDMX.docx"
   },
   {
-    "id": "cdmx_ley_bebe_seguro_ciudad_mexico",
-    "nombre": "Ley de Bebé Seguro de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_universidad_policia_ciudad_mexico",
+    "nombre": "Reglamento Interior de la Universidad de la Policía de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_BEBE_SEGURO_DE_LA_CDMX_6.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/2022/RGTO_INTERIOR_DE_LA_UNIVERSIDAD_DE_LA_POLICIA_CDMX_2.5.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/2022/RGTO_INTERIOR_DE_LA_UNIVERSIDAD_DE_LA_POLICIA_CDMX_2.5.docx"
   },
   {
-    "id": "cdmx_ley_comedores_sociales_ciudad_mexico",
-    "nombre": "Ley de Comedores Sociales de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_control_estacionamiento_via_publica_ciudad",
+    "nombre": "Reglamento para el Control de Estacionamiento en Vía Pública de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_COMEDORES_SOCIALES_DE_LA_CDMX_4.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_PARA_EL_CONTROL_DE_ESTACIONAMIENTO_EN_VIA_PUBLICA_DE_LA_CDMX_10.pdf",
+    "ultima_reforma": "14 DE MAYO DE 2024",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_PARA_EL_CONTROL_DE_ESTACIONAMIENTO_EN_VIA_PUBLICA_DE_LA_CDMX_10.docx"
   },
   {
-    "id": "cdmx_ley_constitucional_derechos_humanos_garantias_ciudad",
-    "nombre": "Ley Constitucional de Derechos Humanos y sus Garantías de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_servicio_profesional_carrera_policia_proximidad",
+    "nombre": "Reglamento del Servicio Profesional de Carrera de la Policía de Proximidad de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_CONSTITUCIONAL_DE_DERECHOS_HUMANOS_Y_SUS_GARANTIAS_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DEL_SERVICIO_PROFESIONAL_DE_CARRERA_DE_LA_POLICIA_DE_PROXIMIDAD_DE_LA_CIUDAD_DE_MEXICO_3.pdf",
+    "ultima_reforma": "10 DE ABRIL DE 2024",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DEL_SERVICIO_PROFESIONAL_DE_CARRERA_DE_LA_POLICIA_DE_PROXIMIDAD_DE_LA_CIUDAD_DE_MEXICO_3.docx"
   },
   {
-    "id": "cdmx_ley_cuidados_alternativos_ninas_ninos_adolescentes",
-    "nombre": "Ley de Cuidados Alternativos para Niñas, Niños y Adolescentes en el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_cementerios_crematorios_servicios_funerarios_ciudad",
+    "nombre": "Reglamento de Cementerios, Crematorios y Servicios Funerarios en la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_CUID_ALT_NINAS_NINOS_Y_ADOL_EN_EL_DF_3.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DE_CEMENTERIOS_CREMATORIOS_Y_SERVICIOS_FUNERARIOS_4.3.pdf",
+    "ultima_reforma": "06 DE MAYO DE 2022",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_DE_CEMENTERIOS_CREMATORIOS_Y_SERVICIOS_FUNERARIOS_4.3.docx"
   },
   {
-    "id": "cdmx_ley_cunas_ciudad_mexico",
-    "nombre": "Ley de Cunas de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_integracion_desarrollo_personas_discapacidad",
+    "nombre": "Reglamento de la Ley para  la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_CUNAS_DE_LA_CDMX_3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LA_LEY_PARA_LA_INTEGRACION_AL_DESARROLLO_DE_LAS_PERSONAS_CON_DISCAPACIDAD_CDMX_2.4.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LA_LEY_PARA_LA_INTEGRACION_AL_DESARROLLO_DE_LAS_PERSONAS_CON_DISCAPACIDAD_CDMX_2.4.docx"
   },
   {
-    "id": "cdmx_ley_desarrollo_agropecuario_rural_sustentable_ciudad",
-    "nombre": "Ley de Desarrollo Agropecuario Rural y Sustentable de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_tribunal_justicia_administrativa_ciudad",
+    "nombre": "Reglamento Interior del Tribunal de Justicia Administrativa de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_DESARRLLO_AGROPECUARIO_RURAL_Y_SUSTENTABLE_DE_LA_CDMX_3.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INT_DEL_TRIB_JUST_ADM_DE_LA_CDMX3.pdf",
+    "ultima_reforma": "02 DE FEBRERO DE 2021",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INT_DEL_TRIB_JUST_ADM_DE_LA_CDMX3.docx"
   },
   {
-    "id": "cdmx_ley_coordinacion_metropolitana_ciudad_mexico",
-    "nombre": "Ley de Coordinación Metropolitana de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_consejo_judicatura_ciudad_mexico",
+    "nombre": "Reglamento Interior del Consejo de la Judicatura de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_COORDINACION_METROPOLITANA_DE_LA_CIUDAD_DE_MEXICO_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_INTERIOR_DEL_CONSEJO_DE_LA_JUDICATURA_DE_LA_CIUDAD_DE_MEXICO_3.3.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_INTERIOR_DEL_CONSEJO_DE_LA_JUDICATURA_DE_LA_CIUDAD_DE_MEXICO_3.3.docx"
   },
   {
-    "id": "cdmx_ley_desarrollo_urbano_distrito_federal",
-    "nombre": "Ley de Desarrollo Urbano del Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_funcionamiento_interno_organos_representacion_previstos",
+    "nombre": "Reglamento para el Funcionamiento Interno de los Órganos de Representación Previstos en la Ley de Participación Ciudadana de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_DE_DESARROLLO_URBANO_DEL_DF_5.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_FUN_INT_D_ORG_REPRE_PREV_EN_LA_LEY_D_PART_CIUD3.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_FUN_INT_D_ORG_REPRE_PREV_EN_LA_LEY_D_PART_CIUD3.docx"
   },
   {
-    "id": "cdmx_ley_educacion_fisica_deporte_ciudad_mexico",
-    "nombre": "Ley de Educación Física y Deporte de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_atencion_integral_desarrollo_ninas",
+    "nombre": "Reglamento de la Ley de Atención Integral para el Desarrollo de las Niñas y los Niños en Primera Infancia en el Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_EDUCACION_FISICA_Y_DEPORTE_DEL_DF_9.2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LEY_ATENCION_INTEGRAL_P_DESA_DE_NINAS_Y_NINOS_EN_PRIMERA_INFANCIA_EN_EL_DF3.1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LEY_ATENCION_INTEGRAL_P_DESA_DE_NINAS_Y_NINOS_EN_PRIMERA_INFANCIA_EN_EL_DF3.1.docx"
   },
   {
-    "id": "cdmx_ley_ejecucion_sanciones_penales_reinsercion_social",
-    "nombre": "Ley de Ejecución de Sanciones Penales y Reinserción Social para Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interno_comision_derechos_humanos_ciudad",
+    "nombre": "Reglamento Interno de la Comisión de Derechos Humanos de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_EJECUCION_DE_SANCIONES_PENALES_Y_REINSERCION_SOCIAL_PARA_EL_DF_2.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INT_DE_LA_COM_DE_DER_HUM_2.5.pdf",
+    "ultima_reforma": "29 DE MARZO DE 2021",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INT_DE_LA_COM_DE_DER_HUM_2.5.docx"
   },
   {
-    "id": "cdmx_ley_establecimientos_mercantiles_ciudad_mexico",
-    "nombre": "Ley de Establecimientos Mercantiles para la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interno_centro_justicia_alternativa_tribunal",
+    "nombre": "Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ESTABLECIMIENTOS_MERCANTILES_PARA_LA_CDMX_5.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INTERNO_DEL_CENTRO_DE_JUST_ALTERNA_DEL_TSJ_DE_LA_CDMX3.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INTERNO_DEL_CENTRO_DE_JUST_ALTERNA_DEL_TSJ_DE_LA_CDMX3.docx"
   },
   {
-    "id": "cdmx_ley_extincion_dominio_ciudad_mexico",
-    "nombre": "Ley de Extinción de Dominio para la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_cultura_civica_distrito_federal",
+    "nombre": "Reglamento de la Ley de Cultura Cívica del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_EXTINCION_DE_DOMINIO_PARA_LA_CDMX_1.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_LA_LEY_DE_CULTURA_CIVICA_DEL_DISTRITO_FEDERAL_2.2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_LA_LEY_DE_CULTURA_CIVICA_DEL_DISTRITO_FEDERAL_2.doc"
   },
   {
-    "id": "cdmx_ley_filmaciones_ciudad_mexico",
-    "nombre": "Ley de Filmaciones de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_instituto_electoral_distrito_federal_registro",
+    "nombre": "Reglamento del Instituto Electoral del Distrito Federal para el Registro de Partidos Políticos Locales",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FILMACIONES_DE_LA_CIUDAD_DE_MEXICO_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTOINSTITUTOELECTORALREGISTROPARTIDOSPOLITICOSLOCALES6.1.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTOINSTITUTOELECTORALREGISTROPARTIDOSPOLITICOSLOCALES6.1.docx"
   },
   {
-    "id": "cdmx_ley_fiscalizacion_superior_ciudad_mexico",
-    "nombre": "Ley de Fiscalización Superior de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_turismo_distrito_federal",
+    "nombre": "Reglamento de la Ley de Turismo del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FISCALIZACION_SUPERIOR_DE_LA_CDMX_2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_DE_LA_LEY_DE_TURISMO_DEL_DISTRITO_FEDERAL_1.2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_DE_LA_LEY_DE_TURISMO_DEL_DISTRITO_FEDERAL_1.2.docx"
   },
   {
-    "id": "cdmx_ley_fomento_a_actividades_desarrollo_social",
-    "nombre": "Ley de Fomento a las Actividades de Desarrollo Social de las Organizaciones Civiles para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_registro_civil_distrito_federal",
+    "nombre": "Reglamento del Registro Civil del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_A_LAS_ACTI_DE_DESARROLLO_SOCIAL_DE_LAS_ORNG_CIVILES_PARA_EL_DF_2.3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DEL_REGISTRO_CIVIL_DEL_DISTRITO%20FEDERAL_5.1.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DEL_REGISTRO_CIVIL_DEL_DISTRITO%20FEDERAL_5.1.docx"
   },
   {
-    "id": "cdmx_ley_fomento_cine_mexicano_ciudad_mexico",
-    "nombre": "Ley de Fomento al Cine Mexicano de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_articulo_28_ley_establecimientos_mercantiles",
+    "nombre": "Reglamento del artículo 28 de la Ley de Establecimientos Mercantiles para la Ciudad de México, en materia de atención e información al cliente sobre el servicio de venta de alimentos preparados y bebidas",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_AL_CINE_MEXICANO_DE_LA_CDMX_2.3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_ART_28_LEY_DE_ESTABLECIMIENTOS_MERCANTILES_2.3.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_ART_28_LEY_DE_ESTABLECIMIENTOS_MERCANTILES_2.3.docx"
   },
   {
-    "id": "cdmx_ley_fomento_cooperativo_ciudad_mexico",
-    "nombre": "Ley de Fomento Cooperativo para la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_estacionamientos_publicos_distrito_federal",
+    "nombre": "Reglamento de Estacionamientos Públicos del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_COOPERATIVO_PARA_EL_DF_4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_ESTACIONAMIENTOS_PUBLICOS_DEL_DISTRITO_FEDERAL_5.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_ESTACIONAMIENTOS_PUBLICOS_DEL_DISTRITO_FEDERAL_5.docx"
   },
   {
-    "id": "cdmx_ley_fomento_procesos_productivos_eficientes_distrito",
-    "nombre": "Ley de Fomento de Procesos Productivos Eficientes para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_establecimientos_mercantiles_distrito_federal",
+    "nombre": "Reglamento de la Ley de Establecimientos Mercantiles del Distrito Federal en materia de aforo de seguridad en Establecimientos de Impacto Zonal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_DE_PROCESOS_PRODUCTIVOS_EFICIENTES_PARA_EL_DF_4.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_LA_LEY_DE_ESTABLECIMIENTOS_MERCANTILES_DEL_DISTRITO_FEDERAL_EN_MATERIA_DE_AFORO_Y_DE_SEGURIDAD_EN_ESTABLECIMIENTOS_DE_IMPACTO_ZONAL_4.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_LA_LEY_DE_ESTABLECIMIENTOS_MERCANTILES_DEL_DISTRITO_FEDERAL_EN_MATERIA_DE_AFORO_Y_DE_SEGURIDAD_EN_ESTABLECIMIENTOS_DE_IMPACTO_ZONAL_4.docx"
   },
   {
-    "id": "cdmx_ley_gestion_integral_riesgos_proteccion_civil",
-    "nombre": "Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_instituto_electoral_distrito_federal_fiscalizacion",
+    "nombre": "Reglamento del Instituto Electoral del Distrito Federal para la Fiscalización de los Recursos de los Partidos Políticos",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_GESTION_INTEGRAL_DE_RIESGOS_Y_PROTECCION_CIVIL_DE_LA_CDMX_4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DEL_INSTITUTO_ELECTORAL_DEL_DISTRITO_FEDERAL_PARA_LA_FISCALIZACION_DE_LOS_RECURSOS_DE_LOS_PARTIDOS_POLITICOS_5.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DEL_INSTITUTO_ELECTORAL_DEL_DISTRITO_FEDERAL_PARA_LA_FISCALIZACION_DE_LOS_RECURSOS_DE_LOS_PARTIDOS_POLITICOS_5.docx"
   },
   {
-    "id": "cdmx_ley_igualdad_sustantiva_entre_hombres_mujeres",
-    "nombre": "Ley de Igualdad Sustantiva entre Hombres y Mujeres en la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_patronato_reincorporacion_social_empleo_distrito",
+    "nombre": "Reglamento del Patronato para la Reincorporación Social por el Empleo en el Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_IGUALDAD_SUSTANTIVA_ENTRE_M_Y_H_EN_LA_CDMX_3.9.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_PATRONATO_PARA_LA_REINC_SOC_POR_EL_EMP4.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_PATRONATO_PARA_LA_REINC_SOC_POR_EL_EMP4.docx"
   },
   {
-    "id": "cdmx_ley_instituciones_asistencia_privada_distrito_federal",
-    "nombre": "Ley de Instituciones de Asistencia Privada para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_aparatos_auditivos_gratuitos_ciudad",
+    "nombre": "Reglamento de la Ley de Aparatos Auditivos Gratuitos en la Ciudad de México Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_INSTITUCIONES_DE_ASISTENCIA_PRIVADA_PARA_EL_DF_3.2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTODELALEYDEAPARATOSAUDITIVOSGRATUITOSENLACDMX4.1.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTODELALEYDEAPARATOSAUDITIVOSGRATUITOSENLACDMX4.1.docx"
   },
   {
-    "id": "cdmx_ley_interculturalidad_atencion_a_migrantes_movilidad",
-    "nombre": "Ley de Interculturalidad Atención a Migrantes y Movilidad Humana en el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_tramite_sustanciacion_resolucion_procedimientos_administrativos",
+    "nombre": "Reglamento para el Trámite, la Sustanciación y Resolución de los Procedimientos Administrativos Sancionadores del Instituto Electoral del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_INTERCULTURALIDAD_ATENCION_A_MIGRANTES_Y_MOVILIDAD_HUMANA_EN_EL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_PARA_EL_TRAMITE_LA_SUSTANCIACION_Y_RESOLUCION_DE_LOS_PROCEDIMIENTOS_ADMINISTRATIVOS_SANCIONADORES_DEL_INSTITUTO_ELECTORAL_DEL_DISTRITO_FEDERAL_7.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_PARA_EL_TRAMITE_LA_SUSTANCIACION_Y_RESOLUCION_DE_LOS_PROCEDIMIENTOS_ADMINISTRATIVOS_SANCIONADORES_DEL_INSTITUTO_ELECTORAL_DEL_DISTRITO_FEDERAL_7.docx"
   },
   {
-    "id": "cdmx_ley_justicia_administrativa_ciudad_mexico",
-    "nombre": "Ley de Justicia Administrativa de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_centros_reclusion_distrito_federal",
+    "nombre": "Reglamento de los Centros de Reclusión del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_%20DE_JUSTICIA_ADMINISTRATIVA_DE_LA_CDMX_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_LOS_CENTROS_DE_RECLUSION_DEL_DISTRITO_FEDERAL_4.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_LOS_CENTROS_DE_RECLUSION_DEL_DISTRITO_FEDERAL_4.docx"
   },
   {
-    "id": "cdmx_ley_justicia_alternativa_tribunal_superior_justicia",
-    "nombre": "Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_otorgamiento_presea_ciudad_mexico",
+    "nombre": "Reglamento para el Otorgamiento de la Presea Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_JUSTICIA_ALTERNATIVA_DEL_TRIBUNAL_SUPERIOR_DE_JUSTICIA_PARA_EL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_PARA_EL_OTORGAMIENTO_DE_LA_PRESEA_CIUDAD_DE_MEXICO_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_PARA_EL_OTORGAMIENTO_DE_LA_PRESEA_CIUDAD_DE_MEXICO_2.docx"
   },
   {
-    "id": "cdmx_ley_justicia_alternativa_procuracion_justicia_distrito",
-    "nombre": "Ley de Justicia Alternativa en la Procuración de Justicia para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_instituto_electoral_distrtito_federal_fiscalizacion",
+    "nombre": "Reglamento del Instituto Electoral del Distrtito Federal para la Fiscalización de los Recursos de los Partidos Poíticos",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_JUSTICIA_ALTERNATIVA_DEL_TRIBUNAL_SUPERIOR_DE_JUSTICIA_PARA_EL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DEL_INSTITUTO_ELECTORAL_DEL_DISTRITO_FEDERAL_PARA_LA_FISCALIZACION_DE_LOS_RECURSOS_DE_LOS_PARTIDOS_POLITICOS_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DEL_INSTITUTO_ELECTORAL_DEL_DISTRITO_FEDERAL_PARA_LA_FISCALIZACION_DE_LOS_RECURSOS_DE_LOS_PARTIDOS_POLITICOS_2.docx"
   },
   {
-    "id": "cdmx_ley_justicia_adolescentes_distrito_federal",
-    "nombre": "Ley de Justicia para Adolescentes para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_atencion_apoyo_a_victimas",
+    "nombre": "Reglamento de la Ley de Atención y Apoyo a las Víctimas del Delito para el Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_JUSTICIA_PARA_ADOLESCENTES_PARA_EL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTODELALEYDEATENCIONYAPOYOALASVICTIMASDELDELITOPARAELDISTRITOFEDERAL4.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTODELALEYDEATENCIONYAPOYOALASVICTIMASDELDELITOPARAELDISTRITOFEDERAL4.docx"
   },
   {
-    "id": "cdmx_ley_mejora_regulatoria_ciudad_mexico",
-    "nombre": "Ley de Mejora Regulatoria para la Ciudad de México.",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_presupuesto_gasto_eficiente_ciudad",
+    "nombre": "Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_MEJORA_REGULATORIA_PARA_LA_CIUDAD_DE_MEXICO_3.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_LA_LEY_DE_PRESUPUESTO_Y_GASTO_EFICIENTE_DE_LA_CDMX%203.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_LA_LEY_DE_PRESUPUESTO_Y_GASTO_EFICIENTE_DE_LA_CDMX%203.docx"
   },
   {
-    "id": "cdmx_ley_mitigacion_adaptacion_cambio_climatico_desarrollo",
-    "nombre": "Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo Sustentable para la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_instituto_electoral_distrito_federal_materia",
+    "nombre": "Reglamento del Instituto Electoral del Distrito Federal en Materia de Transparencia y Acceso a la Información Pública",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_MITIGACION_Y_ADAPTACION_AL_CAMBIO_CLIMATICO_Y_DESARROLLO_SUSTENTABLE_DE_LA_CDMX_6.3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_IEDF_TRANSPARENCIAYACCESOALAINFORMACIONPUBLICA.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_IEDF_TRANSPARENCIAYACCESOALAINFORMACIONPUBLICA.docx"
   },
   {
-    "id": "cdmx_ley_movilidad_ciudad_mexico",
-    "nombre": "Ley de Movilidad de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_consejo_judicatura_distrito_federal",
+    "nombre": "Reglamento Interior del Consejo de la Judicatura del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_MOVILIDAD_DE_LA_CDMX_3.2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_INTERIOR_DEL_CONSEJO_DE_LA_JUDICATURA_DEL_DISTRITO_FEDERAL_1.pdf",
+    "ultima_reforma": "8 DE FEBRERO DE 2018",
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REGLAMENTO_INTERIOR_DEL_CONSEJO_DE_LA_JUDICATURA_DEL_DISTRITO_FEDERAL_1.docx"
   },
   {
-    "id": "cdmx_ley_obras_publicas_ciudad_mexico",
-    "nombre": "Ley de Obras Públicas de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_consejo_honor_justicia_sistema_penitenciario",
+    "nombre": "Reglamento del Consejo de Honor y Justicia del Sistema Penitenciario de la Ciudad de México",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_OBRAS_PUBLICAS_DEL_DF_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REG_CON_HON_%20JUS_SIST_PENIT_CDMX3.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/REG_CON_HON_%20JUS_SIST_PENIT_CDMX3.docx"
   },
   {
-    "id": "cdmx_ley_operacion_e_innovacion_digital_ciudad",
-    "nombre": "Ley de Operación e Innovación Digital para la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_uniformes_condecoraciones_insignias_divisas_policia",
+    "nombre": "Reglamento de Uniformes, Condecoraciones, Insignias y Divisas de la Policía del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_OPERACION_E_INNOVACION_DIGITAL_PARA_LA_CIUDAD_DE_MEXICO_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_UNIF_CONDEC_INSIGN_Y_DIVISAS_DE_LA_POLICIA_DEL_DISTRITO_FEDERAL2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_UNIF_CONDEC_INSIGN_Y_DIVISAS_DE_LA_POLICIA_DEL_DISTRITO_FEDERAL2.docx"
   },
   {
-    "id": "cdmx_ley_planeacion_demografica_estadistica_poblacion_distrito",
-    "nombre": "Ley de Planeación Demográfica y Estadística para la Población del Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_instituto_tecnico_formacion_policial",
+    "nombre": "Reglamento Interior del Instituto Técnico de Formación Policial",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PLANEACION_DEMOGRAFICA_Y_ESTADISTICA_PARA_LA_POBLACION_DEL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INTERIOR_DEL_INST_TECNICO_DE_FORMACION_POLICIAL_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INTERIOR_DEL_INST_TECNICO_DE_FORMACION_POLICIAL_2.docx"
   },
   {
-    "id": "cdmx_ley_prestacion_servicios_inmobiliarios_distrito_federal",
-    "nombre": "Ley de Prestación de Servicios Inmobiliarios del Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_cementerios_distrito_federal",
+    "nombre": "Reglamento De Cementerios del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PRESTACION_DE_SERVICIOS_INMOBILIARIOS_DEL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_CEMENTERIOS_DEL_DISTRITO_FEDERAL_1.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_CEMENTERIOS_DEL_DISTRITO_FEDERAL_1.docx"
   },
   {
-    "id": "cdmx_ley_prevencion_social_delito_violencia_ciudad",
-    "nombre": "Ley de Prevención Social del Delito y la Violencia de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_transporte_distrito_federal",
+    "nombre": "Reglamento de Transporte del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PREVENCION_SOCIAL_DEL_DELITO_Y_LA_VIOLENCIA_DE_LA_CDMX_2.3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_TRANSPORTE_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/REGLAMENTO_DE_TRANSPORTE_DEL_DF.docx"
   },
   {
-    "id": "cdmx_ley_procedimiento_administrativo_ciudad_mexico",
-    "nombre": "Ley de Procedimiento Administrativo de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_personas_discapacidad_distrito_federal",
+    "nombre": "Reglamento de la Ley para Personas con Discapacidad del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PROCEDIMIENTO_ADMINISTRATIVO_DE_LA_CDMX_1.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_DE_LA_LEY_PARA_LAS_PERSONAS_CON_DISCAPACIDAD_DEL_DF2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_DE_LA_LEY_PARA_LAS_PERSONAS_CON_DISCAPACIDAD_DEL_DF.docx"
   },
   {
-    "id": "cdmx_ley_propiedad_condominio_inmuebles_distrito_federal",
-    "nombre": "Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_servicios_seguridad_prestados_empresas",
+    "nombre": "Reglamento de la Ley de los Servicios de Seguridad Prestados por Empresas Privadas",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PROPIEDAD_EN_CONDOMINIO_DE_INMUEBLES_PARA_EL_DF_4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_DE_LA_LEY_DE_LOS_SERV_DE_SEG_PREST_POR_EMPRESAS_PRIVADAS.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_DE_LA_LEY_DE_LOS_SERV_DE_SEG_PREST_POR_EMPRESAS_PRIVADAS.docx"
   },
   {
-    "id": "cdmx_ley_residuos_solidos_ciudad_mexico",
-    "nombre": "Ley de Residuos Sólidos de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_consejo_informacion_publica_distrito",
+    "nombre": "Reglamento Interior del Consejo de Información Pública del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_DE_RESIDUOS_SOLIDOS_DE_LA_CDMX_8.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_DEL_CONSEJO_DE_INFORMACION_PUBLICA_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_DEL_CONSEJO_DE_INFORMACION_PUBLICA_DEL_DF.docx"
   },
   {
-    "id": "cdmx_ley_responsabilidades_administrativas_ciudad_mexico",
-    "nombre": "Ley de Responsabilidades Administrativas de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_ley_publicidad_exterior_distrito_federal",
+    "nombre": "Reglamento de la Ley de Publicidad Exterior del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_DE_RESPONSABILIDADES_ADMINISTRATIVAS_DE_LA_CDMX_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_DE_LA_LEY_DE_PUBLICIDAD_EXTERIOR_DEL_DISTRITO_FEDERAL_1.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_DE_LA_LEY_DE_PUBLICIDAD_EXTERIOR_DEL_DISTRITO_FEDERAL_1.docx"
   },
   {
-    "id": "cdmx_ley_responsabilidad_civil_proteccion_derecho_a",
-    "nombre": "Ley de Responsabilidad Civil para la Protección del Derecho a la Vida Privada el Honor y la Propia Imagen en el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_junta_local_conciliacion_arbitraje",
+    "nombre": "Reglamento Interior de la Junta Local de Conciliación y Arbitraje del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_DE_RESPONSABILIDADES_ADMINISTRATIVAS_DE_LA_CDMX_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERIOR_DE_LA_JUNTA_LOCAL_DE_CONCILIACION_Y_ARBITRAJE_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERIOR_DE_LA_JUNTA_LOCAL_DE_CONCILIACION_Y_ARBITRAJE_DEL_DF.docx"
   },
   {
-    "id": "cdmx_ley_responsabilidad_patrimonial_distrito_federal",
-    "nombre": "Ley de Responsabilidad Patrimonial del Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_instituto_deporte_distrito_federal",
+    "nombre": "Reglamento Interior del Instituto del Deporte del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_DE_RESPONSABILIDADES_ADMINISTRATIVAS_DE_LA_CDMX_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERIOR_DEL_INSTITUTO_DEL_DEPORTE_DEL_DISTRITO_FEDERAL.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERIOR_DEL_INSTITUTO_DEL_DEPORTE_DEL_DISTRITO_FEDERAL.docx"
   },
   {
-    "id": "cdmx_ley_salud_mental_distrito_federal",
-    "nombre": "Ley de Salud Mental del Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_tribunal_lo_contecioso_administrativo",
+    "nombre": "Reglamento Interior del Tribunal de lo Contecioso Administrativo del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SALUD_MENTAL_DEL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_DEL_TRIBUNAL_DE_LO_CONTENCIOSO_ADMINISTRATIVO_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_DEL_TRIBUNAL_DE_LO_CONTENCIOSO_ADMINISTRATIVO_DEL_DF.docx"
   },
   {
-    "id": "cdmx_ley_seguridad_alimentaria_nutricional_distrito_federal",
-    "nombre": "Ley de Seguridad Alimentaria y Nutricional para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_instituto_acceso_a_informacion",
+    "nombre": "Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SEGURIDAD_ALIMENTARIA_Y_NUTRICIONAL_PARA_EL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_DEL_INST_DE_ACC_A_LA_INF_PUB_PROT_DE_DATOS_PERS_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_DEL_INST_DE_ACC_A_LA_INF_PUB_PROT_DE_DATOS_PERS_DEL_DF.docx"
   },
   {
-    "id": "cdmx_ley_seguridad_privada_distrito_federal",
-    "nombre": "Ley de Seguridad Privada para el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_secretaria_seguridad_publica_distrito",
+    "nombre": "Reglamento Interior de la Secretaría de Seguridad Pública del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SEGURIDAD_PRIVADA_PARA_EL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERIOR_SSPDF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERIOR_SSPDF.docx"
   },
   {
-    "id": "cdmx_ley_sociedad_convivencia_ciudad_mexico",
-    "nombre": "Ley de Sociedad de Convivencia para la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interno_convivencia_hogar_cdmx",
+    "nombre": "Reglamento Interno de Convivencia para el Hogar CDMX",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SOCIEDAD_DE_CONVIVENCIA_PARA_LA_CDMX_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_DE_CONVIV_PARA_EL_HOGAR_CDMX.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_DE_CONVIV_PARA_EL_HOGAR_CDMX.docx"
   },
   {
-    "id": "cdmx_ley_sociedades_mutualistas_ciudad_mexico",
-    "nombre": "Ley de Sociedades Mutualistas de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interno_comision_derechos_humanos_distrito",
+    "nombre": "Reglamento Interno de la Comisión de Derechos Humanos del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_SOCIEDADES_MUTUALISTAS_DE_LA_CDMX_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERNO_DE_LA_CDHDF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERNO_DE_LA_CDHDF.docx"
   },
   {
-    "id": "cdmx_ley_transparencia_acceso_a_informacion_publica",
-    "nombre": "Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_instituto_electoral_distrito_federal",
+    "nombre": "Reglamento Interior del Instituto Electoral del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_TRANSPARENCIA_ACCESO_A_LA_INFORMACION_PUBLICA_Y_RENDICION_DE_CUENTAS_DE_LA_CDMX_5.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERIOR_DEL_INSTITUTO_ELECTORAL_DEL_DISTRITO_FEDERAL.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERIOR_DEL_INSTITUTO_ELECTORAL_DEL_DISTRITO_FEDERAL.docx"
   },
   {
-    "id": "cdmx_ley_turismo_ciudad_mexico",
-    "nombre": "Ley de Turismo de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_control_vehicular_licencias_permisos_conducir",
+    "nombre": "Reglamento para el Control Vehícular y de Licencias y Permisos para Conducir en el Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_TURISMO_DE_LA_CIUDAD_DE_MEXICO_1.2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_CONTROL_VEHICULAR_Y_DE_LICENCIAS_Y_PERMISOS_PARA_CONDUCIR_EN_EL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_CONTROL_VEHICULAR_Y_DE_LICENCIAS_Y_PERMISOS_PARA_CONDUCIR_EN_EL_DF.docx"
   },
   {
-    "id": "cdmx_ley_victimas_ciudad_mexico",
-    "nombre": "Ley de Víctimas para la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_interior_contaduria_mayor_hacienda_asamblea",
+    "nombre": "Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_VICTIMAS_PARA_LA_CDMX_5.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_CONT_MAYOR_DE_HAC_DE_LA_ALDF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_CONT_MAYOR_DE_HAC_DE_LA_ALDF.docx"
   },
   {
-    "id": "cdmx_ley_voluntad_anticipada_distrito_federal",
-    "nombre": "Ley de Voluntad Anticipada para Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_otorgamiento_beneficio_reclusion_domiciliaria_mediante",
+    "nombre": "Reglamento para el otorgamiento del beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a distancia para el Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_VOLUNTAD_ANTICIPADA_PARA_EL_DF_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_PARA_EL_OTOR_BENEF_DE_RECL_DOM_PROG_DE_MONIT_ELECTR.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_PARA_EL_OTOR_BENEF_DE_RECL_DOM_PROG_DE_MONIT_ELECTR.docx"
   },
   {
-    "id": "cdmx_ley_derecho_acceso_disposicion_saneamiento_agua",
-    "nombre": "Ley del Derecho al Acceso, Disposición y Saneamiento del Agua de la Ciudad de México",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_entrega_medalla_merito_policial_a",
+    "nombre": "Reglamento para la entrega de la Medalla al Mérito Policial a los elementos de la Secretaría de Seguridad Pública del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DERECHO_ACC_DISP_Y_SANEAMIENTO_DEL%20AGUA_DE_LA_CIUDAD_DE_MEXICO_4.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_ENTREGA_MEDALLA_MERITO_POLICIAL_A_LOS_ELEMENTOS_DE_LA_SSP_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_ENTREGA_MEDALLA_MERITO_POLICIAL_A_LOS_ELEMENTOS_DE_LA_SSP_DEL_DF.docx"
   },
   {
-    "id": "cdmx_ley_fondo_apoyo_a_administracion_justicia",
-    "nombre": "Ley del Fondo de Apoyo a la Administración de Justicia en el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_regula_uso_recursos_publicos_propaganda",
+    "nombre": "Reglamento que regula el uso de Recursos Públicos, Propaganda Intitucional y Gubernamental, así como los actos anticipados de Precampaña y de Campaña para los Procesos Electorales Ordinarios del Distrito Federall",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_FONDO_DE_APOYO_A_LA_ADM_DE_JUSTICIA_EN_EL_DF_2.6.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_QUE_REGULA_EL_USO_DE_RECURSOS_PUBLICOS.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_QUE_REGULA_EL_USO_DE_RECURSOS_PUBLICOS.docx"
   },
   {
-    "id": "cdmx_ley_fondo_apoyo_a_procuracion_justicia",
-    "nombre": "Ley del Fondo de Apoyo a la Procuración de Justicia en el Distrito Federal",
-    "tipo": "Ley",
+    "id": "cdmx_reglamento_operacion_comite_tecnico_interno_administracion",
+    "nombre": "Reglamento de Operación del Comité Técnico Interno de Administración de Documentos del Tribunal Electoral del Distrito Federal",
+    "tipo": "Reglamento",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_FONDO_DE_APOYO_A_LA_ADM_DE_JUSTICIA_EN_EL_DF_2.6.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_COTECIAD_TEDF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_COTECIAD_TEDF.docx"
   },
   {
-    "id": "cdmx_ley_heroico_cuerpo_bomberos_distrito_federal",
-    "nombre": "Ley del Heróico Cuerpo de Bomberos del Distrito Federal",
+    "id": "cdmx_ley_educacion_cdmx",
+    "nombre": "Ley de Educación de la CDMX",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_HEROICO_CUERPO_DE_BOMBEROS_DEL_DF_2.3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_EDUCACION_DE_LA_CDMX_3.4.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_EDUCACION_DE_LA_CDMX_3.4.docx"
   },
   {
-    "id": "cdmx_ley_instituto_estudios_cientificos_prevencion_delito",
-    "nombre": "Ley del Instituto de Estudios Científicos para la Prevención del Delito en la Ciudad de México",
+    "id": "cdmx_ley_ambiental_proteccion_a_tierra_ciudad",
+    "nombre": "Ley Ambiental de Protección a la Tierra en la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_INSTI_DE_ESTUDIOS_CIENTIFICOS_PARA_LA_PREV_DEL_DELITO_EN_LA_CDMX_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_AMBIENTAL_DE_PROTECCION_A_LA_TIERRA_CDMX_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_AMBIENTAL_DE_PROTECCION_A_LA_TIERRA_CDMX_2.docx"
   },
   {
-    "id": "cdmx_ley_instituto_verificacion_administrativa_ciudad_mexico",
-    "nombre": "Ley del Instituto de Verificación Administrativa de la Ciudad de México",
+    "id": "cdmx_ley_desarrollo_social_distrito_federal",
+    "nombre": "Ley de Desarrollo Social para el Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_INSTI_DE_ESTUDIOS_CIENTIFICOS_PARA_LA_PREV_DEL_DELITO_EN_LA_CDMX_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_DESARROLLO_SOCIAL_PARA_EL_DF_5.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_DESARROLLO_SOCIAL_PARA_EL_DF_5.docx"
   },
   {
-    "id": "cdmx_ley_instituto_seguridad_construcciones_ciudad_mexico",
-    "nombre": "Ley del Instituto para la Seguridad de las Construcciones de la Ciudad de México",
+    "id": "cdmx_ley_presupuesto_gasto_eficiente_ciudad_mexico",
+    "nombre": "Ley de Presupuesto y Gasto Eficiente de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_INST_PARA_LA_SEG_DE_LAS_CONSTRUCCIONES_DE LA_CDMX_3.2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_PRESUPUESTO_Y_GASTO_EFICIENTE.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_PRESUPUESTO_Y_GASTO_EFICIENTE.docx"
   },
   {
-    "id": "cdmx_ley_notariado_ciudad_mexico",
-    "nombre": "Ley del Notariado para la Ciudad de México",
+    "id": "cdmx_ley_publicidad_exterior_distrito_federal",
+    "nombre": "Ley de Publicidad Exterior del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/50226/LEY_DEL_NOTARIADO_PARA_LA_CIUDAD_DE_MEXICO_1.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PUBLICIDAD_EXTERIOR_DEL_DF_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_PUBLICIDAD_EXTERIOR_DEL_DF_2.docx"
   },
   {
-    "id": "cdmx_ley_programa_derechos_humanos_distrito_federal",
-    "nombre": "Ley del Programa de Derechos Humanos del Distrito Federal",
+    "id": "cdmx_ley_asitencia_prevencion_violencia_familiar_distrito",
+    "nombre": "Ley de Asitencia y Prevención de la Violencia Familiar para el Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_PROGRAMA_DE_DERECHOS_HUMANOS_DEL_DF_2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ASISTENCIA_Y_PREVENCION_DE_LA_VIOLENCIA_FAMILIAR_5.pdf",
+    "ultima_reforma": "19 DE OCTUBRE DE 2020",
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ASISTENCIA_Y_PREVENCION_DE_LA_VIOLENCIA_FAMILIAR_5.docx"
   },
   {
-    "id": "cdmx_ley_regimen_patrimonial_servicio_publico",
-    "nombre": "Ley del Régimen Patrimonial y del Servicio Público",
+    "id": "cdmx_presupuesto_egresos_ciudad_mexico_ejercicio_fiscal",
+    "nombre": "Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2022",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_REGIMEN_PATRIMONIAL_Y_DEL_SERVICIO_PUBLICO_8.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/PRESUPUESTO_DE_EGRESOS_2022_1.2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/PRESUPUESTO_DE_EGRESOS_2022_1.2.docx"
   },
   {
-    "id": "cdmx_ley_seguro_educativo_distrito_federal",
-    "nombre": "Ley del Seguro Educativo para el Distrito Federal",
+    "id": "cdmx_ley_fomento_cultural_distrito_federal",
+    "nombre": "Ley de Fomento Cultural del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SEGURO_EDUCATIVO_PARA_EL_DF_4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_CULTURAL_DF_1.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_FOMENTO_CULTURAL_DF_1.docx"
   },
   {
-    "id": "cdmx_ley_servicio_publico_carrera_administracion_publica",
-    "nombre": "Ley del Servicio Público de Carrera de la Administración Publica de la Ciudad de México",
+    "id": "cdmx_ley_organica_procuraduria_general_justicia_distrito",
+    "nombre": "Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SERVICIO_PUBLICO_DE_CARRERA_DE_LA_ADM_PUB_DE_LA_CDMX_2.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_ORGANICA_DE_LA_PROCURADURIA_GRAL_DE_JUSTICIA_DEL_DF_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_ORGANICA_DE_LA_PROCURADURIA_GRAL_DE_JUSTICIA_DEL_DF_2.docx"
   },
   {
-    "id": "cdmx_ley_sistema_alerta_social_ciudad_mexico",
-    "nombre": "Ley del Sistema de Alerta Social de la Ciudad de México",
+    "id": "cdmx_ley_transicion_procuraduria_general_justicia_a",
+    "nombre": "Ley de Transición de la Procuraduría General de Justicia a la Fiscalía General de Justicia de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SISTEMA_DE_ALERTA_SOCIAL_DE_LA_CDMX_2.5.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/Ley_de_Trancision_de_PGJ_a_FGJCDMX_1.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/Ley_de_Trancision_de_PGJ_a_FGJCDMX_1.docx"
   },
   {
-    "id": "cdmx_ley_sistema_seguridad_ciudadana_ciudad_mexico",
-    "nombre": "Ley del Sistema de Seguridad Ciudadana de la Ciudad de México",
+    "id": "cdmx_ley_bibliotecas_distrito_federal",
+    "nombre": "Ley de Bibliotecas del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SISTEMA_DE_SEGURIDAD_CIUDADANA_DE_LA_CDMX_10.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_BIBLIOTECAS_DEL_DF_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_BIBLIOTECAS_DEL_DF_2.docx"
   },
   {
-    "id": "cdmx_ley_sistema_publico_radiodifusion_ciudad_mexico",
-    "nombre": "Ley del Sistema Público de Radiodifusión para la Ciudad de México",
+    "id": "cdmx_ley_ciencia_tecnologia_e_innovacion_ciudad",
+    "nombre": "Ley de Ciencia Tecnología e Innovación de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DEL_SISTEMA_PUBLICO_DE_RADIODIFUSION_DE_LA_CIUDAD_DE_MEXICO_2.2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_CIENCIA_TECNOLOGIA_E_INNOVACION_DEL_DISTRITO_FEDERAL_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_CIENCIA_TECNOLOGIA_E_INNOVACION_DEL_DISTRITO_FEDERAL_2.docx"
   },
   {
-    "id": "cdmx_ley_accesibilidad_ciudad_mexico",
-    "nombre": "Ley de la Accesibilidad para la Ciudad de México",
+    "id": "cdmx_ley_firma_electronica_distrito_federal",
+    "nombre": "Ley de Firma Electrónica del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_ACCESIBILIDAD_PARA_LA_CDMX_3.2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/Ley_de_firma_electronica_del_Distrito_Federal3.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/Ley_de_firma_electronica_del_Distrito_Federal3.docx"
   },
   {
-    "id": "cdmx_ley_caja_prevision_policia_preventiva_distrito",
-    "nombre": "Ley de la Caja de Previsión de la Policía Preventiva del Distrito Federal",
+    "id": "cdmx_ley_gobierno_electronico_ciudad_mexico",
+    "nombre": "Ley de Gobierno Electrónico de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LA_CAJA_DE_PREVISION_DE_LA_POLICIA_PREVENTIVA_DEL_DF_3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/Ley_de_Gobierno_Electronico_de_la_Ciudad_de_Mexico_1.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/Ley_de_Gobierno_Electronico_de_la_Ciudad_de_Mexico_1.docx"
   },
   {
-    "id": "cdmx_ley_defensoria_publica_distrito_federal",
-    "nombre": "Ley de la Defensoría Pública del Distrito Federal",
+    "id": "cdmx_ley_planeacion_desarrollo_distrito_federal",
+    "nombre": "Ley de Planeación del Desarrollo del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DELA_DEFENSORIA_PUBLICA_DEL_DF_5.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_PLANEACION_DEL_DESARROLLO_DEL_DF_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_PLANEACION_DEL_DESARROLLO_DEL_DF_2.docx"
   },
   {
-    "id": "cdmx_ley_infraestructura_fisica_educativa_ciudad_mexico",
-    "nombre": "Ley de la Infraestructura Física Educativa de la Ciudad de México",
+    "id": "cdmx_ley_organica_secretaria_seguridad_publica_distrito",
+    "nombre": "Ley Orgánica de la Secretaría de Seguridad Pública del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_INFRAESTRUCTURA_FISICA_EDUCATIVA_DE_LA_CDMX_2.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_ORGANICA_DE_LA_SECRETARIA_DE_SEGURIDAD_PUBLICA_DEL_DF_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_ORGANICA_DE_LA_SECRETARIA_DE_SEGURIDAD_PUBLICA_DEL_DF_2.docx"
   },
   {
-    "id": "cdmx_ley_institucion_decentralizada_servicio_publico_servicio",
-    "nombre": "Ley de la Institución Decentralizada de Servicio Público \"Servicio de Transportes Eléctricos del Distrito Federal\"",
+    "id": "cdmx_ley_secreto_profesional_periodista_distrito_federal",
+    "nombre": "Ley del Secreto Profesional del Periodista en el Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LA_INST_DESC_DEL_SERV_PUB_DEL_DF_SERV_DE_TRANSP_ELECTRICOS_3.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DEL_SECRETO_PROFESIONAL_DEL_PERIODISTA_EN_EL_DF_2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DEL_SECRETO_PROFESIONAL_DEL_PERIODISTA_EN_EL_DF_2.docx"
   },
   {
-    "id": "cdmx_ley_procuraduria_social_ciudad_mexico",
-    "nombre": "Ley de la Procuraduría Social de la Ciudad de México",
+    "id": "cdmx_ley_archivos_distrito_federal",
+    "nombre": "Ley de Archivos del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LA_PROCURADURIA_SOCIAL_DE_LA_CDMX_3.2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_ARCHIVOS_PARA_EL_DISTRITO_FEDERAL2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_ARCHIVOS_PARA_EL_DISTRITO_FEDERAL2.docx"
   },
   {
-    "id": "cdmx_ley_unidad_cuenta_ciudad_mexico",
-    "nombre": "Ley de la Unidad de Cuenta de la Ciudad de México",
+    "id": "cdmx_ley_educacion_distrito_federal",
+    "nombre": "Ley de Educación del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_UNIDAD_DE_CUENTA_DE_LA_CDMX_2.3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY%20_DE_%20EDUCACION_%20DEL_%20DISTRITO_%20FEDERAL_2.2.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY%20_DE_%20EDUCACION_%20DEL_%20DISTRITO_%20FEDERAL_2.2.docx"
   },
   {
-    "id": "cdmx_ley_universidad_autonoma_ciudad_mexico",
-    "nombre": "Ley de la Universidad Autónoma de la Ciudad de México",
+    "id": "cdmx_ley_salvaguarda_patrimonio_urbanistico_arquitectonico_distrito",
+    "nombre": "Ley de Salvaguarda del Patrimonio Urbanistico Arquitectonico del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LA_UNIVERSIDAD_AUTONOMA_DE_LA_CDMX_2.2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_SALVAGUARDA_DEL_PATRIMONIO_ARQUITECTONICO_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_SALVAGUARDA_DEL_PATRIMONIO_ARQUITECTONICO_DEL_DF.docx"
   },
   {
-    "id": "cdmx_ley_sala_constitucional_poder_judicial_ciudad",
-    "nombre": "Ley de la Sala Constitucional del Poder Judicial de la Ciudad de México",
+    "id": "cdmx_ley_prevenir_violencia_espectaculos_deportivos_distrito",
+    "nombre": "Ley para Prevenir la Violencia en los Espectaculos Deportivos en el Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LA_SALA_CONSTITUCIONAL_DEL_PODER_JUDICIAL_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_PARA_PREV_LA_VIOLENCIA_EN_LOS_ESP_DEPORT_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
+    "estado_vigencia": "abrogado",
     "fuente": "data.consejeria.cdmx.gob.mx"
   },
   {
-    "id": "cdmx_ley_derechos_culturales_habitantes_visitantes_ciudad",
-    "nombre": "Ley de los Derechos Culturales de los Habitantes y Visitantes de la Ciudad de México.",
+    "id": "cdmx_ley_proteccion_atencion_asistencia_a_victimas",
+    "nombre": "Ley para la Protección, Atención y Asistencia a las Victimas de los Delitos en Materia de Trata de Personas del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LOS_DERECHOS_CULTURALES_DE_LOS_HABITANTES_Y_VISITANTES_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_PROT_ATN_Y_%20ASIST_A_VICTIMAS_DEL_DELITO_DE_TRATA_DE_PERSONAS_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_PROT_ATN_Y_%20ASIST_A_VICTIMAS_DEL_DELITO_DE_TRATA_DE_PERSONAS_DEL_DF.docx"
   },
   {
     "id": "cdmx_ley_derechos_personas_mayores_ciudad_mexico",
     "nombre": "Ley de los Derechos de las Personas Mayores de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LOS_DERECHOS_CULTURALES_DE_LOS_HABITANTES_Y_VISITANTES_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_LOS_DERECHOS_DE_LAS_PERSONAS_MAYORES_DE_LA_CDMX.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_LOS_DERECHOS_DE_LAS_PERSONAS_MAYORES_DE_LA_CDMX.docx"
+  },
+  {
+    "id": "cdmx_ley_establece_derecho_a_paquete_utiles",
+    "nombre": "Ley que Establece el Derecho a un paquete de Útiles Escolares por Ciclo Escolar a todoso los Alumnos residentes en el Distrito Federal, inscritos en Escuelas Públicas del Distrito Federal en los niveles de Preescolar, Primaria y Secundaria",
+    "tipo": "Ley",
+    "entidad": "cdmx",
+    "url_pdf": "",
+    "ultima_reforma": "",
+    "estado_vigencia": "abrogado",
     "fuente": "data.consejeria.cdmx.gob.mx"
   },
   {
-    "id": "cdmx_ley_derechos_personas_jovenes_ciudad_mexico",
-    "nombre": "Ley de los Derechos de las Personas Jóvenes en la Ciudad de México",
+    "id": "cdmx_ley_aparatos_auditivos_gratuitos_ciudad_mexico",
+    "nombre": "Ley de Aparatos Auditivos Gratuitos en la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_DE_LOS_DERECHOS_CULTURALES_DE_LOS_HABITANTES_Y_VISITANTES_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_APARATOS_AUDITIVOS_EN_LA_CDMX_2.1.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_APARATOS_AUDITIVOS_EN_LA_CDMX_2.1.docx"
   },
   {
-    "id": "cdmx_ley_organica_consejo_economico_social_ambiental",
-    "nombre": "Ley Orgánica del Consejo Económico, Social y Ambiental de la Ciudad de México",
+    "id": "cdmx_ley_establece_derecho_a_uniformes_escolares",
+    "nombre": "Ley que Establece el Derecho a Uniformes Escolares gratuitos a Alumnas y Alumnos inscritos en Escuelas Públicas de Nivel Básico en el Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/181225/LEY_ORGNICA_DEL_CONSEJO_ECONMICO_SOCIAL_Y_AMBIENTAL_CDMX_5.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DERECHO_A_UNIFORMES_ESCOLARES_GRATUITOS_DF_.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DERECHO_A_UNIFORMES_ESCOLARES_GRATUITOS_DF_.docx"
   },
   {
-    "id": "cdmx_ley_organica_poder_ejecutivo_administracion_publica",
-    "nombre": "Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México",
+    "id": "cdmx_ley_establece_derecho_a_contar_beca",
+    "nombre": "Ley que Establece el Derecho a contar con una Beca para los Jóvenes residentes en el Distrito Federal, que estudien en los Planteles de Educación Media Superior y Superior del Gobierno del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_ORGANICA_DEL_PODER_EJECUTIVO_Y_DE_LA_ADMINISTRACION_PUBLICA_DE_LA_CDMX_7.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DERECHO_A_BECA_PARA_JOVENES_DE_EDUCA_MEDIA_SUPERIOR_RESIDENTES_EN_EL_DF_1.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DERECHO_A_BECA_PARA_JOVENES_DE_EDUCA_MEDIA_SUPERIOR_RESIDENTES_EN_EL_DF_1.docx"
   },
   {
-    "id": "cdmx_ley_organica_poder_judicial_ciudad_mexico",
-    "nombre": "Ley Orgánica del Poder Judicial de la Ciudad de México",
+    "id": "cdmx_ley_sistema_integral_atencion_apoyo_a",
+    "nombre": "Ley del Sistema Integral de Atención y Apoyo a las y los Estudiantes de Escuelas Públicas en el Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/LEY_ORGANICA_DEL_PODER_EJECUTIVO_Y_DE_LA_ADMINISTRACION_PUBLICA_DE_LA_CDMX_7.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DEL_SIST_DE_ATN_Y_APO_A_EST_DE_ESC_PUB_Y_PRIV_EN_EL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DEL_SIST_DE_ATN_Y_APO_A_EST_DE_ESC_PUB_Y_PRIV_EN_EL_DF.docx"
   },
   {
-    "id": "cdmx_ley_organica_tribunal_justicia_administrativa_ciudad",
-    "nombre": "Ley Orgánica del Tribunal de Justicia Administrativa de la Ciudad de &nbsp;México.",
+    "id": "cdmx_ley_salud_distrito_federal",
+    "nombre": "Ley de Salud del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/Ley_Org_TJACDMX_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_SALUD_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_SALUD_DEL_DF.docx"
   },
   {
-    "id": "cdmx_ley_organica_comision_derechos_humanos_ciudad",
-    "nombre": "Ley Orgánica de la Comisión de Derechos Humanos de la Ciudad de México",
+    "id": "cdmx_ley_huertos_urbanos_ciudad_mexico",
+    "nombre": "Ley de Huertos Urbanos de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/Ley_Organica_de_la_CDHCDMX_1.3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_HUERTOS_URBANOS_EN_LA_CDMX.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DE_HUERTOS_URBANOS_EN_LA_CDMX.docx"
   },
   {
-    "id": "cdmx_ley_organica_escuela_administracion_publica_ciudad",
-    "nombre": "Ley Orgánica de la Escuela de Administración Pública de la Ciudad de México",
+    "id": "cdmx_ley_programa_derechos_humanos_distrito_federal",
+    "nombre": "Ley del Programa de Derechos Humanos del Distrito Federal",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORGANICA_DE_LA_ESCUELA_DE_ADM_PUBLICA_DE%20LA%20_CDMX_1.2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DEL_PROGRAMA_DE_DERECHOS_HUMANOS_DEL_DF.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DEL_PROGRAMA_DE_DERECHOS_HUMANOS_DEL_DF.docx"
   },
   {
-    "id": "cdmx_ley_organica_fiscalia_especializada_combate_a",
-    "nombre": "Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción de la Ciudad de México",
+    "id": "cdmx_ley_sistema_anticorrupcion_ciudad_mexico",
+    "nombre": "Ley del Sistema Anticorrupción de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORG_FISCALIA_ESPECIAL_EN_COMBATE_A_LA_CORRUPCION_1.2.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DEL_SIST_ANTICORRUPCION_DE_LA_CDMX.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_organica_procuraduria_ambiental_ordenamiento_territorial",
-    "nombre": "Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORGANICA_DE_LA_PAOT_DE_LA_CDMX_3.2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_oganica_sala_constitucional_poder_judicial",
-    "nombre": "Ley Ogánica de la Sala Constitucional del Poder Judicial de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_ORG_SALA_CONSTITUCIONAL_DEL_PJCDMX_2.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_desarrollo_economico_ciudad_mexico",
-    "nombre": "Ley para el Desarrollo Económico de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_PARA_EL_DESARROLLO_ECONOMICO_DE_LA_CDMX_1.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_desarrollo_distrito_federal_como_ciudad",
-    "nombre": "Ley para el Desarrollo del Distrito Federal como Ciudad Digital y del Conocimiento",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_PARA_EL_DESARROLLO_ECONOMICO_DE_LA_CDMX_1.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_desarrollo_competitividad_micro_pequena_mediana",
-    "nombre": "Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa del Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/210126/LEY_PARA_EL_DESARROLLO_ECONOMICO_DE_LA_CDMX_1.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_atencion_integral_cancer_mama_distrito",
-    "nombre": "Ley Para la Atención Integral del Cáncer de Mama del Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_ATENCION_INTEGRAL_DELcANCER_DE_MAMA_DEL_DF_2.3.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_atencion_integral_consumo_sustancias_psicoactivas",
-    "nombre": "Ley para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_ATENCION_INTEGRAL_DELcANCER_DE_MAMA_DEL_DF_2.3.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_atencion_integral_personas_sindrome_down",
-    "nombre": "Ley para la Atención Integral de las Personas con Síndrome de Down de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_ATENCION_INTEGRAL_DELcANCER_DE_MAMA_DEL_DF_2.3.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_donacion_altruista_alimentos_ciudad_mexico",
-    "nombre": "Ley para la Donación Altruista de Alimentos de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/Ley_para_la_Donacion_Altruista_de_Alimentos_2.4.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_integracion_desarrollo_personas_discapacidad_ciudad",
-    "nombre": "Ley para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_INT_AL_DESA_DE_LAS_PERS_CON_DISCAPACIDAD_DEL_DF_6.4.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_prevencion_tratamiento_control_diabetes_distrito",
-    "nombre": "Ley para la Prevención, Tratamiento y Control de la Diabetes en el Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARALA_PREV_TRAT_Y_CONTROL_DE_LA_DIABETES_EN_EL_DF_2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_prevencion_atencion_integral_vihsida_distrito",
-    "nombre": "Ley para la Prevención y Atención Integral del VIH/SIDA del Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARALA_PREV_TRAT_Y_CONTROL_DE_LA_DIABETES_EN_EL_DF_2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_prevencion_tratamiento_obesidad_transtornos_alimenticios",
-    "nombre": "Ley para la Prevención y el Tratamiento de la Obesidad y los Transtornos Alimenticios en el Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARALA_PREV_TRAT_Y_CONTROL_DE_LA_DIABETES_EN_EL_DF_2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_prevenir_eliminar_sancionar_desaparicion_forzada",
-    "nombre": "Ley para Prevenir, Eliminar y Sancionar la Desaparición Forzada de Personas y la Desaparición por Particulares en la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_PREV_ELIM_Y_SANC_LA_DESAP_FORZADA_Y_LA_DESAP_POR_PART_EN_LA_CDMX_2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_prevenir_violencia_espectaculos_deportivos_distrito",
-    "nombre": "Ley para Prevenir la Violencia en los Espectáculos Deportivos en el Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_PREV_LA_VIOLENCIA_EN_LOS_ESP_DEPORT_DEL_DF_2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_prevenir_eliminar_discriminacion_ciudad_mexico",
-    "nombre": "Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_PREVENIR_Y_ELIMINAR_LA_DISCRIMINACION_DE_LA_CDMX_5.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_promocion_convivencia_libre_violencia_entorno",
-    "nombre": "Ley para la Promoción de la Convivencia Libre de Violencia en el Entorno Escolar de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_PROMOCION_DE_LA_CONVIVENCIA_LIBRE_DE_VIOLENCIA_EN_EL_ENTORNO_ESCOLAR_DE_LA_CIUDAD_DE_MEXICO_2.3.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_proteccion_integral_personas_defensoras_derechos",
-    "nombre": "Ley para la Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas del Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PROT_INT_PERSONAS_DDH_Y_PERIODISTAS_DF_3.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_reconstruccion_integral_ciudad_mexico",
-    "nombre": "Ley para la Reconstrucción Integral de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_RECONSTRUCCION_INTEGRAL_DE_LA_CIUDAD_DE_MEXICO_6.1 2.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_retribucion_proteccion_servicios_ambientales_suelo",
-    "nombre": "Ley para la Retribución por la Protección de los Servicios Ambientales del Suelo de Conservación de la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PARA_LA_RET_POR_SERV_AMB_EN_SUELO_DE_CONSERV_3.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_crea_consejo_prevencion_atencion_integral",
-    "nombre": "Ley que Crea el Consejo para la Prevención y la Atención Integral del VIH-SIDA del Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_QUE_CREA_ELcONSEJO_PARA_LA_PREV_Y_ATN_INT_DEL_VIH_SIDA_DEL_DF_1.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_establece_derecho_a_pension_bienestar",
-    "nombre": "Ley que establece el Derecho a la Pensión para el Bienestar de las Personas Mayores, Residentes en la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PENSION_PARA_EL_BIENESTAR_PERSONAS_MAYORES_2.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_establece_derecho_a_recibir_informacion",
-    "nombre": "Ley que Establece el Derecho a Recibir Información para la Prevención de Enfermedades Bucodentales, además de un Paquete de Salud Bucodental por Ciclo Escolar para todos los Alumnos Residentes e Inscritos en Escuelas Públicas de los Niveles Preescolar y Primaria en la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PENSION_PARA_EL_BIENESTAR_PERSONAS_MAYORES_2.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_establece_derecho_a_recibir_apoyo",
-    "nombre": "Ley que Establece el Derecho a Recibir un Apoyo Alimentario a las Madres Solas de Escasos Recursos Residentes en la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PENSION_PARA_EL_BIENESTAR_PERSONAS_MAYORES_2.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_establece_derecho_acceso_gratuito_a",
-    "nombre": "Ley que Establece el Derecho al Acceso Gratuito a los Servicios Médicos y Medicamentos a las Personas Residentes en el Distrito Federal que Cerecen de Seguridad Social Laboral",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PENSION_PARA_EL_BIENESTAR_PERSONAS_MAYORES_2.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_establece_procedimiento_remocion_servidores_publicos",
-    "nombre": "Ley que Establece el Procedimiento de Remoción de los Servidores Públicos que Designa la Asamblea Legislativa del Distrito Federal y de los Titulares de los Órganos Político-Administrativos del Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_PENSION_PARA_EL_BIENESTAR_PERSONAS_MAYORES_2.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_extingue_pretension_punitiva_potestad_ejercer",
-    "nombre": "Ley que Extingue la Pretensión Punitiva y la Potestad de Ejercer Penas y Medidas de Seguridad contra todas aquellas Ciudadanas y Ciudadanos a quienes se le Imputaron Delitos Durante la Celebración de Manifestaciones en la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_QUE_EXTINGUE_LA_PRETENSION_PUNITIVA_MARCHAS_1.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_regula_funcionamiento_centros_atencion_cuidado",
-    "nombre": "Ley que Regula el Funcionamiento de los Centros de Atención y Cuidado Infantil para el Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_REGULA_FUNCIONAMIENTO_DE_LOS_CACI_DEL_DF_1.3.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_regula_uso_fuerza_cuerpos_seguridad",
-    "nombre": "Ley que Regula el Uso de la Fuerza de los Cuerpos de Seguridad Pública del Distrito Federal",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_REGULA_USO_DE_LA_FUERZA_PUBLICA_DF_1.1.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
-  },
-  {
-    "id": "cdmx_ley_registral_ciudad_mexico",
-    "nombre": "Ley Registral para la Ciudad de México",
-    "tipo": "Ley",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/leyes/LEY_REGISTRAL_PARA_LA_CDMX_2.4.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx"
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/LEY_DEL_SIST_ANTICORRUPCION_DE_LA_CDMX.docx"
   }
 ]

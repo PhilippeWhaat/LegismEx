@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — HIDALGO
 
-_Generado: 2026-03-14 | Total: 168 documentos_
+_Generado: 2026-03-23 | Total: 168 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -141,7 +141,7 @@ _Generado: 2026-03-14 | Total: 168 documentos_
 | 135 | LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI | Ley | 2016-08-15 | [PDF](https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/Ley Organica de la Universidad Tecnologica de Tula Tepeji.pdf) |
 | 136 | LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE HIDALGO | Ley | 2023-05-31 | [PDF](https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/Ley Organica del Colegio de Estudios Cientificos y Tecnologicos.pdf) |
 | 137 | LEY ORGÁNICA DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE HIDALGO | Ley | 2017-10-09 | [PDF](https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/Ley Organica del Instituto de Defensoria Publica del Estado de Hidalgo.pdf) |
-| 138 | LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO | Ley | 2024-05-17 | [PDF](https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/Ley Organica del Ministerio Publico.pdf) |
+| 138 | LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO | Ley | 2026-03-11 | [PDF](https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/Ley Organica del Ministerio Publico.pdf) |
 | 139 | LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO | Ley | 2016-12-31 | [PDF](https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/108Ley Organica del Poder Judicial del Estado de Hidalgo.pdf) |
 | 140 | LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO. *Vigencia, leer artículos transitorios | Ley |  | [PDF](https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/Ley Organica del Poder Judicial del Estado de Hidalgo.pdf) |
 | 141 | LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO | Ley | 2026-01-07 | [PDF](https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/Ley Organica del Poder Legislativo del Congreso Libre y soberano de Hidalgo.pdf) |

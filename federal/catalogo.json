@@ -104,7 +104,7 @@
     "nombre": "ESTATUTO de Gobierno del Distrito Federal",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/10_270614.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/EGDF.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -114,7 +114,7 @@
     "nombre": "IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISIPL.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -214,7 +214,7 @@
     "nombre": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -294,7 +294,7 @@
     "nombre": "LEY de Cámaras Empresariales y sus Confederaciones",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -314,7 +314,7 @@
     "nombre": "LEY de Capitalización del Procampo",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPRO.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -334,7 +334,7 @@
     "nombre": "LEY de Comercio Exterior",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/28.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCE.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -354,7 +354,7 @@
     "nombre": "LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMOPFIH.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -364,7 +364,7 @@
     "nombre": "LEY de Cooperación Internacional para el Desarrollo",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -414,7 +414,7 @@
     "nombre": "LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -434,7 +434,7 @@
     "nombre": "LEY de Disciplina para el Personal de la Armada de México",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPARM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -444,7 +444,7 @@
     "nombre": "LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -464,7 +464,7 @@
     "nombre": "LEY de Energía para el Campo",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEC.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -474,7 +474,7 @@
     "nombre": "LEY de Expropiación",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEXP.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -484,7 +484,7 @@
     "nombre": "LEY de Extradición Internacional",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEI.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -504,7 +504,7 @@
     "nombre": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF_200521.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -514,7 +514,7 @@
     "nombre": "LEY de Fomento a la Confianza Ciudadana",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -524,7 +524,7 @@
     "nombre": "LEY de Fomento a la Industria Vitivinícola",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -574,7 +574,7 @@
     "nombre": "LEY de Infraestructura de la Calidad",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICAL.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -814,7 +814,7 @@
     "nombre": "LEY de Nacionalidad",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNAC.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -844,7 +844,7 @@
     "nombre": "LEY de Organizaciones Ganaderas",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOG.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -904,7 +904,7 @@
     "nombre": "LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPCINECDI.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -934,7 +934,7 @@
     "nombre": "LEY de Puertos",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPUE.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -964,7 +964,7 @@
     "nombre": "LEY de Seguridad Interior",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSINT.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -994,7 +994,7 @@
     "nombre": "LEY de Sociedades de Responsabilidad Limitada de Interés Público",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSRLIP.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1004,7 +1004,7 @@
     "nombre": "LEY de Sociedades de Solidaridad Social",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSSS.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1024,7 +1024,7 @@
     "nombre": "LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTFCCG.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1074,7 +1074,7 @@
     "nombre": "LEY del Banco de México",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1084,7 +1084,7 @@
     "nombre": "LEY del Diario Oficial de la Federación y Gacetas Gubernamentales",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDOFGG.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1180,16 +1180,6 @@
     "fuente": "diputados.gob.mx"
   },
   {
-    "id": "federal_ley_instituto_nacional_mujeres",
-    "nombre": "LEY del Instituto Nacional de las Mujeres",
-    "tipo": "Ley",
-    "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/88_200521.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "diputados.gob.mx"
-  },
-  {
     "id": "federal_ley_instituto_nacional_pueblos_indigenas",
     "nombre": "LEY del Instituto Nacional de los Pueblos Indígenas",
     "tipo": "Ley",
@@ -1214,7 +1204,7 @@
     "nombre": "LEY del Registro Público Vehicular",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPV.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1254,7 +1244,7 @@
     "nombre": "LEY del Servicio de Administración Tributaria",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAT.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1264,7 +1254,7 @@
     "nombre": "LEY del Servicio Exterior Mexicano",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSEM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1294,7 +1284,7 @@
     "nombre": "LEY del Servicio Profesional de Carrera en la Administración Pública Federal",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPCAPF.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1394,7 +1384,7 @@
     "nombre": "LEY Federal de Consulta Popular",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPO.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1404,7 +1394,7 @@
     "nombre": "LEY Federal de Correduría Pública",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCP.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1444,7 +1434,7 @@
     "nombre": "LEY Federal de Deuda Pública",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDP.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1464,7 +1454,7 @@
     "nombre": "LEY Federal de Juegos y Sorteos",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/109.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFJS.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1534,7 +1524,7 @@
     "nombre": "LEY Federal de Producción, Certificación y Comercio de Semillas",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1584,7 +1574,7 @@
     "nombre": "LEY Federal de Remuneraciones de los Servidores Públicos",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFREMSP.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1704,7 +1694,7 @@
     "nombre": "LEY Federal del Mar",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1754,7 +1744,7 @@
     "nombre": "LEY Federal para el Fomento y Protección del Maíz Nativo",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFPMN_130420.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFPMN.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1784,7 +1774,7 @@
     "nombre": "LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -1984,7 +1974,7 @@
     "nombre": "LEY General de Educación Superior",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2234,7 +2224,7 @@
     "nombre": "LEY General del Sistema Nacional Anticorrupción",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2254,7 +2244,7 @@
     "nombre": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2264,7 +2254,7 @@
     "nombre": "LEY General en Materia de Delitos Electorales",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2304,7 +2294,7 @@
     "nombre": "LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2314,7 +2304,7 @@
     "nombre": "LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2324,7 +2314,7 @@
     "nombre": "LEY General para la Igualdad Sustantiva entre Mujeres y Hombres",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIMH.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2344,7 +2334,7 @@
     "nombre": "LEY General para la Prevención Social de la Violencia y la Delincuencia",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2394,7 +2384,7 @@
     "nombre": "LEY General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_200521.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2444,7 +2434,7 @@
     "nombre": "LEY Nacional del Registro de Detenciones",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2534,7 +2524,7 @@
     "nombre": "LEY Orgánica de la Universidad Autónoma Metropolitana",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2544,7 +2534,7 @@
     "nombre": "LEY Orgánica de la Universidad Nacional Autónoma de México",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUNAM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2554,7 +2544,7 @@
     "nombre": "LEY Orgánica de los Tribunales Agrarios",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTA.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2564,7 +2554,7 @@
     "nombre": "LEY Orgánica de Nacional Financiera",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/162.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LONF.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2584,7 +2574,7 @@
     "nombre": "LEY Orgánica del Banco del Bienestar",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/164_190719.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBB.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2614,7 +2604,7 @@
     "nombre": "LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/167.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNEFAA.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2624,7 +2614,7 @@
     "nombre": "LEY Orgánica del Centro Federal de Conciliación y Registro Laboral",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2634,7 +2624,7 @@
     "nombre": "LEY Orgánica del Congreso General de los Estados Unidos Mexicanos",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCG.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2654,7 +2644,7 @@
     "nombre": "LEY Orgánica del Instituto Nacional de Antropología e Historia",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOINAH.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2664,7 +2654,7 @@
     "nombre": "LEY Orgánica del Instituto Politécnico Nacional",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOIPN.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2704,7 +2694,7 @@
     "nombre": "LEY para Conservar la Neutralidad del País",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNP.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2714,7 +2704,7 @@
     "nombre": "LEY para Determinar el Valor de la Unidad de Medida y Actualización",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2734,7 +2724,7 @@
     "nombre": "LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCPDCH.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2764,7 +2754,7 @@
     "nombre": "LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSAM.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2854,7 +2844,7 @@
     "nombre": "LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMCCBDC.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2864,7 +2854,7 @@
     "nombre": "LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGFAGA.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2874,7 +2864,7 @@
     "nombre": "LEY que crea el Instituto Nacional de Bellas Artes y Literatura",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/193_171215.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINBAL.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2894,7 +2884,7 @@
     "nombre": "LEY que crea la Universidad Autónoma Chapingo",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUACH.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2904,7 +2894,7 @@
     "nombre": "LEY que Crea la Universidad del Ejército y Fuerza Aérea",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUEFA.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2914,7 +2904,7 @@
     "nombre": "LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRMNYUT.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2934,7 +2924,7 @@
     "nombre": "LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFV_ART76.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2964,7 +2954,7 @@
     "nombre": "LEY Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXVIII_ART73.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2984,7 +2974,7 @@
     "nombre": "LEY Reglamentaria del Artículo 27 Constitucional en Materia Nuclear",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRART27_MN.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -2994,7 +2984,7 @@
     "nombre": "LEY Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRART3_MMCE.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -3004,7 +2994,7 @@
     "nombre": "LEY Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRART5_PROF.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -3034,7 +3024,7 @@
     "nombre": "LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCAAA.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -3044,7 +3034,7 @@
     "nombre": "LEY Sobre el Contrato de Seguro",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCS.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -3060,21 +3050,11 @@
     "fuente": "diputados.gob.mx"
   },
   {
-    "id": "federal_ley_sobre_elaboracion_venta_cafe_tostado",
-    "nombre": "LEY sobre Elaboración y Venta de Café Tostado",
-    "tipo": "Ley",
-    "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/215.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "diputados.gob.mx"
-  },
-  {
     "id": "federal_ley_sobre_aprobacion_tratados_internacionales_materia",
     "nombre": "LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LATIME.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -3104,7 +3084,7 @@
     "nombre": "ORDENANZA General de la Armada",
     "tipo": "Ley",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/218.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/OGA.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"
@@ -3144,7 +3124,7 @@
     "nombre": "REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
     "tipo": "Reglamento",
     "entidad": "federal",
-    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
+    "url_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/RGIC.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "diputados.gob.mx"

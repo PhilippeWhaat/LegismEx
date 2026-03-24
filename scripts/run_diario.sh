@@ -34,6 +34,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BASE_DIR="$(dirname "$SCRIPT_DIR")"
 LOGS_DIR="$BASE_DIR/logs"
 PYTHON="${PYTHON:-python3}"
+export TZ=America/Mexico_City
 DAY_OF_WEEK="$(date +%u)"  # 1=lunes ... 7=domingo
 HOY=$(date +%Y-%m-%d)
 

@@ -1,5 +1,15 @@
 [
   {
+    "id": "colima_ingresos_edo_2026",
+    "nombre": "Ingresos Edo 2026",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ingresos _Edo_2026.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
     "id": "colima_nueva_ley_protecciondatospersonales_10_noviembre_2025",
     "nombre": "Nueva Ley protecciondatospersonales 10 noviembre 2025",
     "tipo": "Ley",
@@ -45,6 +55,36 @@
     "tipo": "Ley",
     "entidad": "colima",
     "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ley_Sobre_los_Derechos_de_las_Personas_con_Discapacidad_en_el_Estado_de_Colima.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_ingresos_edo_2024",
+    "nombre": "Ingresos Edo 2024",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ingresos _Edo_2024.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_ley_organica_fiscalia_colima_14_marzo",
+    "nombre": "Ley Organica Fiscalia Colima 14 marzo 2026",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ley_Organica_Fiscalia_Colima_14_marzo_2026.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_ley_promocion_desarrollo_agroecologico_colima",
+    "nombre": "Ley para la Promocion y Desarrollo Agroecologico en el Estado de Colima",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ley para la Promocion y Desarrollo Agroecologico en el Estado de Colima.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "congresocol.gob.mx"
@@ -105,6 +145,16 @@
     "tipo": "Ley",
     "entidad": "colima",
     "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Revocacion_Mandato_12ago2022_.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_cancer_infancia_adolescencia_25jun2022_2",
+    "nombre": "Cancer Infancia Adolescencia 25jun2022 (2)",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Cancer_Infancia_Adolescencia_25jun2022 (2).pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "congresocol.gob.mx"
@@ -300,6 +350,16 @@
     "fuente": "congresocol.gob.mx"
   },
   {
+    "id": "colima_comision_busqueda_personas_colima",
+    "nombre": "Comision de Busqueda de personas del Estado de Colima",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Comision de Busqueda de personas del Estado de Colima.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
     "id": "colima_austeridad_colima_06mar2021",
     "nombre": "Austeridad Colima 06mar2021",
     "tipo": "Ley",
@@ -450,6 +510,16 @@
     "fuente": "congresocol.gob.mx"
   },
   {
+    "id": "colima_ley_atencio_espectro_autista",
+    "nombre": "LEY PARA LA ATENCIO ESPECTRO AUTISTA",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/LEY PARA LA ATENCIO_ESPECTRO_AUTISTA.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
     "id": "colima_movilidad_sustentable_11marzo2023",
     "nombre": "Movilidad Sustentable 11marzo2023",
     "tipo": "Ley",
@@ -485,6 +555,16 @@
     "tipo": "Ley",
     "entidad": "colima",
     "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Asociaciones_Publico_Privadas_del_Estado_de_Colima_04marzo2023.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_participacion_congreso_asuntos_municipales_22nov2016",
+    "nombre": "participacion congreso asuntos municipales 22NOV2016",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/participacion_congreso_asuntos_municipales 22NOV2016.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "congresocol.gob.mx"
@@ -610,11 +690,31 @@
     "fuente": "congresocol.gob.mx"
   },
   {
+    "id": "colima_tortura_otros_tratos_crueles_04abril2015",
+    "nombre": "Tortura y otros Tratos Crueles 04abril2015",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Tortura_ y_otros_Tratos_Crueles_04abril2015.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
     "id": "colima_servicio_profesional_carrera_02may2015",
     "nombre": "servicio profesional carrera 02may2015",
     "tipo": "Ley",
     "entidad": "colima",
     "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/servicio_profesional_carrera_02may2015.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_ley_protecc_29_02_2016",
+    "nombre": "LEY PARA LA PROTECC 29 02 2016",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/LEY PARA LA PROTECC_29_02_2016.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "congresocol.gob.mx"
@@ -1190,6 +1290,16 @@
     "fuente": "congresocol.gob.mx"
   },
   {
+    "id": "colima_resolver_conflictos_limites_22nov2016",
+    "nombre": "resolver conflictos limites 22NOV2016",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/resolver_conflictos_limites 22NOV2016.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
     "id": "colima_ambiental_14diciembre2024",
     "nombre": "ambiental 14DICIEMBRE2024",
     "tipo": "Ley",
@@ -1295,6 +1405,16 @@
     "tipo": "Ley",
     "entidad": "colima",
     "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/coordinacion_servicios_educativos.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresocol.gob.mx"
+  },
+  {
+    "id": "colima_trabajadores_servicio_gobierno_28febrero2026",
+    "nombre": "trabajadores servicio gobierno 28febrero2026",
+    "tipo": "Ley",
+    "entidad": "colima",
+    "url_pdf": "https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/trabajadores _servicio_gobierno_28febrero2026.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "congresocol.gob.mx"

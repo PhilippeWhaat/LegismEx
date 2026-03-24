@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — COLIMA
 
-_Generado: 2026-03-16 | Total: 150 documentos_
+_Generado: 2026-03-23 | Total: 150 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -11,7 +11,7 @@ _Generado: 2026-03-16 | Total: 150 documentos_
 | 5 | Nueva Ley Desarrollo Economico 29 marzo2025 | Ley |  | [PDF](https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Nueva_Ley_Desarrollo_Economico_29_marzo2025.pdf) |
 | 6 | Ley Sobre los Derechos de las Personas con Discapacidad en el Estado de Colima | Ley |  | [PDF](https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ley_Sobre_los_Derechos_de_las_Personas_con_Discapacidad_en_el_Estado_de_Colima.pdf) |
 | 7 | Ingresos Edo 2024 | Ley |  | [PDF](https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ingresos _Edo_2024.pdf) |
-| 8 | Ley Organica de la Fiscalia General del Estado de Colima | Ley |  | [PDF](https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ley Organica de la Fiscalia General del Estado de Colima.pdf) |
+| 8 | Ley Organica Fiscalia Colima 14 marzo 2026 | Ley |  | [PDF](https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ley_Organica_Fiscalia_Colima_14_marzo_2026.pdf) |
 | 9 | Ley para la Promocion y Desarrollo Agroecologico en el Estado de Colima | Ley |  | [PDF](https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Ley para la Promocion y Desarrollo Agroecologico en el Estado de Colima.pdf) |
 | 10 | Asentamientos Humanos 22julio2023 | Ley |  | [PDF](https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/Asentamientos_Humanos_22julio2023.pdf) |
 | 11 | ley proteccion bienestar animal compania 08octubre2022 | Ley |  | [PDF](https://congresocol.gob.mx/web/www/leyes//web/Sistema/uploads/LegislacionEstatal/LeyesEstatales/ley_proteccion_bienestar_animal_compania_08octubre2022.pdf) |

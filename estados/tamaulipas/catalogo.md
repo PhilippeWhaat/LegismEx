@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — TAMAULIPAS
 
-_Generado: 2026-03-14 | Total: 129 documentos_
+_Generado: 2026-03-23 | Total: 130 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -11,7 +11,7 @@ _Generado: 2026-03-14 | Total: 129 documentos_
 | 5 | AmnistÃ­a del Estado de Tamaulipas, Ley | Ley |  | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=309) |
 | 6 | Archivos para el Estado de Tamaulipas, Ley de | Ley | 2026-02-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=319) |
 | 7 | Aseguramiento, AdministraciÃ³n, EnajenaciÃ³n y DisposiciÃ³n Final de VehÃ­culos Automotores, Accesorios o Componentes Abandonados para el Estado de Tamaulipas, Ley que regula el | Ley | 2024-12-21 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=238) |
-| 8 | Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas, Ley de | Ley | 2026-03-09 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=298) |
+| 8 | Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas, Ley de | Ley | 2027-03-17 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=298) |
 | 9 | Asociaciones PÃºblico Privadas para el Estado de Tamaulipas, Ley de | Ley | 2026-02-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=288) |
 | 10 | AtenciÃ³n a VÃ­ctimas para el Estado de Tamaulipas, Ley de | Ley | 2026-03-09 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=277) |
 | 11 | AtenciÃ³n,ProtecciÃ³n e InclusiÃ³n de las Personas con la CondiciÃ³n del Espectro Autista y Trastornos del Neurodesarrollo para el Estado de Tamaulipas, Ley para la | Ley | 2026-02-27 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=268) |
@@ -109,27 +109,28 @@ _Generado: 2026-03-14 | Total: 129 documentos_
 | 103 | ProtecciÃ³n de Personas Defensoras de Derechos Humanos y Periodistas para el Estado de Tamaulipas, Ley para la | Ley | 2021-07-14 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=289) |
 | 104 | ProtecciÃ³n de Personas que Intervienen en el Procedimiento Penal del Estado de Tamaulipas, Ley para la | Ley | 2023-06-06 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=260) |
 | 105 | ProtecciÃ³n para los No Fumadores del Estado de Tamaulipas, Ley de | Ley | 2023-06-06 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=79) |
-| 106 | RÃ©gimen de Propiedad en Condominio de Bienes Inmuebles para el Estado de Tamaulipas, Ley sobre el | Ley | 2021-12-21 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=80) |
-| 107 | Registro PÃºblico de la Propiedad Inmueble y del Comercio, Ley del | Ley | 2024-02-27 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=166) |
-| 108 | Registro y AcreditaciÃ³n de los Agentes y Profesionales Inmobiliarios del Estado de Tamaulipas, Ley para el | Ley | 2016-12-21 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=271) |
-| 109 | Reglamentaria de las Oficinas del Registro Civil del Estado de Tamaulipas, Ley | Ley | 2023-09-22 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=63) |
-| 110 | Regular la Apertura, InstalaciÃ³n y Funcionamiento de las Casas de EmpeÃ±o en el Estado de Tamaulipas, Ley para | Ley | 2024-12-20 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=297) |
-| 111 | Responsabilidad Patrimonial del Estado de Tamaulipas y sus Municipios, Ley de | Ley | 2025-09-29 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=83) |
-| 112 | Responsabilidades Administrativas del Estado de Tamaulipas, Ley de | Ley | 2026-02-27 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=281) |
-| 113 | Responsabilidades de los Servidores PÃºblicos del Estado de Tamaulipas, Ley de | Ley | 2023-08-23 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=84) |
-| 114 | Salud para el Estado de Tamaulipas, Ley de | Ley | 2026-03-09 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=85) |
-| 115 | Seguridad Escolar para el Estado de Tamaulipas, Ley de | Ley | 2024-10-15 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=177) |
-| 116 | Seguridad PÃºblica para el Estado de Tamaulipas, Ley de | Ley | 2026-02-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=306) |
-| 117 | Servicios Privados de Seguridad en el Estado de Tamaulipas, Ley para regular los | Ley | 2024-09-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=88) |
-| 118 | Sistema de Seguridad PÃºblica del Estado de Tamaulipas, Ley del | Ley |  | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=326) |
-| 119 | Sistema Estatal AnticorrupciÃ³n de Tamaulipas, Ley del | Ley | 2026-02-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=279) |
-| 120 | Sistema Estatal de Asistencia Social, Ley Sobre el | Ley | 2026-02-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=90) |
-| 121 | Trabajo de los Servidores PÃºblicos del Estado de Tamaulipas, Ley del | Ley | 2026-03-09 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=92) |
-| 122 | TrÃ¡nsito, Ley de | Ley | 2026-02-17 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=93) |
-| 123 | Transparencia y Acceso a la InformaciÃ³n PÃºblica del Estado de Tamaulipas, Ley de | Ley | 2026-01-16 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=323) |
-| 124 | Transporte del Estado de Tamaulipas, Ley de | Ley | 2023-11-27 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=95) |
-| 125 | Trata de Personas en el Estado de Tamaulipas, Ley para Prevenir, Combatir y Sancionar la | Ley | 2023-06-06 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=201) |
-| 126 | Turismo del Estado de Tamaulipas, Ley de | Ley | 2025-11-27 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=236) |
-| 127 | Universidad AutÃ³noma de Tamaulipas, Ley Constitutiva de la | Ley | 2023-02-15 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=11) |
-| 128 | ValuaciÃ³n del Estado de Tamaulipas, Ley de | Ley | 2018-07-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=202) |
-| 129 | Vivienda para el Estado de Tamaulipas, Ley de | Ley | 2025-06-24 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=228) |
+| 106 | Reconocimiento y AtenciÃ³n de las personas LGBTTTI+ para el Estado de Tamaulipas, Ley para el | Ley |  | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=1329) |
+| 107 | RÃ©gimen de Propiedad en Condominio de Bienes Inmuebles para el Estado de Tamaulipas, Ley sobre el | Ley | 2021-12-21 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=80) |
+| 108 | Registro PÃºblico de la Propiedad Inmueble y del Comercio, Ley del | Ley | 2024-02-27 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=166) |
+| 109 | Registro y AcreditaciÃ³n de los Agentes y Profesionales Inmobiliarios del Estado de Tamaulipas, Ley para el | Ley | 2016-12-21 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=271) |
+| 110 | Reglamentaria de las Oficinas del Registro Civil del Estado de Tamaulipas, Ley | Ley | 2023-09-22 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=63) |
+| 111 | Regular la Apertura, InstalaciÃ³n y Funcionamiento de las Casas de EmpeÃ±o en el Estado de Tamaulipas, Ley para | Ley | 2024-12-20 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=297) |
+| 112 | Responsabilidad Patrimonial del Estado de Tamaulipas y sus Municipios, Ley de | Ley | 2025-09-29 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=83) |
+| 113 | Responsabilidades Administrativas del Estado de Tamaulipas, Ley de | Ley | 2026-02-27 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=281) |
+| 114 | Responsabilidades de los Servidores PÃºblicos del Estado de Tamaulipas, Ley de | Ley | 2023-08-23 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=84) |
+| 115 | Salud para el Estado de Tamaulipas, Ley de | Ley | 2026-03-09 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=85) |
+| 116 | Seguridad Escolar para el Estado de Tamaulipas, Ley de | Ley | 2024-10-15 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=177) |
+| 117 | Seguridad PÃºblica para el Estado de Tamaulipas, Ley de | Ley | 2026-02-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=306) |
+| 118 | Servicios Privados de Seguridad en el Estado de Tamaulipas, Ley para regular los | Ley | 2024-09-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=88) |
+| 119 | Sistema de Seguridad PÃºblica del Estado de Tamaulipas, Ley del | Ley |  | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=326) |
+| 120 | Sistema Estatal AnticorrupciÃ³n de Tamaulipas, Ley del | Ley | 2026-02-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=279) |
+| 121 | Sistema Estatal de Asistencia Social, Ley Sobre el | Ley | 2026-02-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=90) |
+| 122 | Trabajo de los Servidores PÃºblicos del Estado de Tamaulipas, Ley del | Ley | 2026-03-09 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=92) |
+| 123 | TrÃ¡nsito, Ley de | Ley | 2026-02-17 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=93) |
+| 124 | Transparencia y Acceso a la InformaciÃ³n PÃºblica del Estado de Tamaulipas, Ley de | Ley | 2026-01-16 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=323) |
+| 125 | Transporte del Estado de Tamaulipas, Ley de | Ley | 2023-11-27 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=95) |
+| 126 | Trata de Personas en el Estado de Tamaulipas, Ley para Prevenir, Combatir y Sancionar la | Ley | 2023-06-06 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=201) |
+| 127 | Turismo del Estado de Tamaulipas, Ley de | Ley | 2025-11-27 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=236) |
+| 128 | Universidad AutÃ³noma de Tamaulipas, Ley Constitutiva de la | Ley | 2023-02-15 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=11) |
+| 129 | ValuaciÃ³n del Estado de Tamaulipas, Ley de | Ley | 2018-07-12 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=202) |
+| 130 | Vivienda para el Estado de Tamaulipas, Ley de | Ley | 2025-06-24 | [PDF](https://www.congresotamaulipas.gob.mx/LegislacionEstatal/LegislacionVigente/VerLey.asp?IdLey=228) |

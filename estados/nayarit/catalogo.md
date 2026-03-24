@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — NAYARIT
 
-_Generado: 2026-03-14 | Total: 119 documentos_
+_Generado: 2026-03-23 | Total: 119 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

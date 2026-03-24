@@ -240,6 +240,16 @@
     "fuente": "congresohidalgo.gob.mx"
   },
   {
+    "id": "hidalgo_ley_administracion_bienes_asegurados_decomisados_abandonados",
+    "nombre": "LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE HIDALGO",
+    "tipo": "Ley",
+    "entidad": "hidalgo",
+    "url_pdf": "https://congresohidalgo.gob.mx/acervo_legislativo/leyes/Contenido/../https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/17Ley para la Administracion de bienes asegurados.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "congresohidalgo.gob.mx"
+  },
+  {
     "id": "hidalgo_ley_becas_hidalgo",
     "nombre": "LEY DE BECAS DEL ESTADO DE HIDALGO",
     "tipo": "Ley",
@@ -650,6 +660,16 @@
     "fuente": "congresohidalgo.gob.mx"
   },
   {
+    "id": "hidalgo_ley_auditoria_superior_hidalgovigencia_leer_articulos",
+    "nombre": "LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO.*Vigencia, leer artículos transitorios de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo",
+    "tipo": "Ley",
+    "entidad": "hidalgo",
+    "url_pdf": "https://congresohidalgo.gob.mx/acervo_legislativo/leyes/../https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/52Ley de la Auditoria Superior del Estado de Hidalgo.pdf",
+    "ultima_reforma": "2016-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "congresohidalgo.gob.mx"
+  },
+  {
     "id": "hidalgo_ley_juventud_hidalgo",
     "nombre": "LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO",
     "tipo": "Ley",
@@ -1030,6 +1050,16 @@
     "fuente": "congresohidalgo.gob.mx"
   },
   {
+    "id": "hidalgo_ley_transparencia_acceso_a_informacion_publica",
+    "nombre": "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL PARA EL ESTADO DE HIDALGO",
+    "tipo": "Ley",
+    "entidad": "hidalgo",
+    "url_pdf": "https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/82Ley de Transparencia y Acceso a la Informacion Publica Gubernamental para el Estado de Hidalgo.pdf",
+    "ultima_reforma": "2016-12-31",
+    "estado_vigencia": "vigente",
+    "fuente": "congresohidalgo.gob.mx"
+  },
+  {
     "id": "hidalgo_ley_transporte_hidalgo",
     "nombre": "LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO",
     "tipo": "Ley",
@@ -1345,7 +1375,7 @@
     "tipo": "Ley",
     "entidad": "hidalgo",
     "url_pdf": "https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes_cintillo/Ley Organica del Ministerio Publico.pdf",
-    "ultima_reforma": "2024-05-17",
+    "ultima_reforma": "2026-03-11",
     "estado_vigencia": "vigente",
     "fuente": "congresohidalgo.gob.mx"
   },

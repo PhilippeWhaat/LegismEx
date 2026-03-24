@@ -38,8 +38,16 @@ def cargar_catalogo(entidad: str) -> list[dict]:
     if not ruta.exists():
         return []
 
-    with open(ruta, encoding="utf-8") as f:
-        data = json.load(f)
+    if ruta.stat().st_size == 0:
+        print(f"  ⚠ ADVERTENCIA: {ruta} está vacío, omitiendo {entidad}")
+        return []
+
+    try:
+        with open(ruta, encoding="utf-8") as f:
+            data = json.load(f)
+    except json.JSONDecodeError as e:
+        print(f"  ⚠ ADVERTENCIA: {ruta} tiene JSON inválido ({e}), omitiendo {entidad}")
+        return []
 
     # Normalizar campos para el índice
     resultado = []
@@ -123,9 +131,16 @@ def main():
         return
 
     # Preservar hashes y fechas de versión anterior si existe
-    if INDEX_FILE.exists():
-        with open(INDEX_FILE, encoding="utf-8") as f:
-            indice_anterior = json.load(f)
+    indice_anterior = []
+    if INDEX_FILE.exists() and INDEX_FILE.stat().st_size > 0:
+        try:
+            with open(INDEX_FILE, encoding="utf-8") as f:
+                indice_anterior = json.load(f)
+        except json.JSONDecodeError:
+            print("  ⚠ leyes_index.json anterior corrupto, se regenerará desde cero")
+            indice_anterior = []
+
+    if indice_anterior:
         hash_map = {
             l["id"]: {
                 "ultimo_hash": l.get("ultimo_hash"),
@@ -142,6 +157,15 @@ def main():
                 # No sobreescribir estado si ya tiene uno significativo
                 if prev.get("estado") in ("ok", "critico"):
                     ley["estado"] = prev["estado"]
+
+    # Guard: no sobrescribir con un índice mucho más pequeño (posible catálogo corrupto)
+    if indice_anterior and len(indice_total) < len(indice_anterior) * 0.8:
+        print(
+            f"  ✗ ABORTADO: nuevo índice ({len(indice_total)}) tiene >20% menos "
+            f"entradas que el anterior ({len(indice_anterior)}). "
+            f"Revisa catálogos vacíos o corruptos."
+        )
+        sys.exit(1)
 
     with open(INDEX_FILE, "w", encoding="utf-8") as f:
         json.dump(indice_total, f, ensure_ascii=False, indent=2)

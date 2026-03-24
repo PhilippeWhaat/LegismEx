@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — BAJACALIFORNIASUR
 
-_Generado: 2026-03-14 | Total: 162 documentos_
+_Generado: 2026-03-23 | Total: 162 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — AGUASCALIENTES
 
-_Generado: 2026-03-14 | Total: 153 documentos_
+_Generado: 2026-03-23 | Total: 153 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
