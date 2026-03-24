@@ -543,10 +543,19 @@ tr:hover td {{ background: var(--wine-bg); }}
 }}
 
 .bar-fill.green {{ background: var(--green); }}
+.bar-fill.lime {{ background: #5a9e3e; }}
 .bar-fill.wine {{ background: var(--wine); }}
 .bar-fill.gold {{ background: var(--gold); }}
+.bar-fill.orange {{ background: #d35400; }}
+.bar-fill.red {{ background: var(--red); }}
 
 .pct {{ font-weight: 600; font-size: 0.8rem; min-width: 42px; text-align: right; }}
+.pct.green {{ color: var(--green); }}
+.pct.lime {{ color: #5a9e3e; }}
+.pct.wine {{ color: var(--wine); }}
+.pct.gold {{ color: var(--gold); }}
+.pct.orange {{ color: #d35400; }}
+.pct.red {{ color: var(--red); }}
 
 /* ── Badges ─────────────────────── */
 .badge {{
@@ -1027,15 +1036,16 @@ new Chart(document.getElementById('chart-descargas'), {{
 function renderTable(data) {{
   const tbody = document.getElementById('tbody-entidades');
   tbody.innerHTML = data.map(e => {{
-    const barColor = e.pct >= 95 ? 'green' : e.pct >= 80 ? 'wine' : 'gold';
+    const p = Number(e.pct) || 0;
+    const barColor = p >= 95 ? 'green' : p >= 85 ? 'lime' : p >= 70 ? 'wine' : p >= 50 ? 'gold' : p >= 25 ? 'orange' : 'red';
     return `<tr>
       <td><strong>${{esc(e.nombre)}}</strong></td>
       <td>${{Number(e.total) || 0}}</td>
       <td>${{Number(e.con_url) || 0}}</td>
       <td>${{Number(e.descargadas) || 0}}</td>
       <td><div class="bar-cell">
-        <span class="pct">${{Number(e.pct) || 0}}%</span>
-        <div class="bar"><div class="bar-fill ${{barColor}}" style="width:${{Number(e.pct) || 0}}%"></div></div>
+        <span class="pct ${{barColor}}">${{p}}%</span>
+        <div class="bar"><div class="bar-fill ${{barColor}}" style="width:${{p}}%"></div></div>
       </div></td>
       <td>${{Number(e.tipos['Ley']) || 0}}</td>
       <td>${{Number(e.tipos['C\\u00f3digo']) || Number(e.tipos['Codigo']) || 0}}</td>
