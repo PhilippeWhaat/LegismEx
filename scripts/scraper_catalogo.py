@@ -436,13 +436,17 @@ def scrape_nuevoleon() -> list[dict]:
                     nombre_url = urllib.parse.quote(nombre.upper()) if hasattr(urllib, 'parse') else nombre.upper()
                     url_pdf = f"{base_url}/trabajo_legislativo/leyes/pdf/{nombre_url}.pdf"
 
+                # Encode any remaining spaces in URL (common in query params like ?2023-10- 6)
+                url_pdf = url_pdf.replace(" ", "%20")
+                url_word = row.get("url_word", "").replace(" ", "%20")
+
                 leyes.append({
                     "id": ley_id,
                     "nombre": nombre,
                     "tipo": tipo,
                     "entidad": entidad,
                     "url_pdf": url_pdf,
-                    "url_word": row.get("url_word", ""),
+                    "url_word": url_word,
                     "ultima_reforma": row.get("ultima_reforma", ""),
                     "estado_vigencia": "vigente",
                     "fuente": "hcnl.gob.mx",
@@ -1215,10 +1219,11 @@ def scrape_oaxaca() -> list[dict]:
         if url_pdf and not url_pdf.startswith("http"):
             # Relative path like ../../docs66.congresooaxaca.gob.mx/...
             if "congresooaxaca" in url_pdf:
-                # Extract the domain-relative part
+                # Extract the domain-relative part (docs66 subdomain no longer resolves;
+                # files are now served under www.congresooaxaca.gob.mx/docs66.../)
                 match = re.search(r'(docs\d*\.congresooaxaca\.gob\.mx/.*)', url_pdf)
                 if match:
-                    url_pdf = f"https://{match.group(1)}"
+                    url_pdf = f"https://www.congresooaxaca.gob.mx/{match.group(1)}"
                 else:
                     url_pdf = f"https://www.congresooaxaca.gob.mx/{url_pdf.lstrip('./')}"
             else:
@@ -1735,6 +1740,13 @@ def scrape_sinaloa() -> list[dict]:
             nombre = limpiar_texto(nombre)
         if not nombre or len(nombre) < 10:
             continue
+
+        # Resolve relative URLs against the page base
+        if not url_pdf.startswith("http"):
+            url_pdf = urllib.parse.urljoin(url, url_pdf)
+        # Fix double .pdf extension (e.g. Ley_105.pdf.pdf)
+        if url_pdf.endswith(".pdf.pdf"):
+            url_pdf = url_pdf[:-4]
 
         tipo = inferir_tipo(nombre)
         ley_id = generar_id(entidad, nombre)
@@ -2424,8 +2436,13 @@ def scrape_hidalgo() -> list[dict]:
         url_pdf = ""
         if pdf_match:
             url_pdf = pdf_match.group(1)
-            if not url_pdf.startswith("http"):
-                url_pdf = f"{base_url}/acervo_legislativo/leyes/{url_pdf}"
+            # Some hrefs contain ../https://... which creates malformed URLs;
+            # extract the embedded absolute URL when present
+            embedded = re.search(r'(https?://(?!congresohidalgo).*\.pdf)', url_pdf, re.IGNORECASE)
+            if embedded:
+                url_pdf = embedded.group(1)
+            elif not url_pdf.startswith("http"):
+                url_pdf = urllib.parse.urljoin(f"{base_url}/acervo_legislativo/leyes/", url_pdf)
 
         tipo = inferir_tipo(nombre)
         ley_id = generar_id(entidad, nombre)
@@ -2844,7 +2861,7 @@ def scrape_colima() -> list[dict]:
             if not nombre or len(nombre) < 10:
                 continue
             if not url_pdf.startswith("http"):
-                url_pdf = f"https://congresocol.gob.mx/web/www/leyes/{url_pdf}"
+                url_pdf = urllib.parse.urljoin("https://congresocol.gob.mx/web/www/leyes/index.php", url_pdf)
             ley_id = generar_id(entidad, nombre)
             if ley_id in ids_vistos:
                 continue

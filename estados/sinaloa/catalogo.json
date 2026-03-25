@@ -874,7 +874,7 @@
     "nombre": "Ley de Tránsito y Transporte del Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/067.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/067.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1324,7 +1324,7 @@
     "nombre": "Ley para el Aprovechamiento Integral de Alimentos y su Donación Altruista del Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_105.pdf.pdf",
+    "url_pdf": "https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_105.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1504,7 +1504,7 @@
     "nombre": "Ley para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes en el Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/159.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/159.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1514,7 +1514,7 @@
     "nombre": "Ley de Responsabilidad Patrimonial para el Estado de Sinaloa y sus Municipios",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/160.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/160.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1524,7 +1524,7 @@
     "nombre": "Ley Estatal para Combatir, Prevenir y Sancionar la Trata de Personas",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/077.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/077.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1534,7 +1534,7 @@
     "nombre": "Ley que Crea el Fondo de Apoyo a la Procuración de Justicia en el Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/099.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/099.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1544,7 +1544,7 @@
     "nombre": "Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/058.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/058.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1554,7 +1554,7 @@
     "nombre": "Ley del Hospital Pédiatrico de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/068.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/068.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1564,7 +1564,7 @@
     "nombre": "Ley de Justicia para Adolescentes del Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/041.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/041.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1574,7 +1574,7 @@
     "nombre": "Ley de Acceso a la Informaci&oacute;n P&uacute;blica del Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/009.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/009.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1584,7 +1584,7 @@
     "nombre": "Ley de Desarrollo Urbano del Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/024.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/024.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1594,7 +1594,7 @@
     "nombre": "Ley Orgánica de la Defensoría de Oficio del Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/080.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/080.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1604,7 +1604,7 @@
     "nombre": "Ley Orgánica de la Procuraduría General Justicia del Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/081.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/081.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1614,7 +1614,7 @@
     "nombre": "Ley Orgánica de la Universidad de Occidente",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/083.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/083.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1624,7 +1624,7 @@
     "nombre": "Ley Orgánica del Instituto Oceanológico del Pacífico",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/088.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/088.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1634,7 +1634,7 @@
     "nombre": "Ley que Crea el Instituto de la Vivienda del Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/101.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/101.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
@@ -1644,7 +1644,7 @@
     "nombre": "Ley para Prevenir y Atender la Vlolencia Intrafamiliar del Estado de Sinaloa",
     "tipo": "Ley",
     "entidad": "sinaloa",
-    "url_pdf": "docs/le/094.pdf",
+    "url_pdf": "https://iip.congresosinaloa.gob.mx/docs/le/094.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "iip.congresosinaloa.gob.mx"
