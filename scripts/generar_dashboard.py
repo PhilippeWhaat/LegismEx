@@ -78,21 +78,60 @@ NOMBRES_ESTADOS = {
 }
 
 
-def filtrar_acciones_verificadas(acciones: list, indice: list) -> list:
-    """Solo incluir acciones LLM que se materializaron en el índice.
+FUZZY_UMBRAL = 0.8
+FUZZY_MARGEN = 0.2
 
-    Para re-descargar/marcar-abrogada: debe existir una ley de esa entidad
-    con estado que confirme que la acción se ejecutó (ok o abrogada).
-    Para agregar/ley_nueva: la ley debe haber sido efectivamente agregada
-    al índice (descargada con éxito).
+
+def _buscar_id_en_indice(id_cat: str, entidad: str, nombre_ley: str,
+                         ids_indice: set, leyes_por_entidad: dict) -> str | None:
+    """Busca un ID en el índice: exacto primero, luego fuzzy por entidad+nombre.
+
+    Fuzzy: score = fracción de palabras >3 chars del nombre de la ley presentes
+    en el nombre que reportó el LLM. Requiere score >= FUZZY_UMBRAL y ventaja
+    >= FUZZY_MARGEN sobre el segundo mejor; si hay empate, se descarta para
+    evitar falsos positivos entre leyes con nombres muy parecidos.
+    """
+    if id_cat in ids_indice:
+        return id_cat
+    if not nombre_ley or entidad not in leyes_por_entidad:
+        return None
+    nombre_lower = nombre_ley.lower()
+    mejor_id, mejor_score, segundo_score = None, 0.0, 0.0
+    for ley_id, ley_nombre in leyes_por_entidad[entidad]:
+        palabras = [p for p in ley_nombre.lower().split() if len(p) > 3]
+        if not palabras:
+            continue
+        coincidencias = sum(1 for p in palabras if p in nombre_lower)
+        score = coincidencias / len(palabras)
+        if score > mejor_score:
+            segundo_score = mejor_score
+            mejor_score, mejor_id = score, ley_id
+        elif score > segundo_score:
+            segundo_score = score
+    if mejor_score < FUZZY_UMBRAL:
+        return None
+    if mejor_score - segundo_score < FUZZY_MARGEN:
+        return None
+    return mejor_id
+
+
+def filtrar_acciones_verificadas(acciones: list, indice: list) -> list:
+    """Solo incluir acciones LLM que se verificaron en el índice.
+
+    Para re-descargar/marcar-abrogada: debe existir la ley en el índice
+    (búsqueda exacta por ID, con fallback fuzzy por nombre).
+    Para agregar/ley_nueva: la ley debe haber sido agregada al índice.
     Ignorar/irrelevante: se excluyen siempre.
     """
-    # Construir lookup: id exacto + set de entidades con descargas ok
     ids_indice = {ley.get("id") for ley in indice}
     leyes_actualizadas = set()
+    leyes_por_entidad = defaultdict(list)
     for ley in indice:
+        ley_id = ley.get("id")
+        entidad = ley.get("entidad", "")
+        leyes_por_entidad[entidad].append((ley_id, ley.get("nombre", "")))
         if ley.get("estado") in ("ok", "pendiente_actualizacion", "abrogada"):
-            leyes_actualizadas.add(ley.get("id"))
+            leyes_actualizadas.add(ley_id)
 
     verificadas = []
     for a in acciones:
@@ -100,13 +139,14 @@ def filtrar_acciones_verificadas(acciones: list, indice: list) -> list:
         if accion == "ignorar":
             continue
         id_cat = a.get("id_catalogo", "")
+        entidad = a.get("entidad", "")
+        nombre = a.get("ley_afectada", "")
         if accion in ("re-descargar", "marcar-abrogada", "actualizar-catalogo"):
-            # El ID del LLM puede no coincidir exactamente; buscar por entidad
-            # y verificar que al menos existe la ley referenciada en el índice
-            if id_cat in ids_indice:
+            match = _buscar_id_en_indice(id_cat, entidad, nombre, ids_indice, leyes_por_entidad)
+            if match:
+                a["id_catalogo_verificado"] = match
                 verificadas.append(a)
         elif accion == "agregar":
-            # Ley nueva: solo mostrar si fue agregada al índice y descargada
             if id_cat in leyes_actualizadas:
                 verificadas.append(a)
     return verificadas
@@ -118,13 +158,24 @@ def recopilar_datos() -> dict:
     acciones = cargar_json(LOGS_DIR / "acciones_llm.json")
     cola_reintentos = cargar_json(BASE_DIR / "cola_reintentos.json")
     evidencias = cargar_json(LOGS_DIR / "evidencias_reformas.json")
-    nuevas = cargar_json(LOGS_DIR / "leyes_nuevas_detectadas.json")
+    nuevas_raw = cargar_json(LOGS_DIR / "leyes_nuevas_detectadas.json")
+    nuevas, urls_nuevas_vistas = [], set()
+    for n in nuevas_raw:
+        url = n.get("url_publicacion", "")
+        if url not in urls_nuevas_vistas:
+            nuevas.append(n)
+            urls_nuevas_vistas.add(url)
     resolver = cargar_json(LOGS_DIR / "resolver_pendientes.json")
 
-    # Publicaciones detectadas (buscar todos los archivos diarios)
+    # Publicaciones detectadas (buscar todos los archivos diarios, deduplicar por URL)
     publicaciones = []
+    urls_pub_vistas = set()
     for f in sorted(LOGS_DIR.glob("publicaciones_2*.json")):
-        publicaciones.extend(cargar_json(f))
+        for p in cargar_json(f):
+            url = p.get("url", "")
+            if url not in urls_pub_vistas:
+                publicaciones.append(p)
+                urls_pub_vistas.add(url)
 
     # Pipeline logs
     pipeline_logs = []

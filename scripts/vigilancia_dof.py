@@ -426,8 +426,21 @@ def vigilar_estado(entidad: str, fecha: date) -> list[dict]:
 # ──────────────────────────────────────────────
 # Procesar y descargar actos detectados
 # ──────────────────────────────────────────────
+def _cargar_urls_vistas() -> set[str]:
+    """Carga URLs ya procesadas de cola_procesamiento.json."""
+    cola_file = LOGS_DIR / "cola_procesamiento.json"
+    if cola_file.exists():
+        with open(cola_file) as f:
+            return {p.get("url") for p in json.load(f) if p.get("url")}
+    return set()
+
+
 def procesar_actos(actos: list[dict]):
+    # Cargar URLs ya procesadas ANTES de descargar
+    urls_vistas = _cargar_urls_vistas()
+
     cola_procesamiento = []
+    omitidos = 0
 
     for acto in actos:
         entidad = acto["entidad"]
@@ -435,16 +448,36 @@ def procesar_actos(actos: list[dict]):
         url = acto["url"]
         fecha = acto["fecha"]
 
-        # Generar nombre de archivo seguro
+        # Deduplicar por URL antes de descargar
+        if url in urls_vistas:
+            omitidos += 1
+            continue
+        urls_vistas.add(url)
+
+        # Generar nombre de archivo seguro (sin timestamp para evitar duplicados)
         nombre_seguro = re.sub(r"[^\w\s-]", "", titulo)[:80].strip()
         nombre_seguro = re.sub(r"\s+", "_", nombre_seguro)
-        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-        nombre_archivo = f"{fecha}_{ts}_{nombre_seguro}.pdf"
+        nombre_archivo = f"{fecha}_{nombre_seguro}.pdf"
 
         if entidad == "federal":
             destino = BASE_DIR / "federal" / "diario_oficial" / nombre_archivo
         else:
             destino = BASE_DIR / "estados" / entidad / "periodico_oficial" / nombre_archivo
+
+        # Saltar si el archivo ya existe en disco
+        if destino.exists():
+            omitidos += 1
+            log.debug(f"Archivo ya existe, omitiendo: {destino.name}")
+            cola_procesamiento.append(
+                {
+                    "titulo": titulo,
+                    "url": url,
+                    "entidad": entidad,
+                    "fecha_deteccion": datetime.now().isoformat(),
+                    "archivo_local": str(destino),
+                }
+            )
+            continue
 
         # Intentar descargar si es PDF
         if url and (url.endswith(".pdf") or "pdf" in url.lower()):
@@ -458,7 +491,6 @@ def procesar_actos(actos: list[dict]):
                     f"Publicación detectada (descarga fallida): {titulo} — {url}"
                 )
         else:
-            # URL no es PDF directo, registrar para revisión manual
             log_alerta(
                 f"Nueva publicación detectada (requiere revisión): {titulo} — {url}"
             )
@@ -473,6 +505,9 @@ def procesar_actos(actos: list[dict]):
             }
         )
 
+    if omitidos:
+        log.info(f"{omitidos} publicación(es) omitida(s) (ya procesadas o descargadas)")
+
     # Guardar cola de procesamiento (para análisis LLM)
     if cola_procesamiento:
         cola_file = LOGS_DIR / "cola_procesamiento.json"
@@ -485,14 +520,23 @@ def procesar_actos(actos: list[dict]):
         cola_existente.extend(nuevas)
         with open(cola_file, "w") as f:
             json.dump(cola_existente, f, ensure_ascii=False, indent=2)
-        log.info(f"{len(nuevas)} acto(s) nuevo(s) agregado(s) a la cola de procesamiento ({len(cola_procesamiento) - len(nuevas)} duplicados omitidos)")
+        log.info(f"{len(nuevas)} acto(s) nuevo(s) agregado(s) a la cola de procesamiento")
 
-    # También guardar archivo diario para histórico
+    # También guardar archivo diario para histórico (deduplicado por URL)
     if cola_procesamiento:
         hoy = date.today().isoformat()
         diario_file = LOGS_DIR / f"publicaciones_{hoy}.json"
+        diario_existente = []
+        if diario_file.exists():
+            with open(diario_file) as f:
+                diario_existente = json.load(f)
+        urls_diario = {p.get("url") for p in diario_existente}
+        for p in cola_procesamiento:
+            if p.get("url") not in urls_diario:
+                diario_existente.append(p)
+                urls_diario.add(p.get("url"))
         with open(diario_file, "w") as f:
-            json.dump(cola_procesamiento, f, ensure_ascii=False, indent=2)
+            json.dump(diario_existente, f, ensure_ascii=False, indent=2)
         log.info(f"Archivo diario guardado: {diario_file.name}")
 
 

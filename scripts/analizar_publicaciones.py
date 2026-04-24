@@ -76,11 +76,11 @@ def cargar_catalogos() -> dict[str, list[dict]]:
     return catalogos
 
 
-def nombres_leyes_entidad(catalogos: dict, entidad: str) -> list[str]:
-    """Extrae solo los nombres de leyes de una entidad (para el prompt)."""
+def leyes_entidad(catalogos: dict, entidad: str) -> list[dict]:
+    """Extrae id y nombre de leyes de una entidad (para el prompt)."""
     if entidad not in catalogos:
         return []
-    return [ley["nombre"] for ley in catalogos[entidad]]
+    return [{"id": ley["id"], "nombre": ley["nombre"]} for ley in catalogos[entidad]]
 
 
 def buscar_en_catalogo(catalogos: dict, entidad: str, id_catalogo: str) -> dict | None:
@@ -106,7 +106,9 @@ REGLAS:
 2. Si el título no es un acto legislativo relevante (nombramientos, convocatorias,
    licitaciones, avisos, etc.), clasifícalo como tipo_acto: "irrelevante".
 3. Para reformas y adiciones, identifica la ley afectada con su nombre EXACTO.
-4. El id_catalogo debe coincidir con el formato: {entidad}_{nombre_abreviado}.
+4. El id_catalogo DEBE ser uno de los IDs exactos del catálogo que te proporcionamos.
+   NO inventes IDs ni uses abreviaturas. Copia el ID tal cual aparece en el listado.
+   Si ningún ID coincide, usa null.
 5. Si no puedes determinar con certeza qué ley afecta, usa confianza baja (<0.5).
 
 TIPOS DE ACTO VÁLIDOS:
@@ -203,7 +205,7 @@ def extraer_contenido(publicacion: dict) -> str:
     return texto[:MAX_CONTENIDO_CHARS] if texto else ""
 
 
-def construir_prompt_usuario(publicacion: dict, nombres_leyes: list[str], contenido_extraido: str = "") -> str:
+def construir_prompt_usuario(publicacion: dict, leyes: list[dict], contenido_extraido: str = "") -> str:
     """Construye el prompt con la publicación y contexto del catálogo."""
     titulo = publicacion.get("titulo", "")
     entidad = publicacion.get("entidad", "federal")
@@ -211,8 +213,8 @@ def construir_prompt_usuario(publicacion: dict, nombres_leyes: list[str], conten
     url = publicacion.get("url", "")
 
     leyes_texto = ""
-    if nombres_leyes:
-        leyes_texto = "\n".join(f"  - {n}" for n in nombres_leyes)
+    if leyes:
+        leyes_texto = "\n".join(f"  - {l['id']} → {l['nombre']}" for l in leyes)
 
     contenido_seccion = ""
     if contenido_extraido:
@@ -232,7 +234,7 @@ Responde con un JSON con esta estructura exacta:
 {{
   "tipo_acto": "reforma|adicion|derogacion|abrogacion|ley_nueva|fe_de_erratas|irrelevante",
   "ley_afectada": "Nombre completo de la ley afectada (o null si irrelevante)",
-  "id_catalogo": "entidad_nombre_abreviado (o null si no se puede determinar)",
+  "id_catalogo": "ID exacto del catálogo proporcionado arriba (o null si no coincide con ninguno)",
   "entidad": "{entidad}",
   "articulos_afectados": "lista de artículos si se mencionan (o null)",
   "accion_recomendada": "re-descargar|agregar|marcar-abrogada|actualizar-catalogo|ignorar",
@@ -251,7 +253,7 @@ def analizar_con_llm(
 ) -> dict | None:
     """Envía una publicación al LLM y obtiene la clasificación."""
     entidad = publicacion.get("entidad", "federal")
-    nombres = nombres_leyes_entidad(catalogos, entidad)
+    nombres = leyes_entidad(catalogos, entidad)
     contenido = extraer_contenido(publicacion)
 
     prompt = construir_prompt_usuario(publicacion, nombres, contenido)
@@ -439,6 +441,11 @@ def _accion_agregar(resultado: dict, catalogos: dict):
     if nuevas_file.exists():
         with open(nuevas_file) as f:
             existentes = json.load(f)
+    # Deduplicar por URL antes de agregar
+    urls_existentes = {e.get("url_publicacion") for e in existentes}
+    if nueva_ley.get("url_publicacion") in urls_existentes:
+        log.info(f"    → Ley nueva ya registrada (duplicada), omitiendo: {nombre}")
+        return
     existentes.append(nueva_ley)
     with open(nuevas_file, "w") as f:
         json.dump(existentes, f, ensure_ascii=False, indent=2)
@@ -476,15 +483,16 @@ def _guardar_acciones(acciones: list[dict]):
     if ACCIONES_LOG.exists():
         with open(ACCIONES_LOG) as f:
             existentes = json.load(f)
-    claves_existentes = {
+    claves_vistas = {
         (a.get("_publicacion_original", {}).get("url", ""), a.get("id_catalogo", ""))
         for a in existentes
     }
-    nuevas = [
-        a for a in acciones
-        if (a.get("_publicacion_original", {}).get("url", ""), a.get("id_catalogo", ""))
-        not in claves_existentes
-    ]
+    nuevas = []
+    for a in acciones:
+        clave = (a.get("_publicacion_original", {}).get("url", ""), a.get("id_catalogo", ""))
+        if clave not in claves_vistas:
+            claves_vistas.add(clave)
+            nuevas.append(a)
     existentes.extend(nuevas)
     with open(ACCIONES_LOG, "w") as f:
         json.dump(existentes, f, ensure_ascii=False, indent=2)
@@ -507,8 +515,19 @@ def cargar_publicaciones(archivo: Path | None = None) -> list[dict]:
     with open(target) as f:
         publicaciones = json.load(f)
 
-    log.info(f"Cargadas {len(publicaciones)} publicaciones de {target}")
-    return publicaciones
+    # Deduplicar por URL antes de analizar (mismo PDF con títulos distintos)
+    vistas = set()
+    unicas = []
+    for p in publicaciones:
+        url = p.get("url", "")
+        if url not in vistas:
+            vistas.add(url)
+            unicas.append(p)
+    if len(unicas) < len(publicaciones):
+        log.info(f"Cargadas {len(publicaciones)} publicaciones de {target} ({len(publicaciones) - len(unicas)} duplicados por URL eliminados)")
+    else:
+        log.info(f"Cargadas {len(publicaciones)} publicaciones de {target}")
+    return unicas
 
 
 def marcar_procesadas(publicaciones: list[dict]):
@@ -536,6 +555,56 @@ def marcar_procesadas(publicaciones: list[dict]):
             json.dump(cola, f, ensure_ascii=False, indent=2)
 
 
+def _preparar_reprocesamiento(fecha_str: str) -> list[dict]:
+    """Carga publicaciones de una fecha ya procesada y elimina sus acciones previas."""
+    # Buscar archivo histórico
+    historico = LOGS_DIR / f"publicaciones_procesadas_{fecha_str}.json"
+    diario = LOGS_DIR / f"publicaciones_{fecha_str}.json"
+
+    fuente = None
+    if historico.exists():
+        fuente = historico
+    elif diario.exists():
+        fuente = diario
+    else:
+        log.error(f"No se encontraron publicaciones para {fecha_str}")
+        log.info(f"  Buscados: {historico.name}, {diario.name}")
+        return []
+
+    with open(fuente) as f:
+        publicaciones = json.load(f)
+
+    # Deduplicar por URL (mismo PDF con títulos distintos)
+    vistas = set()
+    unicas = []
+    for p in publicaciones:
+        url = p.get("url", "")
+        if url not in vistas:
+            vistas.add(url)
+            unicas.append(p)
+    publicaciones = unicas
+
+    log.info(f"Reprocesando {len(publicaciones)} publicaciones de {fuente.name}")
+
+    # Eliminar acciones previas de estas URLs
+    urls_reprocesar = {p.get("url") for p in publicaciones}
+    if ACCIONES_LOG.exists():
+        with open(ACCIONES_LOG) as f:
+            acciones = json.load(f)
+        antes = len(acciones)
+        acciones = [
+            a for a in acciones
+            if a.get("_publicacion_original", {}).get("url", "") not in urls_reprocesar
+        ]
+        eliminadas = antes - len(acciones)
+        with open(ACCIONES_LOG, "w") as f:
+            json.dump(acciones, f, ensure_ascii=False, indent=2)
+        if eliminadas:
+            log.info(f"Eliminadas {eliminadas} acciones previas de acciones_llm.json")
+
+    return publicaciones
+
+
 # ──────────────────────────────────────────────
 # Main
 # ──────────────────────────────────────────────
@@ -558,6 +627,11 @@ def main():
         default=0,
         help="Máximo de publicaciones a analizar (0 = todas)",
     )
+    parser.add_argument(
+        "--reprocesar-fecha",
+        metavar="YYYY-MM-DD",
+        help="Re-analizar publicaciones de una fecha ya procesada (elimina acciones previas y re-analiza)",
+    )
     args = parser.parse_args()
 
     # Verificar API key
@@ -575,7 +649,12 @@ def main():
 
     # Cargar datos
     log.info("=== Análisis de publicaciones con LLM ===")
-    publicaciones = cargar_publicaciones(args.archivo)
+
+    if args.reprocesar_fecha:
+        publicaciones = _preparar_reprocesamiento(args.reprocesar_fecha)
+    else:
+        publicaciones = cargar_publicaciones(args.archivo)
+
     if not publicaciones:
         log.info("No hay publicaciones pendientes de análisis.")
         return
@@ -634,8 +713,8 @@ def main():
         acciones = ejecutar_acciones(resultados, catalogos, dry_run=args.dry_run)
         log.info(f"\n{len(acciones)} acción(es) registradas")
 
-    # Marcar como procesadas
-    if not args.dry_run:
+    # Marcar como procesadas (skip si es reprocesamiento — ya están marcadas)
+    if not args.dry_run and not args.reprocesar_fecha:
         marcar_procesadas(publicaciones)
 
     log.info("=== Análisis finalizado ===")
