@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — DURANGO
 
-_Generado: 2026-04-20 | Total: 157 documentos_
+_Generado: 2026-04-24 | Total: 157 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -10,7 +10,7 @@ _Generado: 2026-04-20 | Total: 157 documentos_
 | 4 | Codigo Fiscal Municipal | Código | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/CODIGO%2520FISCAL%2520MUNICIPAL.pdf) |
 | 5 | Codigo Penal | Código | 2026-02-24 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/CODIGO%2520PENAL%2520%28NUEVO%29.pdf) |
 | 6 | Codigo Procesal Penal | Código | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/CODIGO%2520PROCESAL%2520PENAL%2520%28NUEVO%29.pdf) |
-| 7 | Constitucion Politica del Estado | Ley | 2026-02-03 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/CONSTITUCION%2520POLITICA%2520DEL%2520ESTADO%2520%28NUEVA%29.pdf) |
+| 7 | Constitucion Politica del Estado | Ley | 2026-04-21 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/CONSTITUCION%2520POLITICA%2520DEL%2520ESTADO%2520%28NUEVA%29.pdf) |
 | 8 | Ley Contra el Lucro Inmoderado | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520CONTRA%2520EL%2520LUCRO%2520INMODERADO.pdf) |
 | 9 | Ley de Accesibilidad | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520ACCESIBILIDAD.pdf) |
 | 10 | Ley de Adopciones | Ley | 2025-04-07 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520ADOPCIONES.pdf) |
@@ -126,7 +126,7 @@ _Generado: 2026-04-20 | Total: 157 documentos_
 | 120 | Ley Organica del Centro de Conciliacion Laboral | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520ORGANICA%2520DEL%2520CENTRO%2520DE%2520CONCILIACION%2520LABORAL.pdf) |
 | 121 | Ley Organica del Congreso del Estado | Ley | 2025-01-29 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520ORGANICA%2520DEL%2520CONGRESO%2520DEL%2520ESTADO.pdf) |
 | 122 | Ley Organica del Municipio Libre | Ley | 2025-12-11 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520ORGANICA%2520DEL%2520MUNICIPIO%2520LIBRE.pdf) |
-| 123 | Ley Organica del Poder Judicial | Ley | 2025-08-24 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520ORGANICA%2520DEL%2520PODER%2520JUDICIAL%2520%28NUEVA%29.pdf) |
+| 123 | Ley Organica del Poder Judicial | Ley | 2026-04-21 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520ORGANICA%2520DEL%2520PODER%2520JUDICIAL%2520%28NUEVA%29.pdf) |
 | 124 | Ley Organica del Tribunal de Justicia Administrativa | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520ORGANICA%2520DEL%2520TRIBUNAL%2520DE%2520JUSTICIA%2520ADMINISTRATIVA.pdf) |
 | 125 | Ley para el Control de Bebidas | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520PARA%2520EL%2520CONTROL%2520DE%2520BEBIDAS.pdf) |
 | 126 | Ley para el Desarrollo la Inclusion de las Personas con Discapacidad | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520PARA%2520EL%2520DESARROLLO%2520LA%2520INCLUSION%2520DE%2520LAS%2520PERSONAS%2520CON%2520DISCAPACIDAD.pdf) |

@@ -76,6 +76,58 @@ def calcular_hash_md5(ruta: Path) -> str:
     return h.hexdigest()
 
 
+# Firmas mágicas: prefijo binario que identifica el formato real del archivo,
+# independiente de la extensión o el content-type declarado.
+_FIRMA_PDF = b"%PDF"
+_FIRMA_DOC = b"\xd0\xcf\x11\xe0"          # OLE2 compound (doc, xls viejo)
+_FIRMA_DOCX = b"PK\x03\x04"                # zip (docx, xlsx)
+_INDICADORES_ERROR_HTML = (
+    "404 not found", "403 forbidden", "500 internal server",
+    "error 404", "error 403", "página no encontrada", "pagina no encontrada",
+    "acceso denegado", "access denied",
+)
+
+
+def validar_formato(destino: Path, formato_esperado: str) -> tuple[bool, str]:
+    """Valida que el archivo descargado corresponda al formato esperado.
+
+    Retorna (ok, motivo). Distingue:
+      - archivo vacío o muy pequeño (<512 B)
+      - firma mágica incorrecta (p.ej. HTML servido como PDF)
+      - HTML con indicadores de error explícitos (404/403/etc.)
+    """
+    if not destino.exists():
+        return False, "archivo no existe"
+    size = destino.stat().st_size
+    if size < 512:
+        return False, f"archivo demasiado pequeño ({size} B)"
+
+    with open(destino, "rb") as f:
+        head = f.read(8)
+
+    formato = (formato_esperado or "pdf").lower()
+    if formato == "pdf":
+        if not head.startswith(_FIRMA_PDF):
+            return False, f"no es PDF (firma: {head[:4]!r})"
+        return True, "ok"
+    if formato in ("doc", "docx"):
+        if head.startswith(_FIRMA_DOC) or head.startswith(_FIRMA_DOCX):
+            return True, "ok"
+        return False, f"no es DOC/DOCX (firma: {head[:4]!r})"
+    if formato == "html":
+        try:
+            with open(destino, "rb") as f:
+                muestra = f.read(4096).decode("utf-8", errors="ignore").lower()
+        except Exception as e:
+            return False, f"lectura falló: {e}"
+        if any(ind in muestra for ind in _INDICADORES_ERROR_HTML):
+            return False, "HTML con indicador de error (404/403/etc.)"
+        if "<html" not in muestra and "<!doctype html" not in muestra:
+            return False, "no parece HTML"
+        return True, "ok"
+    return True, "formato desconocido, aceptado"
+
+
 def directorio_entidad(entidad: str) -> Path:
     if entidad == "federal":
         return BASE_DIR / "federal"
@@ -223,6 +275,16 @@ def procesar_ley(ley: dict, indice: list) -> dict:
         agregar_a_cola(ley_id, url, motivo)
         if tmp.exists():
             tmp.unlink()
+        return ley
+
+    valido, motivo_validacion = validar_formato(tmp, ley.get("formato", "pdf"))
+    if not valido:
+        motivo = f"Descarga inválida: {motivo_validacion}"
+        ley["estado"] = "descarga_invalida"
+        log_fallida(f"{ley_id} | {url} | {motivo}")
+        agregar_a_cola(ley_id, url, motivo)
+        tmp.unlink()
+        log.warning(f"  {motivo}: {ley_id}")
         return ley
 
     nuevo_hash = calcular_hash_md5(tmp)
