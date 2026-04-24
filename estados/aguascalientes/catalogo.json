@@ -4,8 +4,8 @@
     "nombre": "CONSTITUCI&#xD3;N POL&#xCD;TICA DEL ESTADO DE AGUASCALIENTES",
     "tipo": "Ley",
     "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/329",
-    "ultima_reforma": "2025-12-04",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2492",
+    "ultima_reforma": "2026-02-26",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -50,42 +50,12 @@
     "fuente": "congresoags.gob.mx"
   },
   {
-    "id": "aguascalientes_estatuto_jurxcddico_trabajadores_servicio_gobiernos_aguascalientes",
-    "nombre": "ESTATUTO JUR&#xCD;DICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, &#xD3;RGANOS CONSTITUCIONALES AUT&#xD3;NOMOS Y",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/168",
-    "ultima_reforma": "2025-05-29",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
     "id": "aguascalientes_ley_adquisiciones_arrendamientos_servicios_aguascalientes",
     "nombre": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS",
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/170",
     "ultima_reforma": "2024-08-12",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
-    "id": "aguascalientes_ley_agua_aguascalientes",
-    "nombre": "LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/171",
-    "ultima_reforma": "2025-11-10",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
-    "id": "aguascalientes_ley_bienes_aguascalientes",
-    "nombre": "LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/174",
-    "ultima_reforma": "2025-12-04",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -170,16 +140,6 @@
     "fuente": "congresoags.gob.mx"
   },
   {
-    "id": "aguascalientes_ley_fiscalizacixd3n_superior_aguascalientes",
-    "nombre": "LEY DE FISCALIZACI&#xD3;N SUPERIOR DEL ESTADO DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/192",
-    "ultima_reforma": "2022-11-07",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
     "id": "aguascalientes_ley_fomento_a_organizaciones_sociedad_civil",
     "nombre": "LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES",
     "tipo": "Ley",
@@ -260,32 +220,12 @@
     "fuente": "congresoags.gob.mx"
   },
   {
-    "id": "aguascalientes_ley_hacienda_municipio_cosxcdo_aguascalientes",
-    "nombre": "LEY DE HACIENDA DEL MUNICIPIO DE COS&#xCD;O, AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/201",
-    "ultima_reforma": "2021-12-29",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
     "id": "aguascalientes_ley_hacienda_municipio_llano_aguascalientes",
     "nombre": "LEY DE HACIENDA DEL MUNICIPIO DE EL LLANO, AGUASCALIENTES",
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/202",
     "ultima_reforma": "2010-08-23",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
-    "id": "aguascalientes_ley_hacienda_municipio_jesxdas_marxcda_aguascalientes",
-    "nombre": "LEY DE HACIENDA DEL MUNICIPIO DE JES&#xDA;S MAR&#xCD;A, AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/203",
-    "ultima_reforma": "2023-12-29",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -306,16 +246,6 @@
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/205",
     "ultima_reforma": "2019-12-16",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
-    "id": "aguascalientes_ley_hacienda_municipio_san_francisco_romo",
-    "nombre": "LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/206",
-    "ultima_reforma": "2023-12-29",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -400,31 +330,11 @@
     "fuente": "congresoags.gob.mx"
   },
   {
-    "id": "aguascalientes_ley_procuradurxcda_estatal_proteccixd3n_ambiente_aguascalientes",
-    "nombre": "LEY DE LA PROCURADUR&#xCD;A ESTATAL DE PROTECCI&#xD3;N AL AMBIENTE DEL ESTADO DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/229",
-    "ultima_reforma": "2024-07-15",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
     "id": "aguascalientes_ley_universidad_politxc9cnica_aguascalientes",
     "nombre": "LEY DE LA UNIVERSIDAD POLIT&#xC9;CNICA DE AGUASCALIENTES",
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/230",
-    "ultima_reforma": "2024-05-13",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
-    "id": "aguascalientes_ley_universidad_tecnolxd3gica_norte_aguascalientes",
-    "nombre": "LEY DE LA UNIVERSIDAD TECNOL&#xD3;GICA DEL NORTE DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/231",
     "ultima_reforma": "2024-05-13",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
@@ -436,26 +346,6 @@
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/233",
     "ultima_reforma": "2021-05-10",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
-    "id": "aguascalientes_ley_obras_pxdablicas_servicios_relacionados_aguascalientes",
-    "nombre": "LEY DE OBRAS P&#xDA;BLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/234",
-    "ultima_reforma": "2024-06-16",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
-    "id": "aguascalientes_ley_premios_otorga_congreso_aguascalientes",
-    "nombre": "LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/237",
-    "ultima_reforma": "2025-06-30",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -475,7 +365,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/240",
-    "ultima_reforma": "2025-05-29",
+    "ultima_reforma": "2025-04-29",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -530,16 +420,6 @@
     "fuente": "congresoags.gob.mx"
   },
   {
-    "id": "aguascalientes_ley_salud_aguascalientes",
-    "nombre": "LEY DE SALUD DEL ESTADO DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/253",
-    "ultima_reforma": "2025-06-16",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
     "id": "aguascalientes_ley_seguridad_privada_aguascalientes",
     "nombre": "LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES",
     "tipo": "Ley",
@@ -556,16 +436,6 @@
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/255",
     "ultima_reforma": "2025-01-13",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
-    "id": "aguascalientes_ley_turismo_aguascalientes",
-    "nombre": "LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/257",
-    "ultima_reforma": "2025-05-05",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -610,16 +480,6 @@
     "fuente": "congresoags.gob.mx"
   },
   {
-    "id": "aguascalientes_ley_instituto_asesorxcda_defensorxcda_pxdablica_aguascalientes",
-    "nombre": "LEY DEL INSTITUTO DE ASESOR&#xCD;A Y DEFENSOR&#xCD;A P&#xDA;BLICA DEL ESTADO DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/263",
-    "ultima_reforma": "2024-07-01",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
     "id": "aguascalientes_ley_instituto_capacitacixd3n_trabajo_aguascalientes",
     "nombre": "LEY DEL INSTITUTO DE CAPACITACI&#xD3;N PARA EL TRABAJO DEL ESTADO DE AGUASCALIENTES",
     "tipo": "Ley",
@@ -646,26 +506,6 @@
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/266",
     "ultima_reforma": "2023-06-05",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
-    "id": "aguascalientes_ley_instituto_vivienda_social_ordenamiento_propiedad",
-    "nombre": "LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/267",
-    "ultima_reforma": "2022-12-31",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
-    "id": "aguascalientes_ley_notariado_aguascalientes",
-    "nombre": "LEY DE NOTARIADO PARA EL ESTADO DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/268",
-    "ultima_reforma": "2021-07-01",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -730,16 +570,6 @@
     "fuente": "congresoags.gob.mx"
   },
   {
-    "id": "aguascalientes_ley_sistema_estatal_anticorrupcixd3n_aguascalientes",
-    "nombre": "LEY DEL SISTEMA ESTATAL ANTICORRUPCI&#xD3;N DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/275",
-    "ultima_reforma": "2024-05-13",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
     "id": "aguascalientes_ley_sistema_estatal_asistencia_social_integracixd3n",
     "nombre": "LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACI&#xD3;N FAMILIAR",
     "tipo": "Ley",
@@ -750,22 +580,12 @@
     "fuente": "congresoags.gob.mx"
   },
   {
-    "id": "aguascalientes_ley_sistema_estatal_seguridad_pxdablica_aguascalientes",
-    "nombre": "LEY DEL SISTEMA ESTATAL DE SEGURIDAD P&#xDA;BLICA DE AGUASCALIENTES",
-    "tipo": "Ley",
-    "entidad": "aguascalientes",
-    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/277",
-    "ultima_reforma": "2025-09-22",
-    "estado_vigencia": "vigente",
-    "fuente": "congresoags.gob.mx"
-  },
-  {
     "id": "aguascalientes_ley_orgxc1nica_administracixd3n_pxdablica_estatal_aguascalientes",
     "nombre": "LEY ORG&#xC1;NICA DE LA ADMINISTRACI&#xD3;N P&#xDA;BLICA ESTATAL DE AGUASCALIENTES",
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/279",
-    "ultima_reforma": "2025-06-16",
+    "ultima_reforma": "2026-03-25",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1045,7 +865,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/325",
-    "ultima_reforma": "2024-01-15",
+    "ultima_reforma": "2026-01-12",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1125,7 +945,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/377",
-    "ultima_reforma": "2025-06-16",
+    "ultima_reforma": "2026-01-12",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1165,7 +985,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/384",
-    "ultima_reforma": "2025-11-10",
+    "ultima_reforma": "2026-04-06",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1175,7 +995,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/386",
-    "ultima_reforma": "2025-06-25",
+    "ultima_reforma": "2025-12-15",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1185,7 +1005,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/393",
-    "ultima_reforma": "2025-11-24",
+    "ultima_reforma": "2026-04-06",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1200,12 +1020,12 @@
     "fuente": "congresoags.gob.mx"
   },
   {
-    "id": "aguascalientes_ley_movilidad_aguascalientes",
-    "nombre": "LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES",
+    "id": "aguascalientes_ley_movilidad_seguridad_vial_aguascalientes",
+    "nombre": "LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE AGUASCALIENTES",
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/397",
-    "ultima_reforma": "2025-07-21",
+    "ultima_reforma": "2025-12-15",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1215,7 +1035,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/401",
-    "ultima_reforma": "2025-11-24",
+    "ultima_reforma": "2025-12-26",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1225,7 +1045,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/404",
-    "ultima_reforma": "2025-05-19",
+    "ultima_reforma": "2025-12-26",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1265,7 +1085,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/418",
-    "ultima_reforma": "2024-11-25",
+    "ultima_reforma": "2025-10-20",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1275,7 +1095,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/419",
-    "ultima_reforma": "2023-05-08",
+    "ultima_reforma": "2025-12-15",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1285,7 +1105,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/420",
-    "ultima_reforma": "2024-12-23",
+    "ultima_reforma": "2026-03-23",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1295,7 +1115,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/421",
-    "ultima_reforma": "2024-05-13",
+    "ultima_reforma": "2026-02-23",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1325,7 +1145,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/463",
-    "ultima_reforma": "2025-07-09",
+    "ultima_reforma": "2026-04-06",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1365,7 +1185,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/474",
-    "ultima_reforma": "2025-12-15",
+    "ultima_reforma": "2026-04-06",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1375,7 +1195,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/476",
-    "ultima_reforma": "2025-06-30",
+    "ultima_reforma": "2025-12-22",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1395,7 +1215,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/478",
-    "ultima_reforma": "2025-05-29",
+    "ultima_reforma": "2025-04-29",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1405,7 +1225,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/1478",
-    "ultima_reforma": "2025-11-24",
+    "ultima_reforma": "2026-04-06",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1415,7 +1235,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2478",
-    "ultima_reforma": "2025-07-14",
+    "ultima_reforma": "2025-12-22",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1435,7 +1255,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2481",
-    "ultima_reforma": "2025-12-15",
+    "ultima_reforma": "2026-04-06",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1455,7 +1275,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2484",
-    "ultima_reforma": "2025-10-20",
+    "ultima_reforma": "2026-04-06",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1465,7 +1285,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2485",
-    "ultima_reforma": "2025-06-16",
+    "ultima_reforma": "2026-01-12",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1475,13 +1295,13 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2486",
-    "ultima_reforma": "2025-06-16",
+    "ultima_reforma": "2026-01-12",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
   {
-    "id": "aguascalientes_ley_universidad_intercultural_igualdad",
-    "nombre": "LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD",
+    "id": "aguascalientes_ley_universidad_intercultural_igualdad_aguascalientes",
+    "nombre": "LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES",
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2487",
@@ -1505,7 +1325,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2489",
-    "ultima_reforma": "2025-12-08",
+    "ultima_reforma": "2025-12-22",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1515,7 +1335,7 @@
     "tipo": "Ley",
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2490",
-    "ultima_reforma": "2025-12-08",
+    "ultima_reforma": "2026-04-06",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   },
@@ -1526,6 +1346,346 @@
     "entidad": "aguascalientes",
     "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2491",
     "ultima_reforma": "2024-12-23",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_estatuto_jurxcddico_trabajadores_servicio_gobiernos_aguascalientes",
+    "nombre": "ESTATUTO JUR&#xCD;DICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, &#xD3;RGANOS CONSTITUCIONALES AUT&#xD3;NOMOS Y",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2493",
+    "ultima_reforma": "2026-02-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_agua_aguascalientes",
+    "nombre": "LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2494",
+    "ultima_reforma": "2026-01-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_bienes_aguascalientes",
+    "nombre": "LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2495",
+    "ultima_reforma": "2026-03-25",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_fiscalizacixd3n_superior_aguascalientes",
+    "nombre": "LEY DE FISCALIZACI&#xD3;N SUPERIOR DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2496",
+    "ultima_reforma": "2025-05-19",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_hacienda_municipio_cosxcdo_aguascalientes",
+    "nombre": "LEY DE HACIENDA DEL MUNICIPIO DE COS&#xCD;O, AGUASCALIENTES.",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2497",
+    "ultima_reforma": "2025-12-26",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_hacienda_municipio_jesxdas_marxcda_aguascalientes",
+    "nombre": "LEY DE HACIENDA DEL MUNICIPIO DE JES&#xDA;S MAR&#xCD;A, AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2498",
+    "ultima_reforma": "2025-12-25",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_hacienda_municipio_san_francisco_romo",
+    "nombre": "LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2499",
+    "ultima_reforma": "2025-12-26",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_procuradurxcda_estatal_proteccixd3n_ambiente_aguascalientes",
+    "nombre": "LEY DE LA PROCURADUR&#xCD;A ESTATAL DE PROTECCI&#xD3;N AL AMBIENTE DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2500",
+    "ultima_reforma": "2026-02-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_universidad_tecnolxd3gica_norte_aguascalientes",
+    "nombre": "LEY DE LA UNIVERSIDAD TECNOL&#xD3;GICA DEL NORTE DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2501",
+    "ultima_reforma": "2025-05-07",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_obras_pxdablicas_servicios_relacionados_aguascalientes",
+    "nombre": "LEY DE OBRAS P&#xDA;BLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2502",
+    "ultima_reforma": "2025-06-16",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_premios_otorga_congreso_aguascalientes",
+    "nombre": "LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2503",
+    "ultima_reforma": "2026-02-24",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_salud_aguascalientes",
+    "nombre": "LEY DE SALUD DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2504",
+    "ultima_reforma": "2026-04-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_turismo_aguascalientes",
+    "nombre": "LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2505",
+    "ultima_reforma": "2025-12-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_instituto_asesorxcda_defensorxcda_pxdablica_aguascalientes",
+    "nombre": "LEY DEL INSTITUTO DE ASESOR&#xCD;A Y DEFENSOR&#xCD;A P&#xDA;BLICA DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2506",
+    "ultima_reforma": "2025-12-22",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_instituto_vivienda_social_ordenamiento_propiedad",
+    "nombre": "LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2507",
+    "ultima_reforma": "2024-12-23",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_notariado_aguascalientes",
+    "nombre": "LEY DE NOTARIADO PARA EL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2508",
+    "ultima_reforma": "2021-07-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_sistema_estatal_anticorrupcixd3n_aguascalientes",
+    "nombre": "LEY DEL SISTEMA ESTATAL ANTICORRUPCI&#xD3;N DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2509",
+    "ultima_reforma": "2026-01-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_sistema_estatal_seguridad_pxdablica_aguascalientes",
+    "nombre": "LEY DEL SISTEMA ESTATAL DE SEGURIDAD P&#xDA;BLICA DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2510",
+    "ultima_reforma": "2025-12-22",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_proteccixd3n_abejas_desarrollo_apxcdcola_aguascalientes",
+    "nombre": "LEY PARA LA PROTECCI&#xD3;N DE LAS ABEJAS Y EL DESARROLLO AP&#xCD;COLA DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2511",
+    "ultima_reforma": "2026-01-12",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_sobre_uso_medios_actos_digitales",
+    "nombre": "LEY SOBRE EL USO DE MEDIOS Y ACTOS DIGITALES Y ELECTRONICOS PARA EL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2512",
+    "ultima_reforma": "2025-12-08",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_atencixd3n_proteccixd3n_e_inclusixd3n_personas",
+    "nombre": "LEY PARA LA ATENCI&#xD3;N, PROTECCI&#xD3;N E INCLUSI&#xD3;N DE PERSONAS CON LA CONDICI&#xD3;N DEL ESPECTRO AUTISTA EN EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2513",
+    "ultima_reforma": "2025-12-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_estatuto_ley_orgxc1nica_universidad_tecnolxd3gica_aguascalientes",
+    "nombre": "ESTATUTO DE LA LEY ORG&#xC1;NICA DE LA UNIVERSIDAD TECNOL&#xD3;GICA DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2514",
+    "ultima_reforma": "2025-09-22",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_creacixd3n_universidad_tecnolxd3gica_metropolitana_aguascalientes",
+    "nombre": "LEY DE CREACI&#xD3;N DE LA UNIVERSIDAD TECNOL&#xD3;GICA METROPOLITANA DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2515",
+    "ultima_reforma": "2025-05-07",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_fomento_a_produccixd3n_cinematogrxc1fica_audiovisual",
+    "nombre": "LEY DE FOMENTO A LA PRODUCCI&#xD3;N CINEMATOGR&#xC1;FICA Y AUDIOVISUAL DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2516",
+    "ultima_reforma": "2024-06-03",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_justicia_constitucional_aguascalientes",
+    "nombre": "LEY DE JUSTICIA CONSTITUCIONAL DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2517",
+    "ultima_reforma": "2023-12-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_agencia_energxcda_aguascalientes",
+    "nombre": "LEY DE LA AGENCIA DE ENERG&#xCD;A DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2518",
+    "ultima_reforma": "2024-09-02",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_salud_mental_aguascalientes",
+    "nombre": "LEY DE SALUD MENTAL DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2519",
+    "ultima_reforma": "2025-06-16",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_instituto_aguascalentense_personas_adultas_mayores",
+    "nombre": "LEY DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS ADULTAS MAYORES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2520",
+    "ultima_reforma": "2024-04-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_servicio_profesional_carrera_judicial_poder",
+    "nombre": "LEY DEL SERVICIO PROFESIONAL DE CARRERA JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2521",
+    "ultima_reforma": "2023-12-27",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_orgxc1nica_escuela_normal_aguascalientes",
+    "nombre": "LEY ORG&#xC1;NICA DE LA ESCUELA NORMAL DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2522",
+    "ultima_reforma": "2022-07-18",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_orgxc1nica_tribunal_justicia_administrativa_aguascalientes",
+    "nombre": "LEY ORG&#xC1;NICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2523",
+    "ultima_reforma": "2023-12-01",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_proteccixd3n_a_vida_aguascalientes",
+    "nombre": "LEY PARA LA PROTECCI&#xD3;N A LA VIDA PARA EL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2524",
+    "ultima_reforma": "2024-09-23",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_proteccixd3n_derechos_personas_migrantes_aguascalientes",
+    "nombre": "LEY PARA LA PROTECCI&#xD3;N DE LOS DERECHOS DE LAS PERSONAS MIGRANTES DEL ESTADO DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2525",
+    "ultima_reforma": "2025-05-05",
+    "estado_vigencia": "vigente",
+    "fuente": "congresoags.gob.mx"
+  },
+  {
+    "id": "aguascalientes_ley_burxd3_congresos_visitantes_aguascalientes",
+    "nombre": "LEY DE BUR&#xD3; DE CONGRESOS Y VISITANTES DE AGUASCALIENTES",
+    "tipo": "Ley",
+    "entidad": "aguascalientes",
+    "url_pdf": "https://congresoags.gob.mx/agenda_legislativa/leyes/descargarPdf/2526",
+    "ultima_reforma": "2022-09-30",
     "estado_vigencia": "vigente",
     "fuente": "congresoags.gob.mx"
   }

@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — CHIHUAHUA
 
-_Generado: 2026-03-24 | Total: 176 documentos_
+_Generado: 2026-04-20 | Total: 177 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -169,14 +169,15 @@ _Generado: 2026-03-24 | Total: 176 documentos_
 | 163 | LEY QUE CREA EL PREMIO A LA RESPONSABILIDAD MEDIOAMBIENTAL | Ley | 2017-03-11 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1340.pdf) |
 | 164 | LEY QUE CREA EL PREMIO CHIHUAHUA | Ley | 1981-11-11 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/172.pdf) |
 | 165 | LEY QUE CREA EL PREMIO DE PREVENCIÓN A LAS ADICCIONES DEL ESTADO DE CHIHUAHUA | Ley | 2008-04-26 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/173.pdf) |
-| 166 | LEY QUE CREA EL RECONOCIMIENTO DENOMINADO MEDALLA CHIHUAHUA AL MERITO EDUCATIVO | Ley | 2005-01-01 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/174.pdf) |
-| 167 | LEY QUE CREA EL RECONOCIMIENTO ESTATAL DE AYUDA A MIGRANTES | Ley | 2024-09-04 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1557.pdf) |
-| 168 | LEY QUE ESTABLECE LOS REQUISITOS PARA EL FUNCIONAMIENTO DE LOS CENTROS PRIVADOS DE ATENCIÓN RESIDENCIAL PARA PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA | Ley | 2019-02-02 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1511.pdf) |
-| 169 | LEY QUE REGULA A LOS ESTABLECIMIENTOS QUE PRESTAN SERVICIO DE ACCESO A INTERNET EN EL ESTADO DE CHIHUAHUA | Ley | 2011-09-17 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/780.pdf) |
-| 170 | LEY QUE REGULA EL PAGO DE HONORARIOS PROFESIONALES DE ABOGADOS EN EL ESTADO DE CHIHUAHUA | Ley | 2016-10-01 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1256.pdf) |
-| 171 | LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA | Ley | 2019-12-11 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1521.pdf) |
-| 172 | LEY QUE REGULA LAS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE ENFERMEDADES RESPIRATORIAS VIRALES EN EL ESTADO DE CHIHUAHUA | Ley | 2020-11-14 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1528.pdf) |
-| 173 | LEY REGLAMENTARIA DE LA FRACCIÓN XXXIV DEL ARTÍCULO 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, QUE CREA E INSTITUYE EL PREMIO AL MÉRITO CIUDADANO DEL ESTADO DE CHIHUAHUA | Ley | 2013-12-18 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1009.pdf) |
-| 174 | LEY REGLAMENTARIA DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO | Ley | 2013-06-29 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1002.pdf) |
-| 175 | LEY REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN DEL ESTADO DE CHIHUAHUA | Ley | 2020-12-26 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1529.pdf) |
-| 176 | LEY REGULADORA DE LA BASE DE DATOS GENÉTICOS PARA EL ESTADO DE CHIHUAHUA | Ley | 2009-04-01 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/179.pdf) |
+| 166 | LEY QUE CREA EL RECONOCIMIENTO "MEDALLA CHIHUAHUA AL MÉRITO MÉDICO" | Ley | 2026-04-15 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1565.pdf) |
+| 167 | LEY QUE CREA EL RECONOCIMIENTO DENOMINADO MEDALLA CHIHUAHUA AL MERITO EDUCATIVO | Ley | 2005-01-01 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/174.pdf) |
+| 168 | LEY QUE CREA EL RECONOCIMIENTO ESTATAL DE AYUDA A MIGRANTES | Ley | 2024-09-04 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1557.pdf) |
+| 169 | LEY QUE ESTABLECE LOS REQUISITOS PARA EL FUNCIONAMIENTO DE LOS CENTROS PRIVADOS DE ATENCIÓN RESIDENCIAL PARA PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA | Ley | 2019-02-02 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1511.pdf) |
+| 170 | LEY QUE REGULA A LOS ESTABLECIMIENTOS QUE PRESTAN SERVICIO DE ACCESO A INTERNET EN EL ESTADO DE CHIHUAHUA | Ley | 2011-09-17 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/780.pdf) |
+| 171 | LEY QUE REGULA EL PAGO DE HONORARIOS PROFESIONALES DE ABOGADOS EN EL ESTADO DE CHIHUAHUA | Ley | 2016-10-01 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1256.pdf) |
+| 172 | LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA | Ley | 2019-12-11 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1521.pdf) |
+| 173 | LEY QUE REGULA LAS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE ENFERMEDADES RESPIRATORIAS VIRALES EN EL ESTADO DE CHIHUAHUA | Ley | 2020-11-14 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1528.pdf) |
+| 174 | LEY REGLAMENTARIA DE LA FRACCIÓN XXXIV DEL ARTÍCULO 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, QUE CREA E INSTITUYE EL PREMIO AL MÉRITO CIUDADANO DEL ESTADO DE CHIHUAHUA | Ley | 2013-12-18 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1009.pdf) |
+| 175 | LEY REGLAMENTARIA DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO | Ley | 2013-06-29 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1002.pdf) |
+| 176 | LEY REGLAMENTARIA Y ORGÁNICA DE LA FISCALÍA ANTICORRUPCIÓN DEL ESTADO DE CHIHUAHUA | Ley | 2020-12-26 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1529.pdf) |
+| 177 | LEY REGULADORA DE LA BASE DE DATOS GENÉTICOS PARA EL ESTADO DE CHIHUAHUA | Ley | 2009-04-01 | [PDF](https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/179.pdf) |

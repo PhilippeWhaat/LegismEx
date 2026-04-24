@@ -261,11 +261,11 @@
   },
   {
     "id": "morelos_ley_filmaciones_morelos",
-    "nombre": "LEY DE FILMACIONES DEL ESTADO DE MORELOS",
+    "nombre": "LEY DE FILMACIONES PARA EL ESTADO DE MORELOS",
     "tipo": "Ley",
     "entidad": "morelos",
-    "url_pdf": "http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LFILMAEM.pdf",
-    "ultima_reforma": "2024-07-31",
+    "url_pdf": "http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LFILMEM.pdf",
+    "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "marcojuridico.morelos.gob.mx"
   },
@@ -1035,7 +1035,7 @@
     "tipo": "Ley",
     "entidad": "morelos",
     "url_pdf": "http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LORGADMPUBMO2024.pdf",
-    "ultima_reforma": "2026-01-28",
+    "ultima_reforma": "2026-03-25",
     "estado_vigencia": "vigente",
     "fuente": "marcojuridico.morelos.gob.mx"
   },

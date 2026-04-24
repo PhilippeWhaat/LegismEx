@@ -246,7 +246,7 @@
     "nombre": "Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_AUST_TRANSP_EN_REMUN_PREST_Y_EJERC_DE_REC_DE_LA_CIUDAD_DE_MEXICO_5.8.PDF",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_AUST_TRANSP_EN_REMUN_PREST_Y_EJERC_DE_REC_DE_LA_CIUDAD_DE_MEXICO_5.8.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "data.consejeria.cdmx.gob.mx",
@@ -290,11 +290,11 @@
     "nombre": "Ley de Cultura Cívica de la Ciudad de México",
     "tipo": "Ley",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_DE_CULTURA_CIVICA_DE_LA_CIUDAD_DE_MEXICO_2.8.pdf",
-    "ultima_reforma": "24 de diciembre de 2025",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_DE_CULTURA_CIVICA_DE_LA_CIUDAD_DE_MEXICO_2.9.pdf",
+    "ultima_reforma": "10 de abril de 2026",
     "estado_vigencia": "vigente",
     "fuente": "data.consejeria.cdmx.gob.mx",
-    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_DE_CULTURA_CIVICA_DE_LA_CIUDAD_DE_MEXICO_2.8.docx"
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_DE_CULTURA_CIVICA_DE_LA_CIUDAD_DE_MEXICO_2.9.docx"
   },
   {
     "id": "cdmx_ley_responsabilidad_ambiental_ciudad_mexico",
@@ -323,22 +323,22 @@
     "nombre": "Código de Instituciones y Procedimientos Electorales de la Ciudad de México",
     "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_INSTITUCIONES_Y_PROC_ELECTORALES_CDMX_6.pdf",
-    "ultima_reforma": "",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_INSTITUCIONES_Y_PROC_ELECTORALES_CDMX_6.2.pdf",
+    "ultima_reforma": "9 de abril de 2026",
     "estado_vigencia": "vigente",
     "fuente": "data.consejeria.cdmx.gob.mx",
-    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_INSTITUCIONES_Y_PROC_ELECTORALES_CDMX_6.docx"
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_INSTITUCIONES_Y_PROC_ELECTORALES_CDMX_6.2.docx"
   },
   {
-    "id": "cdmx_codigo_etica_administracion_publica_ciudad_mexico",
-    "nombre": "Código de Ética de la Administración Pública de la Ciudad de México",
+    "id": "cdmx_codigo_etica_administracion_publica_alcaldias_ciudad",
+    "nombre": "Código de Ética de la Administración Pública y Alcaldías de la Ciudad de México",
     "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_ETICA_DE_LA_AP_DE_LA_CIUDAD_DE_MEXICO_2.1.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_ETICA_DE_LA_AP_DE_LA_CIUDAD_DE_MEXICO_2.2.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "data.consejeria.cdmx.gob.mx",
-    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_ETICA_DE_LA_AP_DE_LA_CIUDAD_DE_MEXICO_2.1.docx"
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_ETICA_DE_LA_AP_DE_LA_CIUDAD_DE_MEXICO_2.2.docx"
   },
   {
     "id": "cdmx_codigo_responsabilidad_parlamentaria_congreso_ciudad_mexico",
@@ -378,11 +378,33 @@
     "nombre": "Código Penal para el Distrito Federal",
     "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/50226/CODIGO_PENAL_PARA_EL_DF_12.3.4.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/50226/CODIGO_PENAL_PARA_EL_DF_12.5.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "data.consejeria.cdmx.gob.mx",
-    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/50226/CODIGO_PENAL_PARA_EL_DF_12.3.4.docx"
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/50226/CODIGO_PENAL_PARA_EL_DF_12.5.docx"
+  },
+  {
+    "id": "cdmx_reglamento_regimen_disiplinario_policia_secretaria_seguridad",
+    "nombre": "Reglamento del Régimen disiplinario de la policía de la secretaría de seguridad ciudadana de la Ciudad de México",
+    "tipo": "Reglamento",
+    "entidad": "cdmx",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/310326/RGTO_REGIMEN_DISCIPLINARIO_DE_LA_POLICIA_DE_LA_SECRETARIA_DE_SEGURIDAD_CIUDADANA_DE_LA_CIUDAD_DE_MEXICO_1.1.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/310326/RGTO_REGIMEN_DISCIPLINARIO_DE_LA_POLICIA_DE_LA_SECRETARIA_DE_SEGURIDAD_CIUDADANA_DE_LA_CIUDAD_DE_MEXICO_1.1.docx"
+  },
+  {
+    "id": "cdmx_reglamento_servicio_profesional_carrera_policial_policia",
+    "nombre": "Reglamento del servicio profesional de carrera policial de la policía de seguridad ciudadana de la Ciudad de México",
+    "tipo": "Reglamento",
+    "entidad": "cdmx",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/2026/RGTO_SERVICIO_PROFESIONAL_DE_CARRERA_POLICIAL_DE_LA_SECRETARIA_DE_SEGURIDAD_CIUDADANA_DE_LA_CIUDAD_DE_MEXICO_1.1.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "vigente",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/2026/RGTO_SERVICIO_PROFESIONAL_DE_CARRERA_POLICIAL_DE_LA_SECRETARIA_DE_SEGURIDAD_CIUDADANA_DE_LA_CIUDAD_DE_MEXICO_1.1.docx"
   },
   {
     "id": "cdmx_reglamento_ley_turismo_ciudad_mexico",
@@ -660,26 +682,15 @@
     "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_DE_LEY_ATENCION_INTEGRAL_P_DESA_DE_NINAS_Y_NINOS_EN_PRIMERA_INFANCIA_EN_EL_DF3.1.docx"
   },
   {
-    "id": "cdmx_reglamento_interno_comision_derechos_humanos_ciudad",
-    "nombre": "Reglamento Interno de la Comisión de Derechos Humanos de la Ciudad de México",
-    "tipo": "Reglamento",
+    "id": "cdmx_codigo_penal_cdmx",
+    "nombre": "Código Penal de la CDMX",
+    "tipo": "Código",
     "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INT_DE_LA_COM_DE_DER_HUM_2.5.pdf",
-    "ultima_reforma": "29 DE MARZO DE 2021",
-    "estado_vigencia": "vigente",
-    "fuente": "data.consejeria.cdmx.gob.mx",
-    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INT_DE_LA_COM_DE_DER_HUM_2.5.docx"
-  },
-  {
-    "id": "cdmx_reglamento_interno_centro_justicia_alternativa_tribunal",
-    "nombre": "Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia de la Ciudad de México",
-    "tipo": "Reglamento",
-    "entidad": "cdmx",
-    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INTERNO_DEL_CENTRO_DE_JUST_ALTERNA_DEL_TSJ_DE_LA_CDMX3.pdf",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/CODIGOS_2025/CODIGO_CIVIL_PARA_EL_DF_15.3.pdf",
     "ultima_reforma": "",
-    "estado_vigencia": "vigente",
+    "estado_vigencia": "abrogado",
     "fuente": "data.consejeria.cdmx.gob.mx",
-    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/reglamentos/RGTO_INTERNO_DEL_CENTRO_DE_JUST_ALTERNA_DEL_TSJ_DE_LA_CDMX3.docx"
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/CODIGOS_2025/CODIGO_CIVIL_PARA_EL_DF_15.3.docx"
   },
   {
     "id": "cdmx_reglamento_ley_cultura_civica_distrito_federal",
@@ -1032,6 +1043,17 @@
     "estado_vigencia": "abrogado",
     "fuente": "data.consejeria.cdmx.gob.mx",
     "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INTERIOR_SSPDF.docx"
+  },
+  {
+    "id": "cdmx_reglamento_interno_centro_justicia_alternativa_tribunal",
+    "nombre": "Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal",
+    "tipo": "Reglamento",
+    "entidad": "cdmx",
+    "url_pdf": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_DEL_CENT_DE_JUST_ALT_DEL_TSJDF.pdf",
+    "ultima_reforma": "",
+    "estado_vigencia": "abrogado",
+    "fuente": "data.consejeria.cdmx.gob.mx",
+    "url_word": "https://data.consejeria.cdmx.gob.mx/images/leyes/historico/RGTO_INT_DEL_CENT_DE_JUST_ALT_DEL_TSJDF.docx"
   },
   {
     "id": "cdmx_reglamento_interno_convivencia_hogar_cdmx",

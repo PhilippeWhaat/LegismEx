@@ -507,7 +507,7 @@
   },
   {
     "id": "bajacaliforniasur_ley_humanidades_ciencias_tecnologias_e_innovacion",
-    "nombre": "LEY de Humanidades, Ciencias, Tecnologías e Innovación para el Estado de Baja California Sur NUEVA LEY",
+    "nombre": "LEY de Humanidades, Ciencias, Tecnologías e Innovación para el Estado de Baja California Sur",
     "tipo": "Ley",
     "entidad": "bajacaliforniasur",
     "url_pdf": "",
@@ -837,7 +837,7 @@
   },
   {
     "id": "bajacaliforniasur_ley_prevencion_gestion_integral_residuos_economia",
-    "nombre": "LEY de Prevención y Gestión Integral de Residuos y Economía Circular del Estado de Baja California Sur&nbsp;&nbsp;NUEVA LEY",
+    "nombre": "LEY de Prevención y Gestión Integral de Residuos y Economía Circular del Estado de Baja California Sur",
     "tipo": "Ley",
     "entidad": "bajacaliforniasur",
     "url_pdf": "",
@@ -1079,7 +1079,7 @@
   },
   {
     "id": "bajacaliforniasur_ley_transparencia_acceso_a_informacion_publica",
-    "nombre": "LEY de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur&nbsp;&nbsp;NUEVA LEY",
+    "nombre": "LEY de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur",
     "tipo": "Ley",
     "entidad": "bajacaliforniasur",
     "url_pdf": "",
@@ -1233,7 +1233,7 @@
   },
   {
     "id": "bajacaliforniasur_ley_materia_desaparicion_forzada_personas_desaparicion",
-    "nombre": "LEY en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares para el Estado de Baja California Sur&nbsp; &nbsp;NUEVA LEY",
+    "nombre": "LEY en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares para el Estado de Baja California Sur",
     "tipo": "Ley",
     "entidad": "bajacaliforniasur",
     "url_pdf": "",
@@ -1452,12 +1452,12 @@
     "fuente": "cbcs.gob.mx"
   },
   {
-    "id": "bajacaliforniasur_ley_atencion_proteccion_a_personas_condicion",
-    "nombre": "Ley para la Atención y Protección a Personas con la Condición del Espectro Autista del Estado de Baja California Sur",
+    "id": "bajacaliforniasur_ley_atencion_proteccion_a_personas_trastorno",
+    "nombre": "Ley para la Atención y Protección a Personas con Trastorno del Espectro Autista del Estado de Baja California Sur&nbsp;&nbsp;NUEVA LEY",
     "tipo": "Ley",
     "entidad": "bajacaliforniasur",
     "url_pdf": "",
-    "url_word": "https://www.cbcs.gob.mx/LEYES-BCS/LAtencionPersonasAutistaBCS-.doc",
+    "url_word": "https://www.cbcs.gob.mx/LEYES-BCS/LAtencionProteccionPersonasTrastornoAutistaBCS_.doc",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "cbcs.gob.mx"

@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — SINALOA
 
-_Generado: 2026-03-23 | Total: 165 documentos_
+_Generado: 2026-04-20 | Total: 165 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -91,7 +91,7 @@ _Generado: 2026-03-23 | Total: 165 documentos_
 | 85 | Ley de Salud Mental del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_80.pdf) |
 | 86 | Ley de Seguridad Pública del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_81.pdf) |
 | 87 | Ley de Sociedades Mutualistas del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_82.pdf) |
-| 88 | Ley de Tránsito y Transporte del Estado de Sinaloa | Ley |  | [PDF](docs/le/067.pdf) |
+| 88 | Ley de Tránsito y Transporte del Estado de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/067.pdf) |
 | 89 | Ley de Transparencia y Acceso a la Infomación Pública del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_83.pdf) |
 | 90 | Ley de Vivienda para el Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_84.pdf) |
 | 91 | Ley del Instituto de Evaluación Educativa del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_85.pdf) |
@@ -136,7 +136,7 @@ _Generado: 2026-03-23 | Total: 165 documentos_
 | 130 | Ley para la Protección, Atención y Asistencia a las Víctimas de los Delitos den Materia de Trata de Personas del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_118.pdf) |
 | 131 | Ley para Prevenir y Eliminar la Discriminación del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_119.pdf) |
 | 132 | Ley para Prevenir, Atender y Erradicar la Violencia Escolar del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_120.pdf) |
-| 133 | Ley para el Aprovechamiento Integral de Alimentos y su Donación Altruista del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_105.pdf.pdf) |
+| 133 | Ley para el Aprovechamiento Integral de Alimentos y su Donación Altruista del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_105.pdf) |
 | 134 | Ley por las que se establece el Fondo para la Dotación y Mantenimiento de Equipo y Programas de Cómputo a los Planteles de Educación Pública Básica del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_121.pdf) |
 | 135 | Ley que Crea el Comite Estatal de Sanidad Animal en el Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_122.pdf) |
 | 136 | Ley que Crea el Instituto de Seguridad y Servicios Sociales de los Trabajadores de la Educación en el Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_123.pdf) |
@@ -154,18 +154,18 @@ _Generado: 2026-03-23 | Total: 165 documentos_
 | 148 | Ley sobre el Sistema Estatal de Asistencia Social | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_135.pdf) |
 | 149 | Ley sobre Inmuebles del Estado y Municipios | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_136.pdf) |
 | 150 | Ley sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa | Ley |  | [PDF](https://gaceta.congresosinaloa.gob.mx:3001/pdfs/leyes/Ley_137.pdf) |
-| 151 | Ley para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes en el Estado de Sinaloa | Ley |  | [PDF](docs/le/159.pdf) |
-| 152 | Ley de Responsabilidad Patrimonial para el Estado de Sinaloa y sus Municipios | Ley |  | [PDF](docs/le/160.pdf) |
-| 153 | Ley Estatal para Combatir, Prevenir y Sancionar la Trata de Personas | Ley |  | [PDF](docs/le/077.pdf) |
-| 154 | Ley que Crea el Fondo de Apoyo a la Procuración de Justicia en el Estado de Sinaloa | Ley |  | [PDF](docs/le/099.pdf) |
-| 155 | Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Sinaloa | Ley |  | [PDF](docs/le/058.pdf) |
-| 156 | Ley del Hospital Pédiatrico de Sinaloa | Ley |  | [PDF](docs/le/068.pdf) |
-| 157 | Ley de Justicia para Adolescentes del Estado de Sinaloa | Ley |  | [PDF](docs/le/041.pdf) |
-| 158 | Ley de Acceso a la Informaci&oacute;n P&uacute;blica del Estado de Sinaloa | Ley |  | [PDF](docs/le/009.pdf) |
-| 159 | Ley de Desarrollo Urbano del Sinaloa | Ley |  | [PDF](docs/le/024.pdf) |
-| 160 | Ley Orgánica de la Defensoría de Oficio del Estado de Sinaloa | Ley |  | [PDF](docs/le/080.pdf) |
-| 161 | Ley Orgánica de la Procuraduría General Justicia del Estado de Sinaloa | Ley |  | [PDF](docs/le/081.pdf) |
-| 162 | Ley Orgánica de la Universidad de Occidente | Ley |  | [PDF](docs/le/083.pdf) |
-| 163 | Ley Orgánica del Instituto Oceanológico del Pacífico | Ley |  | [PDF](docs/le/088.pdf) |
-| 164 | Ley que Crea el Instituto de la Vivienda del Estado de Sinaloa | Ley |  | [PDF](docs/le/101.pdf) |
-| 165 | Ley para Prevenir y Atender la Vlolencia Intrafamiliar del Estado de Sinaloa | Ley |  | [PDF](docs/le/094.pdf) |
+| 151 | Ley para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes en el Estado de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/159.pdf) |
+| 152 | Ley de Responsabilidad Patrimonial para el Estado de Sinaloa y sus Municipios | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/160.pdf) |
+| 153 | Ley Estatal para Combatir, Prevenir y Sancionar la Trata de Personas | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/077.pdf) |
+| 154 | Ley que Crea el Fondo de Apoyo a la Procuración de Justicia en el Estado de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/099.pdf) |
+| 155 | Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/058.pdf) |
+| 156 | Ley del Hospital Pédiatrico de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/068.pdf) |
+| 157 | Ley de Justicia para Adolescentes del Estado de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/041.pdf) |
+| 158 | Ley de Acceso a la Informaci&oacute;n P&uacute;blica del Estado de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/009.pdf) |
+| 159 | Ley de Desarrollo Urbano del Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/024.pdf) |
+| 160 | Ley Orgánica de la Defensoría de Oficio del Estado de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/080.pdf) |
+| 161 | Ley Orgánica de la Procuraduría General Justicia del Estado de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/081.pdf) |
+| 162 | Ley Orgánica de la Universidad de Occidente | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/083.pdf) |
+| 163 | Ley Orgánica del Instituto Oceanológico del Pacífico | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/088.pdf) |
+| 164 | Ley que Crea el Instituto de la Vivienda del Estado de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/101.pdf) |
+| 165 | Ley para Prevenir y Atender la Vlolencia Intrafamiliar del Estado de Sinaloa | Ley |  | [PDF](https://iip.congresosinaloa.gob.mx/docs/le/094.pdf) |

@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — MORELOS
 
-_Generado: 2026-03-23 | Total: 139 documentos_
+_Generado: 2026-04-20 | Total: 139 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -30,7 +30,7 @@ _Generado: 2026-03-23 | Total: 139 documentos_
 | 24 | LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS | Ley | 2026-02-18 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LENTREGAEM.pdf) |
 | 25 | LEY DE ESPACIOS CARDIOPROTEGIDOS PARA EL ESTADO DE MORELOS | Ley | 2025-10-01 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LCARDIOPROTEGIDOSMO.pdf) |
 | 26 | LEY DE EXPROPIACIÓN POR CAUSAS DE UTILIDAD PÚBLICA | Ley | 2015-04-01 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LEXPROPIAEM.pdf) |
-| 27 | LEY DE FILMACIONES DEL ESTADO DE MORELOS | Ley | 2024-07-31 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LFILMAEM.pdf) |
+| 27 | LEY DE FILMACIONES PARA EL ESTADO DE MORELOS | Ley |  | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LFILMEM.pdf) |
 | 28 | LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE MORELOS | Ley | 2024-09-04 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LFISCACUENTAEMO.pdf) |
 | 29 | LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS | Ley | 2025-09-24 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LSOCIVILEM.pdf) |
 | 30 | LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DEL PROCESO DE POLINIZACIÓN PARA EL ESTADO DE MORELOS | Ley |  | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LAPICOLAPROTPOLIMO.pdf) |
@@ -107,7 +107,7 @@ _Generado: 2026-03-23 | Total: 139 documentos_
 | 101 | LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS | Ley | 2026-03-02 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LGHEM.pdf) |
 | 102 | LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS | Ley | 2026-02-03 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LGHMPALEM.pdf) |
 | 103 | LEY ORGÁNICA DE “EL COLEGIO DE MORELOS” | Ley | 2024-09-04 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LORGCOLMORELOS.pdf) |
-| 104 | LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS | Ley | 2026-01-28 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LORGADMPUBMO2024.pdf) |
+| 104 | LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS | Ley | 2026-03-25 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LORGADMPUBMO2024.pdf) |
 | 105 | LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS | Ley | 2024-01-25 | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LORGFISCMO.pdf) |
 | 106 | LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MORELOS | Ley |  | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LORGUAEMEM.pdf) |
 | 107 | LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MORELOS | Ley |  | [PDF](http://marcojuridico.morelos.gob.mx/archivos/leyes/pdf/LORGACENTROLABORAL.pdf) |

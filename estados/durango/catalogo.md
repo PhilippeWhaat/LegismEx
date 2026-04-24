@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — DURANGO
 
-_Generado: 2026-03-23 | Total: 157 documentos_
+_Generado: 2026-04-20 | Total: 157 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -38,7 +38,7 @@ _Generado: 2026-03-23 | Total: 157 documentos_
 | 32 | Ley de Desarrollo Social | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520DESARROLLO%2520SOCIAL.pdf) |
 | 33 | Ley de Deuda Publica | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520DEUDA%2520PUBLICA.pdf) |
 | 34 | Ley de Disciplina Financiera | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520DISCIPLINA%2520FINANCIERA.pdf) |
-| 35 | Ley de Educacion | Ley | 2026-01-30 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520EDUCACION.pdf) |
+| 35 | Ley de Educacion | Ley | 2026-04-13 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520EDUCACION.pdf) |
 | 36 | Ley de Ejecucion de Penas y Medidas de Seguridad | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520EJECUCION%2520DE%2520PENAS%2520Y%2520MEDIDAS%2520DE%2520SEGURIDAD.pdf) |
 | 37 | Ley de Entidades Paraestatales | Ley | 2025-01-10 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520ENTIDADES%2520PARAESTATALES.pdf) |
 | 38 | Ley de Evaluacion de Politicas Publicas del Estado | Ley | 2025-01-22 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520EVALUACION%2520DE%2520POLITICAS%2520PUBLICAS%2520DEL%2520ESTADO.pdf) |
@@ -111,7 +111,7 @@ _Generado: 2026-03-23 | Total: 157 documentos_
 | 105 | Ley de Vivlenda | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520DE%2520VIVlENDA.pdf) |
 | 106 | Ley Estatal de Desarrollo y Fomento Minero | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520ESTATAL%2520DE%2520DESARROLLO%2520Y%2520FOMENTO%2520MINERO.pdf) |
 | 107 | Ley Estatal de Prevencion y Eliminacion de la Discriminacion | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520ESTATAL%2520DE%2520PREVENCION%2520Y%2520ELIMINACION%2520DE%2520LA%2520DISCRIMINACION.pdf) |
-| 108 | Ley Estatal para la Proteccion de Personas en el Procedimiento Penal | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520ESTATAL%2520PARA%2520LA%2520PROTECCION%2520DE%2520PERSONAS%2520EN%2520EL%2520PROCEDIMIENTO%2520PENAL.pdf) |
+| 108 | Ley Estatal para la Proteccion de Personas en el Procedimiento Penal | Ley | 2026-03-25 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520ESTATAL%2520PARA%2520LA%2520PROTECCION%2520DE%2520PERSONAS%2520EN%2520EL%2520PROCEDIMIENTO%2520PENAL.pdf) |
 | 109 | Ley Ganadera | Ley | 2025-11-28 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520GANADERA.pdf) |
 | 110 | Ley General de Catastro | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520GENERAL%2520DE%2520CATASTRO.pdf) |
 | 111 | Ley General de los Pueblos y Comunidades | Ley | 2024-12-04 | [PDF](https://congresodurango.gob.mx/Archivos/legislacion/LEY%2520GENERAL%2520DE%2520LOS%2520PUEBLOS%2520Y%2520COMUNIDADES.pdf) |

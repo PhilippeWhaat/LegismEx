@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — MICHOACAN
 
-_Generado: 2026-03-24 | Total: 97 documentos_
+_Generado: 2026-04-20 | Total: 97 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

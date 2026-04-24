@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — CHIAPAS
 
-_Generado: 2026-03-24 | Total: 144 documentos_
+_Generado: 2026-04-20 | Total: 144 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -24,7 +24,7 @@ _Generado: 2026-03-24 | Total: 144 documentos_
 | 18 | LEY DE AGUAS PARA EL ESTADO DE CHIAPAS | Ley | 2013-12-11 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/ley de aguas para el estado de chiapas.pdf?v=Mw==) |
 | 19 | LEY DE AMNISTÍA | Ley | 1994-02-04 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/ley de amnistia.pdf?v=Mw==) |
 | 20 | LEY DE ARCHIVOS DEL ESTADO DE CHIAPAS | Ley | 2020-08-05 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0059.pdf?v=NA==) |
-| 21 | LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIAPAS | Ley | 2017-12-27 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0029.pdf?v=OQ==) |
+| 21 | LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIAPAS | Ley | 2017-12-27 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0029.pdf?v=MTA=) |
 | 22 | LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS | Ley | 2015-12-31 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0121.pdf?v=MQ==) |
 | 23 | LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE CHIAPAS | Ley | 2016-12-31 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0052.pdf?v=NA==) |
 | 24 | LEY DE BIBLIOTECAS PARA EL ESTADO DE CHIAPAS | Ley | 2017-06-07 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0096.pdf?v=Nw==) |
@@ -113,8 +113,8 @@ _Generado: 2026-03-24 | Total: 144 documentos_
 | 107 | LEY ESTATAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA | Ley | 2016-05-25 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0126.pdf?v=MQ==) |
 | 108 | LEY ESTATAL PARA PREVENIR Y SANCIONAR LA TORTURA | Ley | 2012-09-17 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/ley estatal para prevenir y sancionar la tortura.pdf?v=Mw==) |
 | 109 | LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS | Ley | 2025-12-30 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0065.pdf?v=MzY=) |
-| 110 | LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS | Ley | 2025-02-13 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0120.pdf?v=Ng==) |
-| 111 | LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CHIAPAS | Ley | 2020-02-12 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0066.pdf?v=NA==) |
+| 110 | LEY ORGÁNICA DE LA BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE CHIAPAS | Ley | 2026-03-18 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0066.pdf?v=NQ==) |
+| 111 | LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS | Ley | 2025-02-13 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0120.pdf?v=Ng==) |
 | 112 | LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CIENCIAS Y ARTES DE CHIAPAS | Ley | 2026-11-26 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0067.pdf?v=NA==) |
 | 113 | LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CHIAPAS | Ley | 2020-06-29 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0140.pdf?v=Mg==) |
 | 114 | LEY ORGÁNICA DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS | Ley | 2020-02-12 | [PDF](https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0069.pdf?v=Nw==) |

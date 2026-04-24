@@ -80,11 +80,11 @@
     "fuente": "ojp.puebla.gob.mx"
   },
   {
-    "id": "puebla_ley_bienestar_animal_puebla_ev",
-    "nombre": "Ley de Bienestar Animal del Estado de Puebla EV",
+    "id": "puebla_ley_bienestar_animal_puebla_ev_21032024",
+    "nombre": "Ley de Bienestar Animal del Estado de Puebla EV 21032024 2",
     "tipo": "Ley",
     "entidad": "puebla",
-    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_de_Bienestar_Animal_del_Estado_de_Puebla_EV_21032024.pdf",
+    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_de_Bienestar_Animal_del_Estado_de_Puebla_EV_21032024_2.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ojp.puebla.gob.mx"
@@ -150,11 +150,11 @@
     "fuente": "ojp.puebla.gob.mx"
   },
   {
-    "id": "puebla_ley_coordinacion_hacendaria_puebla",
-    "nombre": "Ley de Coordinacion Hacendaria del Estado de Puebla y sus Municipios",
+    "id": "puebla_ley_coordinacion_hacendaria_puebla_t2_18022025",
+    "nombre": "Ley de Coordinacion Hacendaria del Estado de Puebla y sus Municipios T2 18022025 1",
     "tipo": "Ley",
     "entidad": "puebla",
-    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_de_Coordinacion_Hacendaria_del_Estado_de_Puebla_y_sus_Municipios_T2_18022025.pdf",
+    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_de_Coordinacion_Hacendaria_del_Estado_de_Puebla_y_sus_Municipios_T2_18022025_1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ojp.puebla.gob.mx"
@@ -621,10 +621,10 @@
   },
   {
     "id": "puebla_ley_obra_publica_servicios_relacionados_misma",
-    "nombre": "Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado de Puebla",
+    "nombre": "Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado de Puebla T2 07082023 1",
     "tipo": "Ley",
     "entidad": "puebla",
-    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_de_Obra_Pública_y_Servicios_Relacionados_con_la_Misma_para_el_Estado_de_Puebla_T2_07082023.pdf",
+    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_de_Obra_Pública_y_Servicios_Relacionados_con_la_Misma_para_el_Estado_de_Puebla_T2_07082023_1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ojp.puebla.gob.mx"
@@ -760,11 +760,11 @@
     "fuente": "ojp.puebla.gob.mx"
   },
   {
-    "id": "puebla_ley_responsabilidades_servidores_publicos_puebla_02dic2020",
-    "nombre": "Ley de Responsabilidades de los Servidores Publicos del Estado de Puebla 02dic2020",
+    "id": "puebla_ley_responsabilidades_servidores_publicos_puebla_15032026",
+    "nombre": "Ley de Responsabilidades de los Servidores Publicos del Estado de Puebla 15032026 (2)",
     "tipo": "Ley",
     "entidad": "puebla",
-    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_de_Responsabilidades_de_los_Servidores_Publicos_del_Estado_de_Puebla__02dic2020.pdf",
+    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_de_Responsabilidades_de_los_Servidores_Publicos_del_Estado_de_Puebla__15032026_(2).pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ojp.puebla.gob.mx"
@@ -970,21 +970,11 @@
     "fuente": "ojp.puebla.gob.mx"
   },
   {
-    "id": "puebla_ley_procedimiento_contencioso_administrativo_puebla",
-    "nombre": "Ley del Procedimiento Contencioso Administrativo del Estado de Puebla",
-    "tipo": "Ley",
-    "entidad": "puebla",
-    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_del_Procedimiento_Contencioso_Administrativo_del_Estado_de_Puebla_18012018.pdf",
-    "ultima_reforma": "",
-    "estado_vigencia": "vigente",
-    "fuente": "ojp.puebla.gob.mx"
-  },
-  {
     "id": "puebla_ley_procedimiento_contencioso_administrativo_puebla_3ev",
     "nombre": "Ley del Procedimiento Contencioso Administrativo del Estado de Puebla 3EV",
     "tipo": "Ley",
     "entidad": "puebla",
-    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_del_Procedimiento_Contencioso_Administrativo_del_Estado_de_Puebla_3EV_23022024.pdf",
+    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_del_Procedimiento_Contencioso_Administrativo_del_Estado_de_Puebla_3EV_15032026.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ojp.puebla.gob.mx"
@@ -1154,7 +1144,7 @@
     "nombre": "Ley Organica del Poder Judicial del Estado de Puebla",
     "tipo": "Ley",
     "entidad": "puebla",
-    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_Organica_del_Poder_Judicial_del_Estado_de_Puebla_T3_13082025.pdf",
+    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_Organica_del_Poder_Judicial_del_Estado_de_Puebla_T5_15032026.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ojp.puebla.gob.mx"
@@ -1171,10 +1161,10 @@
   },
   {
     "id": "puebla_ley_organica_tribunal_justicia_administrativa_puebla",
-    "nombre": "Ley Organica del Tribunal de Justicia Administrativa del Estado de Puebla EV",
+    "nombre": "Ley Organica del Tribunal de Justicia Administrativa del Estado de Puebla EV 11022022 2",
     "tipo": "Ley",
     "entidad": "puebla",
-    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_Organica_del_Tribunal_de_Justicia_Administrativa_del_Estado_de_Puebla_EV_11022022.pdf",
+    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_Organica_del_Tribunal_de_Justicia_Administrativa_del_Estado_de_Puebla_EV_11022022_2.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ojp.puebla.gob.mx"
@@ -1461,10 +1451,10 @@
   },
   {
     "id": "puebla_ley_sobre_sistema_estatal_asistencia_social",
-    "nombre": "Ley sobre el Sistema Estatal de Asistencia Social 2EV",
+    "nombre": "Ley sobre el Sistema Estatal de Asistencia Social 2EV 10092024 1",
     "tipo": "Ley",
     "entidad": "puebla",
-    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_sobre_el_Sistema_Estatal_de_Asistencia_Social_2EV_10092024.pdf",
+    "url_pdf": "https://ojp.puebla.gob.mx/media/k2/attachments/Ley_sobre_el_Sistema_Estatal_de_Asistencia_Social_2EV_10092024_1.pdf",
     "ultima_reforma": "",
     "estado_vigencia": "vigente",
     "fuente": "ojp.puebla.gob.mx"

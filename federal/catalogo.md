@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — FEDERAL
 
-_Generado: 2026-03-23 | Total: 313 documentos_
+_Generado: 2026-04-13 | Total: 313 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

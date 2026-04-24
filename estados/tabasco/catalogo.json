@@ -124,8 +124,8 @@
     "nombre": "Ley Organica de la Fiscalia General del Estado de Tabasco",
     "tipo": "Ley",
     "entidad": "tabasco",
-    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/02/Ley-Organica-de-la-Fiscalia-General-del-Estado-de-Tabasco.pdf",
-    "ultima_reforma": "2026-02",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/04/Ley-Organica-de-la-Fiscalia-General-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-04",
     "estado_vigencia": "vigente",
     "fuente": "congresotabasco.gob.mx"
   },
@@ -230,6 +230,16 @@
     "fuente": "congresotabasco.gob.mx"
   },
   {
+    "id": "tabasco_ley_justicia_administrativa",
+    "nombre": "Ley de Justicia Administrativa del Estado",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/04/Ley-de-Justicia-Administrativa-del-Estado.pdf",
+    "ultima_reforma": "2026-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
     "id": "tabasco_ley_derechos_ninas_ninos_adolescentes_tabasco",
     "nombre": "Ley de los Derechos de Ninas Ninos y Adolescentes del Estado de Tabasco",
     "tipo": "Ley",
@@ -290,6 +300,16 @@
     "fuente": "congresotabasco.gob.mx"
   },
   {
+    "id": "tabasco_ley_vivienda_tabasco",
+    "nombre": "Ley de Vivienda para el Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/03/Ley-de-Vivienda-para-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-03",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
     "id": "tabasco_ley_estatal_acceso_mujeres_a_vida",
     "nombre": "Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia",
     "tipo": "Ley",
@@ -310,12 +330,12 @@
     "fuente": "congresotabasco.gob.mx"
   },
   {
-    "id": "tabasco_ley_organica_poder_judicial_tabasco",
-    "nombre": "Ley Organica del Poder Judicial del Estado de Tabasco",
+    "id": "tabasco_ley_organica_poder_judicial_tabasco_1",
+    "nombre": "Ley Organica del Poder Judicial del Estado de Tabasco 1",
     "tipo": "Ley",
     "entidad": "tabasco",
-    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/09/Ley-Organica-del-Poder-Judicial-del-Estado-de-Tabasco.pdf",
-    "ultima_reforma": "2025-09",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/03/Ley-Organica-del-Poder-Judicial-del-Estado-de-Tabasco-1.pdf",
+    "ultima_reforma": "2026-03",
     "estado_vigencia": "vigente",
     "fuente": "congresotabasco.gob.mx"
   },
@@ -326,6 +346,16 @@
     "entidad": "tabasco",
     "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2025/06/Ley-para-la-Administracion-y-Destino-de-Bienes-Asegurados-Abandonados-o-Decomisados-del-Estado-de-Tabasco.pdf",
     "ultima_reforma": "2025-06",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
+    "id": "tabasco_ley_atencion_proteccion_a_personas_condicion",
+    "nombre": "Ley para la Atencion y Proteccion a Personas con la Condicion del Espectro Autista del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/03/Ley-para-la-Atencion-y-Proteccion-a-Personas-con-la-Condicion-del-Espectro-Autista-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-03",
     "estado_vigencia": "vigente",
     "fuente": "congresotabasco.gob.mx"
   },
@@ -390,6 +420,16 @@
     "fuente": "congresotabasco.gob.mx"
   },
   {
+    "id": "tabasco_ley_seguridad_social_tabasco",
+    "nombre": "Ley de Seguridad Social del Estado de Tabasco",
+    "tipo": "Ley",
+    "entidad": "tabasco",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/04/Ley-de-Seguridad-Social-del-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-04",
+    "estado_vigencia": "vigente",
+    "fuente": "congresotabasco.gob.mx"
+  },
+  {
     "id": "tabasco_ley_adquisiciones_arrendamientos_prestacion_servicios_edo",
     "nombre": "Ley de Adquisiciones Arrendamientos y Prestacion de Servicios del Edo",
     "tipo": "Ley",
@@ -410,12 +450,12 @@
     "fuente": "congresotabasco.gob.mx"
   },
   {
-    "id": "tabasco_ley_hacienda_tabasco_enero_2023_1",
-    "nombre": "Ley de Hacienda del Estado de Tabasco Enero 2023 1",
+    "id": "tabasco_ley_hacienda_tabasco_enero_2023",
+    "nombre": "Ley de Hacienda del Estado de Tabasco Enero 2023",
     "tipo": "Ley",
     "entidad": "tabasco",
-    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/01/Ley-de-Hacienda-del-Estado-de-Tabasco-Enero-2023-1.pdf",
-    "ultima_reforma": "2026-01",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/04/Ley-de-Hacienda-del-Estado-de-Tabasco-Enero-2023.pdf",
+    "ultima_reforma": "2026-04",
     "estado_vigencia": "vigente",
     "fuente": "congresotabasco.gob.mx"
   },
@@ -460,12 +500,12 @@
     "fuente": "congresotabasco.gob.mx"
   },
   {
-    "id": "tabasco_codigo_penal_tabasco_1",
-    "nombre": "Codigo Penal para el Estado de Tabasco 1",
+    "id": "tabasco_codigo_penal_tabasco",
+    "nombre": "Codigo Penal para el Estado de Tabasco",
     "tipo": "Código",
     "entidad": "tabasco",
-    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/02/Codigo-Penal-para-el-Estado-de-Tabasco-1.pdf",
-    "ultima_reforma": "2026-02",
+    "url_pdf": "https://congresotabasco.gob.mx/wp-content/uploads/2026/04/Codigo-Penal-para-el-Estado-de-Tabasco.pdf",
+    "ultima_reforma": "2026-04",
     "estado_vigencia": "vigente",
     "fuente": "congresotabasco.gob.mx"
   },

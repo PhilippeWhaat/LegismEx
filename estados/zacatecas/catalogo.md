@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — ZACATECAS
 
-_Generado: 2026-03-23 | Total: 120 documentos_
+_Generado: 2026-04-20 | Total: 120 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|

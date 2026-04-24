@@ -1815,6 +1815,17 @@
     "fuente": "congresochihuahua2.gob.mx"
   },
   {
+    "id": "chihuahua_ley_crea_reconocimiento_medalla_chihuahua_merito",
+    "nombre": "LEY QUE CREA EL RECONOCIMIENTO \"MEDALLA CHIHUAHUA AL MÉRITO MÉDICO\"",
+    "tipo": "Ley",
+    "entidad": "chihuahua",
+    "url_pdf": "https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1565.pdf",
+    "url_word": "https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyesWord/1458.doc",
+    "ultima_reforma": "2026-04-15",
+    "estado_vigencia": "vigente",
+    "fuente": "congresochihuahua2.gob.mx"
+  },
+  {
     "id": "chihuahua_ley_crea_reconocimiento_denominado_medalla_chihuahua",
     "nombre": "LEY QUE CREA EL RECONOCIMIENTO DENOMINADO MEDALLA CHIHUAHUA AL MERITO EDUCATIVO",
     "tipo": "Ley",

@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — NUEVOLEON
 
-_Generado: 2026-03-25 | Total: 166 documentos_
+_Generado: 2026-04-20 | Total: 166 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -99,7 +99,7 @@ _Generado: 2026-03-25 | Total: 166 documentos_
 | 93 | LEY QUE CREA LA UNIDAD DE INTEGRACIÓN EDUCATIVA DE NUEVO LEÓN | Ley | 2020-10-26 26 de Octubre 2020 | [PDF](https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20QUE%20CREA%20LA%20UNIDAD%20DE%20INTEGRACION%20EDUCATIVA.pdf?2020-10-26) |
 | 94 | LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD DE NUEVO LEÓN | Ley | 1996-12-18 18 de Diciembre 1996 | [PDF](https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/134.pdf?1996-12-18) |
 | 95 | LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO "OPERADORA DE SERVICIOS TURÍSTICOS DE NUEVO LEÓN" | Ley | 1993-10-13 13 de Octubre 1993 | [PDF](https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/129.pdf?1993-10-13) |
-| 96 | LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN | Ley | 2025-12-19 19 de Diciembre 2025 | [PDF](https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20QUE%20CREA%20EL%20INSTITUTO%20DE%20CONTROL%20VEHICULAR.pdf?2025-12-19) |
+| 96 | LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN | Ley | 2026-04-14 14 de Abril 2026 | [PDF](https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20QUE%20CREA%20EL%20INSTITUTO%20DE%20CONTROL%20VEHICULAR.pdf?2026-04-14) |
 | 97 | LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES | Ley | 2017-04-26 26 de Abril 2017 | [PDF](https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20QUE%20CREA%20EL%20CONSEJO%20ESTATAL%20DE%20ADOPCIONES.pdf?2017-04-26) |
 | 98 | LEY QUE CREA EL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE NUEVO LEÓN | Ley | 2012-01-13 13 de Enero 2012 | [PDF](https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20QUE%20CREA%20EL%20COLEGIO%20DE%20EDUCACION%20PROFESIONAL%20TECNICA%20.pdf?2012-01-13) |
 | 99 | LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN | Ley | 2025-11- 7 7 de Noviembre 2025 | [PDF](https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20QUE%20CREA%20EL%20CONSEJO%20PARA%20LA%20CULTURA%20Y%20LAS%20ARTES%20DE%20NUEVO%20LEON.pdf?2025-11-%207) |

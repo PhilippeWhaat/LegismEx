@@ -204,7 +204,7 @@
     "nombre": "LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIAPAS",
     "tipo": "Ley",
     "entidad": "chiapas",
-    "url_pdf": "https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0029.pdf?v=OQ==",
+    "url_pdf": "https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0029.pdf?v=MTA=",
     "ultima_reforma": "2017-12-27",
     "estado_vigencia": "vigente",
     "fuente": "web.congresochiapas.gob.mx"
@@ -1090,22 +1090,22 @@
     "fuente": "web.congresochiapas.gob.mx"
   },
   {
+    "id": "chiapas_ley_organica_benemerita_universidad_autonoma_chiapas",
+    "nombre": "LEY ORGÁNICA DE LA BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE CHIAPAS",
+    "tipo": "Ley",
+    "entidad": "chiapas",
+    "url_pdf": "https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0066.pdf?v=NQ==",
+    "ultima_reforma": "2026-03-18",
+    "estado_vigencia": "vigente",
+    "fuente": "web.congresochiapas.gob.mx"
+  },
+  {
     "id": "chiapas_ley_organica_fiscalia_general_chiapas",
     "nombre": "LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS",
     "tipo": "Ley",
     "entidad": "chiapas",
     "url_pdf": "https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0120.pdf?v=Ng==",
     "ultima_reforma": "2025-02-13",
-    "estado_vigencia": "vigente",
-    "fuente": "web.congresochiapas.gob.mx"
-  },
-  {
-    "id": "chiapas_ley_organica_universidad_autonoma_chiapas",
-    "nombre": "LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CHIAPAS",
-    "tipo": "Ley",
-    "entidad": "chiapas",
-    "url_pdf": "https://www.congresochiapas.gob.mx/new/Info-Parlamentaria/LEY_0066.pdf?v=NA==",
-    "ultima_reforma": "2020-02-12",
     "estado_vigencia": "vigente",
     "fuente": "web.congresochiapas.gob.mx"
   },

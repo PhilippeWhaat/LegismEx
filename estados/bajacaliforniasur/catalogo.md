@@ -1,6 +1,6 @@
 # Catálogo de Leyes Vigentes — BAJACALIFORNIASUR
 
-_Generado: 2026-03-23 | Total: 162 documentos_
+_Generado: 2026-04-20 | Total: 162 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
@@ -50,7 +50,7 @@ _Generado: 2026-03-23 | Total: 162 documentos_
 | 44 | LEY de Hacienda para el Municipio de Loreto, Baja California Sur | Ley |  | — |
 | 45 | LEY de Hacienda para el Municipio de Los Cabos, Baja California Sur | Ley |  | — |
 | 46 | LEY de Hacienda para el Municipio de Mulegé, Baja California Sur | Ley |  | — |
-| 47 | LEY de Humanidades, Ciencias, Tecnologías e Innovación para el Estado de Baja California Sur NUEVA LEY | Ley |  | — |
+| 47 | LEY de Humanidades, Ciencias, Tecnologías e Innovación para el Estado de Baja California Sur | Ley |  | — |
 | 48 | LEY de Igualdad entre Mujeres y Hombres para el Estado de Baja California Sur | Ley |  | — |
 | 49 | LEY de Ingresos del Estado de Baja California Sur para el Ejercicio Fiscal de 2026 | Ley |  | — |
 | 50 | LEY de Ingresos del Municipio de Comondú, Baja California Sur, para el Ejercicio Fiscal 2026 | Ley |  | — |
@@ -80,7 +80,7 @@ _Generado: 2026-03-23 | Total: 162 documentos_
 | 74 | LEY de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil para el Estado de Baja California Sur | Ley |  | — |
 | 75 | LEY de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California Sur&nbsp; | Ley |  | — |
 | 76 | LEY de Prevención, Promoción, Detección Oportuna, Tratamiento, Control y Reinserción Social de las Personas con Adicciones para el Estado de Baja California Sur | Ley |  | — |
-| 77 | LEY de Prevención y Gestión Integral de Residuos y Economía Circular del Estado de Baja California Sur&nbsp;&nbsp;NUEVA LEY | Ley |  | — |
+| 77 | LEY de Prevención y Gestión Integral de Residuos y Economía Circular del Estado de Baja California Sur | Ley |  | — |
 | 78 | LEY de Prevención y Tratamiento Integral de la Violencia Familiar para el Estado de Baja California Sur | Ley |  | — |
 | 79 | LEY de Procedimiento Administrativo para el Estado y los Municipios de Baja California Sur | Ley |  | — |
 | 80 | LEY de Procedimiento Contencioso Administrativo para el Estado de Baja California Sur | Ley |  | — |
@@ -102,7 +102,7 @@ _Generado: 2026-03-23 | Total: 162 documentos_
 | 96 | LEY de Sociedades Mutualistas del Estado de Baja California Sur | Ley |  | — |
 | 97 | LEY de Turismo para el Estado de Baja California Sur | Ley |  | — |
 | 98 | LEY de Tránsito Terrestre del Estado y Municipios de Baja California Sur | Ley |  | — |
-| 99 | LEY de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur&nbsp;&nbsp;NUEVA LEY | Ley |  | — |
+| 99 | LEY de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur | Ley |  | — |
 | 100 | LEY de Transporte para el Estado de Baja California Sur | Ley |  | — |
 | 101 | LEY de VideoVigilancia para el Estado de Baja California Sur&nbsp; | Ley |  | — |
 | 102 | LEY del Boletín Oficial del Gobierno del Estado de Baja California Sur | Ley |  | — |
@@ -116,7 +116,7 @@ _Generado: 2026-03-23 | Total: 162 documentos_
 | 110 | LEY del Sistema Anticorrupción del Estado de Baja California Sur | Ley |  | — |
 | 111 | LEY del Sistema de Medios de Impugnación en Materia Electoral para el Estado de Baja California Sur | Ley |  | — |
 | 112 | LEY del Sistema Estatal de Seguridad Pública de Baja California Sur | Ley |  | — |
-| 113 | LEY en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares para el Estado de Baja California Sur&nbsp; &nbsp;NUEVA LEY | Ley |  | — |
+| 113 | LEY en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares para el Estado de Baja California Sur | Ley |  | — |
 | 114 | LEY Estatal para la Inclusión de las Personas con Discapacidad en Baja California Sur | Ley |  | — |
 | 115 | LEY Ganadera del Estado de Baja California Sur | Ley |  | — |
 | 116 | LEY Orgánica de la Administración Pública del Estado de Baja California Sur | Ley |  | — |
@@ -136,7 +136,7 @@ _Generado: 2026-03-23 | Total: 162 documentos_
 | 130 | LEY para el Ejercicio de las Profesiones del Estado de Baja California Sur | Ley |  | — |
 | 131 | LEY para la Administración de Bienes Asegurados, Decomisados o Abandonados para el Estado de Baja California Sur | Ley |  | — |
 | 132 | Ley para la Atención Digna de la Mujer Durante el Embarazo, Parto y Puerperio y para el Apoyo de la Lactancia Materna, del Estado de Baja California Sur | Ley |  | — |
-| 133 | Ley para la Atención y Protección a Personas con la Condición del Espectro Autista del Estado de Baja California Sur | Ley |  | — |
+| 133 | Ley para la Atención y Protección a Personas con Trastorno del Espectro Autista del Estado de Baja California Sur&nbsp;&nbsp;NUEVA LEY | Ley |  | — |
 | 134 | LEY para la Prevención, Atención y Tratamiento Integral del Sobrepeso,Obesidad y Trastornos de la Conducta Alimentaria para el Estado de Baja California Sur | Ley |  | — |
 | 135 | LEY para la Prevención y Atención Integral del Cáncer de Mama de Estado de Baja California Sur | Ley |  | — |
 | 136 | LEY para la Protección de Personas que Intervienen en el Procedimiento Penal para elEstado de Baja California Sur | Ley |  | — |

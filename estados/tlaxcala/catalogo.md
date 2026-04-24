@@ -1,13 +1,13 @@
 # Catálogo de Leyes Vigentes — TLAXCALA
 
-_Generado: 2026-03-23 | Total: 203 documentos_
+_Generado: 2026-04-20 | Total: 203 documentos_
 
 | # | Nombre | Tipo | Última reforma | PDF |
 |---|--------|------|---------------|-----|
 | 1 | C&oacute;digo Civil para el Estado Libre y Soberano de Tlaxcala | Ley | 2024-06-18 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/1_codigo_civil_par.pdf) |
 | 2 | C&oacute;digo de Procedimientos Civiles para el Estado Libre y Soberano de Tlaxcala | Ley | 2018-09-04 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/2_codigo_de_proced.pdf) |
 | 3 | C&oacute;digo Financiero para el Estado de Tlaxcala y sus Municipios | Ley | 2025-11-28 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/3_codigo_financier.pdf) |
-| 4 | C&oacute;digo Penal para el Estado Libre y Soberano de Tlaxcala | Ley | 2025-12-18 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/4_codigo_penal_par.pdf) |
+| 4 | C&oacute;digo Penal para el Estado Libre y Soberano de Tlaxcala | Ley | 2026-03-27 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/4_codigo_penal_par.pdf) |
 | 5 | Ley de Adopciones para el Estado de Tlaxcala | Ley | 2018-09-04 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/6_Ley_de_adopcione.pdf) |
 | 6 | Ley de Adquisiciones Arrendamientos y Servicios del Estado de Tlaxcala | Ley | 2003-01-06 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/7_Ley_de_adquisici.pdf) |
 | 7 | Ley de Aguas para el Estado de Tlaxcala | Ley | 2021-05-10 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/8_Ley_de_aguas_par.pdf) |
@@ -71,7 +71,7 @@ _Generado: 2026-03-23 | Total: 203 documentos_
 | 65 | Ley de Promociones y Ascensos Para Las Personas Integrantes de Las Instituciones de Seguridad Ciudadana del Estado de Tlaxcala y sus Municipios | Ley | 2025-02-20 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/66_Ley_de_Promocio.pdf) |
 | 66 | Ley de Protecci&oacute;n al Medio Ambiente y el Desarrollo Sostenible del Estado de Tlaxcala | Ley | 2023-12-12 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/67_ley_de_protecci.pdf) |
 | 67 | Ley de Protecci&oacute;n Civil para el Estado de Tlaxcala | Ley | 2013-07-05 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/68_Ley_de_protecci.pdf) |
-| 68 | Ley de Protecci&oacute;n de Datos Personales en Posesi&oacute;n de Sujetos Obligados del Estado de Tlaxcala | Ley | 2017-07-18 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/69_Ley_de_protecci.pdf) |
+| 68 | Ley de Protecci&oacute;n de Datos Personales en Posesi&oacute;n de Sujetos Obligados del Estado de Tlaxcala | Ley | 2026-03-25 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/69_Ley_de_protecci.pdf) |
 | 69 | Ley de Protecci&oacute;n para los No Fumadores en el Estado de Tlaxcala | Ley | 2008-04-23 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/70_Ley_de_protecci.pdf) |
 | 70 | Ley de Protecci&oacute;n y Atenci&oacute;n a los Sujetos Migrantes y sus Familias para el Estado de Tlaxcala | Ley | 2020-02-24 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/71_Ley_de_protecci.pdf) |
 | 71 | Ley de Protecci&oacute;n y Conservaci&oacute;n de Monumentos y Edificios del Estado de Tlaxcala | Ley | 1956-01-18 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/72_Ley_de_protecci.pdf) |
@@ -84,7 +84,7 @@ _Generado: 2026-03-23 | Total: 203 documentos_
 | 78 | Ley de Salud Mental y del Comportamiento Adictivo del Estado de Tlaxcala | Ley | 2025-12-18 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/79_Ley_de_Salud_Me.pdf) |
 | 79 | Ley de Seguridad P&uacute;blica y Ciudadana del Estado de Tlaxcala | Ley | 2025-10-07 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/80_Ley_de_segurida.pdf) |
 | 80 | Ley de Sociedades de Convivencia Solidaria para el Estado de Tlaxcala | Ley | 2023-10-03 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/81_Ley_de_sociedad.pdf) |
-| 81 | Ley de Transparencia y Acceso a la Informaci&oacute;n P&uacute;blica del Estado de Tlaxcala | Ley | 2021-09-13 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/82_Ley_de_transpar.pdf) |
+| 81 | Ley de Transparencia y Acceso a la Informaci&oacute;n P&uacute;blica del Estado de Tlaxcala | Ley | 2026-03-12 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/82_Ley_de_transpar.pdf) |
 | 82 | Ley de Turismo del Estado de Tlaxcala | Ley | 2025-09-30 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/83_Ley_de_turismo_.pdf) |
 | 83 | Ley de Uniformes Escolares Gratuitos para Alumnas y Alumnos de Educaci&oacute;n B&aacute;sica del Estado de Tlaxcala | Ley | 2017-11-21 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/84_Ley_de_uniforme.pdf) |
 | 84 | Ley de V&iacute;ctimas del Estado de Tlaxcala | Ley | 2024-04-04 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/85_Ley_de_victimas.pdf) |
@@ -102,7 +102,7 @@ _Generado: 2026-03-23 | Total: 203 documentos_
 | 96 | Ley Ganadera del Estado de Tlaxcala | Ley | 2017-10-17 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/97_Ley_ganadera_de.pdf) |
 | 97 | Ley Laboral de los Servidores P&uacute;blicos del Estado de Tlaxcala y sus Municipios | Ley | 2025-01-29 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/98_Ley_laboral_de_.pdf) |
 | 98 | Ley Municipal del Estado de Tlaxcala | Ley | 2024-04-29 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/99_Ley_municipal_d.pdf) |
-| 99 | Ley Org&aacute;nica de la Administraci&oacute;n Publica del Estado de Tlaxcala | Ley | 2025-08-27 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/100_Ley_Organica_de.pdf) |
+| 99 | Ley Org&aacute;nica de la Administraci&oacute;n Publica del Estado de Tlaxcala | Ley | 2026-04-13 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/100_Ley_Organica_de.pdf) |
 | 100 | Ley Org&aacute;nica de la Defensor&iacute;a Publica y Asistencia Jur&iacute;dico Social del Estado de Tlaxcala | Ley | 2014-11-28 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/101_Ley_organica_de.pdf) |
 | 101 | Ley Org&aacute;nica de la Fiscal&iacute;a General de Justicia del Estado de Tlaxcala. | Ley | 2025-12-18 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/102_Ley_Organica_Fi.pdf) |
 | 102 | Ley Org&aacute;nica de la Instituci&oacute;n del Ministerio Publico del Estado de Tlaxcala | Ley | 2022-11-28 | [PDF](https://congresodetlaxcala.gob.mx/archivo/leyes2020/pdf/103_Ley_organica_de.pdf) |
